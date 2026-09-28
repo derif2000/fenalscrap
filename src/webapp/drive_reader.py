@@ -120,8 +120,8 @@ USER_AGENT = (
 import hashlib
 import os
 OCR_TIMEOUT = float(os.environ.get("GEMINI_TIMEOUT", 120))     # segundos máximos por llamada OCR a la API de visión
-MAX_OCR_PAGES = 50    # páginas máximas de un PDF en las que se busca texto/imágenes
-MAX_OCR_IMAGES = 45   # imágenes máximas con OCR por cada PDF
+MAX_OCR_PAGES = 40    # páginas máximas de un PDF en las que se busca texto/imágenes
+MAX_OCR_IMAGES = 15   # imágenes máximas con OCR por cada PDF (seguro para 512MB RAM)
 
 
 def clean_spaced_name(name: str) -> str:
@@ -500,7 +500,7 @@ class DriveReader:
                         }
                     return None
 
-                with ThreadPoolExecutor(max_workers=4) as pool:
+                with ThreadPoolExecutor(max_workers=2) as pool:
                     futures = [pool.submit(_do_ocr_task, c) for c in raw_candidates]
                     for fut in as_completed(futures):
                         try:
