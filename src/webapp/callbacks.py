@@ -1082,13 +1082,25 @@ def register_callbacks(app, data: FenalcoData):
         if kws:
             try:
                 from .smart_cifras_crawler import SmartCifrasCrawler
+                import concurrent.futures as _cf
                 crawler = SmartCifrasCrawler(data)
-                crawl_stats = crawler.crawl_and_inspect(
-                    cifra_query=q,
-                    keywords=kws,
-                    max_downloads=8,
-                    enable_ocr=True,
-                )
+                # El crawl se ejecuta en un hilo aparte con timeout de 60s para no bloquear
+                # el worker de Gunicorn y evitar el 502 en Render.
+                # OCR desactivado en el crawl interactivo: los PDFs ya tienen texto digital
+                # en doc_cache; el OCR se aplica solo desde pre_cache_attachments.
+                def _run_crawl():
+                    return crawler.crawl_and_inspect(
+                        cifra_query=q,
+                        keywords=kws,
+                        max_downloads=4,   # máx 4 descargas efímeras (era 8)
+                        enable_ocr=False,  # sin OCR en tiempo real → evita timeout
+                    )
+                with _cf.ThreadPoolExecutor(max_workers=1) as _pool:
+                    _fut = _pool.submit(_run_crawl)
+                    try:
+                        crawl_stats = _fut.result(timeout=60)
+                    except _cf.TimeoutError:
+                        pass  # Si supera 60s, continúa sin el crawl (no 502)
             except Exception as e:
                 pass
 

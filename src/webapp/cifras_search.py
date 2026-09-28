@@ -243,13 +243,14 @@ def search_cifras(
 
     processed_dids = set()
     docs_to_search = []
+    _MAX_DOC_BYTES = 200_000  # 200 KB por doc: protege RAM en Render (512 MB)
     for doc_file in cached_docs:
         did = doc_file.stem
         processed_dids.add(did)
         try:
             ctxt = doc_file.read_text(encoding="utf-8", errors="ignore")
             if ctxt:
-                docs_to_search.append((did, ctxt, f"Extraído de: {doc_file.name}"))
+                docs_to_search.append((did, ctxt[:_MAX_DOC_BYTES], f"Extraído de: {doc_file.name}"))
         except Exception:
             continue
 

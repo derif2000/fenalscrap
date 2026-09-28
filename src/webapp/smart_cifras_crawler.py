@@ -202,7 +202,7 @@ class SmartCifrasCrawler:
                         # Extraer texto (drive_reader descarga a caché)
                         extracted = drive_reader.download_and_extract(
                             cand["url"],
-                            timeout=35.0,
+                            timeout=20.0,      # 20s por PDF (era 35s); el crawl tiene 60s totales
                             enable_ocr=enable_ocr,
                         )
                         doc_text = extracted or ""
