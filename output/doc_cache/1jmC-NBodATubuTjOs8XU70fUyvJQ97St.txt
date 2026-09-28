@@ -1,0 +1,1177 @@
+REPÚBLICA DE COLOMBIA 
+ 
+ 
+ 
+MINISTERIO DE SALUD Y PROTECCIÓN SOCIAL  
+ 
+RESOLUCIÓN NÚMERO                      DE                       2023 
+ 
+ 
+ 
+Por la cual se expiden los requisitos y criterios para la realización y presentación de los 
+estudios de estabilidad de gases medicinales y se dictan otras disposiciones 
+ 
+  
+LA MINISTRA DE SALUD Y PROTECCIÓN SOCIAL 
+ 
+En ejercicio de sus facultades legales, en especial, las conferidas en los numerales 9 y 30 
+del artículo 2 del Decreto Ley 4107 de 2011 y en desarrollo de los Decretos 677 de 1995 y 
+334 de 2022 y 
+ 
+ 
+CONSIDERANDO 
+ 
+Que los gases medicinales, por ser preparados farmacéuticos que se utilizan en la prevención, 
+diagnóstico, tratamiento, alivio o curación de las enfermedades o dolencias y en terapias de 
+inhalación, anestesia, diagnóstico “in vivo” o en la conservación y transporte de órganos, 
+tejidos y células destinados a la práctica médica, se clasifican como medicamentos. 
+ 
+Que los requisitos para la obtención de los registros sanitarios de medicamentos de síntesis 
+química están contemplados en el Decreto 677 de 1995 y sus modificaciones, norma que 
+dispone, en los artículos 22 literal n) y 31, numeral 1 y su parágrafo cuarto, que el interesado 
+en obtener ante el Instituto Nacional de Vigilancia de Medicamentos y Alimentos - INVIMA el 
+correspondiente registro sanitario, deberá aportar los estudios de estabilidad que determinan 
+el periodo de vida útil del producto. 
+ 
+Que mediante la Resolución 2514 de 1995, el entonces Ministerio de Salud adoptó la guía 
+práctica para los estudios de estabilidad de los medicamentos de síntesis química, la cual no 
+contempla las particularidades de los gases medicinales. 
+ 
+Que, por su parte, el Gobierno Nacional, mediante el Decreto 334 de 2022, en el artículo 22 
+determinó que el Ministerio de Salud y Protección Social debe establecer “ los requisitos y 
+criterios para la realización y presentación de los estudios de estabilidad de gases medicinales 
+que son presentados por el interesado en la obtención del registro sanitario y durante su 
+vigencia”. 
+ 
+Que mediante la Ley 170 de 1994, Colombia aprueba el Acuerdo de la Organización Mundial 
+del Comercio, el cual contiene, entre otros, el “Acuerdo sobre Obstáculos Técnicos al 
+Comercio”, que reconoce la importancia de que los países miembros adopten medidas 
+necesarias para la protección de los intereses esenciales en materia de seguridad de todos 
+los productos, comprendidos los industriales y agropecuarios, dentro de las cuales se 
+encuentran los reglamentos técnicos. 
+ 
+Que de acuerdo con el artículo 2 del Decreto 1468 de 2020, que modificó el artículo 2.2.1.7.5.4 
+Buenas prácticas de reglamentación técnica, del Decreto 1074 de 2015, es obligatoria la 
+realización de Análisis de Impacto Normativo (AIN) para la expedición de reglamentos 
+técnicos. 
+ 
+Que en cumplimiento de lo anterior este Ministerio, con el acompañamiento del INVIMA, 
+procedió a realizar el Análisis de Impacto Normativo AIN para la evaluación de alternativas 
+relacionadas con la determinación de la estabilidad de gases medicinales, resultado del cual 
+se determinó que la alternativa viable y que da solución a la problemática identificada es el 
+“Establecimiento de los requisitos para la determinación de estabilidad de gases medicinales 
+de acuerdo con lineamientos internacionales".
+
+RESOLUCIÓN NÚMERO_________    DE 2023                             HOJA No  2 
+ 
+Continuación de la Resolución “Por la cual se expiden los requisitos y criterios para la realización y 
+presentación de los estudios de estabilidad de gases medicinales y se dictan otras disposiciones ” 
+  
+---------------------------------------------------------------------------------------------------------------- 
+ 
+Que, dentro del estudio realizado y teniendo en cuenta que el tiempo de vida útil es el periodo 
+de tiempo durante el cual un medicamento, si es almacenado en las condiciones establecidas, 
+conserva sus especificaciones de calidad, para el caso de los gases medicinales con larga 
+trayectoria de uso, agencias sanitarias como Health Canada, Therapeutic Goods 
+Administration (TGA) y  European Medicines Agency (EMA), reconocen su alta estabilidad, lo 
+que hace viable concederles una vida útil estándar así como a las mezclas de los mismos. 
+ 
+Que respecto de los gases medicinales y mezclas cuya estabilidad no haya sido documentada 
+internacionalmente, se hace necesario el desarrollo y presentación de estudios de estabilidad 
+de acuerdo con las características propias de este tipo de medicamentos con base en la 
+evidencia existente. 
+ 
+Que, de acuerdo con lo establecido en el citado artículo 2.2.1.7.5.4 de Buenas prácticas de 
+reglamentación técnica, del Decreto 1074 de 2015, modificado por el Decreto 1468 de 2020, 
+se notificó el presente reglamento técnico ante la Organización Mundial del Comercio 
+mediante los documentos identificados con la Signatura G/TBT/N/COL/, en la fecha  XXXXXX. 
+ 
+En mérito de lo expuesto, 
+ 
+RESUELVE: 
+ 
+Artículo 1. Objeto. La presente resolución tiene por objeto establecer los requisitos y criterios 
+para la presentación de la información relacionada con la determinación de la estabilidad de 
+los gases medicinales y, para tal fin, adoptar la “ Guía para el desarrollo y la presentación de 
+estudios de estabilidad de gases medicinales” contenida en el Anexo Técnico que hace parte 
+integral de este acto administrativo. 
+ 
+Artículo 2. Ámbito de aplicación. La presente resolución aplica a: 
+ 
+2.1.  Los interesados en obtener registro sanitario de gases medicinales. 
+2.2. Los titulares de registro sanitario interesados en renovar los registros sanitarios de 
+gases medicinales. 
+2.3.  Los titulares de registro sanitario, cuando se presenten modificaciones al mismo, por 
+cambios en aspectos que tienen efecto sobre la estabilidad de los gases medicinales. 
+2.4.  Los titulares de registro sanitario, fabricantes e importadores de gases medicinales.  
+ 
+Parágrafo 1. Los destinarios de la presente resolución garantizarán la estabilidad de los gases 
+medicinales en todo el proceso productivo hasta el final de la vida útil del producto 
+farmacéutico terminado, así como durante la vigencia del registro sanitario, en los términos 
+de la presente resolución. 
+ 
+Parágrafo 2. Los gases medicinales de producción y uso “ in situ” para el uso y consumo de 
+la institución que los produce, no son objeto de la presente resolución. 
+ 
+Parágrafo 3.  Los gases medicinales comercializados en estado de líquido criogénico no 
+requieren de estudios de estabilidad. Se debe garantizar el contenido del líquido criogénico 
+declarado en el recipiente al momento de su entrega al usuario final, anexando los respectivos 
+soportes. 
+ 
+Artículo 3 . Listado de gases medicinales altamente estables . Son gases medicinales 
+altamente estables los siguientes: 
+ 
+No. Gas medicinal 
+1 OXÍGENO 
+2 DIÓXIDO DE CARBONO
+
+RESOLUCIÓN NÚMERO_________    DE 2023                             HOJA No  3 
+ 
+Continuación de la Resolución “Por la cual se expiden los requisitos y criterios para la realización y 
+presentación de los estudios de estabilidad de gases medicinales y se dictan otras disposiciones ” 
+  
+---------------------------------------------------------------------------------------------------------------- 
+ 
+3 AIRE MEDICINAL 
+4 ÓXIDO NITROSO 
+5 DIÓXIDO DE CARBONO + OXÍGENO (mezcla carbógena) 
+6 OXIGENO + HELIO 
+7 OXIGENO + ÓXIDO NITROSO 
+ 
+Parágrafo.  El Instituto de Vigilancia de Medicamentos y Alimentos -INVIMA actualizará, de 
+forma periódica, el listado de gases medicinales altamente estables de acuerdo con la 
+evolución de la evidencia científica  o tomando como referencia agencias regulatorias 
+internacionales de reconocida trayectoria. Estas actualizaciones deberán ser publicadas por 
+dicha entidad una vez se realice la modificación del listado. 
+ 
+Artículo 4 . Vida útil .  Es el periodo de tiempo durante el cual un gas medicinal, si es 
+almacenado bajo las condiciones establecidas, se espera que cumpla con las 
+especificaciones. El tiempo de vida útil es utilizado para establecer la fecha de expiración 
+de cada lote.  Los estudios de estabilidad determinarán dicho período, entre otros elementos 
+de estabilidad del respectivo gas, salvo que el mismo sea categorizado como altamente 
+estable, caso en el cual se aplicará lo previsto en el artículo 5° de esta resolución. 
+ 
+Artículo 5. Vida útil estándar.  El INVIMA concederá una vida útil estándar de 24 meses a 
+aquellos gases medicinales altamente estables, a los que alude el artículo 3° y los que se 
+actualicen con esa categoría, cuyos fabricantes opten por no realizar los estudios de 
+estabilidad y cumplan con la normatividad aplicable en lo relacionado con los envases, 
+sistemas de envase-cierre y las condiciones de almacenamiento establecidas en el registro 
+sanitario. Si se solicita una vida útil mayor a la vida útil estándar para los gases altamente 
+estables, se deben presentar los estudios de estabilidad. 
+ 
+Parágrafo 1. No se requieren estudios de estabilidad en curso ( on going) cuando se haya 
+concedido una vida útil estándar.  
+ 
+Parágrafo 2 . Para las renovaciones de los registros sanitarios de gases medicinales 
+altamente estables con una vida útil aprobada mayor a la vida útil estándar, se tiene la opción 
+de continuar con los estudios de estabilidad en curso para conservar la vida útil previamente 
+otorgada o acogerse a la vida útil estándar prescindiendo de la obligación de continuar con 
+los estudios de estabilidad. 
+ 
+Artículo 6. Responsabilidad. Serán responsables del cumplimiento de las disposiciones aquí 
+previstas, los titulares de los registros sanitarios, fabricantes e importadores de los gases 
+medicinales y de la información que se presente ante el INVIMA, garantizando su veracidad y 
+cumpliendo los requisitos y disposiciones señalados en la presente resolución. 
+ 
+Artículo 7. Responsabilidad en las condiciones de almacenamiento . Durante todo el 
+tiempo de vida útil del gas medicinal, el titular de registro, el fabricante, el importador, el 
+acondicionador, el envasador, el distribuidor o cualquiera que intervenga en la cadena de 
+fabricación, comercialización, distribución y utilización, deberá garantizar en lo que le 
+compete, las condiciones de almacenamiento del producto aprobadas por el INVIMA mediante 
+el respectivo registro sanitario. 
+ 
+Artículo 8. Notificación. La presente resolución se notificará a la Organización Mundial de 
+Comercio – OMC -, Comunidad Andina de Naciones -CAN- y al Tratado de Libre Comercio -
+TLC G3 -, a través del Sistema de Información sobre Medidas de Normalización y 
+Procedimientos de Evaluación de conformidad con las normas vigentes. 
+ 
+Artículo 9 . Transitorio. Una vez entre en vigencia el presente reglamento técnico los 
+interesados que, de manera previa, hayan radicado solicitudes de registro sanitario de gases
+
+RESOLUCIÓN NÚMERO_________    DE 2023                             HOJA No  4 
+ 
+Continuación de la Resolución “Por la cual se expiden los requisitos y criterios para la realización y 
+presentación de los estudios de estabilidad de gases medicinales y se dictan otras disposiciones ” 
+  
+---------------------------------------------------------------------------------------------------------------- 
+ 
+medicinales altamente estables y decidan acogerse a lo dispuesto en el artículo 5° de la 
+presente resolución, podrán hacerlo presentando ante el INVIMA una solicitud expresa en tal 
+sentido. 
+ 
+Artículo 10. Vigencias y Derogatorias. El presente reglamento técnico regirá seis (6) meses 
+después de la fecha de publicación en el diario oficial, de conformidad con el numeral 5 del 
+artículo 9 de la Decisión Andina 562, plazo en el cual los titulares, fabricantes, importadores e 
+interesados deberán disponer lo necesario para el cumplimiento de este reglamento.  
+ 
+El presente acto administrativo deroga la Resolución 2514 de 1995 respecto de su aplicación 
+para los gases medicinales, así como la normatividad que le sea contraria.   
+ 
+ 
+PUBLÍQUESE Y CÚMPLASE 
+Dada en Bogotá, D.C. a los 
+  
+ 
+ 
+ 
+ 
+ 
+CAROLINA CORCHO MEJÍA 
+Ministra de Salud y Protección Social
+
+RESOLUCIÓN NÚMERO_________    DE 2023                             HOJA No  5 
+ 
+Continuación de la Resolución “Por la cual se expiden los requisitos y criterios para la realización y 
+presentación de los estudios de estabilidad de gases medicinales y se dictan otras disposiciones ” 
+  
+---------------------------------------------------------------------------------------------------------------- 
+ 
+ 
+ 
+ANEXO TÉCNICO 
+ GUÍA PARA EL DESARROLLO Y LA PRESENTACIÓN DE ESTUDIOS DE ESTABILIDAD DE 
+GASES MEDICINALES 
+ 
+ 
+CONTENIDO 
+ 
+1. INTRODUCCIÓN 
+1.1. Objetivo de la guía 
+1.2. Alcance de la guía 
+1.3. Principios generales 
+2. DEFINICIONES 
+3. ENFOQUE DEL ESTUDIO DE ESTABILIDAD 
+3.1. Para el establecimiento de condiciones de almacenamiento y transporte 
+3.2. Para soportar la solicitud de extensión de vida útil de un producto 
+3.3. Como parte del cumplimiento de las BPM  
+3.4. Para sustentar o justificar el efecto que pueden tener los cambios sobre la calidad y estabilidad de 
+un producto 
+4. DISEÑO DEL ESTUDIO DE ESTABILIDAD 
+4.1. Aspectos generales 
+4.2. Aspectos específicos 
+4.3. Tipos de estudios de estabilidad 
+4.4. Pruebas o ensayos a realizar 
+5. CONDICIONES DE ALMACENAMIENTO 
+6. EVALUACION DE LOS RESULTADOS 
+7. PRESENTACION DEL PROTOCOLO E INFORME DEL ESTUDIO DE ESTABILIDAD 
+7.1. Elementos del protocolo del estudio de estabilidad 
+7.2. Elementos del informe del estudio de estabilidad 
+8. ESTUDIOS DE ASEGURAMIENTO DE LA ESTABILIDAD (ON-GOING)  
+9. BIBLIOGRAFÍA 
+ 
+ 
+1. INTRODUCCIÓN 
+ 
+Al no contar con una norma ajustada a sus condiciones particulares, a los gases medicinales se les 
+aplicó la guía de estabilidad exigida para los medicamentos de síntesis química, requisitos contenidos 
+en la Resolución 2514 de 1995 “Guía para el desarrollo y presentación de los estudios de estabilidad 
+de medicamentos”, la cual contiene los parámetros a aplicar en materia de estudios de estabilidad para 
+otras formas farmacéuticas como jarabes, tabletas, cápsulas, inyectables, etc., pero que dificultan la 
+aplicación de dichos requisitos para la determinación de estabilidad de gases medicinales.  
+ 
+La presente guía se estructura tomando algunos elementos de la Resolución 2514 de 1995, del Informe 
+43 (“WHO Technical Report Series, número 953, 2009) de la Organización Mundial de la Salud (OMS)  
+y de las guías del International Council for Harmonisation of Technical Requirements for 
+Pharmaceuticals for Human Use ICH. Adicionalmente, se toman en cuenta lineamientos internacionales 
+provenientes de agencias reconocidas y el documento técnico elaborado por el sector de gases 
+medicinales.  
+ 
+Es necesario mencionar que, como etapa previa, bajo la normatividad actual en materia de Buenas 
+Prácticas Regulatorias, mediante la metodología de Análisis de Impacto Normativo, se evidenció la 
+necesidad de realizar una regulación específica en materia de estabilidad de gases medicinales, 
+resultado de la evaluación de alternativas de intervención del problema identificado. 
+ 
+1.1. OBJETIVO DE LA GUÍA  
+ 
+El presente documento corresponde a un lineamiento para la realización y presentación de los estudios 
+de estabilidad de gases medicinales.
+
+RESOLUCIÓN NÚMERO_________    DE 2023                             HOJA No  6 
+ 
+Continuación de la Resolución “Por la cual se expiden los requisitos y criterios para la realización y 
+presentación de los estudios de estabilidad de gases medicinales y se dictan otras disposiciones ” 
+  
+---------------------------------------------------------------------------------------------------------------- 
+ 
+1.2. ALCANCE DE LA GUÍA  
+ 
+Los lineamientos aquí descritos aplican a los gases medicinales que no se encuentran en el “Listado 
+de gases medicinales altamente estables”  o que estando en el citado listado deseen optar por la 
+presentación de los estudios de estabilidad por cuanto requieren solicitar una vida útil mayor que la vida 
+útil estándar. 
+ 
+1.3. PRINCIPIOS GENERALES  
+ 
+El objetivo de un estudio de estabilidad es establecer, con base en el ensayo de un número limitado de 
+lotes de un producto, en un determinado envase y sistema de cierre, una vida útil para el empleo de 
+este, aplicable a todos los futuros lotes del producto manufacturado bajo las mismas condiciones. Esta 
+aproximación supone que las inferencias hechas a partir de un pequeño grupo de lotes y muestras 
+evaluadas, se extienda a todos los futuros lotes. Bajo esta circunstancia los lotes evaluados deben ser 
+representativos en todos los aspectos (composición cualitativa y cuantitativa, características del cilindro 
+y sistema de cierre, proceso de manufactura, entre otros) de la población de todos los lotes de 
+producción de ese producto y estar conformes con todas las especificaciones de calidad. 
+ 
+Los estudios de estabilidad permiten evaluar las interacciones de los componentes (gas-cilindro-
+sistema de cierre y gas-gas) y el efecto de las condiciones de almacenamiento en el tiempo de vida útil 
+del producto.   
+ 
+Como resultado de los estudios de estabilidad, se logra establecer el periodo de vida útil del gas 
+medicinal y las condiciones de almacenamiento recomendadas, para lo cual se debe tener en cuenta 
+también la zona de comercialización del medicamento. 
+ 
+Adicional a esto, los estudios de estabilidad son el soporte fundamental para el desarrollo de un 
+producto, así como para la vigilancia de su calidad en la etapa de postmercadeo. 
+ 
+2. DEFINICIONES 
+ 
+Para efecto de la aplicación de esta norma, se tendrán en cuenta las siguientes definiciones: 
+ 
+Cambio en el tiempo y variabilidad: Se refiere a las variaciones en los resultados de los ensayos 
+dentro del intervalo de análisis establecido, las cuales son inferiores a lo descrito para cambios 
+significativos. Se considera poco cambio en el tiempo y poca variabilidad aquellos resultados que se 
+mantienen muy cercanos al resultado inicial; mientras que cambio en el tiempo y/o la variabilidad son 
+aquellos resultados que se encuentran dentro del intervalo establecido entre el resultado inicial y el 
+límite considerado como cambio significativo. 
+ 
+Cierre: sistema o dispositivo que impide la salida del contenido de un envase determinado, o el ingreso 
+de cualquier material extraño y es parte constitutivo del envase. 
+ 
+Cilindro: envase destinado a contener gases a baja o alta presión, comprimidos o licuados. 
+ 
+Componentes del envase: cualquier parte del envase o del sistema de envase-cierre. 
+ 
+Compuestos relacionados: Sustancias relacionadas estructuralmente con el principio activo, dichas 
+sustancias pueden ser: impurezas y/o productos de degradación resultantes del proceso de producción 
+o almacenamiento. 
+ 
+Datos de soporte: datos, diferentes a los presentados en los estudios de estabilidad formales, que 
+respaldan los procedimientos analíticos, el período de reanálisis o vida útil propuesto y las condiciones 
+de almacenamiento establecidas en la etiqueta. Tales datos incluyen: (1) datos de estabilidad en 
+formulaciones de investigación no propuestas para comercialización, formulaciones relacionadas y 
+producto presentado en envases y cierres distintos a los propuestos para la comercialización; (2) 
+información sobre los resultados de las pruebas en envases y (3) otras razones científicas. 
+ 
+Envase o contenedor : termo criogénico, tanque o cilindro que esté en contacto con el gas medicinal. 
+Los envases criogénicos o Dewards son contenedores portátiles usados para almacenar producto
+
+RESOLUCIÓN NÚMERO_________    DE 2023                             HOJA No  7 
+ 
+Continuación de la Resolución “Por la cual se expiden los requisitos y criterios para la realización y 
+presentación de los estudios de estabilidad de gases medicinales y se dictan otras disposiciones ” 
+  
+---------------------------------------------------------------------------------------------------------------- 
+ 
+líquido a baja presión y temperatura, pueden ser recipientes estacionarios o móviles, aislados al vacío 
+para contener gas licuado. 
+ 
+Especificación: corresponde a la combinación de pruebas y criterios de aceptación físicos, químicos 
+y microbiológicos, que determinan la conformidad para la utilización de un IFA o un PFT y sus 
+componentes. 
+ 
+Especificación de liberación: corresponde a la combinación de pruebas y de criterios de aceptación 
+físicos, químicos y microbiológicos, que determinan la conformidad de un IFA o un PFT al momento de 
+su liberación. Por lo general las especificaciones del ensayo de valoración para liberación deben ser 
+más estrechas que las especificaciones establecidas durante la vida útil y debe tener en cuenta el 
+porcentaje de degradación obtenido en los estudios de estabilidad acelerados y naturales. 
+ 
+Especificación durante la vida útil: corresponde a la combinación de pruebas y criterios de 
+aceptación físicos, químicos y microbiológicos, que determinan la conformidad hasta el periodo de vida 
+útil para un gas medicinal. 
+ 
+Estudios de estabilidad acelerados (Estudios a corto plazo): son estudios diseñados para 
+incrementar la velocidad de la degradación química y los cambios físicos de un gas medicinal, 
+empleando condiciones extremas de almacenamiento, como parte del programa de evaluación de 
+estabilidad. 
+ 
+Estudios de estabilidad natural (Estudios a largo plazo): son estudios diseñados para evaluar las 
+características físicas, química y microbiológicas de un gas medicinal, durante el tiempo de 
+conservación y el periodo de almacenamiento previstos. 
+ 
+Estudios de estabilidad "On-Going": luego de que se ha autorizado la comercialización del gas 
+medicinal, la estabilidad del mismo debe ser verificada de acuerdo con un programa de estabilidad 
+continuo, que permita monitorear el producto durante el tiempo de vida útil y determinar que este 
+permanece y puede permanecer dentro de especificaciones bajo las condiciones de almacenamiento 
+establecidas en el Registro Sanitario.  
+ 
+Extrapolación: es la práctica de utilizar un conjunto de datos conocidos para inferir información sobre 
+datos futuros. 
+ 
+Fecha de expiración (fecha de vencimiento/ fecha de caducidad): fecha que señala el tiempo del 
+cual se espera que el gas medicinal permanezca dentro de especificaciones si es almacenado bajo las 
+condiciones establecidas. Ningún gas medicinal podrá ser utilizado más allá de la finalización de su 
+vida útil estimada. 
+ 
+Forma farmacéutica (Forma de dosificación): combinación de IFA(s) y/o excipientes en cantidades 
+y formas físicas diseñadas para permitir una administración exacta y eficiente del PFT al paciente 
+humano o animal (p. ej. tableta, cápsula, solución, crema). 
+ 
+Impureza: cualquier componente de un IFA o un PFT, diferente a la entidad química definida como 
+principio activo. Las impurezas pueden ser: Orgánicas (Compuestos relacionados, intermediarios de 
+síntesis, productos de degradación), Inorgánicas (Sales inorgánicas, metales pesados) y Solventes 
+residuales. 
+ 
+Ingrediente Farmacéutico Activo (IFA): cualquier sustancia o mezcla de sustancias a ser usadas en 
+la fabricación de un gas medicinal, la cual ejerce una acción terapéutica. 
+ 
+Intervalo de confianza: corresponde a un rango de valores, cuya distribución es normal y en el cual 
+se encuentra, con alta probabilidad, el valor real de una determinada variable. Esta "alta probabilidad" 
+se ha establecido por consenso en 95%. Así, un intervalo de confianza de 95% nos indica que dentro 
+del rango dado se encuentra el valor real de un parámetro con 95% de certeza. 
+ 
+Límites de confianza: están constituidos por el menor y el mayor valor de un intervalo de confianza. 
+ 
+Límite inferior del 95% de confianza: se denomina así al intervalo existente entre el valor medio
+
+RESOLUCIÓN NÚMERO_________    DE 2023                             HOJA No  8 
+ 
+Continuación de la Resolución “Por la cual se expiden los requisitos y criterios para la realización y 
+presentación de los estudios de estabilidad de gases medicinales y se dictan otras disposiciones ” 
+  
+---------------------------------------------------------------------------------------------------------------- 
+ 
+correspondiente a un parámetro y el menor valor existente dentro del 95% más probable. Este límite 
+suele ser empleado como el más adecuado para seleccionar un valor determinado, en atención a que 
+presenta una probabilidad del 95% de ocurrencia o éxito. 
+ 
+Lote piloto (también denominado piloto industrial): un lote de un gas medicinal, elaborado en escala 
+menor a la industrial, fabricado mediante un procedimiento totalmente representativo y que simula el 
+proceso que va a ser aplicado a un lote manufacturado a escala completa (industrial). Por ejemplo, un 
+lote a escala piloto es por lo general el que tiene un tamaño mínimo de 1/10 con relación al de escala 
+de producción industrial o lo que sea mayor. 
+ 
+Lote de producción (Industrial): es un lote de un gas medicinal elaborado en escala de producción 
+industrial, utilizando los equipos y las instalaciones de manufactura que se especificaron en la 
+solicitud. 
+ 
+Muestra: cantidad de unidades o partes de un todo, extraída con criterio racional y al azar, para 
+asegurar que la misma es estadísticamente representativa del material a analizar. Las unidades 
+deben ser evaluadas en forma independiente. 
+ 
+Muestra simple:  en diseño experimental se refiere a la muestra conformada por una sola unidad de 
+dosificación, la que debe ser procesada en forma independiente, dando lugar a un solo dato que se 
+analiza de forma individual. 
+ 
+Producto a granel: estado intermedio de un producto que ha completado todas las etapas del 
+procesamiento, hasta el envasado final, pero sin incluir este último. 
+ 
+Producto Farmacéutico Terminado (PFT): producto que ha sido sometido a todas las etapas de 
+producción, incluyendo el envasado en el recipiente final y el etiquetado. 
+ 
+Protocolo de estudio de estabilidad: documento que describe con claridad el procedimiento a 
+seguir para desarrollar un estudio de estabilidad definido. En él se establece tanto el diseño 
+experimental, como la metodología para evaluar la información y obtener las conclusiones. 
+ 
+Pruebas de estabilidad: serie de ensayos diseñados para obtener información sobre la estabilidad 
+de un PFT, producto intermedio, con el objetivo de definir su tiempo de vida útil y/o período de 
+reanálisis, bajo condiciones específicas de almacenamiento y envase. 
+ 
+Registro del estudio de estabilidad: es el documento propiedad del titular del registro sanitario, 
+donde se lleva el registro de los resultados y cálculos de todas las pruebas y análisis efectuados, así 
+como también las observaciones realizadas en los estudios de estabilidad. Este documento o archivo 
+(con existencia en cualquier medio comprobable) debe estar refrendado por la persona responsable 
+de la realización del estudio. Podrá ser sometido a inspección por la autoridad sanitaria pertinente. 
+ 
+Réplica: datos obtenidos cuando una misma muestra es sometida dos o más veces a un mismo 
+análisis o a determinaciones repetidas. Los resultados de las réplicas no pueden ser tomados como 
+resultados de análisis de muestras independientes. 
+ 
+Resultado atípico: cualquier valor que esté dentro de las especificaciones establecidas, pero que 
+es "irregular" o "diferente" de los demás valores de un mismo grupo de datos o se encuentra fuera 
+de las tendencias de los resultados dentro del estudio de estabilidad. 
+ 
+Sistemas de envase y cierre: se refiere al conjunto de los componentes de los envases y válvulas.  
+que contienen y protegen la forma de dosificación. 
+ 
+Tiempo de vida útil (Periodo de vida útil o vida de anaquel): es el periodo de tiempo durante el 
+cual un gas medicinal, si es almacenado bajo las condiciones establecidas, se espera que cumpla 
+con las especificaciones. El tiempo de vida útil es utilizado para establecer la fecha de expiración de 
+cada lote. 
+ 
+Tiempo de vida útil definitivo: es el tiempo de vida útil finalmente asignado a un producto y 
+determinado por el desarrollo de los estudios de estabilidad natural, realizados sobre el producto en
+
+RESOLUCIÓN NÚMERO_________    DE 2023                             HOJA No  9 
+ 
+Continuación de la Resolución “Por la cual se expiden los requisitos y criterios para la realización y 
+presentación de los estudios de estabilidad de gases medicinales y se dictan otras disposiciones ” 
+  
+---------------------------------------------------------------------------------------------------------------- 
+ 
+el envase y empaque en que se va a comercializar. 
+ 
+Tolerancia en las condiciones de almacenamiento: son las variaciones aceptables de 
+temperatura, en las instalaciones de almacenamiento para los estudios de estabilidad. 
+ 
+Validación: procedimiento para establecer la evidencia documentada, que provee un alto grado de 
+seguridad, de que un proceso específico entrega los resultados esperados. 
+ 
+Válvula: dispositivo mecánico empleado para graduar o interrumpir el flujo de gas contenido de un 
+cilindro 
+ 
+3. ENFOQUE DEL ESTUDIO DE ESTABILIDAD 
+ 
+3.1. Para el establecimiento de condiciones de almacenamiento y transporte 
+Los estudios de estabilidad, cuando se requieran, definirán las condiciones de envasado, 
+almacenamiento y transporte críticas que garanticen el tiempo de vida útil del gas medicinal. Los 
+estudios demostrarán las condiciones que pueden afectar al cilindro y características del gas, con el fin 
+de ser identificadas en las etiquetas del producto terminado. 
+ 
+3.2. Para soportar la solicitud de extensión de vida útil de un producto 
+Estos estudios se utilizan para demostrar el tiempo de vida útil de un gas inicialmente propuesto en la 
+información suministrada para la obtención del Registro Sanitario y de ser requerida su extensión 
+posterior. 
+ 
+3.3. Como parte del cumplimiento de las BPM  
+Cuando aplique, de acuerdo con lo recomendado en la presente guía, los Titulares del Registro 
+Sanitario de gases medicinales establecerán un programa de estudios de estabilidad rutinario ( on-
+going), con el fin de verificar las condiciones de envejecimiento natural y el cumplimiento de las BPM 
+en el aspecto de estabilidad en los lotes que se encuentran en el mercado.  
+ 
+3.4. Para sustentar o justificar el efecto que pueden tener los cambios sobre la calidad y 
+estabilidad de un producto 
+Su finalidad es evaluar el efecto que diversas modificaciones efectuadas sobre el medicamento o su 
+envase puedan tener sobre la calidad y estabilidad del producto. Dentro de las Buenas Prácticas de 
+Manufactura, se puede considerar que estos estudios forman parte de las actividades de 
+estandarización de los cambios efectuados. 
+ 
+Este tipo de estudios se deben realizar bajo las siguientes circunstancias (WHO, 2009, Informe 43): 
+ 
+- Cambio cualitativo o cuantitativo de la formulación. 
+- Cambio del fabricante del principio activo, incluyendo los cambios de lugar de las instalaciones 
+o planta de un mismo fabricante. 
+- Cambios en el proceso de manufactura (incluyendo cambio de equipos). 
+- Cambios o modificaciones en las instalaciones de fabricación y en los sistemas de apoyo crítico 
+del área de fabricación. 
+- Cambio en el sistema de envase- cierre del producto, incluida la modificación del material.  
+ 
+En todos los casos, previo a la implementación de una modificación o cambio, se deberá investigar y 
+soportar si el cambio efectuado tendrá o no un impacto sobre las características de calidad del gas 
+medicinal y en consecuencia sobre su estabilidad. Es importante recordar que las modificaciones o 
+cambios que se efectúen y puedan afectar la estabilidad del producto terminado, conducen a la 
+obsolescencia de las conclusiones del estudio de estabilidad inicial. 
+ 
+4. DISEÑO DEL ESTUDIO DE ESTABILIDAD  
+ 
+Para el diseño de los estudios de estabilidad se debe tener en cuenta lo descrito a continuación: 
+ 
+4.1. Aspectos generales 
+Para la realización de los estudios de estabilidad se debe tener en cuenta que deberán realizarse 
+estudios de estabilidad para cada planta fabricante.
+
+RESOLUCIÓN NÚMERO_________    DE 2023                             HOJA No  10 
+ 
+Continuación de la Resolución “Por la cual se expiden los requisitos y criterios para la realización y 
+presentación de los estudios de estabilidad de gases medicinales y se dictan otras disposiciones ” 
+  
+---------------------------------------------------------------------------------------------------------------- 
+ 
+ 
+4.1.1. Metodología analítica indicadora de estabilidad 
+Los métodos analíticos utilizados en los estudios de estabilidad deber ser los establecidos en las 
+farmacopeas oficialmente aceptadas en Colombia, debiendo estar estos previamente verificados 
+analíticamente por el fabricante. En caso de utilizar métodos analíticos no farmacopeicos, el fabricante 
+deberá incluir los estudios de validación respectivos del método analítico desarrollado, tomando como 
+referencia inicial los criterios de validación de la USP para efectos de estabilidad y considerando al 
+menos los aspectos de especificidad, selectividad, precisión y exactitud. (Ministerio de Salud, 1995, 
+Resolución 2514) 
+ 
+También puede tomarse en cuenta en la validación de métodos analíticos lo indicado en la guía ICH 
+Q2 (R1). Se debe establecer con toda claridad cada uno de los parámetros evaluados en la validación 
+para permitir verificar esta cuando sea requerida por parte de la autoridad sanitaria. (Ministerio de Salud 
+y Protección Social, 2018, Resolución 3157) 
+ 
+Todos los métodos de ensayo utilizados en un estudio de estabilidad deben ser descritos en forma clara 
+y completa. Estos deben demostrar que son capaces de detectar las concentraciones del principio 
+activo en el gas medicinal. 
+ 
+El método utilizado para cuantificar el principio activo durante los estudios de estabilidad debe ser apto 
+para diferenciar entre la molécula del principio activo y otros contaminantes que puedan estar presentes 
+en el gas.  
+ 
+4.1.2. Temperatura de almacenamiento 
+Por motivos de seguridad los cilindros que contengan un gas medicinal no deberán ser almacenados a 
+temperaturas superiores a 52°C, o aquella temperatura que determine la normatividad sanitaria vigente 
+para los gases medicinales. (Ministerio de la Protección Social, 2009, Resolución 4410)  
+Se deben especificar las temperaturas reales de almacenamiento (numéricamente) utilizadas durante 
+los estudios de estabilidad y estas deberán ser registradas y conservadas con la información que 
+reposa en las instalaciones del fabricante.  
+Se debe considerar un estudio de los efectos de las fluctuaciones de temperatura como las que se 
+presentan durante las condiciones de transporte y almacenamiento del gas medicinal, por ejemplo, el 
+gas medicinal ya empacado debe ser sometido a ciclos de condiciones de temperatura, que simulen 
+los cambios que pueden ser encontrados una vez que el producto está en distribución.  
+ 
+4.1.3. Humedad 
+La humedad relativa no se tendrá en cuenta para esta guía debido a las características del sistema 
+envase-cierre utilizado para contener los gases medicinales. Adicionalmente la humedad relativa no es 
+una variable que afecte este tipo de productos. 
+ 
+4.1.4. Calidad microbiológica  
+Las pruebas microbiológicas deben realizarse al menos al principio y al final de los estudios de 
+estabilidad.  
+ 
+4.1.5. Productos de descomposición o degradación (Ministerio de Salud y Protección Social, 2018, 
+Resolución 3157) 
+Cuando en la literatura se reporten productos de descomposición potencialmente riesgosos, 
+provenientes del Ingrediente Farmacéutico Activo- IFA, se debe entregar la siguiente información: 
+a) Identidad y estructura química (siempre que se encuentren definidas). 
+b) Resumen donde se referencia la información disponible acerca del efecto biológico de los productos 
+de descomposición. 
+c) Especificaciones e instrucciones del ensayo para detectar la presencia de los productos de 
+descomposición al nivel o concentraciones esperadas. 
+ 
+4.1.6. Impurezas y sustancias extrañas 
+Además de las pruebas prescritas en la respectiva monografía del gas medicinal de las farmacopeas 
+oficialmente aceptadas en Colombia, se deben aplicar otras pruebas y criterios de aceptación 
+adecuados para detectar y controlar impurezas que pudieran resultar de cambios en los métodos de 
+procesamiento o que provengan de fuentes externas.
+
+RESOLUCIÓN NÚMERO_________    DE 2023                             HOJA No  11 
+ 
+Continuación de la Resolución “Por la cual se expiden los requisitos y criterios para la realización y 
+presentación de los estudios de estabilidad de gases medicinales y se dictan otras disposiciones ” 
+  
+---------------------------------------------------------------------------------------------------------------- 
+ 
+4.1.7. Valoración 
+Dentro de los ensayos a desarrollar se encuentra la valoración, la cual se usa para determinar la 
+concentración del principio activo (o su contenido) en el gas medicinal como producto terminado y es 
+una prueba específica e indicadora de la estabilidad. Cuando se justifica el empleo de una metodología 
+analítica de valoración no específica se debe asegurar mediante otros procedimientos analíticos de 
+sustento la capacidad de detectar cualquier especie interferente. Los resultados de la valoración a 
+menudo se informan como porcentaje de la cantidad declarada, con criterios de aceptación que por lo 
+general están en el intervalo de 90,0% a 110,0% de lo declarado, el cual toma en cuenta la variabilidad 
+de la fabricación y la estabilidad durante la vida útil. (Ministerio de Salud y Protección Social, 2018, 
+Resolución 3157) 
+ 
+4.2. Aspectos específicos 
+ 
+4.2.1. Consideraciones para el diseño experimental 
+Se debe tener en cuenta, la variabilidad individual entre las unidades de dosificación, la variabilidad de 
+los recipientes dentro de un lote y la variabilidad de los lotes entre sí, con el fin de asegurar que los 
+datos resultantes para cada lote sean realmente representativos del lote como un todo y sirvan para 
+cuantificar la variabilidad de lote a lote. El grado de variabilidad afecta la confianza que se pueda tener 
+en la probabilidad de que un futuro lote permanezca dentro de las especificaciones hasta su fecha de 
+expiración. 
+ 
+4.2.2. Consideraciones sobre el número de lotes a utilizar 
+Por lo menos tres (3) lotes, deben ser evaluados para permitir la estimación de la variabilidad de lote a 
+lote y para probar la hipótesis de que es justificable una vida útil para todos los lotes que se fabriquen 
+en el futuro. El estudio de un solo lote no permite evaluar la variabilidad de lote a lote y el ensayo de 
+dos lotes suministra un estimado poco confiable.  
+ 
+Los lotes sometidos a estudio deben ser por lo menos lotes de escala piloto industrial.   
+ 
+4.2.3. Consideraciones sobre el muestreo y número de muestras 
+Para el desarrollo de un estudio de estabilidad el muestreo estará conformado por un número apropiado 
+de cilindros, en donde se considera que tres cilindros por lote es el valor mínimo aceptable. 
+La selección de los cilindros de los lotes escogidos para el estudio se debe llevar a cabo de tal manera 
+que se asegure que las muestras representan la totalidad del lote. Esto puede ser logrado mediante la 
+toma al azar de mínimo tres cilindros a partir del lote una vez terminado, utilizando un plan en donde 
+se comienza en un punto al azar y a partir de éste se toma el enésimo recipiente de cada fila (n muestras 
+son tomadas de la totalidad del lote). También se puede emplear cualquier otro plan de muestreo que 
+garantice una selección no sesgada de las muestras Es importante recordar que el procedimiento de 
+muestreo forma parte integral de los protocolos de los estudios de estabilidad. 
+ 
+Los tres cilindros por lote seleccionados para el estudio serán los analizados en el transcurso del estudio 
+de estabilidad y durante los diferentes tiempos de muestreo, dado que los gases medicinales al ser 
+envasados herméticamente generan una presión positiva al interior del cilindro, por lo tanto, el efecto 
+de abrir y cerrar estos cilindros para el retiro del gas de muestra durante las pruebas no va a causar el 
+ingreso de contaminantes ambientales o contaminación externa, permitiendo que el mismo cilindro sea 
+usado para tomar múltiples muestras durante todo el estudio. 
+ 
+El número de muestra a tomar para cada uno de los ensayos a realizar, con excepción de la 
+cuantificación del principio activo, debe estar de acuerdo con lo indicado en las farmacopeas oficiales 
+y/o en la técnica del laboratorio fabricante. 
+ 
+Para la cuantificación del principio(s) activo(s) en cada tiempo de muestreo, se deben valorar como 
+mínimo tres (3) unidades (cilindros) de cada lote, independientemente. 
+ 
+4.2.4 Consideraciones sobre los envases  
+ 
+Los gases son envasados bajo presión en cilindros fabricados en materiales de muy alta duración como 
+diferentes aleaciones acero entre otras, lo que permite su almacenamiento de manera segura por 
+periodos largos de tiempo. Los cilindros son impermeables y resistentes a la luz dada la naturaleza del 
+producto que contienen y deben cumplir las características indicadas en el reglamento técnico
+
+RESOLUCIÓN NÚMERO_________    DE 2023                             HOJA No  12 
+ 
+Continuación de la Resolución “Por la cual se expiden los requisitos y criterios para la realización y 
+presentación de los estudios de estabilidad de gases medicinales y se dictan otras disposiciones ” 
+  
+---------------------------------------------------------------------------------------------------------------- 
+ 
+correspondiente. 
+  
+Los materiales de fabricación de las válvulas han mostrado que no son reactivos con los gases 
+medicinales en prueba, por lo tanto, no se requieren ensayos adicionales específicos para la interacción 
+de los gases con los sistemas de cierre, no obstante, se requiere que los estudios de estabilidad de los 
+gases medicinales sean realizados con cilindros provistos con los mismos materiales en el sistema de 
+cierre usados con el producto que será comercializado, con el fin de garantizar la homogeneidad del 
+estudio.  
+ 
+Considerando que los cilindros de volumen comercial son de gran tamaño y peso, lo que puede dificultar 
+su manejo en las cámaras o cabinas de estabilidad, los estudios de estabilidad pueden ser 
+desarrollados en envases de tamaño menor al de los envases en los que será comercializado el gas 
+medicinal, siempre y cuando correspondan al mismo material y sistema de envase- cierre, usados en 
+la fabricación de los lotes comerciales. 
+ 
+4.3. Tipos de estudios de estabilidad (WHO, 2009, Informe 43) 
+ 
+a) Para Gases Puros 
+ 
+Tipo de estudio Condiciones de almacenamiento  Periodo 
+mínimo 
+Frecuencia de análisis 
+/ ensayos 
+Estabilidad acelerada 40°C ± 2°C   3 meses 0, 1 y 3 meses 
+Estabilidad a largo plazo 
+o natural 
+ 
+30º C ± 2ºC 
+ 
+3 meses 0, 3, 6, 9, 12, 18, 24, 36, 
+48 y 60 meses 
+ 
+b) Para Mezclas 
+ 
+Tipo de estudio Condiciones de almacenamiento  Periodo 
+mínimo 
+Frecuencia de análisis 
+/ ensayos 
+Estabilidad acelerada 40°C ± 2°C   6 meses 0, 3 y 6 meses 
+Estabilidad a largo plazo 
+o natural 
+ 
+30º C ± 2ºC 
+ 
+ 
+6 meses 0, 3, 6, 9, 12, 18, 24, 36, 
+48 y 60 meses 
+ 
+Notas:  
+- En ambos casos, para el Registro Sanitario se deben presentar los resultados de estabilidad 
+acelerada y los de largo plazo al menos de 3 o 6 meses concluidos satisfactoriamente, según 
+se trate de gases puros o mezclas respectivamente. 
+- Se consideran representativos 3 puntos de muestreo para estabilidad acelerada siguiendo 
+criterios internacionales. 
+- En caso de que para la estabilidad natural o a largo plazo se decida emplear una temperatura 
+superior a 30º C, puede hacerse bajo la condición que se conserve esa temperatura controlada 
+y monitoreada durante el tiempo del estudio. Si se toma esta alternativa el interesado debe 
+considerar el balance riesgo/beneficio de mantener esa temperatura por un tiempo extendido. 
+- En caso de que la empresa presente únicamente estudios de estabilidad natural, el periodo de 
+vida útil o de vigencia a otorgar, dependerá del estudio de estabilidad presentado. 
+- En el caso de importaciones, se podrán utilizar los estudios de estabilidad remitidos por el 
+fabricante y que cumplan con la zona climática IVb. Se deberán realizar en Colombia los 
+estudios de aseguramiento de la estabilidad (on-going), o se podrán aceptar los que le remita 
+el fabricante si son realizados bajo las condiciones de la presente guía.  
+- Se consideran cambios significativos durante la estabilidad acelerada: 
+a) El  5% de variación de la valoración inicial. 
+b) Cuando no se cumpla con las especificaciones de propiedades físicas. 
+ 
+Cuando se sospeche (con base en la experiencia adquirida) que los resultados de un estudio de 
+estabilidad acelerada se aproximan al criterio de cambio significativo, se debe incrementar el número 
+de ensayos, bien sea adicionando muestras en el punto final o incluyendo un cuarto punto en el diseño 
+del estudio. (WHO, 2009, Informe 43)
+
+RESOLUCIÓN NÚMERO_________    DE 2023                             HOJA No  13 
+ 
+Continuación de la Resolución “Por la cual se expiden los requisitos y criterios para la realización y 
+presentación de los estudios de estabilidad de gases medicinales y se dictan otras disposiciones ” 
+  
+---------------------------------------------------------------------------------------------------------------- 
+ 
+Se pueden utilizar los datos provenientes de las condiciones aceleradas de almacenamiento para 
+evaluar el efecto de las desviaciones de corta duración por fuera de las condiciones de almacenamiento 
+etiquetadas, durante el almacenamiento y la distribución. 
+ 
+4.4. Pruebas o ensayos a realizar  
+ 
+Los estudios de estabilidad deben incluir la evaluación de aquellos atributos críticos de calidad que son 
+susceptibles de cambiar durante el almacenamiento y que se conoce influyen sobre la calidad, 
+seguridad y eficacia. 
+ 
+La pureza (contenido de principio activo o IFA) y el máximo nivel de contaminantes permitido en cada 
+gas medicinal se evaluarán frente a las especificaciones según lo establecido en las monografías de 
+las farmacopeas vigentes reconocidas oficialmente en el país o en caso de no ser farmacopeico de 
+acuerdo con las especificaciones fijadas por el fabricante, por ejemplo, la prueba de olor para ciertos 
+tipos de gases y las que dieran lugar para certificar la calidad del producto: descripción, ensayos de 
+identidad, vapor de agua, pruebas de pureza, valoración, según aplique. 
+ 
+Debe considerarse la evaluación de productos de descomposición o degradación e impurezas o 
+sustancias extrañas o contaminantes, cuando aplique llevándolo a cabo tanto al inicio como al final del 
+estudio. 
+ 
+La valoración de las características químicas de los gases medicinales incluirá:  
+ 
+a) valoración del principio activo, cuando se trate de un solo gas.   
+b) para mezclas de dos gases puros será necesario valorar cada uno de los gases y de las impurezas. 
+c) para mezclas de tres tipos de gases se valorará como mínimo dos de los tres gases que componen 
+la mezcla, con este esquema se continúa si la cantidad de componentes de la mezcla es superior. 
+ 
+En el caso de una mezcla, durante el tiempo que se utilice el cilindro debe ser evaluada la 
+homogeneidad de esta mediante un método analítico validado por el fabricante o por quien éste 
+designe. 
+ 
+En todo caso para las mezclas debe hacerse una valoración de todos los componentes al inicio y al 
+final del estudio. 
+ 
+5. CONDICIONES DE ALMACENAMIENTO 
+ 
+Las condiciones de almacenamiento y la duración de los estudios escogidos deben ser lo suficiente 
+para cubrir el tiempo de almacenamiento, la distribución y el uso subsecuente. Las condiciones de 
+almacenamiento deben ser monitoreadas y registradas. 
+ 
+Los estudios se llevarán a cabo de acuerdo con lo indicado en el numeral 4.  La condición de cada 
+estudio (acelerada o natural) deberá mantenerse durante el periodo que dure el estudio y en el caso de 
+estabilidad a largo plazo o natural debe durar el tiempo de vida útil solicitado para cada producto; si se 
+desea extender el tiempo de vida útil del producto, el estudio se extenderá hasta finalizar el tiempo 
+solicitado. 
+ 
+Los estudios de estabilidad pueden realizarse en cámaras, cabinas, cuartos o salas climatizadas 
+calificadas a las condiciones de temperatura del estudio, en todo caso se deben controlar las 
+condiciones de almacenamiento dentro de los rangos definidos. Se aceptan y son inevitables los 
+cambios ambientales de corta duración debido a la apertura de las puertas. Las desviaciones 
+(excursiones) que exceden las tolerancias definidas por más de 24 horas se deben describir en el 
+informe del estudio y se deben evaluar sus efectos. (WHO, 2009, Informe 43) 
+ 
+6. EVALUACIÓN DE LOS RESULTADOS 
+ 
+Debe adoptarse un enfoque sistemático en la presentación y evaluación de la información del estudio 
+de estabilidad; la información debe incluir los resultados de las pruebas físicas, químicas y 
+microbiológicas, incluidas las relacionadas con atributos particulares del gas medicinal.  
+Los análisis e interpretación de los estudios de estabilidad se requieren para establecer, con un alto
+
+RESOLUCIÓN NÚMERO_________    DE 2023                             HOJA No  14 
+ 
+Continuación de la Resolución “Por la cual se expiden los requisitos y criterios para la realización y 
+presentación de los estudios de estabilidad de gases medicinales y se dictan otras disposiciones ” 
+  
+---------------------------------------------------------------------------------------------------------------- 
+ 
+grado de confianza, un período de vida útil durante el cual el promedio de las características (por 
+ejemplo, la potencia y/o concentración) del lote de producto permanece dentro de las especificaciones. 
+Este período de vida útil debe ser aplicable a todos los futuros lotes producidos por medio del mismo 
+proceso de manufactura establecido para el gas medicinal. No es suficiente que un período de vida útil 
+propuesto asegure que el proceso promedio está dentro de las especificaciones, es indispensable 
+considerar las variaciones de los lotes en forma individual, de manera que, al final del tiempo de vida 
+útil todas las muestras garanticen que los lotes se encuentran dentro de especificaciones. 
+Aunque se esperan variaciones normales de fabricación y procesos analíticos, es importante que el 
+gas medicinal se formule con la intención de proporcionar el 100% de la cantidad etiquetada del IFA en 
+el momento de la liberación del lote. Si los valores de ensayo de los lotes utilizados para soportar la 
+solicitud del registro sanitario son superiores al 100% de lo indicado en la etiqueta en el momento de la 
+liberación del lote, se puede sobrestimar la vida útil propuesta en la solicitud. Por otra parte, si el valor 
+de ensayo de un lote es inferior al 100% de lo indicado en la etiqueta en el momento de la liberación 
+del lote, podría caer por debajo del criterio de aceptación inferior antes del final de la vida útil propuesta. 
+Los datos de los estudios de estabilidad y, cuando proceda, los datos de soporte deben evaluarse para 
+determinar los atributos críticos que puedan influir en la calidad y el desempeño del gas medicinal. 
+Cada atributo debe evaluarse por separado y debe hacerse una evaluación general de los hallazgos 
+con el fin de proponer un período de vida útil. El periodo de vida útil propuesto no debe exceder el 
+predicho para ningún atributo individual. 
+ 
+Cualquier evaluación debe cubrir no solamente la valoración, sino también los niveles de los productos 
+de descomposición y otros atributos apropiados. Donde sea conveniente, se debe poner atención a la 
+revisión de la adecuación de la evaluación que une la estabilidad del producto farmacéutico terminado 
+y el comportamiento de degradación durante el estudio. (WHO, 2009, Informe 43) 
+ 
+Cuando los datos presentan tan poca degradación y variabilidad que se puede concluir, de la 
+observación de los datos, que el periodo de vida útil será confirmado, no sería necesario recurrir a la 
+realización de un análisis estadístico para los estudios de largo plazo si se suministra la respectiva 
+justificación. Este caso es más la excepción que la regla y la decisión definitiva sobre la necesidad de 
+los cálculos se basa en la justificación presentada. 
+ 
+Una aproximación para el análisis de los datos de un atributo cuantitativo que se espera cambie con el 
+tiempo, es determinar el momento en el que el límite de confianza del 95% de una sola cola (la inferior) 
+para la curva promedio intercepta el criterio de aceptación. Si el análisis muestra que la variabilidad lote 
+a lote es pequeña, es ventajoso combinar los datos y hacer una sola estimación global. Esto puede 
+realizarse si se aplica primero un ensayo estadístico apropiado (por ejemplo, valores de p para un nivel 
+de significancia de rechazo de más de 0,25) a las pendientes de las líneas de regresión y a los 
+interceptos a tiempo cero para los lotes individuales. Si no es apropiado combinar los datos de 
+diferentes lotes, el periodo de vida útil global debe basarse en el tiempo mínimo al que un lote se espera 
+que permanezca dentro del criterio de aceptación. 
+ 
+La naturaleza de cualquier relación de descomposición determinará, cuando los datos deben 
+transformarse para un análisis de regresión lineal. Usualmente las relaciones pueden ser representadas 
+por una función rectilínea, cuadrática o cúbica sobre una escala aritmética o logarítmica. Tanto como 
+sea posible, la selección de un modelo debería justificarse por un razonamiento físico y/o químico y 
+también tendría en cuenta la cantidad de datos disponibles (principio de parsimonia) para asegurar una 
+predicción robusta. Los métodos estadísticos deben ser empleados para evaluar la bondad de ajuste 
+de los datos de todos los lotes y los lotes combinados (donde sea apropiado) a la línea o curva de 
+descomposición supuesta. 
+ 
+Si se justifica se podría extrapolar el límite de los datos provenientes del estudio en condiciones de 
+largo plazo más allá del rango de observación, para extender el periodo de vida útil. Esta justificación 
+debe estar fundamentada en lo que se conoce acerca del mecanismo de degradación, los resultados 
+del ensayo bajo condiciones aceleradas, la bondad de ajuste a cualquier modelo matemático, tamaño 
+de lote y la existencia de datos de estabilidad de soporte. Sin embargo, esta extrapolación supone que 
+la misma relación de descomposición continuará aplicándose más allá de los datos observados. (WHO, 
+2009, Informe 43) 
+ 
+En el Apéndice A de la Guía ICH Q1E se describe un enfoque escalonado para la evaluación de los 
+datos de estabilidad, así como cuándo y cuánto se puede considerar la extrapolación para una vida útil
+
+RESOLUCIÓN NÚMERO_________    DE 2023                             HOJA No  15 
+ 
+Continuación de la Resolución “Por la cual se expiden los requisitos y criterios para la realización y 
+presentación de los estudios de estabilidad de gases medicinales y se dictan otras disposiciones ” 
+  
+---------------------------------------------------------------------------------------------------------------- 
+ 
+propuesta. La corrección del supuesto patrón de cambio es crítica cuando se considera la extrapolación. 
+Una vida útil concedida sobre la base de la extrapolación siempre debe verificarse mediante datos 
+adicionales de estabilidad a largo plazo tan pronto como estos datos estén disponibles. 
+ 
+Para los PFTs destinados a ser almacenados bajo las condiciones de la Zona climática establecida, la 
+evaluación debe comenzar con cualquier cambio significativo en la condición acelerada y progresar a 
+través de las tendencias y la variabilidad de los datos a largo plazo. En el Apéndice A, de la Guía ICH 
+Q1E se proporciona un árbol de decisión para este fin. 
+ 
+Cuando no se produzca un cambio significativo en la condición acelerada, el período de vida útil 
+dependerá de la naturaleza de los datos a largo plazo y acelerados. 
+Cuando se produce un cambio significativo en la condición acelerada, el período de vida útil dependerá 
+del resultado de los estudios de estabilidad en la condición a largo plazo. 
+ 
+Se deben investigar los resultados que se salen de las especificaciones o las tendencias atípicas 
+significativas. En el caso de estudios de estabilidad natural concluidos y de aseguramiento de la 
+estabilidad (on-going) se debe informar inmediatamente y por escrito a la autoridad sanitaria todo 
+cambio significativo confirmado, los resultados que se salen de especificaciones o las tendencias 
+atípicas significativas. La autoridad sanitaria evaluará el posible impacto sobre los lotes disponibles en 
+el mercado. 
+ 
+Las condiciones estándar para el análisis de datos e interpretación de los estudios de estabilidad y los 
+ejemplos de enfoques estadísticos para el análisis de datos se encuentran descritos en la guía ICH 
+Q1E y sus respectivas actualizaciones.   
+ 
+En caso de emplear procedimientos estadísticos, para la estimación del período de vida útil, distintos a 
+los descritos en la guía ICH Q1E, se debe presentar la información correspondiente donde se describa 
+de forma detallada el procedimiento desarrollado, junto con la debida justificación, para ser evaluado 
+por la autoridad regulatoria. 
+ 
+ 
+7. PRESENTACIÓN DEL PROTOCOLO E INFORME DEL ESTUDIO DE ESTABILIDAD 
+ 
+Se recomienda que el protocolo e informe del estudio de estabilidad incluyan la siguiente información 
+y datos, para facilitar las decisiones relacionadas con la aceptación del estudio de estabilidad y la vida 
+útil propuesta. En caso de ausencia de alguno de los aspectos solicitados se debe presentar la 
+justificación técnica al respecto. 
+ 
+7.1 Elementos del protocolo del estudio de estabilidad  
+El protocolo para un estudio de estabilidad se debe prolongar hasta el final del periodo de vida útil y 
+debe incluir, pero no está limitado, a los siguientes parámetros: 
+ 
+a) Nombre del IFA (en Denominación Común Internacional) y del gas medicinal. 
+b) Titular del Registro Sanitario e Importador (según corresponda). 
+c) Fabricante del IFA, producto intermedio y/o gas medicinal, envasador y/o Acondicionador si aplica, 
+y domicilio. 
+d) Objetivo del estudio de estabilidad. 
+e) Lugar donde se realiza el estudio de estabilidad. 
+f) Laboratorio de análisis quien realiza el estudio de estabilidad. 
+g) Tipo de estudio de estabilidad. 
+h) Condiciones del estudio incluyendo almacenamiento. 
+i) Tipo, número y tamaño de los lotes de gas medicinal a evaluar, incluyendo fecha de fabricación. 
+j) Forma farmacéutica, concentración y presentación comercial evaluada, incluyendo todos los 
+componentes de las mezclas (cuando aplique). Se debe informar cuando se somete a estudio más de 
+un gas medicinal, con variaciones en propiedades organolépticas y otros aspectos menores. 
+k) Duración de los estudios de estabilidad. 
+l) Frecuencia, tiempos de muestreo y análisis.  
+m) Fórmula cualicuantitativa del gas medicinal. 
+n) Descripción general del proceso de fabricación. 
+o) Especificaciones del gas medicinal (fisicoquímicas y microbiológicas), incluyendo sus características
+
+RESOLUCIÓN NÚMERO_________    DE 2023                             HOJA No  16 
+ 
+Continuación de la Resolución “Por la cual se expiden los requisitos y criterios para la realización y 
+presentación de los estudios de estabilidad de gases medicinales y se dictan otras disposiciones ” 
+  
+---------------------------------------------------------------------------------------------------------------- 
+ 
+físicas y químicas. 
+p) Descripción del sistema de envase (s) y cierre. Se debe informar la composición, tipo y tamaño del 
+cilindro. 
+q) Ensayos a realizar por cada uno de los tiempos. 
+r)  Metodología de análisis oficial o validada, del o los IFAS, en el producto terminado. La información 
+obtenida sobre la validación de la metodología analítica se debe presentar de una manera tabulada y 
+gráfica apropiada. 
+s) Descripción del número de unidades a utilizar por cada muestra y ensayo en cada tiempo de 
+muestreo y el número total de unidades ingresadas al estudio. 
+t) Número, código y/o nombre del método analítico validado (según corresponda). 
+u) Información de los estándares utilizados. 
+v) Diseño experimental propuesto. 
+ 
+7.2. Elementos del informe del estudio de estabilidad 
+El informe para un estudio de estabilidad debe incluir, pero no está limitado a lo descrito para el 
+protocolo y entre otros, adicionar los siguientes parámetros: 
+ 
+a) Número de unidades de dosificación seleccionadas y aclarando si los ensayos fueron realizados 
+sobre unidades individuales o sobre compuestos de unidades individuales (muestra compuesta). 
+b) Metodología estadística aplicada al muestreo, tratamiento y análisis de los datos y resultados. 
+c) Fechas de muestreo y análisis. 
+d) Los datos obtenidos (p.ej. en valoración o potencia, impurezas, etc.) deben ser presentados en forma 
+tabulada individual. También deben ser tabulados los promedios resultantes de los datos, con los límites 
+de confianza del 95%, debidamente identificados. 
+e) Anexar la documentación sobre los métodos estadísticos apropiados y las fórmulas utilizadas en el 
+análisis de los datos y resultados intermedios. 
+f) Anexar la evaluación de los datos, incluyendo los cálculos, análisis estadísticos y gráficas. 
+g) Señalar la vida útil propuesta y su justificación correspondiente. 
+h) Análisis de tendencia de los datos. 
+i) Análisis técnico detallado de resultados con cambios significativos, acciones preventivas, correctivas 
+y conclusiones al respecto. 
+j) Análisis y evaluación de los efectos de las excursiones de temperatura que excedan las tolerancias 
+definidas por más de 24 horas. Acciones preventivas, correctivas y conclusiones al respecto. 
+k) Definición de las condiciones de almacenamiento para el gas medicinal. 
+l) Condiciones recomendadas para la distribución. 
+m) Conclusiones del estudio de estabilidad. 
+n) Datos y soportes de los análisis realizados según corresponda. 
+o) Observaciones y recomendaciones finales. 
+ 
+Los registros e informes de los estudios de estabilidad deben revisarse en periodos de tiempo definidos 
+y estar disponibles para inspecciones en cualquier momento. Los registros de laboratorio incluyen un 
+registro completo de datos y descripción de muestras tales como almacenamiento, ubicación, cantidad, 
+lote, fecha de recepción, etc. Los datos de estabilidad deben ser trazables y tener los soportes que los 
+sustenten en caso de inspecciones por la entidad regulatoria. 
+ 
+8. ESTUDIOS DE ASEGURAMIENTO DE LA ESTABILIDAD (ON-GOING)  (WHO, 2009, 
+Informe 43) 
+ 
+Posterior a la obtención del registro sanitario, titulares y fabricantes adquieren la obligación de realizar 
+con lotes industriales los estudios de estabilidad on-going, como evidencia de un programa permanente 
+de estabilidad, de conformidad con lo definido en las Buenas Prácticas de Manufactura vigentes. 
+ 
+El número de lotes y la frecuencia de análisis debe suministrar los datos suficientes para permitir evaluar 
+la tendencia del análisis.  
+ 
+Se debe incluir en el programa de estabilidad por lo menos 1 lote por año en cada concentración y tipo 
+de cilindro (a menos que ningún lote se produzca durante el año). Se puede aplicar el principio de 
+diseño de extremos o matrices, si se justifica en el protocolo desde el punto de vista científico.  
+ 
+En ciertas situaciones se deben incluir lotes adicionales en el programa de estabilidad on-going (por
+
+RESOLUCIÓN NÚMERO_________    DE 2023                             HOJA No  17 
+ 
+Continuación de la Resolución “Por la cual se expiden los requisitos y criterios para la realización y 
+presentación de los estudios de estabilidad de gases medicinales y se dictan otras disposiciones ” 
+  
+---------------------------------------------------------------------------------------------------------------- 
+ 
+ejemplo, se debe hacer un estudio estabilidad on-going después de cualquier cambio o desviación 
+significativos del proceso de fabricación o del sistema de envase y cierre, que pueda tener un impacto 
+sobre la estabilidad del principio activo). 
+ 
+Para estudios on-going, las muestras pueden analizarse a intervalos de 6 meses para confirmar la vida 
+útil, o cada 12 meses para productos de reconocida estabilidad. Los productos que contienen 
+sustancias medicamentosas menos estables y aquellos para los que se dispone de poca información 
+de estabilidad deben someterse a prueba cada 3 meses en el primer año, cada 6 meses en el segundo 
+año y luego anualmente hasta el final de su vida útil. 
+ 
+El programa de estabilidad se debe describir en un protocolo escrito y los resultados se formalizan en 
+un informe. 
+ 
+El protocolo para un programa de aseguramiento de estabilidad se debe extender hasta el final del 
+periodo de vida útil y debe incluir, pero no estar limitado a 
+ 
+a) Número de lotes por concentraciones y diferentes tamaños de lote, si aplica. Si se emplean 
+diferentes tamaños de lote, se debe registrar el tamaño de lote. 
+b) Métodos de ensayo. 
+c) Criterios de aceptación. 
+d) Referencias para los métodos de ensayo. 
+e) Descripción del tipo de cilindro. 
+f) Frecuencia de ensayo (muestreo). 
+g) Descripción de las condiciones de almacenamiento (se deben utilizar condiciones 
+estandarizadas para los ensayos de largo plazo consistentes con el etiquetado del producto). 
+h) Otros parámetros aplicables al producto. 
+ 
+ 
+9. BIBLIOGRAFÍA 
+ 
+Agencia Española de Medicamentos y Productos Sanitarios (2010). Guía de Normas de                    
+Correcta Fabricación de Medicamentos de Uso Humano y Veterinario. 
+https://www.aemps.gob.es/industria-farmaceutica/guia-de-normas-de-correcta-fabricacion/  
+ 
+Barajas, O (2020). Precauciones 2020 de seguridad con cilindros de gas. Consejo Colombiano de   
+Seguridad. https://ccs.org.co/portfolio/precauciones-2020-de-seguridad-con-cilindros-de-gas/  
+ 
+CGA (2021). Health Canada Issues Interim Policy Exempting Medical Gases from Expiration Dating 
+Requirements. Compressed Gas Association. https://www.cganet.com/health-canada-interim-
+policy-exempts-medical-gases-from-expiration-dating/ 
+ 
+Decreto 334 de 2022 [Ministerio de Salud, Colombia] 
+ 
+EMEA (2008). Guideline on Medicinal Gases: Pharmaceutical Documentation (Including 
+Recommendation on Nonclinical Safety Requirements for Well Established Medicinal 
+Gasses).  
+https://www.ema.europa.eu/en/documents/scientific-guideline/guideline-medicinal-gases-
+pharmaceutical-documentation-including-recommendation-non-clinical-safety_en.pdf  
+ 
+Eudralex (2010). Good Manufacturing Practice Medicinal Products for Human and Veterinary Use. 
+Annex 6. Manufacture of Medicinal Gases. https://health.ec.europa.eu/system/files/2016-
+11/2009_07_annex6_0.pdf 
+ 
+Government of Canada (2023). Notice to Stakeholders: Expiration Dating for Medical Gases.  
+https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-
+products/applications-submissions/guidance-documents/notice-expiration-dating-medical-
+gases.html 
+ 
+Huynh-Ba, K. (2009). Handbook of Stability Testing in Pharmaceutical Development Regulations, 
+Methodologies and Best Practices. Springer.
+
+RESOLUCIÓN NÚMERO_________    DE 2023                             HOJA No  18 
+ 
+Continuación de la Resolución “Por la cual se expiden los requisitos y criterios para la realización y 
+presentación de los estudios de estabilidad de gases medicinales y se dictan otras disposiciones ” 
+  
+---------------------------------------------------------------------------------------------------------------- 
+ 
+ 
+ICH (2003). Evaluation of Stability Data. https://www.ema.europa.eu/en/documents/scientific-
+guideline/ich-q-1-e-evaluation-stability-data-step-5_en.pdf 
+ 
+ICH (2002). Harmonized Tripartite Guideline Bracketing and Matrixing Designs for Stability Testing of 
+New Drug Substances and Products Q1D. 
+https://www.ema.europa.eu/en/documents/scientific-guideline/ich-q-1-d-bracketing-matrixing-
+designs-stability-testing-drug-substances-drug-products-step-5_en.pdf 
+ 
+ICH (2003). Harmonised Tripartite Guideline. Evaluation for Stability Data Q1E.  https://vnras.com/wp-
+content/uploads/2017/05/Q1E_EVALUATION-FOR-STABILITY-DATA.pdf  
+ 
+ICH (2005). Harmonized Tripartite Guideline Validation of Analytical Procedures: Text and                
+Methodology Q2 (R1). https://database.ich.org/sites/default/files/Q2%28R1%29%20Guideline.pdf  
+ 
+ 
+ICH (2003). Stability testing of new drug substances and drug products - Scientific guideline . 
+https://www.ema.europa.eu/en/documents/scientific-guideline/ich-q-1-r2-stability-testing-new-
+drug-substances-products-step-5_en.pdf 
+ 
+ICH (1996). Stability Testing: Photostability Testing of New Drug Substances and Products Q1B . 
+https://gxp-academy.org/upload/iblock/994/9944e3302b7e2bea9541bc18361a1a03.pdf  
+ 
+Ministerio de Salud de Perú (n.d.). Directiva sanitaria que establece la información mínima que debe 
+contener el documento de especificaciones técnicas de los ingredientes farmacéuticos activos 
+(IFA), excipientes, producto terminado y materiales de 
+envase.https://www.digemid.minsa.gob.pe/UpLoad/UpLoaded/PDF/Directiva_Ingredientes_Fa
+rmaceuticos_Activos.pdf 
+ 
+Ministerio de Salud Pública de Uruguay (2012). Guía para fabricantes de gases medicinales. 
+Producción de oxígeno. 
+http://www.comprasestatales.gub.uy/Aclaraciones/aclar_llamado_361095_1.pdf  
+ 
+Quintero, E. (2010). Gestión de gases medicinales. GAM Artes Gráficas. 
+ 
+Resolución 2514 de 1995. [Ministerio de Salud, Colombia] 
+ 
+Resolución 4410 de 2009. [Ministerio de la Protección Social, Colombia] 
+ 
+Resolución 1432 de 2020. [Ministerio de Comercio, Industria y Turismo, Colombia] 
+ 
+Resolución 3157 de 2018. [Ministerio de Salud y Protección Social, Colombia] 
+ 
+Resolución 1130 de 2000. [Ministerio de Salud, Argentina] 
+ 
+WHO (1996). Guidelines for stability testing of pharmaceutical products containing well established 
+drug substances in conventional dosage forms. 
+https://www.paho.org/hq/dmdocuments/2008/6_Annex_5_report_34.pdf 
+ 
+WHO (2009). WHO Expert Comittee on Specifications for Pharmaceutical Preparations          
+(Informe 43)  
+ 
+WHO (2021). WHO good manufacturing practices for medicinal gases. 
+https://www.who.int/docs/default-source/medicines/norms-and-standards/current-
+projects/qas21_875_gmp_for_medical_gases.pdf?sfvrsn=3f37d54e_3

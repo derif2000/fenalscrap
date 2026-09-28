@@ -1,0 +1,32 @@
+# Claves, credenciales y secretos — NUNCA subir a repositorios
+.env
+.env.*
+.env.local
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Logs y temporales de scrap
+*.log
+output/*.log
+output/.done.txt
+output/fenalco_pages.jsonl
+output/fenalco_index.csv
+
+# Imágenes extraídas de PDFs (>400MB, no aptas para Git)
+output/doc_imgs/
+
+# Entornos y editores
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

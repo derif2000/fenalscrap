@@ -1,0 +1,2244 @@
+MINISTERIO DE COMERCIO, INDUSTRIA Y TURISMO  
+ 
+REPÚBLICA DE COLOMBIA 
+ 
+  Página 1 de 6 
+DECRETO           DE  2025 
+ 
+“Por el cual se modifican parcialmente los marcos técnicos de las Normas de Información 
+Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 2, del Decreto 
+2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información Financiera 
+y de Aseguramiento de la Información, y se dictan otras disposiciones” 
+EL PRESIDENTE DE LA REPÚBLICA DE COLOMBIA 
+ 
+En uso de sus atribuciones constitucionales y legales, en especial las conferidas en el numeral 
+11 del artículo 189 de la Constitución Política y en la Ley 1314 de 2009, y 
+CONSIDERANDO 
+ 
+Que la Ley 1314 de 2009, señala que por mandato de ésta, el Estado, bajo la dirección del 
+Presidente la República y por intermedio de las entidades que allí se mencionan, Ministerios de 
+Hacienda y Crédito Público y de Comercio, Industria y Turismo, intervendrá la economía, limitando 
+la libertad económica, para expedir normas contables, de información financiera y de 
+aseguramiento de la información, que conformen un sistema único y homogéneo de alta calidad, 
+comprensible y de forzosa observancia, por cuya vi rtud los informes contables y, en particular, 
+los estados financieros, brinden información financiera comprensible, transparente y comparable, 
+pertinente y confiable, útil para la toma de decisiones económicas por parte del Estado, los 
+propietarios, los funcionarios y empleados de las empresas, los inversionistas actuales o 
+potenciales y otras partes interesadas, para mejorar la productividad, la competitividad y el 
+desarrollo armónico de la actividad empresarial de las personas naturales y jurídicas, nacionales 
+o extranjeras. 
+ 
+Que, así mismo, dispone la citada Ley que, con observancia de los principios de equidad, 
+reciprocidad y conveniencia nacional y con el propósito de apoyar la internacionalización de las 
+relaciones económicas, la acción del Estado se dirigirá hacia la convergencia de tales normas de 
+contabilidad, de información financiera y de aseguramiento de la información, con estándares 
+internacionales de aceptación mundial, con las mejores prácticas y con la rápida evolución de los 
+negocios. 
+ 
+Que el artículo 3° de la Ley 1314 de 2009 , señala que, para los propósitos de dicha Ley, se 
+entiende por normas de contabilidad y de información financiera el sistema compuesto por 
+postulados, principios, limitaciones, conceptos, normas técnicas generales, norm as técnicas 
+específicas, normas técnicas especiales, normas técnicas sobre revelaciones, normas técnicas 
+sobre registros y libros, interpretaciones y guías, que permiten identificar, medir, clasificar, 
+reconocer, interpretar, analizar, evaluar e informar, las operaciones económicas de un ente, de 
+forma clara y completa, relevante, digna de crédito y comparable. 
+ 
+Que el Consejo Técnico de la Contaduría Pública - CTCP, según documento del 5 de diciembre 
+de 2012, emitió el Direccionamiento Estratégico del proceso de convergencia de las normas de 
+contabilidad e información financiera y de aseguramiento de la información, con estándares 
+internacionales, en el cual, respecto de las Normas de Información Financiera, señaló, entre otros 
+aspectos, los siguientes: 
+ 
+“Atendiendo las condiciones que exige la Ley 1314 en el sentido de que los 
+estándares internacionales deben ser de aceptación mundial, con las mejores 
+prácticas y con la rápida evolución de los negocios, el CT CP encuentra que la 
+alternativa que mejor interpreta los criterios y condiciones de dicha ley es la de
+
+DECRETO     DE 2025   Página 2 de 6 
+ 
+Continuación del Decreto «“Por el cual se modifican parcialmente los marcos técnicos de las Normas de 
+Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 2, del 
+Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información Financiera y 
+de Aseguramiento de la Información, y se dictan otras disposiciones”]» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+que en Colombia se lleve a cabo el proceso de convergencia tomando como 
+referentes las NIIF que ha emitido el IASB y las que están en proceso de 
+emisión...” 
+ 
+“… el proceso de convergencia a estándares internacionales de contabilidad e 
+información financiera en Colombia, se llevará a cabo tomando como referente 
+el Marco Conceptual, las NIIF y sus Interpretaciones – CINIIF, las NIC y sus 
+Interpretaciones – CINIC, la NIIF para Pequeñas y Medianas Entidades (PYMES) 
+y los Fundamentos de Conclusiones, emitidos por el IASB para los grupos 1 y 2. 
+en inglés...”. 
+ 
+“… El Consejo de Normas Internacionales de Contabilidad (IASB por sus siglas 
+en inglés) es un ente del sector privado debidamente respaldado por la mayoría 
+de los gobiernos del mundo, cuyo objetivo es la emisión de las Normas 
+Internacionales de Información Financiera – NIIF (IFRS por sus siglas en inglés) 
+para una variedad de usuarios, junto con sus interpr etaciones, el marco de 
+referencia conceptual, los fundamentos de conclusiones y las guías para su 
+implementación; así como las Normas Internacionales de Información 
+Financiera para Pequeñas y Medianas Entidades – NIIF para PYMES (IFRS 
+for SMEs por sus siglas en inglés) las cuales son usadas en varios países 
+del mundo para las pymes que no cotizan sus títulos de acciones y de 
+deuda en mercados de valores”. (Negrilla fuera de texto) 
+ 
+Que el artículo 6 de la Ley 1314 de 2009, dispone que bajo la Dirección del Presidente de la 
+República y con respeto de las facultades regulatorias en materia de contabilidad pública a cargo 
+de la Contaduría General de la Nación, los Ministerios de Hacienda y Crédito Público y de 
+Comercio, Industria y Turismo, obrando conjuntament e, expedirán principios, normas, 
+interpretaciones y guías de contabilidad e información financiera y aseguramiento de la 
+información, con fundamento en las propuestas que debe presentarles el Consejo Técnico de la 
+Contaduría Pública - CTCP, como organismo de normalización técnica de normas contables, de 
+información financiera y de aseguramiento de la información. 
+ 
+Que el Gobierno Nacional, en desarrollo de las citadas facultades legales, expidió el Decreto 2420 
+de 2015 “Por medio del cual se expide el Decreto Único Reglamentario de las Normas de 
+Contabilidad, de Información Financiera y de Aseguramiento de la Información y se dictan otras 
+disposiciones" el cual compiló y racionalizó los Decretos expedidos en desarrollo de la Ley 1314 
+de 2009 en estas materias. 
+ 
+Que el Consejo Técnico de la Contaduría Pública - CTCP, con fundamento en los postulados de 
+la Ley 1314 de 2009, mediante Comunicaciones Nos. 2 -2024-034790 del 31 de diciembre de 
+2024, y CTCP -2024000042 del 31 de diciembre de 2024, remitió a los e ntonces Ministros de 
+Hacienda y Crédito Público y de Comercio, Industria y Turismo, respectivamente, el: “Documento 
+de Sustentación de la propuesta a los Ministerios de Hacienda y Crédito Público (MHCP), y de 
+Comercio, Industria y Turismo (MinCIT) – sobre las Enmiendas Emitidas por el IASB durante el 
+periodo septiembre 2022 a septiembre 2023”, señalando que: “Para cumplir los requerimientos 
+de la Ley 1314 de 2009 y tras la puesta en discusión pública, y la recepción, evaluación y análisis 
+de los comentarios recibidos de la enmiendas a la NIIF 16 Pasivo por Arrendamiento en una Venta 
+con Arrendamiento Posterior, a la NIC 1 Pasivos no Corrientes con Condiciones Pactadas, a la 
+NIC 7 y NIIF 7 Acuerdos de Financiación a Proveedores, a la NIC 12 Reforma Fiscal Internacional 
+– Reglas del Modelo del Segundo Pilar, a la NIC 21 Ausencia de Convertibilidad y a la Sección 
+29 Reforma Fiscal Internacional – Reglas del Modelo del Segundo Pilar, el CTCP recomienda la 
+expedición de un Decreto que modifique el anexo 1 y el anexo 2 del DUR 2420 de 2015, aplicable 
+para las entidades pertenecientes al grupo 1 y grupo 2, respectivamente.
+
+DECRETO     DE 2025   Página 3 de 6 
+ 
+Continuación del Decreto «“Por el cual se modifican parcialmente los marcos técnicos de las Normas de 
+Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 2, del 
+Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información Financiera y 
+de Aseguramiento de la Información, y se dictan otras disposiciones”]» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+Que, en el citado Documento de Sustentación, en el Capítulo VI, Conclusiones y 
+recomendaciones finales, el Consejo Técnico de la Contaduría Pública señaló que: 
+ 
+“Las enmiendas para las entidades del Grupo 1 serían aplicables en Colombia 
+considerando lo siguiente: 
+ 
+a) Pasivo por Arrendamiento en una Venta con Arrendamiento Posterior 
+(modificación a la NIIF 16). El CTCP recomienda que esta enmienda sea 
+aplicable para estados financieros que inicien a partir del 1 de enero de 2026, 
+permitiendo su aplicación anticipada, considerando que la enmienda no tiene 
+modificaciones que resulten complejas de aplicar al momento de realizar la 
+implementación por parte de los preparadores de información financiera… 
+ 
+b) Pasivos no Corrientes con Condiciones Pactadas (modificación a la NIC 1). El 
+CTCP recomienda que esta enmienda sea aplicable para estados financieros 
+que inicien a partir del 1 de enero de 2026, permitiendo s u aplicación 
+anticipada. La modificación busca mejorar la presentación del estado de 
+situación financiera y las revelaciones en las notas a los estados financieros, 
+lo que fomenta una mayor comprensión y transparencia en la aplicación de las 
+NIIF en las entidades. Se anticipa que esta enmienda no generará impactos 
+materiales significativos en la información financiera, ya que su objetivo 
+principal es fortalecer la claridad y utilidad de la presentación financiera sin 
+alterar los principios fundamentales de las normas aplicadas… 
+ 
+En cuanto a la transición, no se prevén esfuerzos significativos para presentar 
+información comparativa, ya que proporcionar esta información no se 
+considera un cambio en la política contable, como lo aclara el párrafo FC76AB 
+de la NIC 1. 
+ 
+c) Acuerdos de Financiación a Proveedores (modificación a la NIC 7 y NIIF 7). El 
+CTCP recomienda que esta enmienda sea aplicable para estados financieros 
+que inicien a partir del 1 de enero de 2026, permitiendo su aplicación 
+anticipada. Esta modificación mejora el reconocimiento y la revelación de los 
+acuerdos de financiación en los estados financieros, generando una mayor 
+comprensión de las NIIF en las entidades y se espera que no tenga impactos 
+materiales significativos sobre la información financiera… 
+ 
+No se anticipan mayores complejidades para la aplicación de esta enmienda. 
+Además, se deben considerar los siguientes aspectos: 
+ 
+ Los estados financieros de un comprador de bienes o servicios deben 
+presentar de manera razonable su situación fin anciera, su desempeño 
+financiero y sus flujos de efectivo. 
+ 
+ La presentación razonable requiere la representación fiel de los efectos 
+de los acuerdos de financiación a proveedores de acuerdo con las 
+definiciones y criterios de reconocimiento de activos, pasivos, ingresos y 
+gastos establecidos en el Marco Conceptual de las NIIF. 
+ 
+ Se requiere la presentación separada de los pasivos que surgen de 
+acuerdos de financiación a proveedores cuando son suficientemente 
+diferentes en naturaleza o función o cuando son relevantes para 
+comprender la situación financiera de la entidad.
+
+DECRETO     DE 2025   Página 4 de 6 
+ 
+Continuación del Decreto «“Por el cual se modifican parcialmente los marcos técnicos de las Normas de 
+Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 2, del 
+Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información Financiera y 
+de Aseguramiento de la Información, y se dictan otras disposiciones”]» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ Se requieren revelaciones claras y transparentes sobre estos acuerdos 
+cuando sean materiales, así como de los juicios realizados 
+(consideraciones tanto cuantitativas como cualitativas). 
+ 
+d) Reforma Fiscal Internacional – Reglas del Modelo del Segundo Pilar 
+(modificación a la NIC 12). El CTCP recomienda que esta enmienda sea 
+aplicable para estados financieros que inicien a partir del 1 de enero de 2026, 
+permitiendo su aplicación anticipada… 
+ 
+e) Ausencia de Convertibilidad (modificación a la NIC 21). El CTCP recomienda 
+que esta enmienda sea aplicable para estados financieros que inicien a partir 
+del 1 de enero de 2026, permitiendo su aplicación anticipada…  
+ 
+En Colombia, muchas entidades tienen transa cciones con empresas de 
+Venezuela y Argentina, economías hiperinflacionarias que a menudo 
+enfrentan problemas de convertibilidad. La implementación de esta 
+modificación puede mejorar significativamente la presentación de los estados 
+financieros en estos casos.  
+ 
+La enmienda a la NIIF para las Pymes del Grupo 2 sería aplicable en Colombia, 
+considerando lo siguiente: 
+ 
+f) Reforma Fiscal Internacional – Reglas del Modelo del Segundo Pilar 
+(modificación a la Sección 29 de NIIF para las Pymes). El CTCP recomienda 
+que esta enmienda sea aplicable para estados financieros que inicien a partir 
+del 1 de enero de 2026, permitiendo su aplicación anticipada… 
+ 
+El CTCP con base en el concepto N° 2292 del Consejo de Estado, Sala de 
+Consulta y Servicio Civil, del 4 de abril de  2017, recomienda que la vigencia del 
+decreto a emitir sea inferior a la regla general establecida en la Ley 1314 de 2009, 
+siendo esta el 1 de enero de 2026, considerando que las enmiendas propuestas 
+presentan una baja complejidad en su implementación”. 
+ 
+Que en el referido Concepto N° 2292 del 4 de abril de 2017, el Consejo de Estado, Sala de 
+Consulta y Servicio Civil, siendo Consejero Ponente el Dr. Álvaro Namén Vargas, señaló, en uno 
+de sus apartes, sobre la complejidad para determinar la entrada en vige ncia de las normas de 
+intervención en materia de contabilidad y de información financiera y de aseguramiento de 
+información, lo siguiente: 
+ 
+“3.4. Teniendo en cuenta el postulado del artículo 14 de la ley 1314 de 2009, en el 
+sentido de que las normas expedidas conjuntamente por el Ministerio de Hacienda y 
+Crédito Público y el Ministerio de Comercio, Industria y Turismo entrarán en vigencia 
+el 1º de enero del segundo año gravable siguiente al de su promulgación, a menos 
+que en virtud de su complejidad, consideren necesario establecer un plazo diferente, 
+se pregunta ¿Cómo debe entenderse en este caso la complejidad a que se refiere la 
+norma? La complejidad a la que se refiere la norma citada debe entenderse, desde 
+un punto de vista gramatical y sistemático, como la mayor o menor dificultad que la 
+interpretación y aplicación práctica de una norma suponga. En esa medida, puede 
+haber normas (i) de baja complejidad, frente a las cuales el Gobierno Nacional 
+podría señalar un plazo de entrada en vigencia  inferior al p revisto, de modo 
+general, en el primer inciso del artículo 14 de la Ley 1314 de 2009; (ii) normas de 
+complejidad promedio o moderada (que tendrían, por defecto, el plazo señalado en 
+dicho inciso), y (iii ) normas de alta complejidad, para las cuales el Gobierno podría
+
+DECRETO     DE 2025   Página 5 de 6 
+ 
+Continuación del Decreto «“Por el cual se modifican parcialmente los marcos técnicos de las Normas de 
+Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 2, del 
+Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información Financiera y 
+de Aseguramiento de la Información, y se dictan otras disposiciones”]» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+establecer un término de entrada en vigencia superior al señalado en el primer inciso 
+del artículo 14 de la Ley 1314”. (Subraya y negrilla fuera de texto) 
+ 
+Que por lo expuesto, acogiendo las recomendaciones del Consejo Técnico de la Contaduría 
+Pública - CTCP, resulta conveniente y necesaria la modificación parcial de los anexos técnicos 
+de las Normas de Información Financiera para el Grupo 1 y de Información Financiera para las 
+PYMES, Grupo 2, del Decreto 2420 de 2015, Ú nico Reglamentario de las Normas de 
+Contabilidad, de Información Financiera y de Aseguramiento de la Información, con las 
+enmiendas  normativas recomendadas por el Consejo Técnico de la Contaduría Pública  y  la 
+incorporación de los anexos técnicos contentivos de dichas enmiendas en la Sección de Anexos 
+del Decreto 2420 de 2015, así como el señalamiento de la fecha de vigencia de los respectivos 
+estándares. 
+ 
+Que conforme al numeral 8 del artículo 8 de la Ley 1437 de 2011 y al artículo 2.1.2.1.14 del 
+Decreto 1081 de 2015, del Decreto Único Reglamentario del Sector de la Presidencia de la 
+República, el proyecto de decreto, que aquí se expide, junto con sus docum entos soporte, fue 
+publicado en el sitio web del Ministerio de Comercio, Industria y Turismo, con el fin de recibir 
+comentarios y observaciones por parte de los interesados. 
+En mérito de lo expuesto, 
+DECRETA: 
+ 
+Artículo 1°. Modificación parcial de los marcos técnicos normativos del Grupo 1 del 
+Decreto Único Reglamentario 2420 de 2015.  Modifíquese parcialmente el “ANEXO TÉCNICO 
+COMPILATORIO Y ACTUALIZADO 1 -2019, DE LAS NORMAS DE INFORMACIÓN 
+FINANCIERA, GRUPO 1”, del Decreto 2270 del 2019, y el “ANEXO TÉCNICO 2021, DE LAS 
+NORMAS DE INFORMACIÓN FINANCIERA, GRUPO 1, del Decreto 938 de 2021, compilados 
+ambos en el Decreto Único Reglamentario 2420 de 2015, con el “ANEXO TÉCNICO 2025, 
+ENMIENDAS Y MEJORAS DE LAS NORMAS DE INFORMACIÓN  FINANCIERA, GRUPO 1”, 
+que hace parte integral del presente Decreto. 
+ 
+Artículo 2°. Incorporación del marco técnico normativo de las normas de información 
+financiera, Grupo 1. Incorpórese el “ANEXO TÉCNICO 2025, ENMIENDAS Y MEJORAS DE 
+LAS NORMAS DE INFORMAC IÓN FINANCIERA, GRUPO 1, en la Sección de Anexos  del 
+Decreto Único Reglamentario 2420 de 2015. 
+ 
+Artículo 3°. Modificación parcial del marco técnico normativo del Grupo 2 del Decreto 2420 
+de 2015. Modifíquese parcialmente el "ANEXO TÉCNICO COMPILATORIO No. 2., DE LAS 
+NORMAS DE INFORMACIÓN FINANCIERA NIIF PARA LAS PYMES GRUPO 2” del Decreto 
+2483 de 2018, compilado en el Decreto Único Reglamentario 2420 de 2015, con el anexo técnico 
+denominado “ANEXO TÉCNICO 2025, ENMIENDAS Y ME JORAS DE LA NORMA DE 
+INFORMACIÓN FINANCIERA, GRUPO 2”, que hace parte integral del presente Decreto. 
+ 
+Artículo 4°. Incorporación del marco técnico normativo de las normas de información 
+financiera para Pymes, Grupo 2. Incorpórese el “ANEXO TÉCNICO 2025, EN MIENDAS Y 
+MEJORAS DE LA NORMA DE INFORMACIÓN FINANCIERA, GRUPO 2”, en la Sección de 
+Anexos del Decreto Único Reglamentario 2420 de 2015. 
+ 
+Artículo 5° Vigencia. El presente Decreto rige a partir de la fecha de su publicación en el Diario 
+Oficial, observando lo siguiente:
+
+DECRETO     DE 2025   Página 6 de 6 
+ 
+Continuación del Decreto «“Por el cual se modifican parcialmente los marcos técnicos de las Normas de 
+Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 2, del 
+Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información Financiera y 
+de Aseguramiento de la Información, y se dictan otras disposiciones”]» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+1.- El Anexo técnico denominado “ANEXO TÉCNICO 2025, ENMIENDAS Y MEJORAS DE LAS 
+NORMAS DE INFORMACIÓN FINANCIERA, GRUPO 1”, que hace parte integral del presente 
+Decreto, con fundamento en lo dispuesto en el artículo 14 de la Ley 1314 de 2009, se aplicará a 
+partir del 1° de enero de 2026, fecha desde la cual se modifican parcialmente, en lo pertinente, 
+los anexos técnicos señalados en el artículo 1° del presente Decreto, permitiendo su aplicación 
+voluntaria, integral y anticipada.  
+ 
+2.- El anexo técnico denominado “ANEXO TÉCNICO 2025, ENMIENDAS Y MEJORAS DE LA 
+NORMA DE INFORMACIÓN FINANCIERA, GRUPO 2”, que hace parte integral del presente 
+Decreto, con fundamento en lo dispuesto en el artículo 14 de la Ley 1314 de 2009, se aplicará a 
+partir del 1° de enero de 2026, fecha a partir de la cual se modifica parcialmente, en lo pertinente, 
+el anexo técnico señalado en el artículo 3° del presente Decreto, permitiendo su aplicación 
+voluntaria, integral y anticipada. 
+ 
+3. Si una entidad opta por aplicar  voluntariamente de manera integral y anticipada el anexo 
+técnico de que tratan los artículos 1° y 3° del presente Decreto, deberá revelar este hecho en las 
+notas a los estados financieros  y aplicar todos los requerimientos al mismo tiempo, por su 
+aplicación voluntaria, integral y anticipada. 
+ 
+4. Las fechas de vigencia señaladas en los estándares internacionales incorporados en el  
+presente Decreto, no se tendrán en cuenta como fechas de vigencia de los mismos en Colombia. 
+Por lo tanto, estos estándares solo tendrán aplicación a partir de las fechas de vigencia señaladas 
+en los numerales 1 y 2 del presente artículo. 
+ 
+ 
+PUBLÍQUESE Y CÚMPLASE 
+ 
+ 
+Dado en Bogotá D.C., a los 
+ 
+ 
+ 
+ 
+EL MINISTRO DE HACIENDA Y CRÉDITO PÚBLICO, 
+  
+ 
+ 
+ 
+ 
+ 
+GERMÁN ÁVILA PLAZAS 
+ 
+ 
+ 
+ 
+LA MINISTRA DE COMERCIO, INDUSTRIA Y TURISMO  
+ 
+  
+ 
+ 
+ 
+ 
+         DIANA MARCELA MORALES ROJAS
+
+DECRETO     DE 2025   Página 1 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+Proceso: GD Gestión Documenta l   Página 1 de 28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANEXO TÉCNICO 2025, ENMIENDAS Y MEJORAS DE LAS 
+NORMAS DE INFORMACIÓN FINANCIERA, GRUPO  1
+
+DECRETO     DE 2025   Página 2 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+ 
+Pasivo por Arrendamiento en una Venta con  
+Arrendamiento posterior 
+Modificaciones a la NIIF 16 
+Modificación a la NIIF 16 Arrendamientos  
+Se añaden los párrafos 102A, C1D, y C20E y se modifica el párrafo C2. Se añade un nuevo 
+encabezamiento antes del párrafo C20E. El texto nuevo ha sido subrayado y el texto eliminado 
+ha sido tachado. 
+Transacciones de venta con arrendamiento posterior  
+ 
+... 
+ 
+Evaluación de si la transferencia del activo es una venta 
+... 
+ 
+La transferencia del activo es una venta 
+... 
+102A    Después de la fecha de inicio, el vendedor-arrendatario aplicará los párrafos 29 a 35 
+al activo por derecho de uso derivado del arrendamiento posterior y los párrafos 36 a 
+46 al pasivo por arrendamiento derivado de  éste. Al aplicar los párrafos 36 a 46, el 
+vendedor-arrendatario determinará los "pagos por arrendamiento" o los "pagos por 
+arrendamiento revisados" de forma que el vendedor-arrendatario no reconozca ningún 
+importe de la ganancia o pérdida que esté relacionado con el derecho de uso retenido 
+por el vendedor- arrendatario. La aplicación de los requerimientos de este párrafo no 
+impide que el vendedor-arrendatario reconozca en el resultado del periodo cualquier 
+ganancia o pérdida relacionada con la finalización parcial o total de un arrendamiento 
+tal y como se requiere en el párrafo 46(a). 
+... 
+ 
+Apéndice C 
+Fecha de vigencia y transición 
+ 
+Fecha de vigencia  
+ 
+...
+
+DECRETO     DE 2025   Página 3 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+C1D   Pasivo por Arrendamiento en una Venta con Arrendamiento Posterior , emitido en 
+septiembre de 2022, modificó el párrafo C2 y añadió los párrafos 102A y C20E. Un 
+vendedor-arrendatario aplicará estas modificaciones a periodos anuales sobre los que 
+se informa que comiencen a partir del 1 de enero de 2024.  Se permite su aplicación 
+anticipada. Si un vendedor-arrendatario aplica esas modificaciones para un periodo 
+anterior, revelará este hecho. 
+ 
+ 
+Transición  
+ 
+C2 A efectos de los requerimientos de los párrafos C1 a C20EC19, la fecha de aplicación 
+inicial es el comienzo  del periodo anual sobre el que se informa en que la entidad 
+aplique esta Norma por primera vez. 
+... 
+ 
+Pasivo por arrendamiento en una venta con arrendamiento posterior 
+ 
+C20E  Un vendedor-arrendatario aplicará Pasivo por Arrendamiento en una Venta con 
+Arrendamiento Posterior  (véase el párrafo C1D) de forma retroactiva, de 
+acuerdo con la NIC 8, a las transacciones de venta con arrendamiento posterior 
+realizadas después de la fecha de la aplicación inicial.
+
+DECRETO     DE 2025   Página 4 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+Pasivos no Corrientes con Condiciones Pactadas 
+Modificaciones a la NIC 1 
+ 
+ 
+Modificaciones a la NIC 1 Presentación de Estados Financieros  
+ 
+ 
+ 
+ 
+Estructura y contenido  
+... 
+ 
+Estado de situación financiera 
+... 
+ 
+Distinción entre partidas corrientes y no corrientes 
+60 Una entidad presentará sus activos corrientes y no corrientes, y sus pasivos 
+corrientes y no corrientes, como categorías separadas en su estado de situación 
+financiera, de acuerdo con los párrafos 66 a 76 B, excepto cuando una 
+presentación basada en el grado de liquidez proporcione una información que 
+sea fiable y  más relevante. Cuando se aplique esa excepción, una entidad 
+presentará todos los activos y pasivos ordenados atendiendo a su liquidez. 
+... 
+ 
+Pasivos corrientes 
+69 Una entidad clasificará un pasivo como corriente cuando: 
+(a) espera liquidar el pasivo en su ciclo normal de operación; 
+(b) mantiene el pasivo principalmente con fines de negociación; 
+(c) debe liquidarse el pasivo dentro de los doce meses siguientes al periodo 
+de presentación; o 
+(d) no tiene el derecho incondicional al final del periodo sobre el que se 
+informa de diferir la liquidación del pasivo durante, al menos, los doce 
+meses siguientes a este periodo. 
+Una entidad clasificará todos los demás pasivos como no corrientes. 
+... 
+ 
+Se modifican los párrafos 60, 71, 72A, 74 y 139U. Se añaden los párrafos 72B y 139W. Se 
+añade el párrafo 76ZA inmediatamente después del párrafo 76. El texto nuevo ha sido 
+subrayado y el texto eliminado ha sido tachado. Los párrafos 69 y 75 no se modifican, pero 
+se incluyen para hacer la referencia más fácil.
+
+DECRETO     DE 2025   Página 5 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+ 
+Mantenido principalmente con el propósito de negociar [párrafo 69(b)] o que debiera 
+ser liquidado dentro de los doce meses siguientes [párrafo 69(c)] 
+ 
+71 Otros tipos de pasivos corrientes no son liquidados como parte del ciclo normal de 
+operaciones, pero deben liquidarse dentro de los doce meses siguientes a la fecha del 
+periodo de presentación o se mantienen fundamental mente con propósitos de 
+negociación Son ejemplos de este tipo algunos pasivos financieros que cumplen la 
+definición de mantenidos para negociar de acuerdo con la NIIF 9, los sobregiros 
+bancarios, la parte corriente de los pasivos financieros no corrientes, los dividendos por 
+pagar, los impuestos sobre las ganancias y otras cuentas por pagar no comerciales. Los 
+pasivos financieros que proporcionan financiación a largo plazo (es decir, no forman 
+parte del capital de trabajo utilizado en el ciclo normal de ope raciones de la entidad) y 
+que no deban liquidarse dentro de los doce meses siguientes al ejercicio sobre el que se 
+informa son pasivos no corrientes, sujetos a los párrafos 72A a 7574 y 75. 
+ 
+... 
+ 
+Derecho a diferir la liquidación al menos por doce meses [párrafo 69(d)] 
+72A El derecho de una entidad a diferir la liquidación de un pasivo por al menos doce 
+meses después del periodo sobre el que se informa debe tener fundamento y, como 
+ilustran los párrafos 72B a 7573–75, debe existir al final del periodo sobre el que se 
+informa. Si el derecho a diferir la liquidación está sujeto a que la  entidad cumpla con 
+condiciones especificadas, el derecho existe al final del periodo sobre el que informa 
+solo si la entidad cumple con dicha s condiciones en ese momento. La entidad debe 
+cumplir con las condiciones al final del periodo sobre el que se informa incluso si el 
+prestamista no comprueba el cumplimiento hasta una fecha posterior. 
+72B  El derecho de una entidad a diferir la liquidación de un pasivo derivado de un acuerdo 
+de préstamo durante  al menos doce meses después del periodo sobre el que se 
+informa puede estar sujeto a que la entidad cumpla con las condiciones especificadas 
+en dicho acuerdo de préstamo (en adelante, "condiciones pactadas"). A efectos de la 
+aplicación del párrafo 69(d), estas condiciones pactadas: 
+(a) Afectan la evaluación sobre la existencia de ese derecho al final del periodo 
+sobre el que se informa —como se ilustra en los párrafos 74 y 75 —si se 
+requiere que la entidad cumpla la condición pactada al final de del periodo 
+sobre el que se informa o antes. Este tipo de condición pactada afecta a la 
+existencia del derecho al final del periodo sobre el que se informa, incluso si el 
+cumplimiento de la condición pactada se evalúa solo después del periodo 
+sobre el que se informa (por ejemplo, una condición pactada basada en la 
+situación financiera de la entidad al final del periodo sobre el que se informa, 
+pero cuyo cumplimiento se evalúa solo después de este periodo. 
+(b) No afecta la existencia de ese derecho al final del periodo sobre el que se 
+informa si se requiere que la entidad cumpla la condición pactada sólo después 
+de este periodo (por ejemplo, una condición pactada basada en la situación 
+financiera de la entidad seis meses después del final de dicho periodo). 
+...
+
+DECRETO     DE 2025   Página 6 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+ 
+74 Cuando una entidad haya infringido, ya sea al final del periodo de presentación o antes, 
+una condición pactadacondición contenida en un contrato de préstamo a largo plazo, 
+con el efecto de que el pasivo se convierta en exigible a voluntad del prestamista, tal 
+pasivo se clasificará como corriente, incluso si el prestamista hubiese acordado, 
+después de la fecha de ese periodo sobre el que se informa y antes de que los estados 
+financieros sean autorizados para su publicación, no exigir el pago como consecuencia 
+de la infracción. Una entidad clasificará el pasivo como corriente porque, al final del 
+periodo sobre el que se informa, no tiene el derecho de aplazar la cancelación del 
+pasivo durante al menos, doce meses posteriores a esa fecha. 
+75 Sin embargo, una entidad clasificará el pasivo como no corriente si el prestamista 
+hubiese acordado, al final del periodo sobre el que se informa, la concesión de un 
+periodo de gracia que finalice al menos doce meses después de esa fecha, dentro de 
+cuyo plazo la entidad puede rectificar la infracción y durante el cual el prestamista no 
+puede exigir el reembolso inmediato. 
+... 
+76ZA  Al aplicar los párrafos 69 a 75, una entidad podría clasificar los pasivos derivados 
+de acuerdos de préstamo como no corrientes cuando el derecho de la entidad a 
+diferir la liquidación de esos pasivos esté sujeto a que la entidad cumpla con las 
+condiciones pactadas dentro de los doce meses siguientes al periodo sobre el 
+que se informa [véase el párrafo 72B(b)]. En estas situaciones, la entidad revelará 
+en las notas información que permita a los usuarios de los estados financieros 
+comprender el riesgo de que los pasivos puedan ser reembolsables en los doce 
+meses siguientes al periodo sobre el que se informa, incluyendo: 
+(a) información sobre las condiciones pactadas (incluyendo la naturaleza de 
+éstas y cuándo se requiere que la entidad las cumpla) y el importe en 
+libros de los pasivos relacionados. 
+(b) los hechos y circunstancias, si los hay, que indiquen que la e ntidad 
+puede tener dificultades para cumplir con las condiciones pactadas—por 
+ejemplo, que la entidad haya actuado durante o después del periodo 
+sobre el que se informa para evitar o reducir una posible infracción. Estos 
+hechos y circunstancias también pod rían incluir el que la entidad no 
+hubiera cumplido con las condiciones pactadas si se evaluara su 
+cumplimiento en función de las circunstancias de la entidad al final del 
+periodo sobre el que se informa. 
+... 
+ 
+Transición y fecha de vigencia   
+... 
+139U Clasificación de Pasivos como Corrientes o No corrientes, emitida en enero de 2020 
+modificó los párrafos 69, 73, 74 y 76 y añadió los párrafos 72A, 75A, 76A y 76B. Una 
+entidad aplicará esas modificaciones para los periodos anuales que comiencen a partir 
+del 1 de enero de 2024 1 de enero de 2023 de forma retroactiva de acuerdo con la NIC 
+8. Se permite su aplicación anticipada. Si una entidad aplica esas modificaciones para
+
+DECRETO     DE 2025   Página 7 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+un periodo anterior a la emisión de Pasivos no Corrientes con Condiciones Pactadas 
+(véase el párrafo  139W), también aplicará Pasivos no Corrientes con Condiciones 
+Pactadas para ese periodo. Si una entidad aplica Clasificación de Pasivos como 
+Corrientes o No corrientes  esas modificaciones para un periodo anterior, la entidad 
+revelará ese hecho. 
+... 
+139W Pasivos no Corrientes con Condiciones Pactadas, emitida en octubre de 2022, modificó 
+los párrafos 60, 71, 72A, 74 y 139U y añadió los párrafos 72B, y 76ZA. Una entidad 
+aplicará: 
+(a) La modificación del párrafo 139U, inmediatamente después de la emisión de 
+Pasivos no Corrientes con Condiciones Pactadas. 
+(b) Todas las demás modificaciones para los periodos anuales que comiencen a 
+partir del 1 de enero de 2024 de forma retroactiva de acuerdo con la NIC 8. Se 
+permite su aplicación anticipada. Si una entidad aplica estas modificaciones 
+para un periodo anterior, la entidad también aplicará Clasificación de Pasivos 
+como Corriente o No Corriente para ese periodo. Si una entidad aplica Pasivos 
+no Corrientes con Condiciones Pactadas a periodos anteriores, revelará este 
+hecho.
+
+DECRETO     DE 2025   Página 8 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+ 
+ 
+ 
+Acuerdos de Financiación a Proveedores 
+Modificaciones a la NIC 7 y NIIF 7 
+ 
+Modificaciones a la NIC 7 Estado de Flujos de Efectivo  
+ 
+Se añaden los párrafos 44F a 44H, sus encabezamientos relacionados y los párrafos 62 y 63. 
+Para facilitar la lectura, estos párrafos y sus encabezamientos no han sido subrayados. Se 
+modifica el encabezamiento anterior al párrafo 53. El texto nuevo está subrayado en est e 
+párrafo. 
+ 
+Acuerdos de financiación a proveedores  
+44F  Una entidad revelará información sobre sus acuerdos de financiación a 
+proveedores (según se describe en el párrafo 44G) que permita a los usuarios 
+de los estados financieros  evaluar los efectos de dichos acuerdos sobre los 
+pasivos y flujos de efectivo de la entidad,  así como sobre la exposición  de la 
+entidad al riesgo de liquidez. 
+44G  Los acuerdos de financiación a proveedores se caracterizan porque uno o varios 
+suministradores de financiación ofrecen pagar los importes que una entidad debe a 
+sus proveedores y la entidad se compromete a pagar según los términos y condiciones 
+de los acuerdos en la misma fecha en la que se paga a los proveedores o en una fecha 
+posterior. Estos acuerdos proporcionan a la entidad plazos de pago ampliados, o a los 
+proveedores de la entidad plazos de pago anticipados, en comparación con la fecha 
+de vencimiento de la factura correspondiente. Los acuerdos de  financiación a  
+proveedores suelen denominarse financiación de la cadena de suministro, financiación 
+de cuentas por pagar o acuerdos de factoraje inverso. Los acuerdos que son 
+únicamente mejoras crediticias para la entidad (por ejemplo, las garantías financieras, 
+incluidas las cartas de crédito utilizadas como garantías) o los instrumentos utilizados 
+por la entidad para liquidar directamente con un proveedor los importes adeudados 
+(por ejemplo, las tarjetas de crédito) no son acuerdos de financiación a proveedores. 
+44H Para cumplir los objetivos del párrafo 44F, una entidad revelará de forma agregada 
+para sus acuerdos de financiación a proveedores: 
+(a) Los términos y condiciones de los acuerdos (por ejemplo, la ampliación de los 
+plazos de pago y la seguridad o garantías proporcionadas). Sin embargo, una 
+entidad revelará por separado los términos y condiciones de los acuerdos que 
+tengan términos y condiciones diferentes. 
+(b) Al principio y al final del periodo sobre el que se informa: 
+(i) Los importes en libros, y las partidas asociadas presentadas en el 
+estado de situación financiera de la entidad, de los pasivos financieros 
+que forman parte de un acuerdo de financiación de proveedores. 
+(ii) Los importes en libros, y las partidas asociadas, de los pasivos 
+financieros revelados en (i) para los que los proveedores ya han
+
+DECRETO     DE 2025   Página 9 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+recibido el pago por parte de los suministradores de financiación. 
+(iii) El rango de fechas de vencimiento de los pagos (por ejemplo, 30 a 40 
+días después de la fecha de la factura) tanto para los pasivos 
+financieros revelados en (i) como para las cuentas comerciales por  
+pagar comparables que no formen parte de un acuerdo de financiación 
+de proveedores. Los pasivos comerciales por pagar comparables son, 
+por ejemplo, los pasivos comerciales por pagar de la entidad dentro 
+de la misma línea de negocio o jurisdicción que los pasivos financieros 
+revelados en (i). Si los rangos de las fechas de vencimiento de los 
+pagos son amplios, una entidad revelará información explicativa sobre 
+dichos rangos o revelar rangos adicionales (por ejemplo, rangos 
+estratificados). 
+(c) El tipo y el efecto de los cambios no monetarios en los importes en libros de 
+los pasivos financieros revelados según (b)(i). Ejemplos de cambios no 
+monetarios incluyen el efecto de combinaciones de negocios, diferencias de 
+cambio u otras transacciones que no requieren el uso de efectivo o 
+equivalentes de efectivo (véase el párrafo 43). 
+... 
+ 
+Fecha de vigencia y transición   
+... 
+62 Acuerdos de financiación a proveedores , publicado en mayo de 2023, añadió los 
+párrafos 44F y 44H. Una entidad aplicará  esas modificaciones a periodos anuales 
+sobre los que se informa que comiencen a partir del 1 de enero de 2024. Se permite 
+su aplicación anticipada. Si una entidad aplica esas modificaciones en un periodo que 
+comience con anterioridad, revelará este hecho. 
+63 Al aplicar Acuerdos de Financiación a Proveedores, una entidad no está obligada a 
+revelar: 
+(a) Información comparativa de cualquier periodo presentado antes del comienzo 
+del periodo anual sobre el que se informa en el que la entidad aplique por 
+primera vez esas modificaciones. 
+(b) La información requerida por el párrafo 44H(b)(ii) y (iii) al comienzo del periodo 
+anual sobre el que se informa en el que la entidad aplica por primera vez esas 
+modificaciones. 
+(c) La información requerida por los párrafos 44F y 44H para cualquier periodo 
+intermedio presentado dentro del periodo anual sobre el que se informa en el 
+que la entidad aplique por primera vez esas modificaciones.
+
+DECRETO     DE 2025   Página 10 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+Modificaciones a la NIIF 7 Instrumentos Financieros: Información a revelar  
+ 
+Se añade el párrafo 44JJ. En el Apéndice B, se  modifica el párrafo B11F. En la Guía de 
+aplicación de la NIIF 7, se añade el párrafo GI18A. Parte del texto del párrafo GI18 se traslada 
+para formar parte del párrafo GI18A recién añadido. El texto eliminado se tacha y el texto 
+nuevo o reubicado se subraya. 
+ 
+Fecha de vigencia y transición  
+... 
+44JJ  Acuerdos de Financiación a Proveedores , emitido en mayo de 2023, que también 
+modificaba la NIC 7, modificaba el párrafo B11F. Una entidad aplicará esa modificación 
+cuando aplique las modificaciones a la NIC 7. 
+... 
+ 
+Apéndice B 
+Guía de aplicación 
+... 
+ 
+Naturaleza y alcance de los riesgos que surgen de instrumentos financieros 
+(párrafos 31 a 42)  
+... 
+ 
+Información a revelar de tipo cuantitativo sobre el riesgo de liquidez [párrafos 
+34(a) y 39(a) y (b)] 
+... 
+B11F Otros factores que una entidad puede considerar al revelar la información requerida 
+en el párrafo 39(c) incluyen, pero no se limitan a, si la entidad: 
+(a) dispone de facilidades de préstamo comprometidas (por ejemplo, financiación 
+de facturas comerciales) u  otras líneas de crédito (por ejemplo, garantías 
+bancarias de créditos comerciales) a las que puede acceder para satisfacer 
+sus necesidades de liquidez; 
+(b) mantiene depósitos en bancos centrales para satisfacer necesidades de 
+liquidez; 
+(c) tiene muy diversificadas sus fuentes de financiación; 
+(d) posee concentraciones significativas de riesgo de liquidez en sus activos o 
+en sus fuentes de financiación; 
+(e) tiene procedimientos de control interno y planes de contingencias para 
+gestionar el riesgo de liquidez; 
+(f) tiene instrumentos con cláusulas que provocan el reembolso acelerado (por 
+ejemplo, en el caso de una rebaja en la calificación crediticia de la entidad);
+
+DECRETO     DE 2025   Página 11 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+(g) tiene instrumentos que pueden requerir la prestación de garantías 
+colaterales (por ejemplo, aportación de garantías adicionales en caso de 
+evolución desfavorable de precios en derivados); 
+(h) tiene instrumentos que permiten a la entidad elegir si liquida sus pasivos 
+financieros mediante la entrega de efectivo (u otro activo financiero)  o 
+mediante la entrega de sus propias acciones; o 
+(i) tiene instrumentos que están sujetos a acuerdos básicos de compensación; o 
+ 
+               (j) tiene acceso o ha accedido a facilidades según acuerdos de financiación a 
+proveedores (como se describe  en el párrafo 44G de la NIC 7) que 
+proporcionan a la entidad condiciones de pago ampliadas o que proporcionan 
+a los proveedores de la entidad condiciones de pago anticipado. 
+ 
+...
+
+DECRETO     DE 2025   Página 12 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+Reforma Fiscal Internacional—Reglas del Modelo del Segundo Pilar 
+Modificaciones a la NIC 12 
+ 
+Modificaciones a la NIC 12 Impuesto a las Ganancias  
+ 
+Se añaden los párrafos 4A, 88A a 88D (incluido su correspondiente encabezamiento y el 
+recuadro después del párrafo 88D) y 98M. 
+ 
+Alcance  
+ 
+... 
+4A Esta Norma se aplica a los impuestos a las ganancias derivados de la legislación 
+fiscal promulgada o sustancialmente promulgada para implementar las reglas del 
+modelo del Segundo Pilar publicadas por la Organización para la Cooperación y 
+el Desarrollo Económico (OCDE), incluida la l egislación fiscal que aplica los 
+impuestos mínimos nacionales complementarios calificados descritos en dichas 
+reglas. Dicha legislación fiscal, y los impuestos a las ganancias que de ella se 
+derivan, se denominarán en lo sucesivo "legislación del Segundo Pilar" e 
+"impuestos a las ganancias del Segundo Pilar". Como una excepción a los 
+requerimientos de esta Norma, una entidad no reconocerá  ni revelará información 
+sobre los activos y pasivos por impuestos diferidos relacionados con los  
+impuestos a las ganancias del Segundo Pilar. 
+... 
+ 
+Información a revelar  
+ 
+... 
+ 
+Reforma fiscal internacional—Reglas del modelo del Segundo Pilar 
+88A    La entidad informará que ha aplicado la excepción a reconocer y revelar 
+información sobre activos y pasivos por impuestos diferidos relacionados 
+con el impuesto a las ganancias del Segundo Pilar (véase el párrafo 4A). 
+88B   La entidad revelará por separado sus gastos (ingresos) por impuestos 
+corrientes relacionados con el impuesto a las ganancias del Segundo Pilar. 
+88C  En periodos en los que la legislación del Segundo Pilar esté promulgada o 
+sustancialmente promulgada pero aún no en vigencia, una entidad revelará 
+información conocida o razonablemente estimable que ayude a los usuarios 
+de los estados financieros a comprender la exposición de la entidad a los 
+impuestos a las ganancias del Segundo Pilar derivados de esa legislación. 
+88D  Para cumplir el objetivo de información a revelar del párrafo  88C, una entidad 
+deberá revelar información cualitativa y cuantitativa sobre su exposición a los 
+impuestos a las ganancias del Segundo Pilar al final del periodo sobre el que se 
+informa. Esta información no tiene que reflejar  todos los requerimientos
+
+DECRETO     DE 2025   Página 13 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+específicos de la legislación del Segundo Pilar y puede proporcionarse en forma 
+de rango indicativo. En la medida en que la información no sea conocida o 
+razonablemente estimable, una entidad revelará en su lugar una declaración a tal 
+efecto y revelará información sobre los progresos de la entidad en la evaluación 
+de su exposición. 
+ 
+Ejemplos ilustrativos párrafos 88C y 88D 
+ 
+Entre los ejemplos de información que una entidad podría revelar para cumplir el objetivo 
+y los requerimientos de los párrafos 88C a 88D se incluyen: 
+(a) información cualitativa como, por ejemplo, información sobre la forma en que una 
+entidad se ve  afectada por la legislación del Segundo Pilar y las principales 
+jurisdicciones en las que podría existir exposición a los impuestos a las ganancias 
+del Segundo Pilar; y 
+(b) información cuantitativa como: 
+(i) una indicación de la proporción de las ganancias de una entidad que 
+podría estar sujeta a los impuestos a las ganancias del Segundo Pilar y 
+la tasa impositiva efectiva promedio aplicable a esas ganancias; o 
+(ii) una indicación de cómo habría cambiado la tasa impositiva promedio 
+efectiva de la entidad si la legislación del Segundo Pilar hubiera estado 
+vigente. 
+ 
+... 
+ 
+ 
+Fecha de vigencia  
+ 
+... 
+98M Reforma Fiscal Internacional—Reglas del Modelo del Segundo Pilar, publicado 
+en mayo de 2023, añadió los párrafos 4A y 88A a 88D. Una entidad: 
+(a) aplicará los párrafos 4A y 88A inmediatamente después de la emisión de 
+estas modificaciones y de forma retroactiva de conformidad con la NIC 8; 
+y 
+(b) aplicará los párrafos 88B a 88D para los periodos anuales que comiencen 
+a partir del 1 de enero de 2023. No se requiere que una entidad revele la 
+información requerida por estos párrafos para ningún periodo intermedio 
+que finalice el 31 de diciembre de 2023 o antes.
+
+DECRETO     DE 2025   Página 14 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+Ausencia de Convertibilidad 
+Modificaciones a la NIC 21 
+ 
+Modificaciones a la NIC 21 Efectos de las Variaciones en las Tasas de Cambio de la 
+Moneda Extranjera  
+ 
+Se modifican los párrafos 8 y 26. Se añaden los párrafos 8A, 8B, 19A y sus encabezamientos 
+relacionados, los párrafos 57A, 57B, 60L, 60M y el Apéndice A. El texto nuevo ha sido 
+subrayado y el texto eliminado ha sido tachado. Para facilitar su lectura, el texto del Apéndice 
+A no se ha subrayado. 
+ 
+Definiciones  
+ 
+8 Los siguientes términos se usan en esta Norma con  los significados que a 
+continuación se especifican: 
+... 
+Una moneda es convertible en otra cuando una entidad puede obtener la otra 
+moneda en un plazo que permite un retraso administrativo normal y a través de un 
+mercado o mecanismo de cambio en el que  una transacción de cambio crearía  
+derechos u obligaciones exigibles. 
+... 
+ 
+Desarrollo de las definiciones 
+Convertible (párrafos A2 a A10) 
+ 
+8A Una entidad evalúa si una moneda es convertible en otra moneda: 
+(a) en una fecha de medición; y 
+(b) para un fin determinado. 
+8B Si una entidad no puede obtener más que un importe insignificante de la otra 
+moneda en la fecha de medición para el fin especificado, la moneda no es convertible 
+en la otra moneda. 
+... 
+ 
+Estimación de la tasa de cambio de contado cuando una moneda no es  convertible 
+(párrafos A11 a A17)  
+ 
+19A      La entidad estimará la tasa de cambio de contado en una fecha de medición cuando 
+una moneda no sea convertible en otra moneda (como se describe en los párrafos 8, 
+8A, 8B y A2 a A10) en esa fecha. El objetivo de una entidad al estimar la tasa de 
+cambio de contado es reflejar la tasa a la que tendría lugar una transacción de cambio 
+ordenada en la fecha de medición entre participantes en el mercado en las condiciones
+
+DECRETO     DE 2025   Página 15 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+económicas prevalecientes. 
+Información sobre las transacciones en moneda extranjera en moneda funcional  
+ 
+... 
+ 
+Información al final de los periodos posteriores sobre los que se informa 
+... 
+26 Cuando se disponga de varias tasas de cambio, se utilizará aquella a la que pudieran 
+ser liquidados los flujos futuros de efectivo representados por la transacción o el saldo, 
+si tales flujos hubieran ocurrido en la fecha de la medición. Cuando se haya perdido 
+temporalmente la posibilidad de negociar dos monedas en condiciones de mercado, la 
+tasa a utilizar será la primera que se fije en una fecha posterior, en la que se puedan 
+negociar las divisas en las condiciones citadas. 
+... 
+ 
+Información a revelar  
+ 
+... 
+57A      Cuando una entidad estime un tipo de cambio de contado debido a que una moneda 
+no es convertible en otra (véase el párrafo 19A), revelará información que permita a 
+los usuarios de sus estados financieros comprender cómo la moneda no convertible 
+en otra afecta, o se espera que afecte, al rendimiento financiero, a la situación 
+financiera y a los flujos de efectivo de la entidad. Para lograr este objetivo, una entidad 
+revelará información sobre: 
+(a) la naturaleza y los efectos financieros de la moneda no convertible en la otra 
+moneda; 
+(b) la tasa (o tasas) de cambio de contado utilizadas; 
+(c) el proceso de estimación; y 
+(d) los riesgos a los que se expone la entidad debido a que la moneda no es 
+convertible en la otra moneda. 
+57B Los párrafos A18 a A20 especifican la forma en que una entidad aplicará el párrafo 57A. 
+ 
+Fecha de vigencia y transición  
+ 
+... 
+60L      Ausencia de Convertibilidad, emitida en agosto de 2023, modificó los párrafos 8 y 26, 
+y añadió los párrafos 8A, 8B, 19A, 57A, 57B y el apéndice A. Una entidad aplicará esas 
+modificaciones a los periodos anuales sobre los que se informe que comiencen a partir 
+del 1 de enero de 2025. Se permite su aplicación anticipada. Si una entidad aplica las 
+modificaciones en un periodo que comience con anterioridad, revelará este hecho. La 
+fecha de aplicación inicial es el comienzo del periodo anual sobre el que se informa 
+en que la entidad aplique las modificaciones por primera vez.
+
+DECRETO     DE 2025   Página 16 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+60M  Al aplicar Ausencia de Convertibilidad, una entidad no reexpresará la información 
+comparativa. En su lugar: 
+ 
+(a) Cuando la entidad informe de transacciones en moneda extranjera en su 
+moneda funcional y, en la fecha de aplicación inicial, concluya que su moneda 
+funcional no es convertible en la moneda extranjera o, en su caso, concluya 
+que la moneda extranjera no es convertible en su moneda funcional, la entidad, 
+en la fecha de aplicación inicial: 
+(i) convertirá las partidas monetarias afectadas en moneda extranjera, y 
+las partidas no monetarias medidas a valor razonable en una moneda 
+extranjera utilizando la tasa de  cambio de contado estimada en esa 
+fecha; y 
+(ii) reconocerá el efecto de la aplicación inicial de las modificaciones como 
+un ajuste al saldo inicial de las ganancias acumuladas. 
+(b) Cuando la entidad utilice una moneda de presentación distinta de su moneda 
+funcional, o convierta los resultados y la situación financiera de un negocio en 
+el extranjero, y, en la fecha de  aplicación inicial, concluya que su moneda 
+funcional (o la moneda funcional del negocio en el extranjero) no es convertible 
+en su moneda de presentación o, en su caso, concluya que su  moneda de 
+presentación no es convertible en su moneda funcional (o en la  moneda 
+funcional del negocio en el extranjero), la entidad, en la fecha de aplicación 
+inicial: 
+(i) convertirá los activos y pasivos afectados utilizando la tasa de cambio 
+de contado estimada en esa fecha; 
+(ii) convertirá las partidas de patrimonio afectadas utilizando la tasa de 
+cambio de contado estimada en esa fecha si la moneda funcional de 
+la entidad es hiperinflacionaria; y 
+(iii) reconocerá el efecto de la aplicación inicial de las modificaciones como 
+un ajuste al  importe acumulado de las diferencias de conversión—
+acumulado en un componente separado del patrimonio. 
+...
+
+DECRETO     DE 2025   Página 17 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+Apéndice A 
+Guía de Aplicación 
+Este apéndice es parte integrante de la Norma. 
+ 
+ 
+Convertibilidad  
+ 
+A1 La finalidad del siguiente diagrama es ayudar a las entidades a evaluar si una moneda 
+es convertible y a estimar la tasa de cambio de contado cuando una moneda no es 
+convertible. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paso I: Evaluación de si una moneda es convertible (párrafos 8, 8A y 8B) 
+A2 Los párrafos A3 a A10 establecen guías de aplicación para ayudar a una entidad a 
+evaluar si una moneda es convertible en otra moneda. La entidad podría determinar 
+que una moneda no es convertible en otra  moneda, aun cuando esa otra moneda 
+pudiera ser convertible en la otra dirección. Por ejemplo, una entidad puede determinar 
+que la moneda MP no es convertible en la moneda ML, aunque la moneda ML sea  
+convertible en la moneda MP. 
+ 
+Marco temporal 
+A3 El párrafo 8 define una tasa de cambio de contado como la tasa de cambio utilizada en 
+las transacciones con entrega inmediata. Sin embargo, es posible que una transacción 
+de intercambio no siempre se complete  instantáneamente debido a requerimientos 
+legales o reguladores, o por razones prácticas como días festivos.  Un retraso 
+administrativo normal para obtener la otra moneda no impide que una moneda sea 
+convertible en otra. Qué constituye un retraso administrativo normal depende de los 
+hechos y circunstancias. 
+   
+Sí 
+No 
+¿Es convertible la 
+moneda en la otra 
+moneda en la fecha 
+de medición para el 
+propósito específico 
+(véase los párrafo8, 
+8A, 8B y A2 a A10)? 
+ 
+En la fecha de medición, la estimación de la 
+tasa de cambio de contado que cumple el  
+objetivo del párrafo 19A mediante el uso de: 
+(a) una tasa de cambio observable sin ajustes 
+(véanse los párrafos A11a A16); u 
+(b) otra técnica de estimación (véase el 
+párrafo A17). 
+Aplíquese 
+los 
+requerimiento 
+s aplicables 
+de la NIC 21. 
+Paso II: 
+Estimación de la 
+tasa de cambio de 
+contado cuando 
+una moneda no es 
+convertible 
+Paso I: 
+Evaluación de si 
+una moneda es 
+convertible
+
+DECRETO     DE 2025   Página 18 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+Capacidad para obtener la otra moneda 
+ 
+A4 Al evaluar si una moneda es convertible en otra, una entidad considerará su capacidad 
+para obtener la otra  moneda, en lugar de su intención o decisión de hacerlo. Con 
+sujeción a los otros requerimientos de los  párrafos A2 a A10, una moneda es 
+convertible en otra si una entidad puede obtener la otra moneda—directa o 
+indirectamente— incluso si pretende o decide no hacerlo. Por ejemplo, con sujeción a 
+los otros requerimientos de los párrafos A2-A10, independientemente de que la entidad 
+pretenda o decida obtener MP, la moneda ML es convertible en la moneda MP si una 
+entidad puede cambiar ML por MP o cambiar  ML por otra moneda (MF) y después 
+cambiar MF por MP. 
+ 
+Mercados o mecanismos de cambio 
+A5 Al evaluar si una moneda es convertible en otra, una entidad considerará solo 
+mercados o mecanismos de  cambio en los que una transacción para cambiar la 
+moneda por la otra crearía derechos y obligaciones  exigibles. La exigibilidad es un 
+tema legal. Si una tra nsacción de cambio en un mercado o mecanismo de  mercado 
+crearía derechos y obligaciones exigibles depende de los hechos y circunstancias. 
+ 
+Propósito de obtener la otra moneda 
+A6 Tasas diferentes podrían estar disponible para usos distintos de una moneda. Por 
+ejemplo, una jurisdicción  que se enfrente a presiones sobre su balanza de pagos 
+podría querer frenar remesas de capital (como el pago  de dividendos) a otras 
+jurisdicciones, a la vez de fomentar las importaciones de bienes específicos de esas  
+jurisdicciones. En estas circunstancias, las autoridades relevantes podrían: 
+(a) establecer una tasa de cambio preferencial para las importaciones de esos 
+bienes y una tasa de cambio "penalizada" para las remesas de capital a otras 
+jurisdicciones, lo que hace que se apliquen tasas de cambio diferentes a las 
+distintas operaciones de cambio; o 
+(b) hacer la otra moneda disponible únicamente para pagar importaciones de esos 
+bienes y no para remesas de capital a otras jurisdicciones. 
+A7 Por consiguiente, si una moneda es convertible en otra podría depender del propósito 
+para el que la entidad  obtiene (o hipotéticamente podría necesitar obtener) la otra 
+moneda. La evaluación de la convertibilidad: 
+(a) Cuando una entidad informe sobre transacciones en moneda extranjera en su 
+moneda funcional (véanse los párrafos 20 a 37), la entidad asumirá que su 
+propósito al obtener la otra moneda es realizar o liquidar transacciones, activos 
+o pasivos individuales en moneda extranjera. 
+(b) Cuando una entidad utilice una moneda de presentación distinta de su moneda 
+funcional (véanse los párrafos 38 a 43), la entidad asumirá que su propósito al 
+obtener la otra moneda es realizar o liquidar sus activos netos o pasivos netos.
+
+DECRETO     DE 2025   Página 19 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+(c) Cuando una entidad convierta los resultados y la situación financiera de un 
+negocio en el extranjero a la moneda de presentación (véanse los párrafos 44 
+a 47), la entidad asumirá que su propósito al obtener la otra moneda es realizar 
+o liquidar su inversión neta en el negocio en el extranjero. 
+A8 Los activos netos o la inversión neta de una entidad en un negocio en el extranjero se 
+podrían realizar mediante, por ejemplo: 
+(a) la distribución de un rendimiento financiero a los propietarios de la entidad; 
+(b) el cobro de un rendimiento financiero procedente del negocio en el extranjero; o 
+(c) la recuperación de la inversión por parte de la entidad o de los propietarios de 
+la entidad, por ejemplo, mediante la disposición de la inversión. 
+A9 La entidad evaluará si una moneda es convertible en otra moneda de forma separada 
+para cada uno de los propósitos especificados en el párrafo A7. Por ejemplo, una 
+entidad evaluará la convertibilidad a efectos de informar sobre transacciones en 
+moneda extranjera en su moneda funcional [véase el párrafo A7(a)] por separado de 
+la convertibilidad a efectos de convertir los resultados y situación financiera de un 
+negocio en el extranjero [véase el párrafo A7(c)]. 
+ 
+Capacidad de obtener solo cantidades limitadas de la otra moneda 
+A10      Una moneda no es convertible en otra si, a efectos de lo especificado en el párrafo A7, 
+una entidad solo puede obtener una cantidad no significativa de la otra moneda. Una 
+entidad evaluará la significatividad de la cantidad de la otra moneda que puede obtener 
+para un propósito específico comparando esa cantidad con la totalidad de la cantidad 
+requerida de la otra moneda para ese fin. Por ejemplo, una entidad con moneda  
+funcional ML tiene pasivos denominados en moneda MF. La entidad evalúa si el 
+importe total de MF que puede obtener para liquidar esos pasivos no es más que un 
+importe insignificante comparado con el importe  agregado (la suma) de sus saldos 
+pasivos denominados en MF. 
+ 
+Paso II: Estimación de la tasa de cambio de contado cuando una moneda no es 
+convertible (párrafo 19A) 
+A11  Esta Norma no especifica cómo estima la entidad la tasa de cambio de contado para 
+cumplir el objetivo del  párrafo 19A. La entidad puede utilizar un tipo de cambio 
+observable sin ajustes (véanse los párrafos A12 a A16) u otra técnica de estimación 
+(véase el párrafo A17). 
+ 
+Utilización de una tasa de cambio observable sin ajustes 
+A12      Al estimar la tasa de cambio de contado, tal como se requiere en el párrafo 19A, una 
+entidad puede utilizar un tipo de cambio observable sin ajustes, si dicho tipo de cambio 
+observable cumple el objetivo del párrafo 19A. Algunos ejemplos de tasa de cambio 
+observable son: 
+(a) una tasa de cambio de contado a efectos distintos de aquellos para los que 
+una entidad evalúa la convertibilidad (véanse los párrafos A13 y A14); y
+
+DECRETO     DE 2025   Página 20 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4
+
+DECRETO     DE 2025   Página 21 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+(b) la primera tasa de cambio a la que una entidad puede obtener la otra moneda 
+para un propósito específico después de que se restablezca la convertibilidad 
+de la moneda (primera tasa de cambio posterior) (véanse los párrafos A15 y 
+A16). 
+ 
+Utilización de una tasa de cambio observable para otro propósito 
+A13      Una moneda que no es convertible en otra para un propósito podría ser convertible en 
+esa moneda para otro propósito. Por ejemplo, una entidad podría ser capaz de obtener 
+una moneda para importar bienes específicos, pero no para pagar dividendos. En tales 
+situaciones, la entidad podría concluir que una tasa de  cambio observable para otro 
+propósito cumple el objetivo del párrafo 19A. Si la tasa de cambio cumple el objetivo 
+del párrafo 19A, la entidad podrá utilizarlo como tipo de cambio de contado estimado. 
+A14    Al evaluar si esta tasa de cambio observable cumple el objetivo del párrafo 19A, una 
+entidad considerará, entre otros factores: 
+(a) Si existen varias tasas de cambio observables—la existencia de más de una 
+tasa de cambio observable podría indicar que las tasas de cambio están fijadas 
+para fomentar o disuadir a las  entidades de obtener la otra moneda para 
+propósitos concretos. Estas tasas de cambio observables  podrían incluir un 
+"incentivo" o una "penalización" y, por tanto, podrían no reflejar las condiciones 
+económicas prevalecientes. 
+(b) El propósito para el cual la moneda es convertible —si una entidad puede 
+obtener la otra moneda solo para propósitos concretos (tales como importar  
+suministros de emergencia), la tasa de cambio observable podría no reflejar 
+las condiciones económicas prevalecientes. 
+(c) La naturaleza de la tasa de cambio—es más probable que una tasa de cambio 
+observable de libre  fluctuación refleje las condiciones económicas 
+prevalecientes que una tasa de cambio fijada  mediante intervenciones 
+periódicas de las autoridades pertinentes. 
+(d) La frecuencia con la que las tasas de cambio se actualizan —una tasa de 
+cambio observable que no se modifica a lo largo del tiempo es menos probable 
+que refleje las condiciones económicas imperantes que una tasa de cambio 
+observable que se actualice diariamente (o incluso con mayor frecuencia). 
+ 
+Utilización de la primera tasa de cambio posterior 
+A15  Una moneda que no es convertible en otra moneda en la fecha de medición para un 
+fin específico podría convertirse posteriormente en convertible en esa moneda para 
+ese fin. En tales situaciones, la entidad podría  concluir que el primer tipo de cambio 
+posterior cumple el objetivo del párrafo 19A. Si la tasa de cambio  cumple el objetivo 
+del párrafo 19A, la entidad podrá utilizarlo como tipo de cambio de contado estimado. 
+A16      Si la tasa de cambio cumple el objetivo del párrafo 19A, la entidad considerará, entre 
+otros factores: 
+(a) El tiempo entre la fecha de medición y la fecha en que se restablece la 
+convertibilidad—cuánto más corto sea el periodo mayor probabilidad de que la 
+primera tasa  de cambio posterior refleje  las condiciones económicas
+
+DECRETO     DE 2025   Página 22 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+prevalecientes. 
+(b) Tasas de inflación—cuando una economía está sujeta a una inflación elevada, 
+incluso cuando una economía es hiperinflacionaria (como se especifica en la 
+NIC 29 Información Financiera en Economías Hiperinflacionarias), los precios 
+suelen cambiar rápidamente, quizás varias veces al día. Por consiguiente, la 
+primera tasa de cambio posterior para una moneda en estas economías 
+podría no reflejar las condiciones económicas prevalecientes. 
+ 
+Uso de otra técnica de estimación 
+A17  Una entidad que utilice otra técnica de estimación puede utilizar cualquier tasa de 
+cambio observable— incluyendo tasas de transacciones de cambio en mercados o 
+mecanismos de cambio que no creen derechos y obligaciones exigibles—y ajustar esa 
+tasa, según sea necesario, para cumplir el objetivo del párrafo 19A. 
+ 
+Información a revelar cuando una moneda no es convertible 
+A18   Una entidad considerará cuánto detalle es necesario para satisfacer el objetivo de 
+información a revelar del párrafo 57A. Una entidad revelará la información especificada 
+en los párrafos A19 y A20 y cualquier otra  información necesaria para cumplir el 
+objetivo del párrafo 57A. 
+A19       Al aplicar el párrafo 57A, una entidad revelará: 
+(a) la moneda y una descripción de las restricciones que dan lugar a que 
+dicha moneda no sea convertible en otra; 
+(b) una descripción de las transacciones afectadas; 
+(c) el importe en libros de los activos y pasivos afectados; 
+(d) las tasas de cambio de contado usadas y si dichas tasas son: 
+(i) una tasa de cambio observable sin ajustes (véanse los párrafos A12 a 
+A16); o 
+(ii) tasas de cambio de contado estimadas mediante otra técnica de 
+estimación (véase el párrafo A17); 
+(e) una descripción de cualquier técnica de estimación que la entidad haya 
+utilizado, e información cuantitativa y cualitativa sobre los datos de entrada y 
+suposiciones usadas en dicha técnica de estimación; y 
+(f) información cualitativa so bre cada tipo de riesgo al que está expuesta la 
+entidad por el hecho de que la moneda no sea convertible en la otra, así como 
+la naturaleza y el importe en libros de los activos y pasivos expuestos a cada 
+tipo de riesgo. 
+A20  Cuando la moneda funcional de un negocio en el extranjero no sea convertible en 
+la moneda de presentación o, en su caso, la moneda de presentación no sea 
+convertible en la moneda funcional de un negocio en el extranjero, la entidad revelará 
+también: 
+(a) el nombre del negocio en el extranjero; si el negocio en el extranjero es una 
+subsidiaria, operación conjunta, negocios conjuntos, asociada o sucursal; y su
+
+DECRETO     DE 2025   Página 23 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+principal centro de negocio; 
+(b) información financiera resumida sobre el negocio en el extranjero; y 
+(c) la naturaleza y condiciones de cualquier acuerdo contractual que podrían 
+requerir que la entidad  proporcione apoyo  financiero al negocio  en el 
+extranjero, incluyendo sucesos o circunstancias que podrían exponer a la 
+entidad a una pérdida. 
+ 
+Apéndice B 
+Modificaciones a otros pronunciamientos 
+ 
+Modificación a la NIIF 1 Adopción por Primera Vez de las Normas Internacionales de 
+Información Financiera  
+ 
+Se modifican los párrafos 31C y D27 y se añade el párrafo 39AI. El texto nuevo ha sido 
+subrayado y el texto eliminado ha sido tachado. 
+ 
+Presentación e información a revelar  
+ 
+... 
+ 
+Explicación de la transición a las NIIF 
+... 
+ 
+Utilización del costo atribuido después de una hiperinflación grave 
+31C      Si una entidad elige medir los activos y pasivos a valor razonable y utilizar dicho valor 
+razonable como el costo atribuido en su estado de situación financiera de apertura 
+conforme a las NIIF debido a una hiperinflación grave (véanse los párrafos D26 a D30), 
+los primeros estados financieros con forme a las NIIF  de la entidad revelarán una 
+explicación de la forma en que, y la razón por la que, la entidad tuvo, y dejó de tener, 
+una moneda funcional que está sujeta a hiperinflación grave. reúna las dos 
+características siguientes: 
+(a) No tiene disponible un índice general de precios fiable para todas las entidades 
+con transacciones y saldos en la moneda. 
+(b) No existe intercambiabilidad entre la moneda y  una moneda extranjera 
+relativamente estable. 
+... 
+  
+ 
+Se modifica un título. Se subraya el texto nuevo
+
+DECRETO     DE 2025   Página 24 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+Fecha de vigencia  
+ 
+... 
+39AI     Ausencia de Convertibilidad (Modificaciones a la NIC 21), emitida en agosto de 2023, 
+modificó los párrafos 31C y D27.  Una entidad aplicará esas modificaciones cuando 
+aplique la NIC 21 (modificada en agosto de 2023). 
+... 
+ 
+Apéndice D 
+Exenciones en la aplicación de otras NIIF 
+... 
+ 
+Hiperinflación grave 
+... 
+D27 La moneda de una economía hiperinflacionaria está sujeta a una hiperinflación 
+grave si tiene las dos características siguientes: 
+(a) No tiene disponible un índice general de precios fiable para todas las entidades 
+con transacciones y saldos en la moneda. 
+(b) convertibilidad entre No existe intercambiabilidad entre la moneda y la moneda 
+no es convertible  en una moneda extranjera relativamente estable.  La 
+evaluación de la convertibilidad se realiza de conformidad con la NIC 21.
+
+DECRETO     DE 2025   Página 25 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANEXO TÉCNICO 2025, ENMIENDAS Y MEJORAS DE LA 
+NORMA DE INFORMACIÓN FINANCIERA, GRUPO 2
+
+DECRETO     DE 2025   Página 26 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+ 
+Modificaciones a la Norma NIIF para PYMES 
+Reforma Fiscal Internacional—Reglas del Modelo del Segundo Pilar 
+ 
+Modificaciones a la Norma NIIF para PYMES 
+ 
+Sección 29 
+Impuesto a las Ganancias 
+ 
+Se añaden los párrafos 29.3A, 29.42 y 29.43 (incluido su correspondiente 
+encabezamiento). Se modifica el párrafo 29.38. El nuevo texto está subrayado. 
+ 
+ 
+Alcance de esta sección  
+... 
+29.3A  Esta sección se aplica a los impuestos a las ganancias derivados de la legislación fiscal 
+promulgada o sustancialmente promulgada para implementar las reglas del modelo del 
+Segundo Pilar publicadas por la  Organización para la Cooperación y el Desarrollo 
+Económico (OCDE), incluida la legislación fiscal que  aplica los impuestos mínimos 
+nacionales complementarios calificados descritos en dichas reglas. Dicha legislación 
+fiscal, y los impuestos a las ganancias que de ella se derivan, se denominarán  en lo 
+sucesivo "legislación del Segundo Pilar" e "impuestos a las ganancias del Segundo 
+Pilar". Como excepción a los  requerimientos de esta sección, una entidad no 
+reconocerá los activos y pasivos por impuestos diferidos  relacionados con los 
+impuestos a las ganancias del Segundo Pilar, ni revelará la información que de otro  
+modo requerirían los párrafos 29.39 a 29.41 sobre los activos y pasivos por impuestos 
+diferidos relacionados con los impuestos a las ganancias del Segundo Pilar. 
+... 
+ 
+Información a Revelar  
+ 
+29.38  Una entidad revelará información que permita a los usuarios de sus estados 
+financieros evaluar la naturaleza y el efecto financiero de las consecuencias de los 
+impuestos corrientes y diferidos de transacciones y otros eventos reconocidos (incluida 
+la promulgación o promulgación sustantiva de tasas y  leyes fiscales, como  la 
+legislación del Segundo Pilar). 
+... 
+ 
+Reforma fiscal internacional—Reglas del modelo del Segundo Pilar 
+ 
+29.42 La entidad dentro del alcance de la legislación del segundo pilar informará que ha 
+aplicado la excepción a reconocer y revelar información sobre activos y pasivos por 
+impuestos diferidos relacionados con el impuesto a las ganancias del Segundo Pilar 
+(véase el párrafo 29.3A).
+
+DECRETO     DE 2025   Página 27 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+29.43 La entidad revelará por separado sus gastos (ingresos) por impuestos corrientes 
+relacionados con el impuesto a las ganancias del Segundo Pilar. 
+Sección 35 
+Transición a la NIIF para las PYMES 
+ 
+Se modifica el párrafo 35.10(h). El nuevo texto está subrayado. 
+ 
+... 
+ 
+ 
+Procedimientos para preparar los estados financieros en la fecha de transición  
+ 
+... 
+35.10 Una entidad podrá utilizar una o más de las siguientes exenciones al preparar sus 
+primeros estados financieros en conformidad con esta Norma: 
+... 
+(h) impuestos diferidos. Una entidad que adopta por primera vez la Norma 
+puede aplicar la Sección  29 del Impuesto a las Ganancias de forma 
+prospectiva desde la fecha de transición a la NIIF para  las PYMES, 
+aplicando retroactivamente la excepción del apartado 29.3A. 
+ 
+Apéndice A 
+Fecha de vigencia y transición 
+ 
+Se añade el párrafo A4. Para facilitar la lectura, este párrafo no ha sido subrayado. 
+ 
+... 
+A4 Reforma Fiscal Internacional —Reglas del Modelo del Segundo Pilar publicadas en 
+septiembre de 2023, añadieron los párrafos 29.3A, 29.42 y 29.43, y modificaron los 
+párrafos 29.38 y 35.10(h). Una entidad aplicará: 
+(a) Los párrafos 29.3A, 29.38, 29.42 y 35.10(h) inmediatamente después de la 
+emisión de estas  modificaciones. Los párrafos 29.3A, 29.38 y 29.42 se 
+aplicarán retroactivamente de conformidad  con la  Sección 10 Políticas 
+Contables, Estimaciones y Errores. 
+(b) El párrafo 29.43 para los periodos anuales sobre los que se informa que 
+comiencen a partir del 1 de enero de 2023.
+
+DECRETO     DE 2025   Página 28 de 28 
+ 
+Continuación del Decreto «Por medio del cual se modifican parcialmente los marcos técnicos de las 
+Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 
+2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información 
+Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones» 
+ ______________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+GD-FM-017 V4 
+ 
+ 
+ 
+ 
+ 
+ 
+“Las Normas Internacionales de Información Financiera (NIIF) junto con su documentación 
+complementaria se emiten por el Consejo de Normas Internacionales de Contabilidad (IASB), 30 
+Cannon Street, London EC4M 6XH, United Kingdom. Tel: +44 (0)20 7246 6410 Fax: +44 (0)20 
+7246 6411  Correo electrónico: iasb@ifrs.org Web: www.ifrs.org  Copyright © 2011 IFRS 
+Foundation El IASB, la Fundación IFRS, los autores y los editores no aceptan responsabilidad 
+alguna por las pérdidas que se puedan causar a las personas que actúen o se abstengan de 
+actuar basándose en el material incluido en esta publicación, ya se haya causado esta pérdida 
+por negligencia o por otra causa. Las NIIF (que incluyen las Normas Internacionales de 
+Contabilidad e Interpretaciones) son propiedad de la Fundación IFRS. El texto aprobado de las 
+NIIF es el emitido por el IASB en idioma inglés. Se pueden obtener copias en el Departamento 
+de Publicaciones de la Fundación IFRS. Para consultar las cuestiones relativas a los derechos 
+de propiedad y copia, dirigirse a: IFRS Foundation Publications Department; 30 Cannon Street, 
+London EC4M 6XH, United Kingdom. Tel: +44 (0)20 7332 2730 Fax: +44 (0)20 7332 2749 Correo 
+electrónico: publications@ifrs.org Web: www.ifrs.org Reservados todos los derechos. Ninguna 
+parte de estas publicaciones puede ser traducida, reimpresa, ni reproducida o uti lizada en 
+ninguna forma, ya sea total o parcialmente, ni siquiera utilizando medios electrónicos, mecánicos 
+o de otro tipo, existentes o por inventar, incluyendo fotocopiado y grabación u otros sistemas de 
+almacenamiento o recuperación de información, sin el permiso previo, por escrito, de la 
+Fundación IFRS. La traducción al español de las Normas Internacionales de Información 
+Financiera, Interpretaciones y del resto del material procedente del IASB, que se ha incluido en 
+esta publicación, ha sido aprobada por un Comité de Revisión nombrado por la Fundación IFRS. 
+La traducción al español se publica en Colombia, con el permiso de la Fundación IFRS por el 
+Consejo Técnico de la Contaduría Pública, el Ministerio de Comercio, Industria y Turismo y entes 
+gubernamentales, en colaboración con el Instituto Nacional de Contadores Públicos de 
+Colombia. Los derechos de autor de la traducción al español son de la Fundación IFRS”. 
+ 
+“La Fundación IFRS ha renunciado al derecho de hacer valer sus derechos de autor sobre los 
+estándares internacionales de información financiera en el territorio de Colombia en español 
+solamente. La fundación IFRS se reserva todos los derechos fuera del territorio antes 
+mencionado”.
+
+1 
+Bogotá, 31 de diciembre de 2024 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+Documento de Sustentación de la propuesta a 
+los Ministerios de Hacienda y Crédito Público 
+(MHCP), y de Comercio, Industria y Turismo 
+(MinCIT) – sobre las Enmiendas Emitidas por el 
+IASB durante el periodo septiembre 2022 a 
+septiembre 2023 
+ 
+ 
+ 
+Consejeros 
+ 
+Jimmy Jay Bolaño Tarrá – Presidente 
+ 
+Jairo Enrique Cervera Rodríguez – Consejero 
+ 
+Sandra Consuelo Muñoz Moreno – Consejera
+
+Documento de Sustentación de la propuesta a los Ministerios de H acienda y Crédito Público (MHCP), y de Comercio, Industria y 
+Turismo (MinCIT) – sobre Enmiendas Emitidas por el IASB durante el periodo de septiembre del 2022 a septiembre de 2023 
+  
+CONTENIDO 
+ 
+I. Presentación ............................................................................................. .3 
+II. Participaciones en grupos de trabajo a través del GLENIF………………………………..13 
+III. Antecedentes .............................................................................................. 15 
+IV. Comentarios generales a las enmiendas propuestas por IASB en el ámb ito 
+internacional que se consideran relevantes …………………………………………………………...17 
+V. Resumen y análisis de los comentarios recibidos sobre la Consulta Pública 
+realizada por el CTCP en el periodo julio – agosto de 2024 ……………………………………….21 
+VI. Conclusiones y recomendaciones finales ................................................... 25
+
+Documento de Sustentación de la propuesta a los Ministerios de H acienda y Crédito Público (MHCP), y de Comercio, Industria y 
+Turismo (MinCIT) – sobre Enmiendas Emitidas por el IASB durante el periodo de septiembre del 2022 a septiembre de 2023 
+  
+I. Presentación 
+ 
+1. El presente documento compila los comentarios y conclusiones sobre la consulta 
+pública realizada por parte del CTCP sobre las enmiendas emitidas  por el IASB 
+durante el periodo de septiembre de 2022 a septiembre de 2023.  
+ 
+2. El Consejo Técnico de la Contaduría Pública (en adelante CTCP) some tió a discusión 
+pública del 26 de julio al 23 de agosto, las enmiendas a las normas que deben aplicar 
+los contadores públicos al momento de preparar inform ación contable y financiera 
+del grupo 1 que aplican las NIIF completas , y a la enmienda de la sección 29 del 
+grupo 2 que aplican la NIIF para las Pymes, en su página web: www.ctcp.gov.co 
+en los siguientes enlaces: 
+ 
+DOCUMENTO DE 
+DISCUSIÓN 
+PÚBLICA 
+ENLACE DONDE SE REALIZÓ LA PUBLICACIÓN 
+ 
+Enmiendas Emitidas 
+por el IASB durante el 
+periodo de septiembre 
+de 2022 a septiembre 
+de 20231. 
+ 
+ 
+ 
+• Documento de discusión Pública 
+ 
+https://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-
+financiera/documentos-discusion-publica/documento-de-
+discusion-publica-nbsp-enmiendas-nbsp/documento-de-
+discusion-publica-niif-2022-2023-f 
+ 
+• NIIF 16 Arrendamientos – Modificaciones: Pasivo por 
+Arrendamiento en una Venta con Arrendamiento Posterior  
+ 
+https://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-
+financiera/documentos-discusion-publica/documento-de-discusion-
+publica-nbsp-enmiendas-nbsp/niif-16-pasivo-por-arrendamiento-
+en-una-venta-con 
+ 
+• NIC 1 Presentación de Estados Financieros – Modificaciones: 
+Pasivos no Corrientes con Condiciones Pactadas  
+ 
+https://www.ctcp.gov.co/proyectos/contabilidad-e-informa cion-
+financiera/documentos-discusion-publica/documento- de-
+discusion-publica-nbsp-enmiendas-nbsp/nic-1-pasivos- no-
+corrientes-con-condiciones-pactad  
+ 
+• NIC 7 Estado de Flujos de Efectivo y NIIF 7 Instrument os 
+Financieros: Información a Revelar – Modificaciones: Acuerdos de 
+Financiación a Proveedores 
+ 
+https://www.ctcp.gov.co/proyectos/contabilidad-e-informa cion-
+financiera/documentos-discusion-publica/documento- de-
+discusion-publica-nbsp-enmiendas-nbsp/nic-7-niif-7-acuerd os-
+de-financiacion-a-proveedore  
+ 
+ 
+1 Los documentos sometidos a discusión pública corresponden a los ficheros suministrados por la Junta de Normas 
+Internacionales de Contabilidad, IASB por sus siglas en inglés, d e la Fundación de Estándares Internacionales de 
+Reportes Financieros – IFRS, en cumplimiento del contrato suscrito por parte del Mi nisterio de Comercio, Industria 
+y Turismo.
+
+Documento de Sustentación de la propuesta a los Ministerios de H acienda y Crédito Público (MHCP), y de Comercio, Industria y 
+Turismo (MinCIT) – sobre Enmiendas Emitidas por el IASB durante el periodo de septiembre del 2022 a septiembre de 2023 
+  4 
+• NIC 12 Impuesto a las Ganancias – Modificaciones: Reforma Fiscal 
+Internacional – Reglas del Modelo del Segundo Pilar  
+ 
+https://www.ctcp.gov.co/proyectos/contabilidad-e-informa cion-
+financiera/documentos-discusion-publica/documento- de-
+discusion-publica-nbsp-enmiendas-nbsp/reforma-fiscal-
+internacional-reglas-del-modelo-del  
+ 
+• NIC 21 Efectos de las Variaciones en las Tasas de Cambio  de la 
+Moneda Extranjera – Modificaciones: Ausencia de Convertibilidad  
+ 
+https://www.ctcp.gov.co/proyectos/contabilidad-e-informa cion-
+financiera/documentos-discusion-publica/documento- de-
+discusion-publica-nbsp-enmiendas-nbsp/nic- 21-ausencia-de-
+convertibilidad 
+ 
+• NIIF para las Pymes: Sección 29 Impuesto a las Ganancia s – 
+Modificaciones: Reforma Fiscal Internacional – Reglas del Modelo 
+del Segundo Pilar 
+ 
+https://www.ctcp.gov.co/proyectos/contabilidad-e-informa cion-
+financiera/documentos-discusion-publica/documento- de-
+discusion-publica-nbsp-enmiendas-nbsp/reforma-fiscal-
+internacional-reglas-del-modelo-del  
+ 
+ 
+3. El documento analiza la aplicación de las siguientes enmiendas emi tidas por parte 
+del IASB a las NIIF completas, base utilizada para la expedición de las normas del 
+Grupo 1, y a la NIIF para las Pymes, para la expedición de normas del Gru po 2 en 
+Colombia. 
+ 
+Enmienda Modificación NIIF Completas 
+ 
+Pasivo por 
+Arrendamiento en una 
+Venta con 
+Arrendamiento posterior 
+Modificaciones a la 
+NIIF 16 
+Arrendamientos 
+Publicada por IASB en 
+septiembre de 2022. 
+ 
+• Se añaden los párrafos 102A, C1D, y C20E y se modifica el párrafo 
+C2. Se añade un nuevo encabezamiento antes del párrafo C20E.  
+ 
+• 102A Después de la fecha de inicio, el vendedor-arrendatario 
+aplicará los párrafos 29 a 35 al activo por derecho de uso derivado 
+del arrendamiento posterior y los párrafos 36 a 46 al pasivo por 
+arrendamiento derivado de éste. Al aplicar los párrafos 36 a 46, 
+el vendedor-arrendatario determinará los "pagos por 
+arrendamiento" o los "pagos por arrendamiento revisados" de 
+forma que el vendedor-arrendatario no reconozca ningún importe 
+de la ganancia o pérdida que esté relacionado con el derecho de 
+uso retenido por el vendedor arrendatario.  
+ 
+• La aplicación de los requerimientos de este párrafo no impide que 
+el vendedor-arrendatario reconozca en el resultado del periodo 
+cualquier ganancia o pérdida relacionada con la finalización parcial 
+o total de un arrendamiento tal y como se requiere en el párrafo 
+46(a).  
+ 
+• C1D Pasivo por Arrendamiento en una Venta con Arrendamiento 
+Posterior, emitido en septiembre de 2022, modificó el párrafo C2 y 
+añadió los párrafos 102A y C20E. Un vendedor-arrendatario 
+aplicará estas modificaciones a periodos anuales sobre los que se 
+informa que comiencen a partir del 1 de enero de 2024. Se permite
+
+Documento de Sustentación de la propuesta a los Ministerios de H acienda y Crédito Público (MHCP), y de Comercio, Industria y 
+Turismo (MinCIT) – sobre Enmiendas Emitidas por el IASB durante el periodo de septiembre del 2022 a septiembre de 2023 
+  
+su aplicación anticipada. Si un vendedor-arrendatario aplica esas 
+modificaciones para un periodo anterior, revelará este hecho.  
+ 
+• C2 A efectos de los requerimientos de los párrafos C1 a C20EC19,  
+la fecha de aplicación inicial es el comienzo del periodo anual sobre 
+el que se informa en que la entidad aplique esta Norma por primera 
+vez.  
+ 
+• C20E Un vendedor-arrendatario aplicará Pasivo por Arrendamiento 
+en una Venta con Arrendamiento Posterior (véase el párrafo C1D) 
+de forma retroactiva, de acuerdo con la NIC 8, a las transacciones 
+de venta con arrendamiento posterior realizadas después de la 
+fecha de la aplicación inicial.  
+ 
+• Se modifican los párrafos 60, 71, 72A, 74 y 139U. Se añaden los 
+párrafos 72B y 139W. Se añade el párrafo 76ZA inmediatamente 
+después del párrafo 76. El texto nuevo ha sido subrayado y el texto 
+eliminado ha sido tachado.  
+ 
+ 
+Pasivos no Corrientes 
+con Condiciones 
+Pactadas  
+(Modificaciones a la 
+NIC 1 Presentación de 
+Estados Financieros) 
+Publicada por IASB en 
+octubre de 2022. 
+ 
+• 60 Una entidad presentará sus activos corrientes y no corrientes, y 
+sus pasivos corrientes y no corrientes, como categorías separadas 
+en su estado de situación financiera, de acuerdo con los párrafos 
+66 a 76B, excepto cuando una presentación basada en el grado de 
+liquidez proporcione una información que sea fiable y más 
+relevante. Cuando se aplique esa excepción, una entidad 
+presentará todos los activos y pasivos ordenados atendiendo a su 
+liquidez.  
+ 
+• 71 Otros tipos de pasivos corrientes no son liquidados como parte 
+del ciclo normal de operaciones, pero deben liquidarse dentro de 
+los doce meses siguientes a la fecha del periodo de presentación o 
+se mantienen fundamentalmente con propósitos de negociació n 
+son ejemplos de este tipo algunos pasivos financieros que cumplen 
+la definición de mantenidos para negociar de acuerdo con la NIIF 
+9, los sobregiros bancarios, la parte corriente de los pasivos 
+financieros no corrientes, los dividendos por pagar, los impuestos 
+sobre las ganancias y otras cuentas por pagar no comerciales. Los 
+pasivos financieros que proporcionan financiación a largo plazo (es 
+decir, no forman parte del capital de trabajo utilizado en el ciclo 
+normal de operaciones de la entidad) y que no deban liquidarse 
+dentro de los doce meses siguientes al ejercicio sobre el que se  
+informa son pasivos no corrientes, sujetos a los párrafos 72A a 75.  
+ 
+• 72A El derecho de una entidad a diferir la liquidación de un pasivo 
+por al menos doce meses después del periodo sobre el que se 
+informa debe tener fundamento y, como ilustran los párrafos 72B 
+a 75, debe existir al final del periodo sobre el que se informa.  
+ 
+• 72B El derecho de una entidad a diferir la liquidación de un pasivo 
+derivado de un acuerdo de préstamo durante al menos doce meses 
+después del periodo sobre el que se informa puede estar sujeto a 
+que la entidad cumpla con las condiciones especificadas en dicho 
+acuerdo de préstamo (en adelante, "condiciones pactadas"). A 
+efectos de la aplicación del párrafo 69(d), estas condiciones 
+pactadas:
+
+Documento de Sustentación de la propuesta a los Ministerios de H acienda y Crédito Público (MHCP), y de Comercio, Industria y 
+Turismo (MinCIT) – sobre Enmiendas Emitidas por el IASB durante el periodo de septiembre del 2022 a septiembre de 2023 
+  
+ 
+ 
+ 
+ 
+ 
+(a) Afectan la evaluación sobre la existencia de ese derecho 
+al final del periodo sobre el que se informa —como se ilustra 
+en los párrafos 74 y 75 - si se requiere que la entidad cumpla 
+la condición pactada al final de del periodo sobre el que se 
+informa o antes. Este tipo de condición pactada afecta a la 
+existencia del derecho al final del periodo sobre el que se 
+informa, incluso si el cumplimiento de la condición pactada se 
+evalúa solo después del periodo sobre el que se informa (por 
+ejemplo, una condición pactada basada en la situación 
+financiera de la entidad al final del periodo sobre el que se 
+informa, pero cuyo cumplimiento se evalúa solo después de 
+este periodo.  
+(b) No afecta la existencia de ese derecho al final del periodo 
+sobre el que se informa si se requiere que la entidad cumpla 
+la condición pactada sólo después de este periodo (por 
+ejemplo, una condición pactada basada en la situación 
+financiera de la entidad seis meses después del final de dicho 
+periodo).  
+  
+• 74 Cuando una entidad haya infringido, ya sea al final del 
+periodo de presentación o antes, una condición pactada 
+condición contenida en un contrato de préstamo a largo plazo, 
+con el efecto de que el pasivo se convierta en exigible a 
+voluntad del prestamista, tal pasivo se clasificará como 
+corriente, incluso si el prestamista hubiese acordado, después 
+de la fecha de ese periodo sobre el que se informa y antes de 
+que los estados financieros sean autorizados para su 
+publicación, no exigir el pago como consecuencia de la 
+infracción. Una entidad clasificará el pasivo como corriente 
+porque, al final del periodo sobre el que se informa, no tiene 
+el derecho de aplazar la cancelación del pasivo durante al 
+menos, doce meses posteriores a esa fecha.  
+ 
+• 76ZA Al aplicar los párrafos 69 a 75, una entidad podría 
+clasificar los pasivos derivados de acuerdos de préstamo 
+como no corrientes cuando el derecho de la entidad a diferir 
+la liquidación de esos pasivos esté sujeto a que la entidad 
+cumpla con las condiciones pactadas dentro de los doce 
+meses siguientes al periodo sobre el que se informa [véase el 
+párrafo 72B (b)]. En estas situaciones, la entidad revelará en 
+las notas información que permita a los usuarios de los 
+estados financieros comprender el riesgo de que los pasivos 
+puedan ser reembolsables en los doce meses siguientes al 
+periodo sobre el que se informa, incluyendo:  
+ 
+(a) información sobre las condiciones pactadas (incluyendo la 
+naturaleza de éstas y cuándo se requiere que la entidad las 
+cumpla) y el importe en libros de los pasivos relacionados.  
+(b) los hechos y circunstancias, si los hay, que indiquen que 
+la entidad puede tener dificultades para cumplir con las 
+condiciones pactadas -por ejemplo, que la entidad haya 
+actuado durante o después del periodo sobre el que se 
+informa para evitar o reducir una posible infracción. Estos 
+hechos y circunstancias también podrían incluir el que la 
+entidad no hubiera cumplido con las condiciones pactadas si 
+se evaluara su cumplimiento en función de las circunstancias 
+de la entidad al final del periodo sobre el que se informa.  
+ 
+6
+
+
+
+--- [DATOS EXTRAÍDOS DE IMÁGENES DENTRO DEL PDF] ---
+[Gráfica/visual pág. 2]:
+DECRETO DE 2025 Página 2 de 6
+
+Continuación del Decreto “Por el cual se modifican parcialmente los marcos técnicos de las Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones”
+
+que en Colombia se lleve a cabo el proceso de convergencia tomando como referentes las NIIF que ha emitido el IASB y las que están en proceso de emisión...”
+
+“... el proceso de convergencia a estándares internacionales de contabilidad e información financiera en Colombia, se llevará a cabo tomando como referente el Marco Conceptual, las NIIF y sus Interpretaciones – CINIIF, las NIC y sus Interpretaciones – CINIC, la NIIF para Pequeñas y Medianas Entidades (PYMES) y los Fundamentos de Conclusiones, emitidos por el IASB para los grupos 1 y 2. en inglés...”.
+
+“... El Consejo de Normas Internacionales de Contabilidad (IASB por sus siglas en inglés) es un ente del sector privado debidamente respaldado por la mayoría de los gobiernos del mundo, cuyo objetivo es la emisión de las Normas Internacionales de Información Financiera – NIIF (IFRS por sus siglas en inglés) para una variedad de usuarios, junto con sus interpretaciones, el marco de referencia conceptual, los fundamentos de conclusiones y las guías para su implementación; así como las Normas Internacionales de Información Financiera para Pequeñas y Medianas Entidades – NIIF para PYMES (IFRS for SMEs por sus siglas en inglés) las cuales son usadas en varios países del mundo para las pymes que no cotizan sus títulos de acciones y de deuda en mercados de valores”. (Negrilla fuera de texto)
+
+Que el artículo 6 de la Ley 1314 de 2009, dispone que bajo la Dirección del Presidente de la República y con respeto de las facultades regulatorias en materia de contabilidad pública a cargo de la Contaduría General de la Nación, los Ministerios de Hacienda y Crédito Público y de Comercio, Industria y Turismo, obrando conjuntamente, expedirán principios, normas, interpretaciones y guías de contabilidad e información financiera y aseguramiento de la información, con fundamento en las propuestas que debe presentarles el Consejo Técnico de la Contaduría Pública - CTCP, como organismo de normalización técnica de normas contables, de información financiera y de aseguramiento de la información.
+
+Que el Gobierno Nacional, en desarrollo de las citadas facultades legales, expidió el Decreto 2420 de 2015 “Por medio del cual se expide el Decreto Único Reglamentario de las Normas de Contabilidad, de Información Financiera y de Aseguramiento de la Información y se dictan otras disposiciones” el cual compiló y racionalizó los Decretos expedidos en desarrollo de la Ley 1314 de 2009 en estas materias.
+
+Que el Consejo Técnico de la Contaduría Pública - CTCP, con fundamento en los postulados de la Ley 1314 de 2009, mediante Comunicaciones Nos. 2-2024-034790 del 31 de diciembre de 2024, y CTCP-2024000042 del 31 de diciembre de 2024, remitió a los entonces Ministros de Hacienda y Crédito Público y de Comercio, Industria y Turismo, respectivamente, el: “Documento de Sustentación de la propuesta a los Ministerios de Hacienda y Crédito Público (MHCP), y de Comercio, Industria y Turismo (MinCIT) – sobre las Enmiendas Emitidas por el IASB durante el periodo septiembre 2022 a septiembre 2023”, señalando que: “Para cumplir los requerimientos de la Ley 1314 de 2009 y tras la puesta en discusión pública, y la recepción, evaluación y análisis de los comentarios recibidos de la enmiendas a la NIIF 16 Pasivo por Arrendamiento en una Venta con Arrendamiento Posterior, a la NIC 1 Pasivos no Corrientes con Condiciones Pactadas, a la NIC 7 y NIIF 7 Acuerdos de Financiación a Proveedores, a la NIC 12 Reforma Fiscal Internacional – Reglas del Modelo del Segundo Pilar, a la NIC 21 Ausencia de Convertibilidad y a la Sección 29 Reforma Fiscal Internacional – Reglas del Modelo del Segundo Pilar, el CTCP recomienda la expedición de un Decreto que modifique el anexo 1 y el anexo 2 del DUR 2420 de 2015, aplicable para las entidades pertenecientes al grupo 1 y grupo 2, respectivamente.
+[[IMG:/doc-img/1HDLVzGYARl5nbDDHY045YabWuzj8zqmQ/p2_page_2.png|Gráfica de la página 2]]
+
+[Gráfica/visual pág. 3]:
+DECRETO DE 2025 Página 3 de 6
+
+Continuación del Decreto "Por el cual se modifican parcialmente los marcos técnicos de las Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones"
+
+Que, en el citado Documento de Sustentación, en el Capítulo VI, Conclusiones y recomendaciones finales, el Consejo Técnico de la Contaduría Pública señaló que:
+
+"Las enmiendas para las entidades del Grupo 1 serían aplicables en Colombia considerando lo siguiente:
+
+a) Pasivo por Arrendamiento en una Venta con Arrendamiento Posterior (modificación a la NIIF 16). El CTCP recomienda que esta enmienda sea aplicable para estados financieros que inicien a partir del 1 de enero de 2026, permitiendo su aplicación anticipada, considerando que la enmienda no tiene modificaciones que resulten complejas de aplicar al momento de realizar la implementación por parte de los preparadores de información financiera...
+
+b) Pasivos no Corrientes con Condiciones Pactadas (modificación a la NIC 1). El CTCP recomienda que esta enmienda sea aplicable para estados financieros que inicien a partir del 1 de enero de 2026, permitiendo su aplicación anticipada. La modificación busca mejorar la presentación del estado de situación financiera y las revelaciones en las notas a los estados financieros, lo que fomenta una mayor comprensión y transparencia en la aplicación de las NIIF en las entidades. Se anticipa que esta enmienda no generará impactos materiales significativos en la información financiera, ya que su objetivo principal es fortalecer la claridad y utilidad de la presentación financiera sin alterar los principios fundamentales de las normas aplicadas...
+
+En cuanto a la transición, no se prevén esfuerzos significativos para presentar información comparativa, ya que proporcionar esta información no se considera un cambio en la política contable, como lo aclara el párrafo FC76AB de la NIC 1.
+
+c) Acuerdos de Financiación a Proveedores (modificación a la NIC 7 y NIIF 7). El CTCP recomienda que esta enmienda sea aplicable para estados financieros que inicien a partir del 1 de enero de 2026, permitiendo su aplicación anticipada. Esta modificación mejora el reconocimiento y la revelación de los acuerdos de financiación en los estados financieros, generando una mayor comprensión de las NIIF en las entidades y se espera que no tenga impactos materiales significativos sobre la información financiera...
+
+No se anticipan mayores complejidades para la aplicación de esta enmienda. Además, se deben considerar los siguientes aspectos:
+
+* Los estados financieros de un comprador de bienes o servicios deben presentar de manera razonable su situación financiera, su desempeño financiero y sus flujos de efectivo.
+* La presentación razonable requiere la representación fiel de los efectos de los acuerdos de financiación a proveedores de acuerdo con las definiciones y criterios de reconocimiento de activos, pasivos, ingresos y gastos establecidos en el Marco Conceptual de las NIIF.
+* Se requiere la presentación separada de los pasivos que surgen de acuerdos de financiación a proveedores cuando son suficientemente diferentes en naturaleza o función o cuando son relevantes para comprender la situación financiera de la entidad.
+[[IMG:/doc-img/1HDLVzGYARl5nbDDHY045YabWuzj8zqmQ/p3_page_3.png|Gráfica de la página 3]]
+
+[Gráfica/visual pág. 5]:
+DECRETO DE 2025 Página 5 de 6
+
+Continuación del Decreto “Por el cual se modifican parcialmente los marcos técnicos de las Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones”
+
+establecer un término de entrada en vigencia superior al señalado en el primer inciso del artículo 14 de la Ley 1314”. (Subraya y negrilla fuera de texto)
+
+Que por lo expuesto, acogiendo las recomendaciones del Consejo Técnico de la Contaduría Pública - CTCP, resulta conveniente y necesaria la modificación parcial de los anexos técnicos de las Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información Financiera y de Aseguramiento de la Información, con las enmiendas normativas recomendadas por el Consejo Técnico de la Contaduría Pública y la incorporación de los anexos técnicos contentivos de dichas enmiendas en la Sección de Anexos del Decreto 2420 de 2015, así como el señalamiento de la fecha de vigencia de los respectivos estándares.
+
+Que conforme al numeral 8 del artículo 8 de la Ley 1437 de 2011 y al artículo 2.1.2.1.14 del Decreto 1081 de 2015, del Decreto Único Reglamentario del Sector de la Presidencia de la República, el proyecto de decreto, que aquí se expide, junto con sus documentos soporte, fue publicado en el sitio web del Ministerio de Comercio, Industria y Turismo, con el fin de recibir comentarios y observaciones por parte de los interesados.
+
+En mérito de lo expuesto,
+
+DECRETA:
+
+Artículo 1°. Modificación parcial de los marcos técnicos normativos del Grupo 1 del Decreto Único Reglamentario 2420 de 2015. Modifíquese parcialmente el “ANEXO TÉCNICO COMPILATORIO Y ACTUALIZADO 1-2019, DE LAS NORMAS DE INFORMACIÓN FINANCIERA, GRUPO 1”, del Decreto 2270 del 2019, y el “ANEXO TÉCNICO 2021, DE LAS NORMAS DE INFORMACIÓN FINANCIERA, GRUPO 1, del Decreto 938 de 2021, compilados ambos en el Decreto Único Reglamentario 2420 de 2015, con el “ANEXO TÉCNICO 2021, DE ENMIENDAS Y MEJORAS DE LAS NORMAS DE INFORMACIÓN FINANCIERA, GRUPO 1”, que hace parte integral del presente Decreto.
+
+Artículo 2°. Incorporación del marco técnico normativo de las normas de información financiera, Grupo 1. Incorpórese el “ANEXO TÉCNICO 2025, ENMIENDAS Y MEJORAS DE LAS NORMAS DE INFORMACIÓN FINANCIERA, GRUPO 1, en la Sección de Anexos del Decreto Único Reglamentario 2420 de 2015.
+
+Artículo 3°. Modificación parcial del marco técnico normativo del Grupo 2 del Decreto 2420 de 2015. Modifíquese parcialmente el "ANEXO TÉCNICO COMPILATORIO No. 2., DE LAS NORMAS DE INFORMACIÓN FINANCIERA NIIF PARA LAS PYMES GRUPO 2” del Decreto 2483 de 2018, compilado en el Decreto Único Reglamentario 2420 de 2015, con el anexo técnico denominado “ANEXO TÉCNICO 2025, ENMIENDAS Y MEJORAS DE LA NORMA DE INFORMACIÓN FINANCIERA, GRUPO 2”, que hace parte integral del presente Decreto.
+
+Artículo 4°. Incorporación del marco técnico normativo de las normas de información financiera para Pymes, Grupo 2. Incorpórese el “ANEXO TÉCNICO 2025, ENMIENDAS Y MEJORAS DE LA NORMA DE INFORMACIÓN FINANCIERA, GRUPO 2”, en la Sección de Anexos del Decreto Único Reglamentario 2420 de 2015.
+
+Artículo 5° Vigencia. El presente Decreto rige a partir de la fecha de su publicación en el Diario Oficial, observando lo siguiente:
+[[IMG:/doc-img/1HDLVzGYARl5nbDDHY045YabWuzj8zqmQ/p5_page_5.png|Gráfica de la página 5]]
+
+[Gráfica/visual pág. 6]:
+DECRETO DE 2025 Página 6 de 6
+
+Continuación del Decreto «Por el cual se modifican parcialmente los marcos técnicos de las Normas de Información Financiera para el Grupo 1 y de Información Financiera para las PYMES, Grupo 2, del Decreto 2420 de 2015, Único Reglamentario de las Normas de Contabilidad, de Información Financiera y de Aseguramiento de la Información, y se dictan otras disposiciones»
+
+1.- El Anexo técnico denominado “ANEXO TÉCNICO 2025, ENMIENDAS Y MEJORAS DE LAS NORMAS DE INFORMACIÓN FINANCIERA, GRUPO 1”, que hace parte integral del presente Decreto, con fundamento en lo dispuesto en el artículo 14 de la Ley 1314 de 2009, se aplicará a partir del 1° de enero de 2026, fecha desde la cual se modifican parcialmente, en lo pertinente, los anexos técnicos señalados en el artículo 1° del presente Decreto, permitiendo su aplicación voluntaria, integral y anticipada.
+
+2.- El anexo técnico denominado “ANEXO TÉCNICO 2025, ENMIENDAS Y MEJORAS DE LA NORMA DE INFORMACIÓN FINANCIERA, GRUPO 2”, que hace parte integral del presente Decreto, con fundamento en lo dispuesto en el artículo 14 de la Ley 1314 de 2009, se aplicará a partir del 1° de enero de 2026, fecha a partir de la cual se modifica parcialmente, en lo pertinente, el anexo técnico señalado en el artículo 3° del presente Decreto, permitiendo su aplicación voluntaria, integral y anticipada.
+
+3. Si una entidad opta por aplicar voluntariamente de manera integral y anticipada el anexo técnico de que tratan los artículos 1° y 3° del presente Decreto, deberá revelar este hecho en las notas a los estados financieros y aplicar todos los requerimientos al mismo tiempo, por su aplicación voluntaria, integral y anticipada.
+
+4. Las fechas de vigencia señaladas en los estándares internacionales incorporados en el presente Decreto, no se tendrán en cuenta como fechas de vigencia de los mismos en Colombia. Por lo tanto, estos estándares solo tendrán aplicación a partir de las fechas de vigencia señaladas en los numerales 1 y 2 del presente artículo.
+
+PUBLÍQUESE Y CÚMPLASE
+
+Dado en Bogotá D.C., a los
+
+EL MINISTRO DE HACIENDA Y CRÉDITO PÚBLICO,
+
+GERMÁN ÁVILA PLAZAS
+
+LA MINISTRA DE COMERCIO, INDUSTRIA Y TURISMO
+
+DIANA MARCELA MORALES ROJAS
+[[IMG:/doc-img/1HDLVzGYARl5nbDDHY045YabWuzj8zqmQ/p6_page_6.png|Gráfica de la página 6]]

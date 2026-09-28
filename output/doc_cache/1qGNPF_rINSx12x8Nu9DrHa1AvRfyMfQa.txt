@@ -1,0 +1,373 @@
+--- [Página 1 de 7] ---
+Tag
+ao TÉ ViDa Y cera —
+RESOLUCIÓN NUMERO 4 (0 1 2 3 De 09 ABR 2024
+Por la cual se establecen las condiciones de interoperabilidad para las estaciones de carga de
+acceso público de vehículos eléctricos e hibridos enchufables
+EL MINISTRO DE MINAS Y ENERGÍA
+En uso de sus facultades legales, en especial las establecidas en el literal e) del numeral 1 del
+artículo 6 de la Ley 1715 de 2014, y
+CONSIDERANDO
+Que el artículo 2 de la Ley 143 de 1994, establece que “ſel! Ministerio de Minas y Energía, en ejercicio
+de las funciones de regulación, planeación, coordinación y seguimiento de todas las actividades
+relacionadas con el servicio público de electricidad (...) promoverá (...) el uso eficiente y racional de la
+energía por parte de los usuarios".
+Que el numeral 7 del artículo 5 de la Ley 1715 de 2014 definió el concepto de ‘eficiencia energética”
+como ‘(...) la relación entre la energía aprovechada y la total utilizada en cualquier proceso de la
+cadena energética, que busca ser maximizada a través de buenas prácticas de reconversión
+tecnológica o sustitución de combustibles. A través de la eficiencia energética, se busca obtener el
+mayor provecho de la energía, bien sea a partir del uso de una forma primaria de energía o durante
+cualquier actividad de producción, transformación, transporte, distripbución y consumo de las diferentes
+formas de energía, dentro del marco del desarrollo sostenible y respetando la normatividad vigente
+sobre el ambiente y los recursos naturales renovables”.
+Que el literal a) del numeral 1 del artículo 6 de la Ley ibídem asignó al Ministerio de Minas y Energía
+la función de expedir los lineamientos de política energética en materia de gestión eficiente de la
+energía, los cuales deben ser concordantes con las disposiciones adoptadas por las leyes 142 y 143
+de 1994. De igual manera, este mismo artículo, en sus literales d) y e) dispuso que esta entidad
+participará en la elaboración y aprobación de los planes de gestión eficiente de la energía, y propenderá
+por un desarrollo bajo en carbono del sector de energético a partir del fomento y desarrollo de las
+fuentes no convencionales de energía y la eficiencia energética.
+Que la Ley 1964 del 2019 “Por medio de la cual se promueve el uso de vehículos eléctricos en
+Colombia y se dictan otras disposiciones”, tiene por objeto “(...) generar esquemas de promoción al
+uso de vehículos eléctricos y de cero emisiones, con el fin de contribuir a la movilidad sostenible y a la
+reducción de emisiones contaminantes y de gases de efecto invernadero”.
+Que el parágrafo 5 del artículo 9 de la Ley 1964 de 2019 señala que, el Gobierno nacional, a través
+del Ministerio de Minas y Energía, reglamentará las condiciones necesarias para que en las estaciones
+de servicio de recarga de combustible fósil se pueda ampliar la oferta de servicio al incluir puntos de
+recarga para vehículos eléctricos.
+Que el artículo 2 de la Ley 2294 de 2023 dispone que el documento denominado “Bases del Plan
+Nacional de Desarrollo 2022 — 2026 Colombia Potencia Mundial! de la Vida”, junto con sus anexos, es
+parte integral del Plan Nacional de Desarrollo (PND), e indica que se incorpora a la misma ley como
+un anexo. A su turno, el señalado documento contiene 5 transformaciones, siendo la cuarta de estas
+la denominada “Transformación productiva, internacionalización y acción climática”, cuyo catalizador
+C. “Transición energética justa, segura, confiable y eficiente’, contiene un pilar enfocado en la
+promoción de transporte sostenible y su infraestructura de carga, siendo este el denominado “3.
+Ascenso tecnológico del sector transporte y promoción de la movilidad activa’.
+Que el artículo 2 del Decreto 381 de 2012, modificado parcialmente por el Decreto 1617 de 2013,
+establece que son funciones del Ministerio de Minas y Energía: “(...) 4. Formular, adoptar, dirigir y
+coordinar la política en materia de uso racional de energía y el desarrollo de fuentes alternas de energía
+y promover, organizar y asegurar el desarrollo de los programas de uso racional y eficiente de energía.
+
+--- [Página 2 de 7] ---
+y coma 40123
+093 ABR 20H
+[a E@ VIDA TT Energía mimmara
+Continuación de la Regsolución: “Por la cual se establecen las condiciones de interoperabilidad
+para las estaciones de carga de acceso público de vehículos eléctricos e hibridos enchufables”
+5. Formular, adoptar, dirigir y coordinar la política Sobre las actividades relacionadas con el
+aprovechamiento integral de los recursos naturales no renovables y de la totalidad de las fuentes
+energéticas del país. (...)”.
+Que el artículo 2.2.3.6.3.3 del Decreto 1073 de 2015, que compila el Decreto 3450 de 2008 “Por el cual
+se dictan medidas tendientes al uso racional y eficiente de la energía eléctrica” Señala que “El Ministerio
+de Minas y Energía establecerá los mecanismos de seguimiento y control para el cumplimiento del
+presente decreto”.
+Que el numeral 7.4 literal A del documento denominado “Estrategia Naciona! de Movilidad Eléctrica”
+expedida por los Ministerios de Ambiente y Desarrollo Sostenible, Transporte y Minas y Energía y la
+Unidad de Planeación Minero -Energética -UPME- en el año 2019, establece en los lineamientos
+técnicos para la infraestructura de carga que el Ministerio de Minas y Energía, en coordinación con los
+Ministerios de Transporte, y de Vivienda, Ciudad y Territorio y el Departamento Nacional de Planeación,
+formularán los lineamientos técnicos necesarios para la seguridad, estandarización e interoperabilidad
+de los puntos de carga públicos y privados, a través de los instrumentos que se estimen convenientes,
+tanto en zonas urbanas como interurbanas.
+Que el parágrafo del artículo 2 de la Resolución 40405 de 2020 “por la cual se expide el reglamento
+técnico aplicable a las Estaciones de Servicio, plantas de Abastecimiento, Instalaciones de Gran
+Consumidor con instalación fija (...) que almacenen biocombustibles, crudos y/o combustibles líquidos
+derivados del petróleo y sus mezclas de los mismos con biocombustibles, excepto GLP” estableció
+que “Las instalaciones eléctricas requeridas en estos puntos de recarga para vehículos hibridos o
+eléctricos deberán cumplir con los requisitos establecidos en el Reglamento Técnico de Instalaciones
+Eléctricas, -RETIE-, junto con los demás requisitos pertinentes previstos en el marco regulatorio para
+la actividad de distribución minorista, y concretamente, aquellas disposiciones que se refieran a las
+Estaciones de Servicio Automotriz.”
+Queel literal c) de la sección 6.2 “ÁREA DE ABASTECIMIENTO" del Anexo General de la Resolución
+40198 del 24 de junio de 2021 “por la cual se modifica la Resolución 40405 del 24 de diciembre de
+2020” define las especificaciones para estaciones de servicio automotriz y en relación con el área de
+abastecimiento dispone que: “La distancia longitudinal mínima entre dos medidores en una misma lsla
+será de 3 metros medidos desde el eje central de cada medidor. La distancia entre los medidores de
+combustible de líquidos y, los equipos de suministro de las estaciones de carga de vehículos eléctricos,
+de GNVC y GLP vehicular, deberá ser mayor a 6 metros”.
+Que el Ministerio de Minas y Energía mediante la Resolución 40223 de 2021 estableció las condiciones
+mínimas de estandarización y de mercado para la implementación de infraestructura de carga para
+vehículos eléctricos e hibridos enchufables.
+Que, entendiendo la necesidad de garantizar el despliegue de infraestructura de carga para dar
+confiabilidad a los usuarios sobre el uso de un sistema energético con bajas emisiones de Gases de
+Efecto Invernadero -GEI- y buscando la interacción con los usuarios de las tecnologías de cero y bajas
+emisiones y la pertinencia de facilitar su operación, el CONPES 4075 de 2022 “Política de transición
+energética”, dentro del plan de acción propuesto en la estrategia 4.3.4, en la línea de acción 17,
+establece para el sector transporte que: “(...) el Ministerio de Minas y Energía entre el 2022 y el 2023
+elaborará la propuesta de acto administrativo que reglamente parámetros de interoperabilidad para las
+estaciones de carga de acceso público de vehículos eléctricos, facilitando el acceso a los usuarios
+finales”.
+Que el protocolo abierto de punto de carga (Open Charge Point Protocol OCPP, por sus siglas en
+inglés) fue establecido por el consorcio mundial de líderes de infraestructura de vehículos eléctricos
+públicos y privados que se han unido para promover estándares abiertos denominado Open Charge
+Alliance (Open Charge Alliance, 2023).
+Que en cumplimiento de lo sefñalado en el numeral 8 del artículo 8 de la Ley 1437 de 2011, en
+concordancia con lo previsto en las resoluciones 40310 y 41304 de 2017, el texto del presente acto
+administrativo fue publicado en la página web del Ministerio de Minas y Energía entre el 11 y el 26 de
+septiembre de 2023 y entre el 13 y el 18 de diciembre de 2023 para comentarios de la ciudadanía, los
+cuales fueron analizados y resueltos en la matriz establecida para el efecto.
+Página 2 de 7
+
+--- [Página 3 de 7] ---
+COLOMBIA 40123 09 48R 204
+]
+VIDA TF Energía
+—
+Continuación de la Resolución: “Por la cual se establecen las condiciones de interoperabilidad
+para las estaciones de carga de acceso público de vehículos eléctricos e hibridos enchufables”
+Que con el objeto de dar cumplimiento al artículo 7 de la Ley 1340 de 2009, modificado por el artículo
+146 de la Ley 1955 de 2019, la Oficina de Asuntos Regulatorios y Empresariales resolvió el cuestionario
+elaborado por la Superintendencia de Industria y Comercio de que trata el artículo 2.2.2.30.6 del
+Decreto 1074 de 2015, concluyendo que el presente acto administrativo no tiene incidencia sobre la
+libre competencia, por lo que no requiere del concepto a que hacen referencia las mencionadas
+normas.
+Que, en mérito de lo expuesto,
+RESUELVE:
+Artículo 1. Objeto. La presente resolución tiene como propósito establecer las condiciones de
+interoperabilidad para la estación de carga de acceso público de vehículos eléctricos e hibridos
+enchufables.
+Artículo 2. Ámbito de aplicación. La presente resolución aplica a los agentes que participan del
+segmento de estaciones de carga de acceso público para vehículos eléctricos e hibridos enchufables
+y a las personas naturales o jurídicas propietarias o representantes comerciales de proyectos de
+estaciones de carga de acceso público para vehículos eléctricos e híbridos enchufables. Igualmente,
+aplica a todas las personas y entidades que tengan interés en el tema que se regula.
+Artículo 3. Definiciones. Para efectos de la presente resolución, adóptense las siguientes
+definiciones:
+Estación de carga de acceso público. Infraestructura dispuesta para la carga de vehículos eléctricos
+o hibridos enchufables mediante, al menos, un punto de carga, que proporciona un servicio al público
+y que no corresponde a una estación de carga de acceso privado.
+Estación de carga de acceso privado. Infraestructura, propia o de un tercero, dispuesta para la
+carga de vehículos eléctricos o hibridos enchufables mediante, al menos, un punto de carga, que
+proporciona un servicio a una persona natural o jurídica, destinada exclusivamente para el suministro
+de energía eléctrica a sus vehículos eléctricos o hibridos enchufables.
+Interoperabilidad. Capacidad de dos o más sistemas o componentes de la movilidad eléctrica, como
+por ejemplo infraestructura de carga, vehículos, red eléctrica u otros, para intercambiar y utilizar la
+información que se genera y registra.
+Operador de puntos de carga (Charge Point Operator — CPO, por sus siglas en inglés). Persona
+natural o jurídica responsable de adelantar la operación técnica y mantenimiento de las estaciones de
+carga de acceso público. En caso de que adicionalmente realice la operación comercial y preste el
+servicio de carga para vehiculos eléctricos o híbridos enchufables tendrá la calidad de Prestador de
+servicio de carga para vehículos eléctricos e hibridos enchufables.
+Plataforma de estaciones de carga de vehículos eléctricos e híbridos enchufables (Plataforma).
+Herramienta digital, habilitada por el Ministerio de Minas y Energía, que permite a los usuarios de
+vehículos eléctricos e hibridos enchufables identificar las características técnicas y comerciales
+asociadas a los puntos de carga en todo el territorio colombiano. Esta plataforma será el instrumento
+para realizar el Seguimiento y monitoreo por parte del Ministerio de Minas y Energía del despliegue y
+expansión de las estaciones de carga de acceso público para vehículos eléctricos e hibridos
+enchufables en el país.
+La plataforma integra datos de diferentes actores, coma prestadores del servicio de carga para
+vehículos eléctricos e híbridos enchufables y CPO, con el objetivo de garantizar la interoperabilidad,
+accesibilidad, disponibilidad y calidad de los servicios de carga. Para acceder a la plataforma, la cual
+se habilitará a partir del 01 de mayo de 2024, se debe utilizar la url: https://cargame.minenergia.gov.co’,
+o aquella que el Ministerio de Minas y Energía indique mediante circular, donde los CPO 0 Prestador
+del servicio de carga encontrarán la opción de registrarse y/o ingresar y seguir los pasos indicados
+para el registro de las estaciones de carga de acceso público.
+Página 3 de 7
+
+--- [Página 4 de 7] ---
+coma 40123 0 9 ABR 2024
+r— TÉ ViDa Y tuna —
+Continuación de la Resolución: “Por la cual se establecen las condiciones de interoperabilidad
+para las estaciones de carga de acceso público de vehículos eléctricos e hibridos enchufables”
+Prestador del servicio de carga para vehículos eléctricos e híbridos enchufables. Corresponde
+al Prestador del servicio de carga establecido en el inciso primero del artículo 3 de la Resolución 40223
+de 2021 o la norma que lo modifique o adicione.
+Proveedor de servicios de movilidad (Mobility Service Provider — MSP, por sus siglas en inglés).
+Persona natural o jurídica que realiza la operación comercial y presta el servicio de carga para
+vehículos eléctricos o híbridos enchufables en estaciones de carga de acceso público, quien recibe o
+recibirá, una contraprestación por el servicio.
+Punto de carga. Corresponde al Punto de carga establecido en el artículo 2 de la Resolución 40223
+de 2021 o la norma que lo modifique o adicione.
+Sistema de gestión de estaciones de carga. Solución tecnológica que facilita la administración,
+coordinación y supervisión de las actividades y operaciones de las estaciones de carga de acceso
+público con los vehículos eléctricos e híbridos enchufables. El sistema permite la interacción entre los
+diferentes actores involucrados, como prestadores del servicio de carga para vehículos eléctricos e
+híbridos enchufables, CPO y usuarios de vehículos eléctricos, con el objetivo de asegurar un servicio
+de carga eficiente, accesible y seguro para los usuarios de vehículos eléctricos.
+Vehículo: Corresponde a la definición establecida en el artículo 2 de la Ley 769 del 2002 o la norma
+que la modifique o adicione.
+Vehículo Eléctrico: Corresponde a la definición establecida en el artículo 2 de la Ley 1964 de 2019 o
+la norma que lo modifique o adicione.
+Vehículo Híbrido Enchufable: Vehículo equipado con un tren de potencia que contiene por lo menos
+dos categorías diferentes de convertidores de la energía de propulsión y por lo menos dos categorías
+diferentes de sistemas de almacenamiento de la energía de propulsión. En el que uno de los
+convertidores de la energía de propulsión es una máquina eléctrica que puede cargarse desde una
+fuente externa (Reglamento (UE) 2017/1151) o la que defina el Ministerio de Transporte.
+Artículo 4. Habilitación de las estaciones de carga de acceso público. Todo Prestador del servicio
+de carga para vehículos eléctricos e híbridos enchufables y todo CPO que, a partir del 1 de julio de
+2024, inicie la operación de estaciones de carga de acceso público deberá contar de manera previa
+con la habilitación en la Plataforma. Para lo cual deberán reportar los documentos previstos en el
+parágrafo segundo del artículo 4 de la Resolución 40223 de 2021 o la norma que lo modifique 0
+adicione, así como los previstos en el artículo 5 de la presente resolución.
+Parágrafo. La habilitación a la que se refiere este artículo dependerá de la correcta, completa y
+oportuna información reportada por el Prestador del servicio de carga o CPO. Sin la habilitación
+correspondiente, ninguna estación de carga de acceso público podrá iniciar operación.
+Artículo 5. Reporte de la Información. En cumplimiento del parágrafo 2 del articulo 3 de la Resolución
+40223 de 2021 0 la norma que lo modifique 0 adicione, los prestadores del servicio de carga para
+vehículos eléctricos e híbridos enchufables y los CPO, deberán reportar en la Plataforma del Ministerio
+de Minas y Energía, respecto de las estaciones de carga de acceso público, al menos, la siguiente
+información:
+1 Datos Prestador del servicio de carga, o CPO
+Tipo de identificación
+Número de identificación
+Nombre entidad o Razón social
+Sigla
+Tipo de persona
+Correo electrónico
+Sitio web
+Departamento
+Municipio
+Dirección
+Indicativo
+Teléfono
+—x——Femoano
+Página 4 de 7
+
+--- [Página 5 de 7] ---
+] COLOMBIA 40123 0948 20
+105 C@ VIDA © Energía ——
+Continuación de la Resolución: “Por la cual se establecen las condiciones de interoperabilidad
+para las estaciones de carga de acceso público de vehículos eléctricos e hibridos enchufables”
+m. Rut
+11. Datos de contacto
+Tipo de identificación
+Número de identificación
+Nombres
+Apellidos
+Estado de contacto (Activo/inactivo)
+Cargo
+Correo electrónico
+Indicativo
+Número de teléfono fijo
+Número de teléfono celular
+——
+Ea
+DaNDgS
+11. Datos estaciones de carga de acceso público
+Registro fotográfico
+Nombre de la estación
+Ubicación (vía pública, centro comercial, empresa, estación de servicio, hospital, hotel,
+parqueadero, restaurante, tienda — comercio, universidad, otro)
+Dirección
+Departamento
+Municipio
+Ubicación exacta en mapa
+Cobro por parqueadero
+Cantidad de cargadores
+Condiciones para el acceso a la carga
+Horario de operación
+Declaración de cumplimiento de la Resolución 40223 de 2021 o la norma que lo modifique
+o adicione y del reglamento técnico de instalaciones eléctricas — RETIE.
+m. Certificado de conformidad de producto
+o.o
+———
+Fene
+a
+IV. Datos de los cargadores
+a. Cantidad de cargadores con las mismas características
+b. Marca de los cargadores
+c. Protocolos de comunicación
+d. Cantidad de conectores por cargador
+V. Datos de los conectores
+Tipo de estándar del conector
+Potencia en kW
+Cantidad de conectores con el mismo estándar
+Precio de carga
+Unidad del precio de carga
+Estado (activo o inactivo).
+—DaDTB
+Parágrafo 1. El Ministerio de Minas y Energía podrá, en cualquier momento, modificar o solicitar
+información adicional a la aquí dispuesta mediante circular.
+Parágrafo 2. La información solicitada de las estaciones de carga de acceso público deberá reportarse
+de forma completa. Una vez reportada de forma completa, el Ministerio de Minas y Energía tendrá 15
+días para realizar la habilitación de que trata el artículo 4 de la presente resolución.
+Para el caso de las estaciones de carga de acceso público en operación antes del 01 de julio de 2024,
+el reporte de la información en la Plataforma deberá realizarse antes del 30 de agosto de 2024.
+Parágrafo 3. La información reportada de las estaciones de carga de acceso público en la Plataforma
+deberá permanecer actualizada. En el caso que se deba modificar dicha información, los prestadores
+Página 5 de 7
+
+--- [Página 6 de 7] ---
+LO123 0948 206
+@rro3
+GC
+IADA ® Energía mo
+Continuación de la Resolución: “Por la cual se establecen las condiciones de interoperabilidad
+para las estaciones de carga de acceso público de vehículos eléctricos e hibridos enchufables”
+del servicio de carga deberán hacerlo dentro de los cinco (5) días hábiles siguientes a la ocurrencia
+del hecho que motiva la modificación.
+Parágrafo 4. Durante los meses de enero y julio de cada año, los prestadores del servicio de carga y
+CPO deberán comunicar al Ministerio de Minas y Energía que la información de las estaciones de
+carga de acceso público reportada en la Plataforma se encuentra actualizada.
+Parágrafo 5. La verificación del cumplimiento del reporte de la información estará a cargo del operador
+de red al cual se conecta la estación de carga de acceso público, quien previo a la aprobación de la
+solicitud de punto de conexión que realice la persona natural o jurídica, deberá verificar que se haya
+reportado en la Plataforma la información solicitada, según lo establecido en el parágrafo 2 del artículo
+3 de la Resolución 40223 de 2021 y el artículo 5 de la presente Resolución, o las normas que los
+modifiquen o adicionen. El Prestador de servicio de carga o CPO deberá presentar ante el operador
+de red evidencias del cumplimiento del reporte.
+Artículo 6. Acceso sin suscripción. Los prestadores del servicio de carga para vehículos eléctricos
+e hibridos enchufables, CPO y MSP, deberán ofrecer en las estaciones de carga de acceso público,
+sin ningún tipo de restricción, la posibilidad de carga a usuarios sín suscripción ni membresía. Así
+mismo, deberán disponer de opciones de pago recurrentes en el mercado, y deberán contar al menos
+con uno de los siguientes métodos de pago: dinero en efectivo, tarjeta bancaria o pasarela de pago.
+Lo anterior, en concordancia con lo previsto en las normas tributarias aplicables.
+Parágrafo. Sin perjuicio de lo mencionado en el presente artículo, los prestadores del servicio de carga
+para vehículos eléctricos e hibridos enchufables, CPO y MSP, podrán ofrecer en las estaciones de
+carga de acceso público la posibilidad de carga a usuarios en virtud de la suscripción de contratos, de
+membresías o suscripciones, pero sín que esto constituya un requisito de acceso al referido servicio.
+Artículo 7. Protocolos interoperables de información. Todas las estaciones de carga de acceso
+público deberán, dentro de los seis (6) meses siguientes a la entrada en vigencia de la presente
+resolución, estar conectadas con el sistema de gestión de los prestadores del servicio de carga para
+vehículos eléctricos e híbridos enchufables o CPO, según aplique, a través de un protocolo de
+comunicación abierto, ya sea la última versión estable del Protocolo Abierto de Puntos de Carga
+(OCPP, por sus siglas en inglés) o de una norma equivalente expedida por la Organización
+Internacional de Normalización — ISO (por sus siglas en inglés) o la Comisión Electrotécnica
+Internacional IEC (por sus siglas en inglés) o el Instituto Colombiano de Normas Técnicas y
+Certificación - ICONTEC.
+Parágrafo. Las Estaciones de carga de acceso público instaladas previo a la entrada en vigencia de
+esta resolución deberán dar cumplimiento al presente artículo transcurridos dos (2) años de entrada
+en vigencia de la misma.
+Artículo 8. Desagregación de precios. Los prestadores del servicio de carga para vehículos
+eléctricos e hibridos enchufables, CPO y MSP, deberán informar al Ministerio de Minas y Energía o
+quien este designe o delegue, de forma desagregada los precios de carga, estacionamiento o cualquier
+otro concepto, en caso de que simultáneamente se ofrezcan estos servicios, así comolas instrucciones
+para el pago del servicio. Dichos costos y sus criterios deberán estar exhibidos en un lugar visible en
+la estación de carga de acceso público. Lo anterior en los términos de lo contemplado en la Ley 1480
+de 2011 sobre información pública de precios al consumidor.
+Artículo 9. Garantía de operabilidad. El prestador del servicio de carga o los operadores CPO
+deberán garantizar la prestación del servicio de carga en los horarios de operación reportados en la
+Plataforma, adoptando las medidas necesarias para prestar dicho servicio ante eventualidades
+relacionadas con el software y hardware. El prestador del servicio de carga 0 el operador CPO, en
+caso de dar por terminada las operaciones de una estación de carga de acceso público, deberá adoptar
+las medidas de seguridad necesarias para garantizar que no constituya un riesgo para las personas y
+sus bienes e informar al Ministerio de Minas y Energía.
+Artículo 10. Canales de comunicación. El prestador del servicio de carga y el MSP deberán habilitar
+canales de comunicación con los usuarios de vehículos eléctricos, tales como plataformas digitales, o
+atención presencial, entre otros, que permitan acceder a información sobre los servicios prestados y la
+realización de una petición, queja o reclamo.
+Página 6 de 7
+
+--- [Página 7 de 7] ---
+10123 094R2%
+mega EC Ta Y Energía
+—
+Continuación de la Resolución: “Por la cual se establecen las condiciones de interoperabilidad
+para las estaciones de carga de acceso público de vehículos eléctricos e híbridos enchufables”
+Artículo 11. Vigilancia y control. El Ministerio de Minas y Energía o la entidad que éste delegue,
+ejercerá la vigilancia y el control de las condiciones de interoperabilidad para la estación de carga de
+acceso público de vehículos eléctricos e hibridos enchufables, sín perjuicio de las competencias
+otorgadas en la Ley 1480 de 2011 y el Decreto 4886 de 2011 sobre protección al consumidor a la
+Superintendencia de Industria y Comercio — SIC.
+Artículo 12. Vigencia. La presente resolución rige a partir de la fecha de publicación en el Diario
+Oficial.
+PUBLÍQUESE Y CÚMPLASE
+Dada en Bogotá D.C. a 0 g ABR 2023
+ANDRÉS,CAMACHO MORALES
+Ministfo de Minas y Energía
+Elaboró: Carlos Andrés Aviréz) Miguel Ángelyozada Urrego— |
+Revisó: Maria Victoria Raïnirez/ Juan Carlos’! Bedoya! Hector Emilio Moreno / Dilán Andrés Gámez! Adal Casalla / Yaneth Bustos / Yolanda pálÑo / SiviaMYf
+Navia / Esther Rocio CortésVJorge Eduardo Salgado 1
+Javier Eduardo, Campillo /
+Aprobá: Andrés Camacho Morales mal
+Página 7 de 7

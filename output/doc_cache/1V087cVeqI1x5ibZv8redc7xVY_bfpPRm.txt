@@ -1,0 +1,53 @@
+--- [DATOS EXTRAÍDOS DE IMÁGENES DENTRO DEL PDF] ---
+[Gráfica/visual pág. 2 — X1.tiff]:
+RESOLUCIÓN NÚMERO 000119 de 30 JUL 2024 Hoja 2
+Continuación de la Resolución “Por la cual se modifican y adicionan unos artículos a la Resolución 000165 del 1 de noviembre de 2023, modificada por la Resolución 000008 de 2024”
+
+operaciones de reserva de los tiquetes, información que es necesaria para la generación del documento equivalente electrónico, por ende, se hace necesario establecer un plazo prudencial de máximo cuarenta y ocho (48) horas, contadas a partir de la reserva realizada en el GDS del tiquete para la generación y transmisión a efectos de validación del tiquete o billete de transporte aéreo de pasajeros de forma electrónica que realiza la DIAN. Por tal motivo, se adiciona un parágrafo al artículo 29 de la Resolución 000165 de 2023.
+
+Que a partir del 1 de julio de 2024 el documento equivalente electrónico tiquete de máquina registradora con sistema P.O.S. debe estar implementado por todos aquellos sujetos que optaron por expedirlo, por lo que se requiere modificar la denominación del numeral 3 del artículo 42 de la Resolución 165 de 2023 que dice “Documentos equivalentes, expedidos por las máquinas registradoras con sistema POS”, por la denominación “Documento equivalente electrónico tiquete de máquina registradora con sistema P.O.S.”, para que se actualice la denominación que se refiere al documento creado por la mencionada resolución.
+
+Que por el uso de diferentes monedas e idiomas en que se realizan hoy en día las operaciones y respecto de la representación gráfica de la factura electrónica cuyo formato de generación XML contenga información de otra divisa u otro idioma, se hace necesario establecer que los facturadores electrónicos puedan diseñar las representaciones gráficas en otra divisa u otro idioma, sin perjuicio de expedirla en idioma español y en pesos colombianos, razón por la cual se adiciona un parágrafo al artículo 66 de la Resolución 000165 de 2023.
+
+Que en cumplimiento de lo dispuesto en el numeral 8 del artículo 8 de la Ley 1437 de 2011 y el artículo 32 de la Resolución número 91 de 2021, el proyecto de resolución se publicó en la página web de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN para comentarios y observaciones, para ser analizadas para determinar su pertinencia previa expedición de este acto administrativo.
+
+En mérito de lo expuesto,
+
+RESUELVE
+
+Artículo 1. Modificación del inciso 4 del artículo 4 de la Resolución 000165 del 1 de noviembre de 2023. Modifíquese el inciso 4 del artículo 4 de la Resolución 000165 del 1 de noviembre de 2023, el cual quedará así:
+
+“Los sujetos responsables de facturar podrán expedir los documentos equivalentes a la factura de venta de que trata el artículo 15 de la presente resolución, y en todos los casos, podrán optar por expedir factura electrónica de venta en las operaciones que se indican para cada uno de los citados documentos.”
+
+Artículo 2. Modificación del numeral 2 del artículo 23 de la Resolución 000165 del 1 de noviembre de 2023, modificado por el artículo 1 de la Resolución 000008 de 2024, en relación con el documento equivalente electrónico de servicios públicos domiciliarios, el tiquete de transporte de pasajeros y el extracto. Modifíquese el numeral 2 del artículo 23 de la Resolución 000165 del 1 de noviembre de 2023, modificado por el artículo 1 de la Resolución 000008 de 2024, en relación con el
+[[IMG:/doc-img/1V087cVeqI1x5ibZv8redc7xVY_bfpPRm/p2_X1.tiff.jpg|Gráfica pág. 2]]
+
+[Gráfica/visual pág. 4 — X3.tiff]:
+RESOLUCIÓN NÚMERO 000119 de 30 JUL 2024 Hoja 4
+
+Continuación de la Resolución "Por la cual se modifican y adicionan unos artículos a la Resolución 000165 del 1 de noviembre de 2023, modificada por la Resolución 000008 de 2024"
+
+Artículo 6. Publicación. Publicar la presente Resolución de conformidad con el artículo 65 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
+
+Artículo 7. Vigencia. La presente resolución rige a partir de la fecha de su publicación en el Diario Oficial, modifica y adiciona en lo pertinente la Resolución 000165 de 1 de noviembre de 2023, modificada por la Resolución 000008 de 2024.
+
+PUBLÍQUESE Y CÚMPLASE
+Dada en Bogotá, D.C., a los 30 JUL 2024
+
+JAIRO ORLANDO VILLABONA ROBAYO
+Director General
+
+Proyectó: Luis Hernando Valero Vásquez
+Subdirector de Factura Electrónica y Soluciones Operativas
+
+Revisó: 
+Cecilia Rico Torres
+Directora de Gestión de Impuestos
+Tomás Jaramillo Quintero
+Asesor Despacho Dirección de Gestión Jurídica
+Claudia Meza Dirección General
+
+Aprobó: 
+Gustavo Alfredo Peralta Figueredo
+Director de Gestión Jurídica
+[[IMG:/doc-img/1V087cVeqI1x5ibZv8redc7xVY_bfpPRm/p4_X3.tiff.jpg|Gráfica pág. 4]]

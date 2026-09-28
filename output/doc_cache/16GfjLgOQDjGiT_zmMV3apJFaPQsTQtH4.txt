@@ -1,0 +1,3921 @@
+--- [Página 1 de 157] ---
+Información Pública Clasificada  
+ 
+RESOLUCIÓN NÚMERO 000XXX 
+ 
+(XX XXX 2025) 
+ 
+ 
+ 
+Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia 
+Tributaria, Aduanera y Cambiaria respecto a temas asociados al reporte de información 
+tributaria. 
+ 
+ 
+ 
+EL DIRECTOR GENERAL (E) DE LA UNIDAD ADMINISTRATIVA ESPECIAL DIRECCIÓN DE 
+IMPUESTOS Y ADUANAS NACIONALES 
+ 
+ 
+ 
+En uso de las facultades legales y en especial las dispuestas en el numeral 2 del artículo 8 del 
+Decreto 1742 de 2020, los artículos 631 y 631-3 del Estatuto Tributario y los artículos 1.2.1.18.56., 
+1.2.1.18.89., 1.2.1.18.91., 1.3.1.9.6., 1.3.1.9.10. y los numerales 1 y 2 del artículo 2.1.1.20. , del 
+Decreto 1625 de 2016 , Único Reglamentario en Materia Tributaria  y el artículo 2.10.2.6.4. del 
+Decreto 1080 de 2015 del Sector Cultura, y 
+ 
+ 
+CONSIDERANDO 
+ 
+1. Que la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales -DIAN 
+expidió la Resolución 000227 de 2025, Única en materia tributaria, aduanera y cambiaria, para 
+compilar y racionalizar las normas que rigen el sector y contar con instrumentos jurídicos únicos 
+vigente en los términos del artículo 65 del CPACA. 
+ 
+2. Que en el Título 3 de la Parte 1  de la Resolución 000227 de 2025 se encuentra regulado 
+todo el reporte de información tributaria y sobre el cual se requiere realizar modificaciones y 
+adiciones, tal como se describirán más adelante. 
+ 
+3. Que el inciso 1 del artículo 631 del Estatuto Tributario, dispone que: “Sin perjuicio de lo 
+dispuesto en el artículo 684 y demás normas que regulan las facultades de la Administración de 
+Impuestos, el Director de Impuestos Nacionales podrá solicitar a las personas o entidades, 
+contribuyentes y no contribuyentes, una o varias d e las siguientes informaciones, con el fin de 
+efectuar los estudios y cruces de información necesarios para el debido control de los tributos, así 
+como de cumplir con otras funciones d e su competencia, incluidas las relacionadas con el 
+cumplimiento de las obligaciones y compromisos consagrados en las convenciones y tratados 
+tributarios suscritos por Colombia”. 
+ 
+4. Que el artículo 631 -3 del Estatuto Tributario, dispone: “ El Director General de la U.A.E. 
+Dirección de Impuestos y Aduanas Nacionales, señalará las especificaciones de la información con 
+relevancia tributaria que deben suministrar los contribuyentes y no contribuyentes.” 
+ 
+5. Que en el Artículo 1 .3.1.1. de la Resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria se establecen los sujetos obligados a presentar información exógena por el 
+año gravable 2024 y siguientes,  haciendo necesario incorporar a dos nuevos sujetos a report ar 
+información, lo cual permite una mejor calidad de la información para el control que debe desarrollar 
+la DIAN, así: 
+ 
+a. La Unidad de Planeación Minero Energética  UPME y la Agencia Presidencial de 
+Cooperación Internacional de Colombia – APC - Colombia, respecto a las certificaciones, 
+calificaciones o similares que se constituyen en el requisito para que los contribuyentes 
+accedan a los beneficios tributarios previstos en la Ley. 
+b. Los proveedores de servicios de activos digitales domiciliados en Colombia o con 
+operaciones en el país deberán reportar a la Dirección de Impuestos y Aduanas Nacionales
+
+--- [Página 2 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 2 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+– DIAN, de manera individualizada, la información relacionada con las operaciones que 
+realicen sus usuarios y que impliquen la conversión de moneda de curso legal a activos 
+digitales o de activos digitales a moneda de curso legal, que en total sean iguales  o 
+superiores a 1.400 UVT durante el respectivo año gravable. 
+ 
+6. Que con fundamento en  el Artículo 1.3.5.2.1 de la Resolución 000227 de 2025,  Única en 
+Materia Tributaria, Aduanera y Cambiaria los contribuyentes realizan los reportes de los pagos o 
+abono en cuenta y retenciones en la fuente realizados en el respectivo año gravable, y con el fin de 
+garantizar una mejor calidad de  la información y facilitar las labores de control y verificación que 
+debe adelantar la DIAN, se requiere efectuar los siguientes ajustes: 
+ 
+7. En virtud de la delimitación de las actividades económicas que se enuncian en el artículo 20-
+3 del Estatuto Tributario para ser gravadas con el impuesto de renta por presencia económica 
+significativa y a fin de fortalecer el control a la economía digital, es necesario incorporar nuevos 
+conceptos dentro de los parámetros y especif icaciones de la información de pagos o abonos en 
+cuenta y retenciones en la fuente practicadas suministrada por los informantes. 
+ 
+8. Que el artículo 1.3.5.5.1 de la Resolución 000227 de 2025,  Única en Materia Tributaria, 
+Aduanera y Cambiaria incorporó en el reporte del Formato 1005 – Impuesto al Valor Agregado (IVA) 
+descontable – el registro del impuesto sobre las ventas tratado como mayor valor del costo o gasto, 
+el cual se encuentra previamente definido e incorporado en el Formato 1001 – Pagos o abonos en 
+cuenta y retenciones practicadas – previsto en el artí culo 1.3.5.2.1 de la misma resolución,  
+generando duplicidades en el reporte de los contribuyentes , por lo que resulta necesario suprimir 
+el campo relativo al IVA mayor valor del costo o gasto del Formato 1005, con el fin de asegurar la 
+unicidad, precisión y calidad de los datos. 
+ 
+9. Que de conformidad con lo establecido en el artículo 18 del Estatuto Tributario, los contratos 
+de colaboración empresarial no son contribuyentes del impuesto sobre la renta, debiendo las partes 
+intervinientes declarar de manera independiente los activos, pasivos, ingresos, costos y 
+deducciones que les correspondan, de acuerdo con su participación en desarrollo del contrato. De 
+este modo resulta necesario implementar mecanismos de cont rol y trazabilidad sobre las 
+transacciones que dan lugar costos y deducciones derivados de estos contratos. 
+ 
+10. Que con fundamento en el inciso anterior, es necesario crear el concepto “Pagos y abonos 
+en cuenta realizados a través de contratos de colaboración empresarial como partícipe ” dentro de 
+la información que los participantes de estos contratos deban suministrar, el cual contenga el valor 
+resultante acorde a la participación dentro del mismo a fin de garantizar la correcta aplicación de lo 
+que la norma en cuanto a costos y deduccio nes contiene, siendo así una manera de evitar 
+diferencias entre participante y administrador del contrato. 
+ 
+11. Que una vez adicionado el concepto anterior, se requiere que, la información a reportar en 
+el mismo por parte de los obligados que celebren contratos de colaboración empresarial contenga 
+un habilitante de variables “ Deducibles y no deducibles” para validar las operaciones que 
+constituyen o no deducibilidad para los efectos tributarios.  
+ 
+12. Que con ocasión a la correcta determinación de las bases sobre las cuales se realiza la 
+retención en la fuente a título de IVA, es necesario la aclaración respecto de la forma en como 
+determinar las bases sobre las cuales se reportan estos valores, de tal modo que, para lo dispuesto 
+en la retención a título de IVA aplica la base del valor del IVA correspondiente al hecho económico. 
+ 
+13. Que el Parágrafo 1 del Artículo 1.3.5.7.1 de la Resolución 000227 de 2025, Única en Materia 
+Tributaria, Aduanera y Cambiaria presenta error de redacción al establecer “diecisiete (12) Unidades 
+de Valor Tributario (UVT)”, siendo lo correcto “doce (12) Unidades de Valor Tributario (UVT)”, razón 
+por la cual se requiere corregir la citada disposición. 
+ 
+14. Que se requiere obtener la información de los ingresos recibidos a través de un tercero, por 
+las adquisiciones de bienes o contratación de servicios realizadas por los prestadores y enajenantes 
+sin residencia o domicilio en el país de forma independiente a  fin de realizar el control efectivo de 
+las actividades económicas, se hace necesario dividir la información de los ingresos recibidos para 
+terceros delimitando los recibidos para nacionales y para terceros del exterior de forma 
+independiente, en virtud de lo cual se delimita la información a reportarse conforme el artículo
+
+--- [Página 3 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 3 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+1.3.5.9.1 de la Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera y Cambiaria sólo 
+en lo referente a los terceros residentes o domiciliados en Colombia. 
+ 
+15. Que para el reporte de  la información de que trata el artículo 1.3.5.9.1. de la Resolución 
+000227 de 2025,  Única en Materia Tributaria, Aduanera y Cambiaria se evidencian casos en los 
+que no es posible identificar de quiénes se recibieron ingresos, tipificando situaciones dispuestas 
+en el numeral 3.3 del artículo  1.5.1.2.2.1. de la misma resolución, y en aquellos casos en que los 
+adquirientes de bienes y/o servicios no suministren la información, para lo cual se busca dar una 
+solución frente al reporte de estos datos. 
+ 
+Que los sujetos enunciados en el numeral 9º del artículo 1.3.1.1 de la Resolución 0227 del 2025 
+Única en Materia Tributaria, Aduanera y Cambiaria corresponden a entes públicos del orden 
+nacional y territorial, central y descentralizado, los cuales, conform e al artículo 22 del Estatuto 
+Tributario, tienen la calidad de no contribuyentes del impuesto sobre la renta y no se encuentran 
+obligados a presentar declaración de ingresos y patrimonio. En consecuencia, la exigencia de 
+reportar información exógena relati va a conceptos diseñados para el cumplimiento de deberes 
+formales asociados a impuestos directos carece de correspondencia con su naturaleza jurídica, por 
+lo que, en armonía con el principio de eficiencia administrativa , resulta procedente excluir a los 
+mencionados sujetos de la obligación de reportar la información prevista en los artículos 1.3.5.10.1 
+a 1.3.5.10.7 de la mencionada resolución, toda vez que dicha exclusión no afecta los procesos de 
+control ni de verificación de la administración tributaria, sino que contribuye a la racionalización de 
+los deberes formales en concordancia con el marco normativo vigente. 
+ 
+16. Que la tabla de conceptos del artículo 1.3.5.10.4 de la Resolución 000227 de 2025, Única 
+en Materia Tributaria, Aduanera y Cambiaria detalla, de forma discriminada, los rubros patrimoniales 
+no cubiertos por los demás formatos de información exógena e incluye el concepto residual 1526 
+para agrupar otros activos, lo que ha derivado en reporte de dudas por los informantes sobre la 
+correcta clasificación de ciertas partidas patrimoniales y duplicidades en la información, por lo cual 
+resulta necesario incorporar conceptos patrimoniales específicos y precisar el alcance del rubro 
+residual. 
+ 
+17. Que los artículos 8, 9, 10 ,11 y 21 de la Ley 2099 del 2021 ampliaron los beneficios tributarios 
+previstos en la Ley 1715 de 2014, extendiéndolos a los proyectos de gestión eficiente de la energía, 
+así como a los proyectos de producción y uso de hidrógeno azul y verde, y, que, en consecuencia, 
+resulta necesario incluir nuevos conceptos en varios de los reportes de información regulados en 
+los artículos 1.3.5.10.7 y 1.3.5.10.8 de la Resolución Única en Materia Tributaria, Aduanera y 
+Cambiaria. 
+ 
+18. Que conforme a lo dispuesto en las normas que regulan la determinación del costo fiscal de 
+los activos fijos así como la utilidad obtenida en la enajenación de activos fijos poseídos por un 
+término igual o superior a dos años constituye ganancia ocasional, determinada por la diferencia 
+entre el precio de venta y el costo fiscal el activo, que dicho costo debe estar debidamente soportado 
+con los ajustes que por Ley permite, teniendo la posibilidad de ser actualizado mediante los 
+mecanismos que se disponen pa ra así reflejar su valor real, que adicionalmente la correcta 
+clasificación de estos valores resulta indispensable para garantizar la exactitud en la determinación 
+del impuesto correspondiente. 
+ 
+19. Que el Parágrafo 1 0 del artículo 1.3.5.12.1 de la Resolución 000227 de 2025, Única en 
+Materia Tributaria, Aduanera y Cambiaria presenta error de redacción al establecer “ las personas 
+naturales y jurídicas y asimilares ”, siendo lo correcto “ las personas naturales y jurídicas y 
+asimiladas”, razón por la cual se requiere corregir la citada disposición. 
+ 
+20. Que en las versiones actuales de los anexos técnicos de los formatos 5247, 5248, 5249, 
+5250, 5251 y 5252 el reporte de la información de un mismo informante de varios contratos de 
+colaboración u otros contratos se realiza de manera agregada y se requiere diferenciarlos de 
+acuerdo con lo establecido en el artículo 1.3.5.12.1 de la Resolución Única en Materia Tributaria, 
+Aduanera y Cambiaria, que indica que el reporte se realiza para cada uno de los contratos, para lo 
+cual se hace necesario al inclusión de las casillas  Número de Contrato y Número de Identificación 
+de Entidades sin Personería Jurídica - NIESPJ.
+
+--- [Página 4 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 4 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+21. Que en el Parágrafo 2 del artículo 1.3.7.2.2 de la Resolución Única en Materia Tributaria, 
+Aduanera y Cambiaria se hace necesario ajustar la redacción para incluir el tipo de responsable 4, 
+cuando por ningún medio sea posible identificar al responsable informado relacionado con el 
+vehículo. 
+ 
+22. Que la Ley 819 de 2003 en su artículo 1 literal f.) establece que, en cada vigencia fiscal, el 
+Gobierno Nacional presentará un Marco Fiscal de Mediano Plazo (MFMP) que deberá contener una 
+estimación del costo fiscal de las exenciones, deducciones o descuentos tributarios existentes. Por 
+lo anterior, anualmente el Ministerio de Hacienda y la DIAN publican en el MFMP un anexo donde 
+se cuantifica el costo fiscal de los gastos tributarios.  
+ 
+23. Que los gastos tributarios constituyen aquellas deducciones, exenciones y tratamientos 
+tributarios especiales, presentes en la legislación tributaria, que implican una disminución en la 
+obligación para los contribuyentes y que derivan en menores recursos para el Estado.  
+ 
+24. Que, dentro de la cuantificación realizada por la DIAN, se estima el costo fiscal asociado a 
+los gastos tributarios relacionados con Impuesto sobre la renta (naturales y jurídicas), Impuesto 
+sobre las ventas -IVA, Impuesto nacional a la gasolina y ACPM e Impuesto nacional al carbono. 
+ 
+25. Que con el fin de mejorar las estimaciones del gasto tributario en el impuesto nacional al 
+carbono, se  identifica la necesidad de incorporar en el formato 2574 versión 2 una casilla que 
+permita identificar el tipo de combustible sobre la que se hace efectiva la no causación del impuesto 
+y agregar una unidad de medida adicional para este fin. 
+ 
+26. Que el artículo 1.3.10.1 de la Resolución Única en Materia Tributaria, Aduanera y Cambiaria 
+prescribe los anexos que define las especificaciones técnicas mediante la cual se cumple las 
+obligaciones previstas en la resolución en comento, por lo cual se requiere modificar los anexos que 
+se detallan a continuación: 
+ 
+a. El anexo T3.18 define las especificaciones técnicas del formato 1001  versión 10 
+correspondiente a Pagos o abonos en cuenta y retenciones practicadas, y en 
+consideración a la creación de nuevos conceptos  que implican cambios en los 
+sistemas informáticos de la DIAN, se requiere actualizarlo a la versión 11.  Por lo 
+expuesto se hace necesario modificar el anexo y prescribirlo. 
+ 
+b. El anexo T3.46 define las especificaciones técnicas del formato 1476 versión 12 
+correspondiente a la información de registros catastrales y de Impuesto Predial y se 
+requiere adicionar una casilla para determinar la posición decimal del “Porcentaje de 
+participación del propietario”, lo que implica cambio del formato 1476 a la versión 13. 
+Por lo expuesto se hace necesario modificar el anexo y prescribirlo. 
+ 
+27. Que el artículo 96 de la Ley 788 de 2002, modificado por el artículo 138 de la Ley 2010 de 
+2019, establece la exención de todo impuesto, tasa o contribución sobre los fondos provenientes 
+de auxilios o donaciones de entidades o gobiernos extranjeros, convenidos por el Gobierno de 
+Colombia y destinados a programas de utilidad común, los cuales deben estar registrado s ante la 
+Agencia Presidencial de Cooperación Internacional –APC Colombia –, de conformidad con el 
+artículo 1.3.1.9.5 del Decreto 1625 de 2016. 
+ 
+28. Que en virtud del artículo 1.3.1.9.4. del Decreto 1625 de 2016 Único Reglamentario en 
+Materia Tributaria, la Agencia Presidencial de Cooperación Internacional de Colombia, APC -
+Colombia será la entidad encargada de certificar que los fondos provenientes de auxilios o 
+donaciones provienen de entidades o gobiernos extranjeros y que serán destinados a programas 
+de utilidad común. 
+ 
+29. Que en virtud del parágrafo 2 del artículo 1.3.1.9.12 y el artículo 1.3.1.9.13 del Decreto 1625 
+de 2016 Único Reglamentario en Materia Tributaria, son objeto de control tributario los recursos que 
+se generen como excedentes financieros de los proyectos registrados, así como aquellos que estén 
+cobijados por convenios o tratados internacionales con disposiciones fiscales preferentes y respecto 
+de los cuales no se expida necesariamente un Certificado de Utilidad Común.
+
+--- [Página 5 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 5 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+30. Que el parágrafo 3 del artículo 1.3.1.9.6. del Decreto 1625 de 2016 Único Reglamentario en 
+Materia Tributaria dispone la remisión por parte de la Agencia Presidencial de Cooperación 
+Internacional de Colombia -APC-Colombia a la Unidad Administrativa Especial Dirección de 
+Impuestos y Aduanas Nacionales -DIAN de la información sobre los certificados de utilidad común 
+en los términos, condiciones y plazos que establezca esta última; y que la información relacionada 
+con el registro de los proyectos de utilidad común ante la Agencia Pr esidencial de Cooperación 
+Internacional de Colombia -APC-Colombia tiene relevancia tributaria en los términos del artículo 
+631-3 del Estatuto Tributario para el control de las exenciones fiscales aplicadas a los recursos de 
+donaciones de gobiernos o entidades extranjeras registrados como proyectos de utilidad común; se 
+incorpora el contenido, los parámetros y las especificaciones técnicas del Formato 2821 Versión 1, 
+en el cual se reportará la información correspondiente por parte de la Agencia Presidencial de 
+Cooperación Internacional de Colombia -APC-Colombia.  
+ 
+31. Que el artículo 43 de la Ley 2099 de 2021, reglamentado mediante el inciso 1 del artículo 
+1.2.1.18.91. del Decreto 1625 de 2016, Único Reglamentario en Materia Tributaria, establece que: 
+“El Certificado de inversiones para la procedencia de beneficios tributarios. El certificado de 
+inversiones para la procedencia de beneficios tributarios de que trata el artículo 43 de la Ley 2099 
+de 2021, será expedido por la Unidad de Planeación Minero E nergética -UPME y será el requisito 
+para la procedencia de los beneficios tributarios de los artículos 11, 12, 13 y 14 de la Ley 1715 de 
+2014, modificados por los artículos 8, 9, 10 y 11 de la Ley 2099 de 2021, para los proyectos de 
+generación de energía eléctrica a partir de fuentes no convencionales de energía -FNCE, o de 
+acciones o medidas de gestión eficiente de la energía -GEE, incluyendo medición inteligente.”.  
+ 
+32. Que la información de las certificaciones de los proyectos calificados como de carácter de 
+fuentes no convencionales de energía (FNCE), acciones o medidas de gestión eficiente de la 
+energía (GEE) y proyectos de hidrógeno verde o azul tiene relevancia tributaria en los términos del 
+artículo 631-3 del Estatuto Tributario para el control de los beneficios tributarios asociados a los 
+artículos 11, 12, 13 y 14 de la Ley 1715 de 2014 ; po r tal razón, se incorpora el contenido, los 
+parámetros y las especificaciones técnicas del Formato 2822 Versión 1, en el cual se reportará la 
+información correspondiente. 
+ 
+33. Que con el fin de obtener la información de los ingresos recibidos a través de un tercero, por 
+las ventas de bienes y/o servicios realizadas por los prestadores y enajenantes sin residencia o 
+domicilio en el país, así como los pagos de los terceros del exterior que remitieron a través de estos 
+por las adquisiciones a favor de nacionales en la respectiva vigencia, se hace necesario que los 
+contribuyentes colombianos que intermedian pagos a favor de los terceros del exterior o de éstos a 
+nacionales, reporten la información necesaria para la determinación de la obligación sustancial y 
+formal alrededor de estas operaciones, en concordancia con  las disposiciones normativas  que 
+aplican a las operaciones que se realicen por los prestadores y enajenantes sin residencia o 
+domicilio en el país. 
+ 
+34. Que los artículos 9, 12, 20 -3, 24, 26, 27, 28, 90 y 261 del Estatuto Tributario, delimitan los 
+presupuestos para la determinación y reconocimiento de los ingresos obtenidos y el patrimonio 
+poseído en el país, por los residentes, no residentes, domiciliados y no domiciliados en el país, por 
+lo tanto, a fin de definir las personas naturales y jurídicas que registran la obligación sustancial y 
+formal de determinar, declarar y pagar los impuestos administrados por la entidad, respecto de las 
+operaciones con activos digitales realizadas en el país, se hace necesarios que en virtud de lo 
+preceptuado en el Articulo 631 y 631 -3 del Estatuto Tributario, se reporte la información de estas 
+operaciones por los terceros que sirven de intermediarios para su gestión. 
+ 
+35. Que, para obtener la información de los proveedores del exterior para dar cumplimiento a lo 
+preceptuado en el artículo 1.6.5.2.5 de la Resolución Única en concordancia artículo numeral 3) y 
+parágrafo 3 del 420 del E.T. , que incorporó el Impuesto sobre las ventas por servicios prestados 
+desde el exterior, y el articulo 20-3 ibidem, que creó el Impuesto de renta por Presencia Económica 
+Significativa – PES, se hace necesario que los contribuyentes residentes o domiciliados en el país 
+que realizan operaciones con terceros del exterior informen los datos específicos en relación con 
+estas operaciones. 
+ 
+36. Que, para fortalecer la oportunidad, trazabilidad y control de las actividades económicas, se 
+hace necesario modificar la periodicidad con la cual se presenta la información prevista en los 
+artículos 1.3.3.1.1., 1.3.3.1.2 . y 1.3.3.2.1 . de la Resolución 000227 de 2025, Única en Materia
+
+--- [Página 6 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 6 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+Tributaria, Aduanera y Cambiaria , la cual en la actuali dad se entrega anualizada por periodos 
+mensuales, estableciendo su envío con frecuencia mensual a partir del año gravable 2027 y 
+siguientes, esto obedece a la necesidad de fortalecer la gestión de la Unidad Administrativa Especial 
+Dirección de Impuestos y Aduanas Nacionales -DIAN, mediante el acceso oportuno a datos 
+actualizados, verificables y de alta calidad, permitiendo a la administración tributaria identificar de 
+manera célere nuevos riesgos de cumplimiento, cuantificar con mayor precisión las contingencias 
+en el recaudo deri vadas de comportamientos específicos, e identificar errores o interpretaciones 
+inadecuadas del régimen normativo tributario recurrentes entre los contribuyentes. La medida se 
+encuentra alineada con los estándares internacionales de las administraciones tributarias modernas 
+y contribuye al perfeccionamiento de los procesos de control, fiscalización y toma de decisiones 
+basadas en medios de prueba oportunos, actualizados y con un alto grado de certeza. 
+ 
+37. Que en cumplimiento de lo dispuesto en el numeral 8 del artículo 8 de la Ley 1437 de 2011 
+y el artículo 32 de la Resolución 91 de 2021 modificada por la Resolución 7 de 2025, el proyecto de 
+Resolución se public ó en la página web de la Unidad Administrativa Especial Dirección de 
+Impuestos y Aduanas Nacionales -DIAN del XX al XX de octubre de 202 5 para comentarios y 
+observaciones, incorporándose en la respectiva matriz las respuestas correspondientes, previa a la 
+expedición de este acto administrativo. 
+ 
+En mérito de lo expuesto, 
+ 
+RESUELVE 
+ 
+Artículo 1. Modificación del numeral 20 y adición del numeral 21 al artículo 1.3.1.1 del Capítulo 
+1 del Título 3 de la Parte 1 de la Resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria. Modifíquese el numeral 20 y adiciónese el numeral 21 al artículo 1.3.1.1 
+del Capítulo 1 del Título 3 de la Parte 1, de la Resolución 000227 de 2025, Única en Materia 
+Tributaria, Aduanera y Cambiaria, los cuales quedarán así: 
+ 
+“20. El Ministerio de Ciencia, Tecnología e Innovación, el Ministerio de Cultura, las Artes y 
+los Saberes, el Ministerio del Trabajo, la Autoridad Nacional de Licencias Ambientales 
+(ANLA) y/o las Corporaciones Autónomas Regionales, las Corporaciones para el Desarrollo 
+Sostenible, las Autoridades Ambientales de los Grandes Centros Urbanos, la Unidad de 
+Planeación Minero Energética UPME y la Agencia Presidencial de Cooperación 
+Internacional de Colombia – APC - Colombia, respecto a las certificaciones, calificaciones o 
+similares que se constituyen en el requisito para que los contribuyentes accedan a los 
+beneficios tributarios. 
+ 
+21. Las personas naturales o jurídicas o asimiladas residentes o domiciliadas en el país que 
+sean proveedores de servicios de activos digitales con operaciones en el país  y hayan 
+obtenido ingresos brutos superiores a mil cuatrocientos (1400) Unidades de Valor Tributario 
+-UVT (equivalente al año referido). 
+ 
+Artículo 2. Modificación de los incisos del artículo 1.3.5.2.1 de la Sección 2 del Capítulo 5 del 
+Título 3 de la Parte 1 de la Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera 
+y Cambiaria. Modifíquense los incisos del artículo 1.3.5.2.1 de la Sección 2 del Capítulo 5 del Título 
+3 de la Parte 1 de la Resolución  000227 de 2025,  Única en Materia Tributaria, Aduanera y 
+Cambiaria, el cual quedará así: 
+ 
+“Artículo 1.3.5.2.1. Información de pagos o abonos en cuenta y retenciones en la fuente 
+practicadas. Las personas naturales y sus asimiladas, las personas jurídicas y sus asimiladas 
+y, demás entidades públicas y privadas enunciadas en los numerales 4, 5, 6, 7 y 9 del artículo 
+1.3.1.1 de la presente Resolución, de acuerdo con lo establecido en los literales b) y e) del 
+artículo 631 y el artículo 631-2 del Estatuto Tributario, deberán informar: los apellidos y nombres 
+o razón social, identificación, dirección y país de residencia o domicilio de cada una de las 
+personas o entidades beneficiarias de los pagos o abonos en cuenta (devengo) que constituyan 
+costo o deducción o den derecho a impuesto descontable, incluida la compra de activos fijos o 
+movibles y los pagos o abonos en cuenta (devengo) no solicitados fiscalmente como costo o 
+deducción, los valores de las retenciones en la fuente practicadas o asumidas a título de los 
+impuestos sobre la Renta, IVA y Timbre, según el concepto contable a que correspondan
+
+--- [Página 7 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 7 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+conforme con los parámetros establecidos en las especificaciones técnicas del Formato “1001 
+Versión 11 - Pagos o abonos en cuenta y retenciones practicadas”, de la siguiente manera: 
+ 
+1. Conceptos generales que deben reportar todos los sujetos indicados en el inciso 1 de este 
+artículo según corresponda, así: 
+ 
+ÍTEM DESCRIPCIÓN CONCEPTO 
+1. Viáticos: El valor acumulado efectivamente pagado que no constituye ingreso 
+para el trabajador.  5055 
+2. Gastos de representación: El valor acumulado efectivamente pagado que no 
+constituye ingreso para el trabajador.  5056 
+3. Honorarios: El valor acumulado pagado o abonado en cuenta. No debe incluir 
+valores de rentas de trabajo y de pensiones. 5002 
+4. Comisiones: El valor acumulado pagado o abonado en cuenta. No debe incluir 
+valores de rentas de trabajo y de pensiones. 5003 
+5. Servicios: El valor acumulado pagado o abonado en cuenta. No debe incluir 
+valores de rentas de trabajo y de pensiones. 5004 
+6. Arrendamientos: El valor acumulado pagado o abonado en cuenta.  5005 
+7. Intereses y rendimientos financieros causados: El valor acumulado abonado 
+en cuenta.  5006 
+8. Intereses y rendimientos financieros efectivamente pagados: El valor pagado.  5063 
+9. Compra de activos movibles (E.T. art. 60): El valor acumulado pagado o 
+abonado en cuenta.  5007 
+10. Compra de activos fijos (E.T. art. 60): El valor acumulado pagado o abonado 
+en cuenta.  5008 
+11. Los pagos o abonos en cuenta por concepto de aportes parafiscales al SENA, 
+a las Cajas de Compensación Familiar y al Instituto Colombiano de Bienestar 
+Familiar  
+5010 
+12. Los pagos o abonos en cuenta efectuados a las empresas promotoras de salud 
+EPS y los aportes al Sistema de Riesgos Laborales, incluidos los aportes del 
+trabajador  
+5011 
+13. Los pagos o abonos en cuenta por concepto de aportes obligatorios para 
+pensiones efectuados a los Fondos de Pensiones, incluidos los aportes del 
+trabajador.  
+5012 
+14. Las donaciones en dinero efectuadas, a las entidades señaladas en los 
+artículos 125, 125-4, 126-2 y 158-1 del Estatuto Tributario y la establecida en 
+el artículo 16 de la Ley 814 de 2003, y demás que determine la ley.  
+5013 
+15. Las donaciones en activos diferentes a dinero efectuadas a las entidades 
+señaladas en los artículos 125, 125 -4, 126-2 y 158-1 del Estatuto Tributario y 
+la establecida en el artículo 16 de la Ley 814 de 2003, y demás que determine 
+la ley. No incluir el valor de las donacione s reportadas en los conceptos 5093 
+y 5094 
+5014 
+16. El valor de los impuestos solicitados como deducción.  5015 
+17. El valor del impuesto nacional al consumo 5066 
+18. El valor de los aportes, tasas y contribuciones solicitados como deducción.  5058 
+19. Redención de inversiones en lo que corresponde al rembolso del capital por 
+títulos de capitalización. 5060 
+20. Los demás costos y deducciones.  5016 
+21. Compra de activos fijos reales productivos sobre los cuales solicitó deducción, 
+E.T. art. 158-3. El valor acumulado pagado o abonado en cuenta. Este valor no 
+debe incluirse en el concepto 5008.  
+5020 
+22. El valor acumulado de los pagos o abonos en cuenta al exterior por servicios 
+técnicos.  5027 
+23. El valor acumulado de los pagos o abonos en cuenta al exterior por asistencia 
+técnica. 5023 
+24. El valor acumulado de los pagos o abonos en cuenta al exterior por consultoría.  5067 
+25. El valor acumulado de los pagos o abonos en cuenta al exterior por marcas.  5024 
+26. El valor acumulado de los pagos o abonos en cuenta al exterior por patentes.  5025 
+27. El valor acumulado de los pagos o abonos en cuenta al exterior por regalías.  5026 
+28. El valor acumulado de los pagos o abonos efectuados a proveedores del 
+exterior por servicios audiovisuales digitales (entre otros, de música, videos, 5080
+
+--- [Página 8 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 8 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+ÍTEM DESCRIPCIÓN CONCEPTO 
+películas y juegos de cualquier tipo, así como la radiodifusión de cualquier tipo 
+de evento). E.T. art.437-2 num.8.  
+29. El valor acumulado de los pagos o abonos efectuados a proveedores del 
+exterior por servicios prestados a través de plataformas digitales. E.T. art.437 -
+2 num.8  
+5081 
+30. El valor acumulado de los pagos o abonos efectuados a proveedores del 
+exterior por suministro de servicios de publicidad online. E.T. art.437-2 num.8  5082 
+31 El valor acumulado de los pagos o abonos efectuados a proveedores del 
+exterior por suministro de enseñanza o entrenamiento a distancia. E.T. art.437-
+2 num.8  
+5083 
+32. El valor acumulado de los pagos o abonos efectuados a proveedores del 
+exterior por suministro de derechos de uso o explotación de intangibles. E.T. 
+art.437-2 num.8  
+5084 
+33. El valor acumulado de los pagos o abonos efectuados a proveedores del 
+exterior por Otros servicios electrónicos o digitales con destino a usuarios 
+ubicados en Colombia. E.T. art.437-2 num.8  
+5085 
+34. El valor acumulado de la devolución de pagos o abonos en cuenta y 
+retenciones correspondientes a operaciones de años anteriores.  5028 
+35. Gastos pagados por anticipado por Compras: El valor acumulado pagado o 
+abonado en cuenta.  5029 
+36. Gastos pagados por anticipado por Honorarios: El valor acumulado pagado o 
+abonado en cuenta. No debe incluir valores de rentas de trabajo y de 
+pensiones. 
+5030 
+37. Gastos pagados por anticipado por Comisiones: El valor acumulado pagado o 
+abonado en cuenta. No debe incluir valores de rentas de trabajo y de 
+pensiones. 
+5031 
+38. Gastos pagados por anticipado por Servicios: El valor acumulado pagado o 
+abonado en cuenta. No debe incluir valores de rentas de trabajo y de 
+pensiones. 
+5032 
+39. Gastos pagados por anticipado por arrendamientos: El valor acumulado 
+pagado o abonado en cuenta. 5033 
+40. Gastos pagados por anticipado por intereses y rendimientos financieros: El 
+valor acumulado pagado o abonado en cuenta 5034 
+41. Gastos pagados por anticipado por otros conceptos: El valor acumulado 
+pagado o abonado en cuenta.  5035 
+  42. El monto de las amortizaciones realizadas.  5019 
+43. El pago por loterías, rifas, apuestas y similares. 5044 
+44. Enajenación de activos fijos de personas naturales ante oficinas de tránsito y 
+otras entidades autorizadas.  5046 
+45. Retención sobre ingresos de tarjetas débito y crédito.  5045 
+46 El pago o abono en cuenta realizado a cada uno de los cooperados, del valor 
+del Fondo para revalorización de aportes.  5059 
+47. Las utilidades pagadas o abonadas en cuenta, cuando el beneficiario es 
+diferente al fideicomitente, se informarán en el Formato 1014.  5061 
+48. Participaciones o dividendos pagados o abonados en cuenta en calidad de 
+exigibles correspondientes a 2016 y anteriores, Parágrafo 2 artículo 49 E.T.  5068 
+49. Participaciones o dividendos pagados o abonados en cuenta en calidad de 
+exigibles correspondientes a 2016 y anteriores, numeral 3 del artículo 49 E.T.  5069 
+50. Participaciones o dividendos pagados o abonados en cuenta en calidad de 
+exigibles correspondientes a 2017 y siguientes, Parágrafo 2 artículo 49 E.T. No 
+incluir las retenciones en la fuente del concepto 5086. 
+5070 
+51. Participaciones o dividendos pagados o abonados en cuenta en calidad de 
+exigibles correspondientes a 2017 y siguientes, numeral 3 del artículo 49 E.T. 
+No incluir las retenciones en la fuente del concepto 5086. 
+5071 
+52. Valor del pago o abono en cuenta por prima en colocación de acciones y otros 
+conceptos patrimoniales, sin incluir los reembolsos de aportes. 5100 
+53. Valor retención en la fuente trasladada a terceros por participaciones o 
+dividendos recibidos de sociedades nacionales E.T. art. 242-1 par.1  5086 
+54. Desembolsos por depósitos judiciales. Se debe identificar al beneficiario.  5073 
+55. Desembolsos por reintegros de depósitos judiciales. Se debe identificar al 
+beneficiario. 5074
+
+--- [Página 9 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 9 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+ÍTEM DESCRIPCIÓN CONCEPTO 
+56. Regalías y explotación de la propiedad intelectual: El valor acumulado pagado 
+o abonado en cuenta. 5075 
+57. Valor de utilidades distribuidas provenientes de diferimiento de ingresos. E.T. 
+art. 23-1, inc.4. 5076 
+58. Intereses por deuda a vinculados en subcapitalización. E.T. art.118 -1 El valor 
+abonado en cuenta. Este valor no debe incluirse en el concepto 5006.  5079 
+59. Valor de los puntos premio redimidos en el período que afectan el gasto 
+directamente, procedentes de programas de fidelización.  5087 
+60. Costos o gastos por diferencia en cambio. Se debe reportar con el NIT del 
+informante. 5088 
+61. Valor compra de acciones, cuotas o partes de interés social o aportes de 
+sociedades que no cotizan en bolsa 5089 
+62. Valor donación de acciones, cuotas o partes de interés social o aportes de 
+sociedades que no cotizan en bolsa 5090 
+63. Valor cesión de acciones, cuotas o partes de interés social o aportes de 
+sociedades que no cotizan en bolsa 5091 
+64. Valor del pago que constituye ingreso en especie para el beneficiario (Art. 29 -
+1 E.T.). 5092 
+65. Donaciones de bebidas ultraprocesadas y azucaradas a los bancos de 
+alimentos por los responsables del impuesto a estos bienes. E.T. art. 513 -1, 
+par. 5, adicionado por el art. 54 L. 2277/2022. 
+5093 
+66. Donaciones de productos comestibles ultraprocesados industrialmente y/o con 
+alto contenido de azúcares añadidos, sodio o grasas saturadas a los bancos 
+de alimentos por los responsables del impuesto a estos bienes. E.T. art. 513 -
+6, par. 4, adicionado por el art. 54 L. 2277/2022. 
+5094 
+67. Pago por concepto de regalías pagadas a la Nación u otros entes territoriales 
+por la explotación de hidrocarburos por entes diferentes a los organismos 
+descentralizados. E.T., art. 115, par. 1 
+5095 
+68. Pago por concepto de regalías pagadas a la Nación u otros entes territoriales 
+por la explotación de gas por entes diferentes a los organismos 
+descentralizados. E.T., art. 115, par. 1 
+5096 
+69. Pago por concepto de regalías pagadas a la Nación u otros entes territoriales 
+por la explotación de carbón por entes diferentes a los organismos 
+descentralizados. E.T., art. 115, par. 1 
+5097 
+70. Pago por concepto de regalías pagadas a la Nación u otros entes territoriales 
+por la explotación de otros minerales y piedras preciosas por entes diferentes 
+a los organismos descentralizados. E.T., art. 115, par. 1 
+5098 
+71. Pago por concepto de regalías pagadas a la Nación u otros entes territoriales 
+por la explotación de sal y materiales de construcción por entes diferentes a 
+los organismos descentralizados. E.T., art. 115, par. 1 
+5099 
+72. El valor acumulado de los pagos o abonos efectuados a proveedores del 
+exterior por los bienes enajenados a usuarios colombianos conforme al inciso 
+1 del artículo 20-3 E.T., en concordancia con el numeral 17 art. 24 ibídem. 
+5104  
+73 El valor acumulado de los pagos o abonos efectuados a proveedores del 
+exterior por los servicios prestados a usuarios colombianos conforme al inciso 
+2 del artículo 20-3 E.T. 
+5105  
+ 
+2. Información sobre el Impuesto de Timbre Nacional:  
+ 
+ÍTE
+M 
+DESCRIPCIÓN CONCEPTO 
+1 Retenciones practicadas a título de timbre.  5053 
+2 La devolución de retenciones a título de impuesto de timbre, 
+correspondientes a operaciones de años anteriores. 
+5054 
+ 
+3. Las compañías de seguros deberán informar adicionalmente los pagos o abonos en cuenta 
+efectuados por los siguientes conceptos:  
+ 
+ÍTEM DESCRIPCIÓN CONCEPTO 
+1 El importe de las primas de reaseguros pagados o abonados en cuenta.  5018
+
+--- [Página 10 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 10 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+2 El importe de los siniestros por lucro cesante pagados o abonados en 
+cuenta. 
+5047 
+3 El importe de los siniestros por daño emergente pagados o abonados en 
+cuenta. 
+5048 
+4 El importe de los siniestros por seguros de vida pagados o abonados en 
+cuenta. 
+5072 
+ 
+4. Los Fondos de Pensiones Obligatorias deberán informar adicionalmente los pagos 
+efectuados por los siguientes conceptos: 
+ 
+ÍTEM DESCRIPCIÓN CONCEPTO 
+1 Devoluciones de saldos de aportes pensionales pagados. 5064 
+2 Excedentes pensionales de libre disponibilidad componente de capital 
+pagados. 
+5065 
+3 El valor del Gravamen a los Movimientos Financieros (GMF). Este valor 
+no debe incluirse en el concepto 5015. 
+5101 
+ 
+5. El Instituto Colombiano de Crédito Educativo y Estudios Técnicos en el Exterior (Colfuturo), 
+Ministerio de Ciencia, Tecnología e Innovación y todas aquellas entidades que administren 
+recursos públicos para el otorgamiento de becas y/o créditos educativos condonables, 
+deberán informar adicionalmente el siguiente concepto: 
+ 
+ÍTEM DESCRIPCIÓN CONCEPTO 
+1 Valor de los pagos por apoyos económicos no reembolsables o 
+condonados para financiar educación con recursos públicos art. 46 E.T., 
+se informarán en el Formato 5247.   
+5102 
+ 
+6. Los partícipes en contratos de colaboración empresarial y otros contratos dispuestos en el 
+artículo 18 del Estatuto Tributario y en el artículo 1.3.5.12.1 de la presente resolución, tales 
+como consorcios, uniones temporales, joint ventures, cuentas en participación o convenios 
+de cooperación con entidades públicas y quienes celebren otros contratos como mandato, 
+administración delegada o exploración y explo tación de hidrocarburos, gases y minerales 
+deberán informar de manera agregada, con el NIT del representante, administrador o gestor 
+del contrato, los pagos o abonos en cuenta (devengo) que constituyan costo o deducción y 
+los pagos o abonos en cuenta (devengo) no solicitados fiscalmente como costo o deducción, 
+de acuerdo con su proporción dentro del contra to de colaboración empresarial y otros 
+contratos con el siguiente concepto:  
+ 
+ÍTE
+M 
+DESCRIPCIÓN CONCEPTO 
+1 Pagos y abonos en cuenta realizados a través de contratos de 
+colaboración empresarial como partícipe 
+5103 
+ 
+Los valores de IVA mayor valor del costo o gasto deducible, IVA mayor valor del costo o gasto 
+no deducible, Retención en la fuente practicada Renta, Retención en la fuente asumida 
+Renta, Retención en la fuente practicada IVA a responsables del IVA y Retención en la fuente 
+practicada IVA a no residentes o no domiciliados deben ser diligenciados con cero. 
+ 
+Artículo 3. Modificación del inciso 1 y adición del parágrafo 1 al artículo 1.3.5.3.1 de la Sección 
+3 del Capítulo 5 del Título 3 de la Parte 1 de la Resolución 000227 de 2025, Única en Materia 
+Tributaria, Aduanera y Cambiaria. Modifíquese el inciso 1 y adiciónese el parágrafo 1 al artículo 
+1.3.5.3.1 de la Sección 3 del Capítulo 5 del Título 3 de la Parte 1 de la Resolución 000227 de 2025, 
+Única en Materia Tributaria, Aduanera y Cambiaria, los cuales quedarán, así: 
+ 
+“Artículo 1.3.5.3.1 . Información de retenciones en la fuente que le practicaron . Las 
+personas naturales y sus asimiladas, las personas jurídicas y sus asimiladas y demás 
+entidades públicas y privadas enunciadas en los numerales 4, 5 y 7, del artículo 1.3.1.1 de 
+la presente Resolución, de acuerdo con lo establecido en el literal c) de l artículo 631 del 
+Estatuto Tributario, deberán suministrar los apellidos y nombres o razón social, identificación 
+y dirección de cada una de las personas o entidades que les hubieren practicado retención 
+en la fuente en el año gravable, con indicación del  concepto, valor de la base de retención
+
+--- [Página 11 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 11 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+acumulada del pago o abono en cuenta sujeto a retención en la fuente de las transacciones 
+sobre las cuales le practicaron la retención, y el valor de la retención que le practicaron, 
+conforme con los parámetros establecidos en las especificaciones técnicas del Form ato 
+1003 Versión 7, según el concepto que corresponda, de la siguiente manera:” 
+ 
+“Parágrafo 1.  Para el concepto 1309 “Retención en la fuente en el impuesto sobre las 
+ventas”, el valor a reportar como base de la retención corresponde al valor de IVA y no al 
+valor del pago o abono en cuenta.” 
+ 
+Artículo 4. Modificación del artículo 1.3.5.5.1 de la Sección 5 del Capítulo 5 del Título 3 de la 
+Parte 1, de la Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera y Cambiaria. 
+Modifíquese el artículo 1.3.5. 5.1 de la Sección 5 del  Capítulo 5 del Título 3 de la Parte 1, de la 
+Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera y Cambiaria, el cual quedará 
+así: 
+ 
+“Artículo 1.3.5.5.1. Información del impuesto sobre las ventas -IVA descontable. Las 
+personas naturales y sus asimiladas, las personas jurídicas y sus asimiladas y, demás 
+entidades públicas y privadas enunciadas en los numerales 4, 5, 6 y 7 del artículo 1.3.1.1 de 
+la presente Resolución, de conformidad con lo señalado en los literales e) y f) del artículo 
+631, en los artículos 631-2 y 631-3 del Estatuto Tributario, deberán suministrar información 
+del valor del impuesto sobre las ventas - IVA descontable y el valor del impuesto sobre las 
+ventas - IVA resultante por devoluciones en ventas anuladas, rescindidas o resueltas,  
+correspondientes al año gravable,  indicando los apellidos y nomb res o razón social e 
+identificación de cada uno de los terceros, conforme con los parámetros establecidos en las 
+especificaciones técnicas del Formato 1005 Versión 9. 
+ 
+El valor del impuesto sobre las ventas - IVA descontable y el valor del impuesto sobre las 
+ventas - IVA resultante por devoluciones en ventas anuladas, rescindidas o resueltas en 
+operaciones con entidades o sociedades del exterior, al reportar el número de identificación 
+se debe diligenciar con el número, código o clave de identificación, tal como figura en el 
+registro fiscal tributario del país de residencia o domicilio y tipo de documento 42. Cuando 
+en dicho país no se utilice número, código o clave fiscal, se debe informar con identificación 
+444444001 en forma ascendente, variando consecutivamente en una unidad hasta el 
+444449999 y con tipo de documento 43. 
+ 
+El valor del impuesto sobre las ventas -IVA descontable y el valor del impuesto sobre las 
+ventas - IVA resultante por devoluciones en ventas anuladas, rescindidas o resueltas en 
+operaciones con personas naturales del exterior, al reportar el número de iden tificación se 
+debe diligenciar con el número, código o clave de identificación registrado en el país de 
+residencia o domicilio fiscal.” 
+ 
+Artículo 5. Modificación del parágrafo 1 del artículo 1.3.5.7.1 de la Sección 7 del Capítulo 5 del 
+Título 3 de la Parte 1 de la Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera 
+y Cambiaria. Modifíquese el parágrafo 1 del artículo 1.3.5.7.1 de la Sección 7 del Capítulo 5 del 
+Título 3 de la Parte 1, de la Resolución  000227 de 2025, Única en Materia Tributaria, Aduanera y 
+Cambiaria, el cual quedará así: 
+ 
+“Parágrafo 1. Los saldos de los créditos cuya cuantía sea menor a doce (12) Unidades de 
+Valor Tributario -UVT (del año gravable a reportar) se informarán acumulados en un solo 
+registro con identificación 222222222, razón social “CUANTIAS MENORES” y tipo 
+documento 43, en el concepto a que correspondan, reportando la dirección del informante.” 
+ 
+Artículo 6. Modificación del artículo 1.3.5.9.1 de la Sección 9 del Capítulo 5 del Título 3 de la 
+Parte 1 de la Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera y Cambiaria. 
+Modifíquese el artículo 1.3.5. 9.1 de la Sección 9 del  Capítulo 5 del Título 3 de la Parte 1 de la 
+Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera y Cambiaria, el cual quedará 
+así: 
+ 
+“Artículo 1.3.5.9.1. Información de ingresos recibidos para terceros residentes fiscales 
+y sociedades domiciliadas  en territorio colombiano . Las personas naturales y sus 
+asimiladas, las personas jurídicas y sus asimiladas y demás entidades públicas y privadas
+
+--- [Página 12 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 12 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+enunciadas en los numerales 4, 5, 6 y 7 del artículo 1 .3.1.1 de la presente Resolución, 
+conforme con lo previsto en el literal g) del artículo 631 y el artículo 631 -2 del Estatuto 
+Tributario, deberán suministrar apellidos y nombres o razón social, identificación de cada 
+una de las personas o entidades nacionales, de quienes se recibieron ingresos para terceros 
+y los apellidos y nombres o razón social, identificación, dirección de cada una de las 
+personas o entidades nacionales del tercero para quien se recibió el ingreso, in dicando el 
+valor total de la operación, el valor de los ingresos reintegrados, transferidos o distribuidos 
+al tercero y el valor de la retención en la fuente transferida o distribuida al tercero, conforme 
+con los parámetros establecidos en las especificaciones técnicas del Formato 1647 Versión 
+3, con el concepto 4070.  
+ 
+Parágrafo 1. El valor mínimo para reportar corresponderá al valor anual acumulado de los 
+ingresos recibidos para terceros, reintegrados, transferidos o distribuidos a cada beneficiario 
+cuando la cuantía sea superior a un veinte y cuatro (24) Unidades de Valor Tributario -UVT 
+(del año gravable a reportar).  
+ 
+Parágrafo 2. La información aquí señalada no debe ser suministrada por el beneficiario del 
+ingreso, quien únicamente reportará la información del intermediario a través del cual recibió 
+el ingreso en el Formato 1007 - Ingresos recibidos.  
+ 
+Parágrafo 3. En el reporte de los ingresos recibidos para terceros deberán incluirse los giros, 
+pagos o recargas a través de servicios postales, siempre y cuando el beneficiario sea una 
+persona diferente a la persona natural o jurídica que recauda el dinero.  
+ 
+Parágrafo 4. Los pagos o abonos en cuenta que se realicen por concepto de rentas de 
+trabajo y de pensiones sólo se deberán reportar de acuerdo con los parámetros establecidos 
+para el Formato 2276 - Información de ingresos y retenciones por rentas de trabajo y de 
+pensiones.  
+ 
+Parágrafo 5. La información de las operaciones reportadas en virtud de los contratos de 
+colaboración empresarial y otros contratos señalados en el artículo 1.3.5.12.1 de la presente 
+resolución no deberá ser reportada en el Formato 1647 – Información de ingresos recibidos 
+para terceros residentes fiscales y sociedades domiciliadas en territorio colombiano. 
+ 
+Parágrafo 6. En los eventos que no sea posible identificar de quiénes se recibieron ingresos 
+para terceros conforme los casos que se tipifiquen las situaciones señaladas en el numeral 
+3.3 del artículo 1.5.1.2.2.1. de la presente Resolución  se podrán reportar con la identificación 
+222222222, razón social "CONSUMIDOR FINAL" y tipo documento 43.” 
+ 
+Artículo 7. Modificación del inciso 1 del artículo 1.3.5.10.1 de la Sección 10 del Capítulo 5 del 
+Título 3 de la Parte 1 de la Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera 
+y Cambiaria. Modifíquese el inciso 1 d el artículo 1.3.5. 10.1 de la Sección 10 del  Capítulo 5 del 
+Título 3 de la Parte 1 de la Resolución  000227 de 2025, Única en Materia Tributaria, Aduanera y 
+Cambiaria, el cual quedará así: 
+ 
+“Artículo 1.3.5.10.1. Información de los saldos de cuentas. Las personas naturales y sus 
+asimiladas, las personas jurídicas y sus asimiladas y, demás entidades públicas y privadas 
+enunciadas en los numerales 4, 5, 6, 7 y 8 del artículo 1.3.1.1 de la presente resolución, de 
+conformidad con lo establecido en el literal k) del artículo 631 del Estatuto Tributario, deberán 
+suministrar los saldos a treinta y uno (31) de diciembre de las cuentas corrientes y/o ahorro 
+que posea en el país y en el exte rior, indicando la razón social, identificación y país de 
+residencia o domicilio de la entidad financiera, conforme con los parámetros establecidos en 
+las especificaciones técnicas del  Formato 1012 Versión 7, utilizando los siguientes 
+conceptos:” 
+ 
+Artículo 8. Modificación del inciso 1 del artículo 1.3.5.10.2. de la Sección 10 del Capítulo 5 del 
+Título 3 de la Parte 1 de la Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera 
+y Cambiaria. Modifíquese el inciso 1 del artículo 1.3.5.10.2  de la Sección 10 del  Capítulo 5 del 
+Título 3 de la Parte 1, de la Resolución  000227 de 2025, Única en Materia Tributaria, Aduanera y 
+Cambiaria, el cual quedará así:
+
+--- [Página 13 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 13 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+“Artículo 1.3.5.10.2. Información de las inversiones.  Las personas naturales y sus 
+asimiladas, las personas jurídicas y sus asimiladas y, demás entidades públicas y privadas 
+enunciadas en los numerales 4, 5, 6, 7 y 8 del artículo 1.3.1.1 de la presente resolución, de 
+conformidad con lo establecido en el literal k) del artículo 631 del Estatuto Tributario, deberán 
+suministrar el valor patrimonial a treinta y uno (31) de diciembre de las inversiones poseídas 
+indicando de la entidad emisora del título la razón social, identificación y país de residencia 
+o domicilio, conforme con los parámetros establecidos en las especificaciones técnicas del 
+Formato 1012 Versión 7, utilizando los siguientes conceptos:” 
+ 
+Artículo 9. Modificación del inciso 1 del artículo 1.3.5.10.3. de la Sección 10 del Capítulo 5 del 
+Título 3 de la Parte 1 de la Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera 
+y Cambiaria. Modifíquese el inciso 1 del artículo 1.3.5.10. 3. de la Sección 10 del  Capítulo 5 del 
+Título 3 de la Parte 1 de la Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera y 
+Cambiaria, el cual quedará así: 
+ 
+“Artículo 1.3.5.10.3. Información de las acciones o aportes. Las personas naturales y sus 
+asimiladas, las personas jurídicas y sus asimiladas y, demás entidades públicas y privadas 
+enunciadas en los numerales 4, 5, 6, 7 y 8 del artículo 1.3.1.1 de la presente resolución, de 
+conformidad con lo establecido en el literal k) del artículo 631 del Estatuto Tributario, deberán 
+suministrar el valor patrimonial a treinta y uno (31) de diciembre de las acciones o aportes 
+poseídas indicando razón social, i dentificación y país de residencia o domicilio de las 
+sociedades de las cuales es socio, accionista, comunero y/o cooperado, conforme con los 
+parámetros establecidos en las especificaciones técnicas del Formato 1012 Versión 7, en el 
+concepto 1205.” 
+ 
+Artículo 10. Modificación del artículo 1.3.5.10.4 de la Sección 10 del Capítulo 5 del Título 3 de 
+la Parte 1 de la Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera y 
+Cambiaria. Modifíquese el artículo 1.3.5.10. 4. de la Sección 10 del  Capítulo 5 del Título 3 de la 
+Parte 1 de la Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera y Cambiaria, el 
+cual quedará así: 
+ 
+“Artículo 1.3.5.10.4. Información de propiedad, planta y equipo y otros activos.  Las 
+personas naturales y sus asimiladas, las personas jurídicas y sus asimiladas y, demás 
+entidades públicas y privadas enunciadas en los numerales 4, 5, 6, 7 y 8 del artículo 1.3.1.1 
+de la presente resolución, de conformidad con lo establecido en el literal k) del artículo 631 
+del Estatuto Tributario, deberán suministrar el valor patrimonial a treinta y uno (31) de 
+diciembre del patrimonio bruto representado en propiedad, plan ta y equipo y otros activos, 
+conforme con los parámetros establecidos en las especificaciones técnicas del Formato 
+1011 Versión 6, utilizando los siguientes conceptos: 
+ 
+Ítem Descripción  Concepto 
+1. Saldo a 31 de diciembre en caja. 1105 
+2. Valor patrimonial de vehículos, maquinaria y equipo. 1502 
+3. Valor patrimonial de activos fijos intangibles. 1512 
+4. Valor patrimonial de los activos fijos agotables. 1513 
+5. Valor patrimonial a 31 de diciembre de Activos Biológicos Plantas. 1519 
+6. Valor patrimonial a 31 de diciembre de Activos Biológicos Animales 1520 
+7. Valor patrimonial de la casa o apartamento de habitación (Inciso 2 
+Art. 295-3 ET). 
+1521 
+8. Valor patrimonial de lotes rurales y fincas. 1522 
+9. Valor patrimonial de lotes urbanos. 1523 
+10. Valor patrimonial de otros bienes inmuebles. (No relacionados en los 
+conceptos 1512, 1513 y 1519. 
+1524 
+11. Valor patrimonial de otros bienes muebles. 1525
+
+--- [Página 14 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 14 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+12 
+Valor patrimonial de otros activos. (No relacionados en los artículos 
+1.3.5.7.1, 1.3.5.10.1, 1.3.5.10.2 y 1.3.5.10.3 de la presente Resolución 
+y en los conceptos de este artículo) 
+1526 
+13 Valor patrimonial del inventario. 1527 
+14 Valor patrimonial de los activos poseídos a través de contratos de 
+colaboración empresarial. 1528 
+” 
+ 
+Artículo 11. Modificación del inciso 1 del artículo 1.3.5.10.5 de la Sección 10 del Capítulo 5 del 
+Título 3 de la Parte 1, de la Resolución Única en Materia Tributaria, Aduanera y Cambiaria.  
+Modifíquese el inciso 1 del artículo 1.3.5.10.5 de la Sección 10 del Capítulo 5 del Título 3 de la Parte 
+1, de la Resolución Única en Materia Tributaria, Aduanera y Cambiaria, el cual quedará así: 
+ 
+“Artículo 1.3.5.10.5. Información de inversiones realizadas por sociedades ZOMAC, 
+megainversionistas, sociedades de economía naranja y sociedades que desarrollan 
+actividades del campo colombiano. Las sociedades del régimen de tributación de zonas 
+más afectadas por el conflicto armado (Zomac), las personas naturales y jurídicas del 
+régimen de megainversiones, las sociedades que desarrollan las actividades de economía 
+naranja de que trata el numeral 1 del artículo 235-2 del Estatuto Tributario y las sociedades 
+que desarrollan las actividades que incrementan la productividad del campo colombiano de 
+que trata el numeral 2 del artículo 235 -2 del Estatuto Tributario, obligadas a reportar 
+información de conformidad con los numerales 4, 5, 6, 7 y 8 del artículo 1.3.1.1 de la presente 
+resolución y con lo establecido en el literal k) del artículo 631 del Estatuto Tributario, deberán 
+suministrar, conforme con los parámetros establecidos en las especificaciones técnicas en 
+el Formato 1011 Versión 6, la siguiente información:” 
+ 
+Artículo 12. Modificación del inciso 1 del artículo 1.3.5.10.6. de la Sección 10 del Capítulo 5 del 
+Título 3 de la Parte 1, de la Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera 
+y Cambiaria. Modifíquese el inciso 1 del artículo 1.3.5.10. 6. de la Sección 10 del  Capítulo 5 del 
+Título 3 de la Parte 1, de la Resolución  000227 de 2025, Única en Materia Tributaria, Aduanera y 
+Cambiaria, el cual quedará así: 
+ 
+“Artículo 1.3.5.10.6. Información de rentas exentas.  Las personas naturales y sus 
+asimiladas, las personas jurídicas y sus asimiladas y, demás entidades públicas y privadas 
+enunciadas en los numerales 4, 5, 6, 7 y 8 del artículo 1.3.1.1 de la presente resolución, de 
+conformidad con lo establecido en el literal k) del artículo 631 del Estatuto Tributario, deberán 
+suministrar el valor total de la renta exenta solicitada en la declaración de renta del año 
+gravable, conforme con los parámetr os establecidos en las especificaciones técnicas del 
+Formato 1011 Versión 6, utilizando los siguientes conceptos:” 
+ 
+Artículo 13. Modificación del inciso 1 y adición de los ítems 80, 81, 82, 83 y 84 a los conceptos 
+del artículo 1.3.5.10.7 de la Sección 10 del Capítulo 5 del Título 3 de la Parte 1 de la Resolución 
+000227 de 2025, Única en Materia Tributaria, Aduanera y Cambiaria. Modifíquese el inciso 1 y 
+adiciónese los ítems 80, 81, 82, 83 y 84 a los conceptos del artículo 1.3.5.10.7 de la Sección 10 del 
+Capítulo 5 del Título 3 de la Parte 1 de la Resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria, los cuales quedarán así: 
+ 
+“Artículo 1.3.5.10.7. Información de costos y deducciones. Las personas naturales y sus 
+asimiladas, las personas jurídicas y sus asimiladas y, demás entidades públicas y privadas 
+enunciadas en los numerales 4, 5, 6, 7 y 8 del artículo 1.3.1.1 de la presente resolución, de 
+conformidad con lo establecido en el literal k) del artículo 631 del Estatuto Tributario, deberán 
+suministrar el valor total de los costos y deducciones solicitados en la declaración de renta 
+del año gravable, conforme con los parámetros establecidos en las especificaciones técnicas 
+del Formato 1011 Versión 6, utilizando los siguientes conceptos:” 
+ 
+“ 
+Ítem Descripción Concepto 
+80 Costo en la enajenación de activos fijos poseídos por dos o más años. E.T., 
+art. 300. 8426
+
+--- [Página 15 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 15 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+Ítem Descripción Concepto 
+81 Deducción por inversiones en proyectos dirigidos a la gestión eficiente de 
+la energía. L. 1715/2014, art. 11, diferente al reportado en el concepto 8274 8427 
+82 
+Deducción por depreciación de maquinarias, equipos y obras civiles de 
+proyectos dirigidos a la gestión eficiente de la energía. L. 1715/2014 art. 
+14, diferente al reportado en el concepto 8275 
+8428 
+83 Deducción por inversiones en proyectos de hidrógeno verde, azul o blanco. 
+Ley 2099/2021, diferente al reportado en el concepto 8274 8429 
+84 
+Deducción por depreciación de maquinarias, equipos y obras civiles de 
+proyectos de hidrógeno verde , azul o blanco . L. 1715/2014 art. 14, 
+modificado por Ley 2099/2021 diferente al reportado en el concepto 8275 
+8430 
+” 
+Artículo 14. Adición de los ítems 62 y 63 a los conceptos del artículo 1.3.5.10.8 . a la Sección 
+10 del Capítulo 5 del Título 3 de la Parte 1 de la Resolución 000227 de 2025, Única en Materia 
+Tributaria, Aduanera y Cambiaria.  Adiciónese los ítems 62 y 63 a los conceptos del artículo 
+1.3.5.10.8 de la Sección 10 del  Capítulo 5 del Título 3 de la Parte 1 de la Resolución  000227 de 
+2025, Única en Materia Tributaria, Aduanera y Cambiaria, los cuales quedarán así: 
+“ 
+Ítem Descripción Concepto 
+62 
+Exclusión de IVA en la venta de equipos, entre otros, necesarios para 
+adelantar las acciones y medidas de gestión eficiente de la energía. L. 1715 
+de 2014 art. 12, diferente al reportado en el concepto 9015 
+9074 
+63 
+Exclusión de IVA en la venta de equipos, entre otros, necesarios para 
+proyectos de hidrógeno verde , azul o blanco . L.2099/2021  diferente al 
+reportado en el concepto 9015 y 9074 
+9075 
+” 
+ 
+Artículo 15. Modificación de los parágrafos 1 y 10  y adición del parágrafo 11  al artículo 
+1.3.5.12.1 de la Sección 12 del Capítulo 5 del Título 3 de la Parte 1 de la Resolución 000227 
+de 2025, Única en Materia Tributaria, Aduanera y Cambiaria.  Modifíquense los parágrafos 1 y 
+10 y adiciónese el parágrafo 11 al artículo 1.3.5.12.1 de la Sección 12 del Capítulo 5 del Título 3 de 
+la Parte 1 de la Resolución 0000227 de 2025, Única en Materia Tributaria, Aduanera y Cambiaria, 
+los cuales quedarán así: 
+ 
+“Parágrafo 1.  La información de las operaciones reportadas en virtud del contrato de 
+colaboración empresarial y otros contratos no deberá ser reportada por los consorciados, 
+unidos temporalmente, ventures, partícipes ocultos, asociados, mandantes o demás partes 
+contratantes. 
+ 
+Los consorciados, unidos temporalmente, ventures, partícipes ocultos, asociados, 
+mandantes o demás partes contratantes, que cumplan las condiciones establecidas en el 
+artículo 1.3.1.1 de la presente Resolución, en relación con las operaciones inherentes a su 
+actividad económica  y la correspondiente a sus derechos y obligaciones de manera 
+agregada obtenidos como resultado de su participación en los contratos de colaboración 
+empresarial de que trata el formato 1001 en el concepto 5103, así como lo contenido en el 
+formato 1007 no quedan cubiertos por la exclusión del primer inciso de este parágrafo.” 
+  
+“Parágrafo 10. En los contratos de exploración y explotación de hidrocarburos, gases y 
+minerales, las personas o entidades que actuaron en condición de “operador”, o quien haga 
+sus veces, deben informar todas las operaciones inherentes a la cuenta conjunta; de igual 
+manera, las personas naturales, jurídicas y asimiladas, poseedoras de un título minero o que 
+realicen exploración y explotación de minerales o las personas o entidades que actúen en 
+condición de “solo riesgo”, de acuerdo con lo establecido en el presente artículo.” 
+ 
+“Parágrafo 11 . La obligación de informar el Número de Identificación de Entidades sin 
+Personería Jurídica - NIESPJ asignado al contrato de colaboración empresarial aplica 
+únicamente cuando el contrato corresponda a los tipos 3, 4 o 5.” 
+ 
+Artículo 16. Modificación del parágrafo 2 del artículo 1.3. 7.2.2. de la Sección 2 del Capítulo 7 
+del Título 3 de la Parte 1 de la Resolución 000227 de 2025, Única en Materia Tributaria,
+
+--- [Página 16 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 16 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+Aduanera y Cambiaria. Modifíquese el parágrafo 2 del artículo 1.3. 7.2.2 de la Sección 2 del  
+Capítulo 7 del Título 3 de la Parte 1 de la Resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria, el cual quedará así: 
+ 
+“Parágrafo 2. Cuando por ningún medio sea posible identificar al responsable informado 
+relacionado con el vehículo, la información correspondiente al responsable deberá 
+diligenciarse así: Tipo Responsable 4, Tipo de documento del responsable: 43; Número de 
+Identificación del responsable: 888888888; Razón social del responsable: “Vehículo sin 
+identificar responsable.” 
+ 
+Artículo 17. Modificación del artículo 1.3.8.4.1. de la Sección 4 del Capítulo 8 del Título 3 de la 
+Parte 1 de la Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera y Cambiaria. 
+Modifíquese el artículo 1.3. 8.4.1. de la Sección 4  del Capítulo 8 del Título 3 de la Parte 1 de la 
+Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera y Cambiaria, el cual quedará 
+así: 
+ 
+“Artículo 1.3.8.4.1. Información de no causación del impuesto al carbono por 
+certificación de carbono neutro . Los responsables del Impuesto Nacional al Carbono 
+definidos en el artículo 221 de la Ley 1819 de 2016, de acuerdo con lo establecido en el 
+artículo 1.5.5.8 del Decreto 1625 de 2016 Único Reglamentario en Materia Tributaria, deberán 
+presentar la siguiente información en relación con la documentación que acompaña la solicitud 
+de no causación del impuesto por parte de los sujetos pasivos que certifique n ser carbono 
+neutro,  conforme con los parámetros establecidos en las especificaciones técnicas del 
+Formato 2574 versión 3, de la siguiente manera: 
+ 
+1. Tipo de documento del sujeto pasivo del Impuesto al Carbono. 
+2. Número de identificación del sujeto pasivo del Impuesto al Carbono. 
+3. Nombre o razón Social del sujeto pasivo del Impuesto al Carbono. 
+4. Dirección, departamento, municipio y país del sujeto pasivo del Impuesto al Carbono. 
+5. Tipo de combustible. 
+6. Cantidad de combustible fósil sobre la que se hace efectiva la no causación del Impuesto 
+al Carbono. 
+7. Unidad de medida en la que se expresa la cantidad de combustible sobre la que se hace 
+efectiva la no causación del Impuesto al Carbono.  
+8. Equivalencia en toneladas de dióxido de carbono (ton CO2) del combustible sobre el que 
+se hace efectiva la no causación del Impuesto al Carbono. 
+9. Nombre de la iniciativa de mitigación de GEI. 
+10. Tipo de documento del titular de la iniciativa de mitigación.  
+11. Número de identificación del titular de la iniciativa de mitigación. 
+12. Cantidad de reducciones de emisiones o remociones de GEI canceladas expresadas en 
+TON CO2.  
+13. Año dentro del cual se generaron las reducciones de emisiones o remociones de GEI 
+canceladas.  
+14. Serial inicial emisiones canceladas. 
+15. Serial final emisiones canceladas.  
+16. Tipo de documento del organismo verificador. 
+17. Número de identificación del organismo verificador. 
+18. Razón Social del organismo verificador. 
+ 
+La unidad de medida en la que se expresa la Cantidad de combustible fósil sobre la que se 
+hace efectiva la no causación del Impuesto al Carbono podrá expresarse en las siguientes 
+unidades de medida: 
+ 
+Código Descripción 
+1 Metros cúbicos 
+2 Galones  
+3 Toneladas 
+4 Litros 
+ 
+Para el reporte del tipo de combustible se deberá tener en cuenta la siguiente tabla:
+
+--- [Página 17 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 17 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+ 
+Código Descripción 
+1 Gas natural 
+2 Gas licuado de petróleo 
+3 Gasolina 
+4 Jet Fuel 
+5 Kerosene 
+6 ACPM 
+7 Fuel Oil 
+8 Carbón 
+ 
+Parágrafo. Los seriales de emisiones canceladas deben corresponder con los consignados 
+en el Registro Nacional de Reducción de Emisiones de Gases de Efecto Invernadero (GEI) 
+- RENARE.” 
+ 
+Artículo 18. Modificación de las especificaciones técnicas de los formatos 1001, 1005, 1647, 
+5247, 5248, 5249, 5250, 5251, 5252, 1476, 2574 y adición de las especificaciones técnicas de 
+los formatos 2821, 2822, 2854, 2856 y 2857 al artículo 1.3.10.1. del Capítulo 10 del Título 3 de 
+la Parte 1 de la Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera y 
+Cambiaria. Modifíquense de las especificaciones técnicas de los formatos vigentes 1001, 1005, 
+1647, 5247, 5248, 5249, 5250, 5251, 5252, 1476, 2574 y adición de los formatos de las 
+especificaciones técnicas de los formatos números 2821, 2822, 2854, 2856 y 2857 al artículo 
+1.3.10.1. del Capítulo 10 del Título 3 de la Parte 1, de la Resolución  000227 de 2025,  Única en 
+Materia Tributaria, Aduanera y Cambiaria, que hacen parte de la presente resolución y se relacionan 
+a continuación: 
+ 
+“ 
+Formato Versión Nombre del formato Anexo 
+Artículo 
+presente 
+Resolución 
+Tabla Tipo 
+de 
+Documento 
+1001 11 Pagos o abonos en cuenta y retenciones 
+practicadas T3.18 Artículo 
+1.3.5.2.1 1 
+1005 9 Impuesto a las Ventas por Pagar (Descontable) T3.21 Artículo  
+1.3.5.5.1 1 
+1647 3 
+Información de ingresos recibidos para terceros 
+residentes fiscales y sociedades domiciliadas 
+en territorio colombiano 
+T3.26 Artículo 
+1.3.5.9.1 1 
+5247 2 
+Pagos o abonos en cuenta y retenciones 
+practicadas en contratos de colaboración 
+empresarial y otros contratos  
+T3.31 Artículo 
+1.3.5.12.1 1 y 2  
+5248 2 Ingresos recibidos en contratos de colaboración 
+empresarial y otros contratos  T3.32 Artículo 
+1.3.5.12.1 
+1 y 2  
+5249 2 IVA descontable en contratos de colaboración 
+empresarial y otros contratos  T3.33 Artículo 
+1.3.5.12.1 
+1 y 2  
+5250 2 IVA generado en contratos de colaboración 
+empresarial y otros contratos  T3.34 Artículo 
+1.3.5.12.1 
+1 y 2  
+5251 2 
+Saldos Cuentas por cobrar a 31 de diciembre 
+en contratos de colaboración empresarial y 
+otros contratos  
+T3.35 
+Artículo 
+1.3.5.12.1 
+1 y 2  
+5252 2 
+Saldos de cuentas por pagar al 31 de diciembre 
+en contratos de colaboración empresarial y 
+otros contratos  
+T3.36 
+Artículo 
+1.3.5.12.1 
+1 y 2  
+1476 13 Información de registros catastrales y de 
+Impuesto Predial T3.46 Artículo 
+1.3.7.2.1 1 
+2574 3 Información de no causación del impuesto al 
+carbono por certificación de carbono neutro T3.56 Artículo 
+1.3.8.4.1 
+2 
+” 
+ 
+“
+
+--- [Página 18 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 18 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+Formato Versión Nombre del formato Anexo 
+Artículo 
+presente 
+Resolución 
+Tabla Tipo 
+de 
+Documento 
+2821 1 
+Información de APC – Colombia relacionada con 
+los certificados de utilidad común – CUC. Art 96 
+Ley 788 de 2002 
+T3.70 Artículo 
+1.3.12.18 1 
+2822 1 
+Información de las Certificaciones que dan derecho 
+a beneficios tributarios Art. 11, 12, 13 y 14 de la 
+Ley 1715 de 2014 
+T3.71 Artículo 
+1.3.12.19 2 
+2854 1 Información de ingresos recibidos para terceros del 
+exterior T3.72 Artículo 
+1.3.12.20 1 
+2856 1 Reporte de operaciones con activos digitales T3.73 Artículo 
+1.3.12.21 1 
+2857 1 Información de operaciones con terceros del 
+exterior  T3.74 Artículo 
+1.3.12.22 1 
+” 
+ 
+Artículo 19. Adición del artículo 1.3.12.18 . al Capítulo 12 del Título 3 de la Parte 1 de la 
+Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera y Cambiaria. Adiciónese el 
+artículo 1.3.12.18 al Capítulo 12 del Título 3 de la Parte 1 de la Resolución 000227 de 2025, Única 
+en Materia Tributaria, Aduanera y Cambiaria, el cual quedará así: 
+ 
+“Artículo 1.3.12.18. Información a reportar  por la Agencia Presidencial de Cooperación 
+Internacional de Colombia -APC-Colombia relativa a los certificados de utilidad común -
+CUC. La Agencia Presidencial de Cooperación Internacional de Colombia -APC- Colombia, de 
+conformidad con el artículo 1.3.1.9.5. y el parágrafo 3 del artículo 1.3.1.9.6. del Decreto 1625 de 
+2016, el numeral 20 del artículo 1.3.1.1. de la presente resolución y el artículo 631-3 del Estatuto 
+Tributario, deberá suministrar la información relacionada con los Certificados de Utilidad Común 
+-CUC, de acuerdo con lo establecido en el artículo 96 de la ley 788 de 2002, conforme con  el 
+contenido previsto en el artículo 1.3.1.9.8. del Decreto 1625 de 2016 Único Reglamentario en 
+Materia Tributaria y los parámetros establecidos en las especificaciones técnicas del Formato 
+2821 Versión 1, indicando la siguiente:  
+  
+1. Tipo de documento de -APC-Colombia.  
+2. Tipo de proceso. 
+3. Número de constancia de registro.  
+4. Fecha de emisión de la constancia.  
+5. Número del Certificado de Utilidad Común.  
+6. Fecha de emisión del Certificado de Utilidad Común.  
+7. Número de la constancia de registro que modifica.  
+8. Fecha de la constancia de registro que modifica.  
+9. Número del Certificado de Utilidad Común que modifica.  
+10. Fecha del Certificado de Utilidad Común que modifica.  
+11. Código del registro en APC – Colombia.  
+12. Nombre del programa o proyecto. 
+  
+Por cada proyecto de utilidad común al que se le expidió el Certificado de Utilidad Común -CUC 
+por la APC -Colombia, deberá reportarse la información de los terceros beneficiarios de la 
+exención establecida en el artículo 96 de la ley 788 de 2002, así:  
+  
+1. Tipo de documento de identificación de la entidad ejecutora.  
+2. Número de documento de identificación de la entidad ejecutora. 
+3. Razón social de la entidad ejecutora.  
+4. País de domicilio de la entidad ejecutora.  
+  
+Adicionalmente, por cada proyecto de utilidad común deberá reportarse la información de las 
+entidades extranjeras o gobiernos extranjeros que entregan los auxilios o donaciones para el 
+desarrollo del proyecto, así:  
+  
+1. Tipo de entidad extranjera 
+2. Nombre de la entidad extranjera. 
+3. País de la entidad extranjera.
+
+--- [Página 19 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 19 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+4. Fecha de inicio del proyecto. 
+5. Fecha de finalización del proyecto. 
+6. Valor del auxilio o la donación. 
+7. Moneda del auxilio o la donación. 
+  
+Para las casillas que utilicen códigos o conceptos, se utilizarán los siguientes:  
+  
+Tipo de documento de APC - Colombia  
+  
+Concepto  Descripción  
+1  Constancia de registro  
+2  Certificado de Utilidad Común -CUC  
+3  Constancia de registro y CUC  
+    
+Tipo de proceso  
+  
+Concepto  Descripción  
+1  Constancia de registro inicial  
+2  CUC inicial  
+3  Constancia de registro modificada  
+4  CUC modificado  
+5  Constancia de registro y CUC modificados  
+  
+Tipo de entidad extranjera   
+  
+Concepto  Descripción  
+1  Pública   
+2  Privada  
+  
+Parágrafo. Para reportar el número de identificación de las entidades o sociedades del exterior 
+se debe diligenciar con el número, código o clave de identificación, tal como figura en el registro 
+fiscal tributario del país de residencia o domicilio y tipo de documento 42. Cuando en dicho país 
+no se utilice número, código o clave fiscal, se debe informar con identificación 444444001 en 
+forma ascendente, variando consecutivamente en una unidad hasta el 444449999 y con tipo de 
+documento 43.   
+ 
+Para reportar el número de identificación de las personas naturales del exterior, se debe 
+diligenciar con el número, código o clave de identificación registrado en el país de residencia o 
+domicilio fiscal con tipo de documento 42.” 
+ 
+Artículo 20. Adición del artículo 1.3.12.1 9 al Capítulo 12 del Título 3 de la Parte 1 de la 
+Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera y Cambiaria. Adiciónese el 
+artículo 1.3.12.19 al Capítulo 12 del Título 3 de la Parte 1 de la Resolución 000227 de 2025, Única 
+en Materia Tributaria, Aduanera y Cambiaria, el cual quedará así: 
+ 
+“Artículo 1.3.12.19. Información a reportar por la unidad de planeación minero -energética 
+respecto de las certificaciones que dan derecho a los beneficios tributarios de que trata 
+los artículos art. 11, 12, 13 y 14 de la ley 1715 de 2014.  La Unidad de Planeación Minero -
+Energética, de conformidad con el artículo 631 -3 del Estatuto Tributario y el numeral 20 del 
+artículo 1.3.1.1 de la presente resolución, deberá presentar la información de las certificaciones 
+relacionadas con las inversiones realizadas o la compra e importación de los equipos, elementos, 
+maquinaria y servicios por los contribuyentes para ser destinados en proyectos calificados como 
+fuentes no convencionales de energía (FNCE), acciones o medidas de gestión eficiente de la 
+energía (GEE) y proyectos de hidrógeno verde, azul o blanco que tienen el carácter de deducción 
+en renta, exclusión en el impuesto sobre las ventas -IVA, exención pago derechos arancelarios
+
+--- [Página 20 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 20 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+o depreciación acelerada, indicando cada uno de los beneficiarios del incentivo, de conformidad 
+con los artículos 11, 12, 13 y 14 de la ley 1715 de 2014, conforme a los parámetros establecidos 
+en las especificaciones técnicas del Formato 2822 Versión 1, de la siguiente manera: 
+ 
+1. Número de acto administrativo que califica el proyecto como de carácter fuentes no 
+convencionales de energía (FNCE), acciones o medidas de gestión eficiente de la energía 
+(GEE) y proyectos de hidrógeno verde o azul. 
+2. Fecha del acto administrativo. 
+3. Tipo de proyecto. 
+4. Nombre del proyecto. 
+5. Código municipio ubicación del proyecto 
+6. Código departamento ubicación del proyecto 
+7. Tipo de incentivo. 
+8. Tipo de documento del beneficiario del proyecto. 
+9. Número de identificación del beneficiario del proyecto.  
+10. Primer apellido del beneficiario del proyecto. 
+11. Segundo apellido del beneficiario del proyecto. 
+12. Primer nombre del beneficiario del proyecto. 
+13. Otros nombres del beneficiario del proyecto. 
+14. Razón social del beneficiario del proyecto. 
+15. Dirección del beneficiario del proyecto. 
+16. Código municipio del beneficiario del proyecto. 
+17. Código departamento del beneficiario del proyecto. 
+18. Valor de la inversión certificada. 
+19. Porcentaje de la inversión que corresponde al beneficiario del proyecto. 
+20. Tipo de componente del proyecto 
+21. Descripción del elemento, equipo, maquinaria y/o servicio. 
+22. Origen del elemento, equipo, maquinaria o servicio 
+23. Clasificación arancelaria del elemento, equipo, maquinaria. 
+24. Cantidad del elemento, equipo, maquinaria. 
+25. Unidad de medida del elemento, equipo, maquinaria. 
+26. Marca del elemento, equipo, maquinaria. 
+27. Modelo / Referencia del elemento, equipo, maquinaria. 
+28. Valor del elemento, maquinaria, equipo o servicio 
+ 
+Para las casillas que utilicen códigos o conceptos, se utilizarán los siguientes: 
+ 
+Tipo de proyecto 
+ 
+Concepto  Descripción 
+1 Proyectos de generación de energía eléctrica a partir de fuentes 
+no convencionales -FNCE 
+2 Acción o medida de gestión eficiente de la energía – GEE 
+3 Proyectos de hidrógeno verde o azul 
+ 
+Tipo de incentivo 
+  
+Concepto  Descripción 
+1 Deducción del impuesto sobre la renta 
+2 Exclusión del impuesto a las ventas - IVA 
+3 Incentivo arancelario 
+4 Incentivo fiscal – Depreciación acelerada 
+ 
+Tipo de componente del proyecto 
+ 
+Concepto Descripción 
+1 Elemento, equipo o maquinaria
+
+--- [Página 21 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 21 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+2 Servicio 
+ 
+Origen del elemento, equipo, maquinaria o servicio 
+ 
+Concepto Descripción 
+1 Elemento, maquinaria o equipo nacional o servicio prestado por 
+proveedores residentes en Colombia 
+2 Elemento, maquinaria o equipo importado o servicio prestado por 
+proveedor del exterior 
+ 
+Artículo 21. Adición del artículo 1.3.12.20 al Capítulo 12 del Título 3 de la Parte 1 de la 
+Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera y Cambiaria. Adiciónese el 
+artículo 1.3.12.20 al Capítulo 12 del Título 3 de la Parte 1 de la Resolución 000227 de 2025, Única 
+en Materia Tributaria, Aduanera y Cambiaria, el cual quedará así: 
+ 
+“Artículo 1.3.12.20. Información de ingresos recibidos para terceros del exterior . Las 
+personas naturales y sus asimiladas, las personas jurídicas y sus asimiladas y, demás entidades 
+públicas y privadas enunciadas en los numerales 4, 5, 6 y 7 del artículo 1 .3.1.1. de la presente 
+Resolución que correspondan, a:  
+ 
+• Empresa de telecomunicaciones que proveen servicios de internet, telefonía móvil y 
+televisión de pago en virtud de los contratos de Carrier Billings;  
+• Pasarelas de pago Gateway y Agregadores de pago, en virtud de contratos de mandato 
+para la intermediación como canal de pago; 
+• Empresas de giros postales y Empresas de recaudo de efectivo, en virtud de contratos 
+de pagos y recaudo; 
+• Proveedores de Servicios de Activos Digitales relacionados con servicios, bienes 
+corporales o moneda de curso legal.  
+  
+De conformidad con lo previsto en el literal g) del artículo 631 y el artículo 631 -2 del Estatuto 
+Tributario, deberán suministrar, en el formato 2854 versión 1, la siguiente información los 
+prestadores y enajenantes del exterior beneficiarios de los pagos por venta de bienes y/o 
+servicios canalizados, así como de los terceros del exterior que canalizaron a través de los 
+intermediarios, pagos por adquisiciones a favor de nacionales en la respectiva vigencia: 
+  
+1. NIT o Número de Identificación del Exterior del propietario del comercio 
+2. Nombres y apellidos o razón social del propietario del comercio que recibe el ingreso 
+3. Nombre del Comercio 
+4. Ciudad del Comercio 
+5. País Comercio 
+6. Rubro del Comercio 
+7. Tipo de contrato  
+8. Número de la Referencia 
+9. Tipo Cliente 
+10. NIT o Número de Identificación del Exterior del cliente 
+11. Nombres y apellidos o razón social del cliente  
+12. Ciudad de ubicación del cliente 
+13. País de ubicación del cliente 
+14. Tipo Operación 
+15. Descripción de la Operación 
+16. Número de Transacciones totales de la vigencia 
+17. Moneda de Origen 
+18. Monto en $ COP 
+19. Medio de pago 
+20. Forma de Pago 
+  
+Los canalizadores de ingresos para terceros deberán identificar el tipo de contrato mediante el 
+cual ejecutan dicha intermediación, de acuerdo con la siguiente codificación: 
+  
+Código Descripción
+
+--- [Página 22 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 22 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+1 Carrier Billing 
+2 Mandato 
+3 Pagos y recaudo 
+4 Otro 
+  
+Los clientes de los cuales se reciben ingresos canalizados a favor de terceros deberán 
+identificarse según su tipo de acuerdo con la siguiente codificación: 
+  
+Código Descripción 
+1 Persona Natural 
+2 Persona Jurídica 
+  
+Las operaciones que originan el ingreso canalizado para terceros deberán identificarse según 
+su tipo de acuerdo con la siguiente codificación:  
+ 
+Código Descripción 
+1 Enajenación de bienes 
+2 Prestación de servicios 
+  
+ 
+ El medio de pago deberá informarse con el concepto de acuerdo con la siguiente codificación: 
+  
+Código Descripción 
+1 Débito Automático 
+2 Pasarela de pago 
+3 Activos Digitales  
+4 Recaudo Efectivo 
+5 Transferencia Bancaria 
+6 Pago On-Line 
+7 Otros 
+  
+Igualmente, la forma de pago para los contratos de Carrier Billing, Pagos y recaudo deberán 
+informarse con el concepto de acuerdo con la siguiente codificación: 
+ 
+Código Descripción 
+1 Postpago 
+2 Prepago 
+3 Otro 
+  
+Parágrafo 1.  El valor mínimo para reportar corresponderá al valor anual acumulado de los 
+ingresos recibidos para terceros, reintegrados, transferidos o distribuidos a cada beneficiario 
+cuando la cuantía sea superior a un veinte y cuatro (24) Unidades de Valor Tributario -UVT (del 
+año gravable a reportar). 
+  
+Parágrafo 2. Para los ingresos obtenidos de entidades o sociedades del exterior, al reportar el 
+número de identificación se debe diligenciar con el número, código o clave de identificación, tal 
+como figura en el registro fiscal tributario del país de residencia o domicilio y tipo de documento 
+42. Cuando en dicho país no se utilice número, código o clave fiscal, se debe informar con 
+identificación 444444001 en forma ascendente, variando consecutivamente en una unidad hasta 
+el 444449999 y con tipo de documento 43. 
+ 
+Para los ingresos obtenidos de personas naturales del exterior, al reportar el número de 
+identificación se debe diligenciar con el número, código o clave de identificación registrado en 
+el país de residencia o domicilio fiscal.
+
+--- [Página 23 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 23 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+  
+Parágrafo 3. La información aquí señalada no debe ser suministrada por el beneficiario del 
+ingreso, quien únicamente reportara la información del intermediario a través del cual recibió el 
+ingreso en el Formato 1007 versión 9. 
+  
+Parágrafo 4. En el reporte de los ingresos recibidos para terceros deberán incluirse los giros, 
+pagos o recargas a través de servicios postales, siempre y cuando el beneficiario sea una 
+persona diferente a la persona natural o jurídica que recauda el dinero. 
+  
+Artículo 22. Adición del artículo 1.3.12. 21 al Capítulo 12 del Título 3 de la Parte 1 de la 
+Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera y Cambiaria. Adiciónese el 
+artículo 1.3.12.21 al Capítulo 12 del Título 3 de la Parte 1 de la Resolución 000227 de 2025, Única 
+en Materia Tributaria, Aduanera y Cambiaria, el cual quedará así: 
+ 
+“Artículo 1.3.12.21. Reporte de operaciones con activos digitales . Los proveedores de 
+servicios de activos digitales domiciliados en Colombia o con operaciones en el país deberán 
+reportar a la Dirección de Impuestos y Aduanas Nacionales – DIAN, de manera individualizada, 
+la información relacionada con las operaciones que realicen sus usuarios y que impliquen la 
+conversión de moneda de curso legal a activos digitales o de activos digitales a moneda de 
+curso legal, enunciadas en el numeral 21 del artículo 1 .3.1.1. de la presente Resolución, de 
+acuerdo con lo establecido en l os artículos 631 y 631 -3 del Estatuto Tributario, deberán 
+suministrar la siguiente información de forma acumulada y anualizada de las personas que 
+realizan operaciones con activos digitales: 
+ 
+1. Número de identificación del usuario 
+2. Nombres y apellidos o razón social del usuario  
+3. Dirección del usuario 
+4. País del usuario 
+5. Numero de la cuenta de usuario 
+6. Nombre de la cuenta de usuario o seudónimo 
+7. Saldo inicial de la cuenta de usuario 
+8. Saldo final de la cuenta de usuario 
+9. Tipo de operación 
+10. Valor total recibido en el año por las operaciones con activos digitales tazadas en moneda 
+De curso legal, al valor justo de mercado en el momento de la operación 
+11. Número total de unidades transadas 
+12. Nombre completo del tipo de activo digital transado 
+13. Nombres y apellidos o razón social del usuario contraparte de la operación 
+14. Número de identificación del usuario contraparte de la operación 
+15. Dirección del usuario contraparte de la operación 
+16. País del usuario contraparte de la operación 
+17. Numero de la cuenta de usuario contraparte de la operación  
+18. Nombre de la cuenta de usuario o seudónimo contraparte de la operación 
+19. Nombres y apellidos o razón social del Proveedor de Servicios de Activos Digitales que 
+intermedia a la contraparte 
+20. Dirección del Proveedor de Servicios de Activos Digitales que intermedia a la contraparte 
+ 
+Tipo de Operación  
+ 
+Código Descripción 
+1 Compra 
+2 Venta 
+3 Intercambio por bienes o servicios 
+4 Intercambio con otros activos digitales 
+5 Donaciones y/o recompensas 
+ 
+La información deberá ser suministrada conforme con los parámetros establecidos en las 
+especificaciones técnicas del Formato 2856 Versión 1.
+
+--- [Página 24 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 24 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+Parágrafo. Cuando en el usuario, la contraparte, o el Prestador de Servicios de Activos Digitales 
+de la contraparte sea de entidades o sociedades del exterior, al reportar el número de 
+identificación se debe diligenciar con el número, código o clave de identificación, tal como figura 
+en el registro fiscal tributario del país de residencia o domicilio y tipo de documento 42. Cuando 
+en dicho país no se utilice número, código o clave fiscal, se debe informar con identificación 
+444444001 en forma ascendente, variando co nsecutivamente en una unidad hasta el 
+444449999 y con tipo de documento 43. Si estos corresponden a personas naturales del 
+exterior, al reportar el número de identificación se debe diligenciar con el número, código o clave 
+de identificación registrado en el país de residencia o domicilio fiscal.” 
+ 
+Artículo 23. Adición del artículo 1.3.12. 22. al Capítulo 12 del Título 3 de la Parte 1 de la 
+Resolución 000227 de 2025 Única en Materia Tributaria, Aduanera y Cambiaria. Adiciónese el 
+artículo 1.3.12.22. al Capítulo 12 del Título 3 de la Parte 1 de la Resolución 000227 de 2025, Única 
+en Materia Tributaria, Aduanera y Cambiaria, el cual quedará así: 
+ 
+“Artículo 1.3.12.22. Información de operaciones con terceros del exterior. Las personas 
+naturales y sus asimiladas, las personas jurídicas y sus asimiladas y, demás entidades 
+públicas y privadas enunciadas en los numerales 4, 5, 6, 7, 8 y 9 del artículo 1.3.1.1 . de la 
+presente Resolución, de acuerdo con lo establecido en el artículo 631 -3 del Estatuto 
+Tributario, deberán suministrar en el formato 2857 versión 1, la siguiente información de las 
+personas o entidades del exterior con las cuales realizaron operaciones: 
+ 
+1. Número de identificación del tercero del exterior 
+2. Tipo de identificación del tercero del exterior 
+3. Nombre del tercero del exterior 
+4. País del tercero del exterior 
+5. Tipo de Operación  
+6. Sitio web o aplicación. 
+ 
+Las operaciones que se realizan con terceros del exterior deberán identificarse según su tipo 
+de acuerdo con la siguiente codificación: 
+  
+Código Descripción 
+1 Operación de Ingreso 
+2 Operación de Egreso 
+ 
+Parágrafo. Para los ingresos y egresos obtenidos o realizados a entidades o sociedades del 
+exterior, al reportar el número de identificación se debe diligenciar con el número, código o 
+clave de identificación, tal como figura en el registro fiscal tributario del país de residencia o 
+domicilio y tipo de documento 42. Cuando en dicho país no se utilice número, código o clave 
+fiscal, se debe informar con identificación 444444001 en forma ascendente, variando 
+consecutivamente en una unidad hasta el 444449999 y con tipo de documento 43.” 
+ 
+Artículo 24. Modificación del inciso 1 del artículo 1.3.3.1.1 de la Sección 1 del Capítulo 3 del 
+Título 3 de la Parte 1 de la Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera 
+y Cambiaria. Modifíquese el inciso 1 del artículo 1.3.3.1.1 de la Sección 1 del Capítulo 3 del Título 
+3 de la Parte 1  de la Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera y 
+Cambiaria, el cual quedará así: 
+ 
+“Artículo 1.3.3.1.1. Información de cuentas corrientes y/o ahorros. Los bancos y demás 
+entidades vigiladas por la Superintendencia Financiera de Colombia, las cooperativas de 
+ahorro y crédito, los organismos cooperativos de grado superior, las instituciones auxiliares 
+del cooperativismo, las cooperativas multiactivas e integrales y los fondos de empleados que 
+realicen actividades financieras deberán informar mensualmente, cuando el valor mensual 
+acumulado de los movimientos de naturaleza crédito de las cuentas corrientes y/o de ahorro 
+sea superior a veinticuatro (24) Unida des de Valor Tributario (UVT) (del año gravable a 
+reportar) o cuando el saldo por el periodo a reportar de cada una o varias cuentas corrientes 
+y/o de ahorro de un mismo cuentahabiente sea igual o superior a veinticuatro (24) Unidades 
+de Valor Tributario (UVT) (del año gravable a reportar), aunque al discriminar por cuenta, los
+
+--- [Página 25 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 25 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+valores a reportar sean menores, según lo dispuesto en los artículos 623 literal a), 623 -2 
+(sic), 623-3, 631-2 y 631-3 del Estatuto Tributario, de cada una de las personas o entidades 
+lo siguiente:” 
+ 
+Artículo 25. Modificación del inciso 1 y el parágrafo 2 del artículo 1.3.3.1.2. de la Sección 1 del  
+Capítulo 3 del Título 3 de la Parte 1 de la Resolución 000227 de 2025, Única en Materia 
+Tributaria, Aduanera y Cambiaria. Modifíquense el inciso 1 y el parágrafo 2 del artículo 1.3.3.1.2. 
+de la Sección 1 del Capítulo 3 del Título 3 de la Parte 1 de la Resolución 000227 de 2025, Única en 
+Materia Tributaria, Aduanera y Cambiaria, los cuales quedarán así: 
+ 
+“Artículo 1.3.3.1.2. Información de inversiones en certificados a término fijo y/u otros 
+títulos. Los bancos y demás entidades vigiladas por la Superintendencia Financiera de 
+Colombia, las cooperativas de ahorro y crédito, los organismos cooperativos de grado 
+superior, las instituciones auxiliares del cooperativismo, las cooperativas multiactivas e 
+integrales y los fondos de empleados que realicen actividades financieras deberán informar 
+mensualmente; los siguientes datos de cada una de las personas o entid ades a quienes 
+durante el mes, se les haya emitido, renovado, cancelado o tengan vigente a su favor uno 
+o más certificados a término fijo y/o cualquier otro (s) o título (s); sin importar la cuantía, 
+según lo dispuesto en los artículos 623 literal a), 631 -2 y 631-3 del Estatuto Tributario: ” 
+ 
+“Parágrafo 2 . La renovación de certificados a término durante la mensualidad no 
+constituye un nuevo depósito o una nueva inversión que deba sumarse al valor del 
+certificado original. En la renovación, solo deben reportarse los rendimientos o adiciones 
+que se capitalicen.”  
+ 
+Artículo 26. Modificación del inciso 1 del artículo 1.3.3.2.1. de la Sección 2 del Capítulo 3 del 
+Título 3 de la Parte 1 de la Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera 
+y Cambiaria. Modifíquese el inciso 1 del artículo 1.3.3.2.1. de la Sección 2 del Capítulo 3 del Título 
+3 de la Parte 1 de la Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera y 
+Cambiaria, el cual quedará así: 
+ 
+“Artículo 1.3.3.2.1. Sociedad Administradora del Depósito Centralizado de Valores 
+(DECEVAL). Deberá reportar la siguiente información mensualmente, de cada una de las 
+personas o entidades que efectuaron a través de ella depósitos de títulos valores e 
+instrumentos financieros, se encuentren o no inscritos en el registro nacional de valores e 
+intermediarios, sean emitidos en Colombia o en el exterior, según lo dispuesto en el artículo 
+631-3 del Estatuto Tributario; conforme con los parámetros establecidos en las 
+especificaciones técnicas del Formato 2273 versión 2; así:” 
+ 
+Artículo 27. Modificación del título del artículo y del parágrafo 6 y adición de los parágrafos 7, 
+8 y 9 del artículo 1.3. 9.1.3 a la Sección 1 del  Capítulo 9 del Título 3 de la Parte 1 de la 
+Resolución 000227 de 2025, Única en Materia Tributaria, Aduanera y Cambiaria. Se modifican 
+el título del artículo 1.3.9.1.3. y el parágrafo 6  y se adicionan los parágrafos 7, 8  y 9 del artículo 
+1.3.9.1.3 a la Sección 1 del Capítulo 9 del Título 3 de la Parte 1 de la Resolución 000227 de 2025, 
+Única en Materia Tributaria, Aduanera y Cambiaria, los cuales quedarán así: 
+ 
+“Artículo 1.3.9.1.3. Plazos para suministrar la información” 
+ 
+“Parágrafo 6. La información de que tratan los Artículo 1.3.12.9 a Artículo 1.3.12.16 de la 
+presente resolución correspondiente a las entidades que expiden certificados, calificaciones 
+u otros actos administrativos expedidos, podrá ser presentada de manera voluntaria respecto 
+de los años gravables 2021, 2022, 2023 y 2024 en los plazos de entrega de información del 
+año gravable 2025, es decir en el año calendario 2026. La información correspondiente a los 
+años gravables 2025 y siguientes se reportará obligatoriamente en los plazos previstos en 
+este artículo. 
+ 
+La información de que trata el artículo 1.3.12.18. y 1.3.12.19. de la presente resolución podrá 
+ser presentada para los años gravables 2022, 2023, 2024 y 2025 en los plazos de entrega 
+de información del año gravable 2026, es decir en el año calendario 2027. La información
+
+--- [Página 26 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 26 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+correspondiente a los años gravables 2026 y siguientes deberá ser reportada en los plazos 
+previstos en este artículo.” 
+ 
+Parágrafo 7 La información de que tratan los artículos 1.3.12.20, 1.3.12.21 y 1.3.12.22 de 
+la presente resolución, deberá ser presentada para los años gravables 2026 y siguientes en 
+los plazos previstos en este artículo. 
+ 
+Parágrafo 8. La información de que tratan los ajustes realizados a los artículos 1.3.5.2.1. y 
+1.3.5.9.1. de la presente resolución, tendrá aplicación para los años gravables 2026 y 
+siguientes.” 
+ 
+Parágrafo 9. La información de que tratan los artículos 1.3.3.1.1, 1.3.3.1.2 y 1.3.3.2.1 deberá 
+ser presentada mensualmente a partir del año gravable 2027 con base en los plazos 
+establecidos a continuación: 
+ 
+ 
+Si 
+último 
+dígito 
+es 
+Enero Febrero Marzo 
+Plazo marzo de 2027 y en 
+adelante para cada año 
+subsiguiente 
+Plazo abril de 2027 y en 
+adelante para cada año 
+subsiguiente 
+Plazo mayo de 2027 y en 
+adelante para cada año 
+subsiguiente 
+1 Séptimo día hábil Séptimo día hábil Séptimo día hábil 
+2 Octavo día hábil Octavo día hábil Octavo día hábil 
+3 Noveno día hábil Noveno día hábil Noveno día hábil 
+4 Décimo día hábil  Décimo día hábil  Décimo día hábil  
+5 Décimo primer día hábil Décimo primer día hábil Décimo primer día hábil 
+6 Décimo segundo día hábil Décimo segundo día hábil Décimo segundo día hábil 
+7 Décimo tercer día hábil Décimo tercer día hábil Décimo tercer día hábil 
+8 Décimo cuarto día hábil Décimo cuarto día hábil Décimo cuarto día hábil 
+9 Décimo quinto día hábil Décimo quinto día hábil Décimo quinto día hábil 
+0 Décimo sexto día hábil Décimo sexto día hábil Décimo sexto día hábil 
+ 
+ 
+Si el 
+último 
+dígito 
+es 
+Abril Mayo Junio 
+Plazo junio de 2027 y en 
+adelante para cada año 
+subsiguiente 
+Plazo julio de 2027 y en 
+adelante para cada año 
+subsiguiente 
+Plazo agosto de 2027 y en 
+adelante para cada año 
+subsiguiente 
+1 Séptimo día hábil Séptimo día hábil Séptimo día hábil 
+2 Octavo día hábil Octavo día hábil Octavo día hábil 
+3 Noveno día hábil Noveno día hábil Noveno día hábil 
+4 Décimo día hábil  Décimo día hábil  Décimo día hábil  
+5 Décimo primer día hábil Décimo primer día hábil Décimo primer día hábil 
+6 Décimo segundo día hábil Décimo segundo día hábil Décimo segundo día hábil 
+7 Décimo tercer día hábil Décimo tercer día hábil Décimo tercer día hábil 
+8 Décimo cuarto día hábil Décimo cuarto día hábil Décimo cuarto día hábil 
+9 Décimo quinto día hábil Décimo quinto día hábil Décimo quinto día hábil 
+0 Décimo sexto día hábil Décimo sexto día hábil Décimo sexto día hábil 
+ 
+ 
+Si el 
+último 
+dígito 
+es 
+Julio Agosto Septiembre 
+Plazo septiembre de 2027 y 
+en adelante para cada año 
+subsiguiente 
+Plazo octubre de 2027 y 
+en adelante para cada 
+año subsiguiente 
+Plazo noviembre de 2027 y en 
+adelante para cada año 
+subsiguiente 
+1 Séptimo día hábil Séptimo día hábil Séptimo día hábil 
+2 Octavo día hábil Octavo día hábil Octavo día hábil 
+3 Noveno día hábil Noveno día hábil Noveno día hábil 
+4 Décimo día hábil  Décimo día hábil  Décimo día hábil  
+5 Décimo primer día hábil Décimo primer día hábil Décimo primer día hábil 
+6 Décimo segundo día hábil Décimo segundo día hábil Décimo segundo día hábil 
+7 Décimo tercer día hábil Décimo tercer día hábil Décimo tercer día hábil
+
+--- [Página 27 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 27 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+Si el 
+último 
+dígito 
+es 
+Julio Agosto Septiembre 
+Plazo septiembre de 2027 y 
+en adelante para cada año 
+subsiguiente 
+Plazo octubre de 2027 y 
+en adelante para cada 
+año subsiguiente 
+Plazo noviembre de 2027 y en 
+adelante para cada año 
+subsiguiente 
+8 Décimo cuarto día hábil Décimo cuarto día hábil Décimo cuarto día hábil 
+9 Décimo quinto día hábil Décimo quinto día hábil Décimo quinto día hábil 
+0 Décimo sexto día hábil Décimo sexto día hábil Décimo sexto día hábil 
+ 
+ 
+Si el 
+último 
+dígito 
+es 
+Octubre Noviembre Diciembre 
+Plazo diciembre de 2027 y en 
+adelante para cada año 
+subsiguiente 
+Plazo enero de 2028 y en 
+adelante para cada año 
+subsiguiente 
+Plazo febrero de 2028 y en 
+adelante para cada año 
+subsiguiente  
+1 Séptimo día hábil Séptimo día hábil Séptimo día hábil 
+2 Octavo día hábil Octavo día hábil Octavo día hábil 
+3 Noveno día hábil Noveno día hábil Noveno día hábil 
+4 Décimo día hábil  Décimo día hábil  Décimo día hábil  
+5 Décimo primer día hábil Décimo primer día hábil Décimo primer día hábil 
+6 Décimo segundo día hábil Décimo segundo día hábil Décimo segundo día hábil 
+7 Décimo tercer día hábil Décimo tercer día hábil Décimo tercer día hábil 
+8 Décimo cuarto día hábil Décimo cuarto día hábil Décimo cuarto día hábil 
+9 Décimo quinto día hábil Décimo quinto día hábil Décimo quinto día hábil 
+0 Décimo sexto día hábil Décimo sexto día hábil Décimo sexto día hábil 
+ 
+Artículo 28. Modificación de los anexos 1001, 1005, 1647, 5247, 5248, 5249, 5250, 5251, 5252, 
+1476, 2574 y adición de los anexos 2821, 2822, 2854, 2856 y 2857 al numeral 2 del artículo 3 
+de la Resolución 000227 de 2025 Única en Materia Tributaria, Aduanera y Cambiaria . 
+Modifíquense los anexos 1001, 1005, 1647, 5247, 5248, 5249, 5250, 5251, 5252, 1476, 2574  y 
+adiciónense los anexos 2821, 2822, 2854, 2856 y 2857 al numeral 2 del artículo 3 de la Resolución 
+000227 de 2025 Única en Materia Tributaria, Aduanera y Cambiaria, los cuales quedarán así: 
+ 
+“ 
+PREFIJO CÓDIGO NOMBRE DEL ANEXO O 
+ESPECIFICACIÓN TÉCNICA VERSIÓN No. 
+T3.18 1001 Pagos o abonos en cuenta y retenciones 
+practicadas 11 
+T3.21 1005 Impuesto a las Ventas por Pagar 
+(Descontable) 9 
+T3.26 1647 
+Información de ingresos recibidos para 
+terceros residentes fiscales y sociedades 
+domiciliadas en territorio colombiano 
+3 
+T3.31 5247 
+Pagos o abonos en cuenta y retenciones 
+practicadas en contratos de colaboración 
+empresarial y otros contratos  
+2 
+T3.32 5248 
+Ingresos recibidos en contratos de 
+colaboración empresarial y otros 
+contratos  
+2 
+T3.33 5249 
+IVA descontable en contratos de 
+colaboración empresarial y otros 
+contratos  
+2 
+T3.34 5250 
+IVA generado en contratos de 
+colaboración empresarial y otros 
+contratos  
+2 
+T3.35 5251 
+Saldos Cuentas por cobrar a 31 de 
+diciembre en contratos de colaboración 
+empresarial y otros contratos  
+2 
+T3.36 5252 
+Saldos de cuentas por pagar al 31 de 
+diciembre en contratos de colaboración 
+empresarial y otros contratos  
+2 
+T3.46 1476 Información de registros catastrales y de 
+Impuesto Predial 13 
+T3.56 2574 
+Información de no causación del 
+impuesto al carbono por certificación de 
+carbono neutro 
+3
+
+--- [Página 28 de 157] ---
+RESOLUCIÓN NÚMERO  000XXX           de      XX OCT 2025                         Hoja No. 28 
+ 
+Continuación de la Resolución  
+“Por la cual se modifica y adiciona parcialmente la resolución 000227 de 2025, Única en Materia Tributaria, 
+Aduanera y Cambiaria respecto a temas asociados al reporte de información tributaria ” 
+______________________________________________________________________________ 
+ 
+ 
+” 
+ 
+“ 
+PREFIJO CÓDIGO NOMBRE DEL ANEXO O 
+ESPECIFICACIÓN TÉCNICA VERSIÓN No. 
+T3.70 2821 
+Información de APC – Colombia 
+relacionada con los certificados de utilidad 
+común – CUC. Art 96 Ley 788 de 2002 
+1 
+T3.71 2822 
+Información de las Certificaciones que dan 
+derecho a beneficios tributarios Art. 11, 
+12, 13 y 14 de la Ley 1715 de 2014 
+1 
+T3.72 2854 Información de ingresos recibidos 
+para terceros del exterior 1 
+T3.73 2856 Reporte de operaciones con activos 
+digitales 1 
+T3.74 2857 Información de operaciones con terceros 
+del exterior  1 
+” 
+ 
+Artículo 29. PUBLICAR la presente Resolución en el Diario Oficial de conformidad con el artículo 
+65 del Código de Procedimiento Administrativo y de lo Contencioso Administrativo. 
+ 
+Artículo 30. VIGENCIA. La presente Resolución rige a partir de la fecha de su publicación. 
+ 
+PUBLÍQUESE Y CÚMPLASE 
+ 
+Dada en Bogotá D.C  
+ 
+ 
+ 
+ 
+ 
+ 
+LUIS EDUARDO LLINÁS CHICA 
+Director General 
+ 
+ 
+Proyectó: Mesa de Trabajo de Información Tributaria 
+ 
+Revisó:    Hernán Alonso Durango Usta – Subdirector de Gestión de Fiscalización 
+Luis Adelmo Plaza Guamanga, Asesor Dirección de Gestión Jurídica 
+  
+Aprobó: César Augusto Martínez Ariza, Director de Gestión de Fiscalización 
+David Gustavo Suárez Castellanos, Director de Gestión Estratégica y de Analítica 
+ Gustavo Alfredo Peralta Figueredo, Director de Gestión Jurídica
+
+--- [Página 29 de 157] ---
+Resolución No. 
+(                          ) 
+Anexo No. T3.18 
+Especificaciones Técnicas 
+PAGOS O ABONOS EN CUENTA Y RETENCIONES  
+PRACTICADAS 
+Formato 1001 – Versión 11 
+ 
+1 de 8  Información Pública Clasificada  
+OBJETIVO 
+ 
+Definir las características y contenido de los archivos donde se reportan los Pagos o Abonos en 
+Cuenta y Retenciones practicadas. 
+ 
+ESPECIFICACIÓN TECNICA 
+ 
+El formato de Pagos o Abonos en Cuenta y Retenciones practicadas debe enviarse en un archivo 
+XML que cumpla las siguientes especificaciones: 
+ 
+1. Estándar del Nombre de los Archivos 
+ 
+El nombre de cada uno de los archivos debe especificarse mediante la siguiente secuencia de 
+caracteres: 
+ 
+Dmuisca_ccmmmmmvvaaaacccccccc.xml 
+ 
+cc : Concepto (Inserción = 01 Reemplazo = 02) 
+mmmmm : Formato (Pagos o Abonos en Cuenta y Retenciones 
+  practicadas = 01001) 
+vv : Versión del formato (Versión = 11). 
+aaaa : Año de envío.  
+cccccccc : Consecutivo de envío por año. 
+ 
+2. Formato del Archivo 
+ 
+El formato contiene un documento XML, que está compuesto por dos elementos complejos: 
+Encabezado y Contenido, los cuales se deben enviar en el orden enunciado. 
+ 
+Encabezado 
+Contenido Información 1 
+Contenido Información 2 
+... 
+Contenido Información N 
+ 
+1. El documento XML debe cumplir con la especificación 1.0 Tercera edición.  
+ 
+2. El conjunto de caracteres utilizado en el documento XML debe ser el alfabeto latino No. 1: “ISO -
+8859-1”. 
+ 
+3. El archivo debe contener un documento XML bien formado y valido de acuerdo con el esquema XSD 
+que incluye en esta especificación técnica. 
+ 
+4. El archivo debe contener un elemento único elemento raíz llamado “mas”, que a su vez contendrá toda 
+la información del archivo, tanto el encabezado como los registros. 
+ 
+ 
+2.1. Formato del Encabezado
+
+--- [Página 30 de 157] ---
+Resolución No. 
+(                          ) 
+Anexo No. T3.18 
+Especificaciones Técnicas 
+PAGOS O ABONOS EN CUENTA Y RETENCIONES  
+PRACTICADAS 
+Formato 1001 – Versión 11 
+ 
+2 de 8  Información Pública Clasificada  
+El encabezado del archivo viene en el elemento “Cab” y contiene los siguientes datos, todos de carácter 
+obligatorio: 
+ 
+ETIQUETA DENOMINACION 
+CASILLA TIPO LONGITUD 
+CAMPO VALIDACIONES OBSERVACIONES 
+Ano Año de envío int 4  Formato AAAA 
+CodCpt Concepto int 2   1=inserción  
+ 2=reemplazo 
+Formato Código del 
+formato 
+int 5  Pagos o Abonos en Cuenta y 
+Retenciones practicadas = 
+1001 
+Versión Versión del 
+formato 
+int 2  Versión = 11 
+NumEnvio Número de envío int 8 Debe corresponder al 
+número consecutivo 
+para este formato. 
+Consecutivo de envío por 
+año. 
+FecEnvio Fecha de envío datetime 19 Debe ser la fecha 
+calendario. 
+Formato AAAA-MM-
+DDTHH:MM:SS 
+FecInicial Fecha Inicial date 10 Debe ser la fecha 
+calendario. 
+Los registros corresponden 
+mínimo esta fecha inicial. 
+Formato AAAA-MM-DD 
+FecFinal Fecha Final date 10 Debe ser la fecha 
+calendario. 
+Los registros corresponden 
+máximo a esta fecha final. 
+Formato AAAA-MM-DD 
+ValorTotal Valor Total double 20 Corresponde a la 
+sumatoria de la casilla 
+“cpt” (Concepto) que 
+se encuentra en el 
+atributo “pagos”. 
+ 
+CantReg Cantidad de 
+registros 
+int 4 Se enviarán archivos 
+con máximo 5000 
+registros; si se deben 
+reportar más de 5000 
+registros se fraccionará 
+la información en 
+archivos de 5000 
+registros o menos. La 
+cantidad de registros 
+esta medida por el 
+número de elementos 
+“pagos” que contenga 
+el archivo. 
+Cantidad de registros 
+reportados en el contenido. 
+    
+ 
+2.2. Formato del Contenido 
+ 
+En el contenido del archivo se deben incluir tantos registros como se informó en la cabecera en el 
+campo “Cantidad de registros”. 
+ 
+El contenido del archivo viene en el elemento “pagos” y se deben incluir los siguientes datos para 
+cada registro de Pago o Abono en Cuenta y Retenciones practicadas.  
+ 
+ATRIBUTO DENOMINACION 
+CASILLA TIPO LONGITU
+D CRITERIOS 
+cpt Concepto int 4 Siempre debe diligenciarse.
+
+--- [Página 31 de 157] ---
+Resolución No. 
+(                          ) 
+Anexo No. T3.18 
+Especificaciones Técnicas 
+PAGOS O ABONOS EN CUENTA Y RETENCIONES  
+PRACTICADAS 
+Formato 1001 – Versión 11 
+ 
+3 de 8  Información Pública Clasificada  
+ATRIBUTO DENOMINACION 
+CASILLA TIPO LONGITU
+D CRITERIOS 
+De acuerdo con los definidos en la 
+resolución. 
+tdoc Tipo de documento int 2 Siempre debe diligenciarse. 
+De acuerdo con los definidos en la 
+resolución. 
+nid Número identificación string 20 Siempre debe diligenciarse. 
+Diligenciar sin guiones, puntos, comas o 
+espacios en blanco. 
+apl1 Primer apellido del 
+informado 
+string 60 En caso de ser una Persona Natural 
+siempre debe diligenciarse. 
+apl2 Segundo apellido del 
+informado 
+string 60 En caso de ser una Persona Natural y si 
+se conoce debe diligenciarse. 
+nom1 Primer nombre del 
+informado 
+string 60 En caso de ser una Persona Natural 
+siempre debe diligenciarse. 
+nom2 Otros nombres del 
+informado 
+string 60 En caso de ser una Persona Natural y si 
+se conoce debe diligenciarse. 
+raz Razón social 
+informado 
+string 450 En caso de ser una Persona Jurídica 
+siempre debe diligenciarse. 
+dir Dirección string 200 En caso de que el País de residencia sea 
+Colombia siempre debe diligenciarse. 
+dpto Código departamento int 2 Código DANE Numérico, debe incluir los 
+ceros a la izquierda. 
+En caso de que el País de residencia sea 
+Colombia siempre debe diligenciarse. 
+mun Código municipio int 3 Código DANE Numérico, debe incluir los 
+ceros a la izquierda. 
+En caso de que el País de residencia sea 
+Colombia siempre debe diligenciarse. 
+pais País de Residencia o 
+domicilio 
+int 4 De acuerdo con los definidos por 
+resolución. 
+Siempre debe diligenciarse. 
+pago Pago o abono en 
+cuenta deducible  
+long 
+ 
+18 El valor debe ser positivo, entero y no 
+debe incluir ni puntos ni comas. 
+Siempre debe diligenciarse.  
+pnded Pago o abono en 
+cuenta NO deducible  
+long 
+ 
+18 El valor debe ser positivo, entero y no 
+debe incluir ni puntos ni comas. 
+Siempre debe diligenciarse.  
+ided IVA mayor valor del 
+costo o gasto 
+deducible  
+long 
+ 
+18 El valor debe ser positivo, entero y no 
+debe incluir ni puntos ni comas. 
+Siempre debe diligenciarse.  
+inded IVA mayor valor del 
+costo o gasto no 
+deducible  
+long 
+ 
+18 El valor debe ser positivo, entero y no 
+debe incluir ni puntos ni comas. 
+Siempre debe diligenciarse.  
+retp Retención en la fuente 
+practicada Renta  
+long 
+ 
+18 El valor debe ser positivo, entero y no 
+debe incluir ni puntos ni comas. 
+Siempre debe diligenciarse.  
+reta Retención en la fuente 
+asumida Renta  
+long 
+ 
+18 El valor debe ser positivo, entero y no 
+debe incluir ni puntos ni comas. 
+Siempre debe diligenciarse.  
+comun Retención en la fuente 
+practicada IVA a 
+responsables del IVA  
+long 
+ 
+18 El valor debe ser positivo, entero y no 
+debe incluir ni puntos ni comas. 
+Siempre debe diligenciarse.  
+ndom Retención en la fuente 
+practicada IVA a no 
+residentes o no  
+domiciliados  
+long 
+ 
+18 El valor debe ser positivo, entero y no 
+debe incluir ni puntos ni comas.  
+Siempre debe diligenciarse.  
+ 
+Los campos Concepto, Tipo de documento y Número identificación, conforman una llave única para 
+este formato, la cual no debe repetirse para los registros enviados por un mismo año y/o periodo. 
+ 
+3. Validaciones 
+ 
+3.1. Validaciones Generales
+
+--- [Página 32 de 157] ---
+Resolución No. 
+(                          ) 
+Anexo No. T3.18 
+Especificaciones Técnicas 
+PAGOS O ABONOS EN CUENTA Y RETENCIONES  
+PRACTICADAS 
+Formato 1001 – Versión 11 
+ 
+4 de 8  Información Pública Clasificada  
+1. El archivo debe contener todos los campos definidos para el encabezado y estos campos 
+deben estar correctamente diligenciados. 
+ 
+2. La información del contenido del archivo debe corresponder al esquema XSD entregado.  
+ 
+3. Los atributos que registran valores numéricos, se reportan con valores numéricos positivos, 
+sin signos ni puntuaciones, según lo reportado por el informante o en su defecto con cero 
+(0).  
+ 
+4. Los campos que corresponden a fechas, deben contener fechas válidas en cuanto a año, 
+mes, y día. 
+ 
+ 
+3.2. Validaciones del Encabezado 
+ 
+1. Los campos concepto, formato y versión, deben venir diligenciados con los valores estipulados en las 
+especificaciones técnicas,  
+ 
+2. Año de envío, debe ser el año calendario. 
+ 
+3. Número de envío, debe corresponder al número consecutivo para este formato. 
+  
+4. Fecha de envío, debe ser la fecha calendario, en formato AAAA-MM-DDTHH:MM:SS. 
+ 
+ 
+4. Esquema XSD  
+ 
+A continuación, se incluye el esquema XSD para esta especificación técnica.  
+ 
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" 
+attributeFormDefault="unqualified"> 
+  <xs:element name="pagos"> 
+    <xs:annotation> 
+      <xs:documentation>Pagos o Abonos en Cuenta y Retenciones practicadas - Formato 1001 v10</xs:documentation> 
+    </xs:annotation> 
+    <xs:complexType> 
+      <xs:attribute name="cpt" use="required"> 
+        <xs:annotation> 
+          <xs:documentation>Concepto</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:int"> 
+            <xs:minInclusive value="0"/> 
+            <xs:maxInclusive value="9999"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="tdoc" use="required"> 
+        <xs:annotation> 
+          <xs:documentation>Tipo de Documento</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:int"> 
+            <xs:minInclusive value="0"/> 
+            <xs:maxInclusive value="99"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="nid" use="required"> 
+        <xs:annotation> 
+          <xs:documentation>Número de Identificación</xs:documentation> 
+        </xs:annotation>
+
+--- [Página 33 de 157] ---
+Resolución No. 
+(                          ) 
+Anexo No. T3.18 
+Especificaciones Técnicas 
+PAGOS O ABONOS EN CUENTA Y RETENCIONES  
+PRACTICADAS 
+Formato 1001 – Versión 11 
+ 
+5 de 8  Información Pública Clasificada  
+        <xs:simpleType> 
+          <xs:restriction base="xs:string"> 
+    <xs:pattern value="[a-zA-Z0-9]+"/> 
+            <xs:minLength value="0"/> 
+            <xs:maxLength value="20"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="apl1" use="optional"> 
+        <xs:annotation> 
+          <xs:documentation>Primer Apellido del informado</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:string"> 
+            <xs:minLength value="0"/> 
+            <xs:maxLength value="60"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="apl2" use="optional"> 
+        <xs:annotation> 
+          <xs:documentation>Segundo Apellido del informado</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:string"> 
+            <xs:minLength value="0"/> 
+            <xs:maxLength value="60"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="nom1" use="optional"> 
+        <xs:annotation> 
+          <xs:documentation>Primer Nombre del informado</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:string"> 
+            <xs:minLength value="0"/> 
+            <xs:maxLength value="60"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="nom2" use="optional"> 
+        <xs:annotation> 
+          <xs:documentation>Otros Nombres del informado</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:string"> 
+            <xs:minLength value="0"/> 
+            <xs:maxLength value="60"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="raz" use="optional"> 
+        <xs:annotation> 
+          <xs:documentation>Razón Social del Informado</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:string"> 
+            <xs:minLength value="0"/> 
+            <xs:maxLength value="450"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="dir" use="optional"> 
+        <xs:annotation> 
+          <xs:documentation>Dirección</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:string"> 
+            <xs:minLength value="0"/> 
+            <xs:maxLength value="200"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="dpto" use="optional"> 
+        <xs:annotation> 
+          <xs:documentation>Código del Departamento</xs:documentation>
+
+--- [Página 34 de 157] ---
+Resolución No. 
+(                          ) 
+Anexo No. T3.18 
+Especificaciones Técnicas 
+PAGOS O ABONOS EN CUENTA Y RETENCIONES  
+PRACTICADAS 
+Formato 1001 – Versión 11 
+ 
+6 de 8  Información Pública Clasificada  
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:int"> 
+            <xs:minInclusive value="0"/> 
+            <xs:maxInclusive value="99"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="mun" use="optional"> 
+        <xs:annotation> 
+          <xs:documentation>Código del Municipio</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:int"> 
+            <xs:minInclusive value="0"/> 
+            <xs:maxInclusive value="999"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="pais" use="required"> 
+        <xs:annotation> 
+          <xs:documentation>País de Residencia o domicilio</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:int"> 
+            <xs:minInclusive value="0"/> 
+            <xs:maxInclusive value="9999"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="pago" use="required"> 
+        <xs:annotation> 
+          <xs:documentation>Pago o Abono en cuenta</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:long"> 
+            <xs:pattern value="[0-9]{1,18}"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="pnded" use="required"> 
+        <xs:annotation> 
+          <xs:documentation>Pago o abono en cuenta NO deducible</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:long"> 
+            <xs:pattern value="[0-9]{1,18}"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="ided" use="required"> 
+        <xs:annotation> 
+          <xs:documentation>IVA mayor valor del costo o gasto deducible</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:long"> 
+            <xs:pattern value="[0-9]{1,18}"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="inded" use="required"> 
+        <xs:annotation> 
+          <xs:documentation>IVA mayor valor del costo o gasto no deducible</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:long"> 
+            <xs:pattern value="[0-9]{1,18}"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="retp" use="required"> 
+        <xs:annotation> 
+          <xs:documentation>Retención en la fuente practicada Renta</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:long"> 
+            <xs:pattern value="[0-9]{1,18}"/>
+
+--- [Página 35 de 157] ---
+Resolución No. 
+(                          ) 
+Anexo No. T3.18 
+Especificaciones Técnicas 
+PAGOS O ABONOS EN CUENTA Y RETENCIONES  
+PRACTICADAS 
+Formato 1001 – Versión 11 
+ 
+7 de 8  Información Pública Clasificada  
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="reta" use="required"> 
+        <xs:annotation> 
+          <xs:documentation>Retención en la fuente asumida Renta</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:long"> 
+            <xs:pattern value="[0-9]{1,18}"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="comun" use="required"> 
+        <xs:annotation> 
+          <xs:documentation>Retención en la fuente practicada IVA a responsables del IVA</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:long"> 
+            <xs:pattern value="[0-9]{1,18}"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="ndom" use="required"> 
+        <xs:annotation> 
+          <xs:documentation>Retención en la fuente practicada IVA a no residentes o no  domiciliados</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:long"> 
+            <xs:pattern value="[0-9]{1,18}"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute>            
+    </xs:complexType> 
+  </xs:element> 
+  <xs:element name="mas"> 
+    <xs:annotation> 
+      <xs:documentation>Elemento raiz del xml de carga masiva</xs:documentation> 
+    </xs:annotation> 
+    <xs:complexType> 
+      <xs:sequence> 
+        <xs:element name="Cab" type="CabType"/> 
+        <xs:element ref="pagos" maxOccurs="5000"/> 
+      </xs:sequence> 
+    </xs:complexType> 
+  </xs:element> 
+  <xs:complexType name="CabType"> 
+    <xs:sequence> 
+      <xs:element name="Ano" type="xs:gYear" nillable="false"> 
+        <xs:annotation> 
+          <xs:documentation>Año de envio</xs:documentation> 
+        </xs:annotation> 
+      </xs:element> 
+      <xs:element name="CodCpt" nillable="false"> 
+        <xs:annotation> 
+          <xs:documentation>Concepto</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:int"> 
+            <xs:minInclusive value="0"/> 
+            <xs:maxInclusive value="99"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:element> 
+      <xs:element name="Formato" fixed="1001"> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:positiveInteger"> 
+            <xs:totalDigits value="4"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:element> 
+      <xs:element name="Version" type="xs:positiveInteger" fixed="10"/> 
+      <xs:element name="NumEnvio"> 
+        <xs:annotation> 
+          <xs:documentation>Numero de envio</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType>
+
+--- [Página 36 de 157] ---
+Resolución No. 
+(                          ) 
+Anexo No. T3.18 
+Especificaciones Técnicas 
+PAGOS O ABONOS EN CUENTA Y RETENCIONES  
+PRACTICADAS 
+Formato 1001 – Versión 11 
+ 
+8 de 8  Información Pública Clasificada  
+          <xs:restriction base="xs:positiveInteger"> 
+            <xs:totalDigits value="8"/> 
+            <xs:maxInclusive value="99999999"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:element> 
+      <xs:element name="FecEnvio" type="xs:dateTime"> 
+        <xs:annotation> 
+          <xs:documentation>Fecha de envio</xs:documentation> 
+        </xs:annotation> 
+      </xs:element> 
+      <xs:element name="FecInicial" type="xs:date"> 
+        <xs:annotation> 
+          <xs:documentation>Fecha inicial</xs:documentation> 
+        </xs:annotation> 
+      </xs:element> 
+      <xs:element name="FecFinal" type="xs:date"> 
+        <xs:annotation> 
+          <xs:documentation>Fecha Final</xs:documentation> 
+        </xs:annotation> 
+      </xs:element> 
+      <xs:element name="ValorTotal" type="xs:double"> 
+        <xs:annotation> 
+          <xs:documentation>Valor Total</xs:documentation> 
+        </xs:annotation> 
+      </xs:element> 
+      <xs:element name="CantReg"> 
+        <xs:annotation> 
+          <xs:documentation>Cantidad de registros</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:positiveInteger"> 
+            <xs:totalDigits value="4"/> 
+            <xs:maxInclusive value="9999"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:element> 
+    </xs:sequence> 
+  </xs:complexType> 
+</xs:schema>
+
+--- [Página 37 de 157] ---
+Resolución No. 
+(                          ) 
+Anexo No. T3.21 
+Especificaciones Técnicas 
+ 
+ 
+IMPUESTO A LAS VENTAS POR PAGAR  
+(DESCONTABLE) 
+Formato 1005 – Versión 9 
+ 
+ 
+1 de 6  
+Información Pública Clasificada  
+OBJETIVO 
+ 
+Definir las características y contenido de l os archivos donde se reporta n el Impuesto a las Ventas 
+por Pagar (Descontable). 
+ 
+ESPECIFICACIÓN TECNICA 
+ 
+El formato de Impuesto a las Ventas por Pagar (Descontable), debe enviarse en un archivo XML que 
+cumpla las siguientes especificaciones: 
+ 
+ 
+1.  Estándar del Nombre de los Archivos 
+ 
+El nombre de cada uno de los archivos, debe especificarse mediante la siguiente secuencia de 
+caracteres: 
+ 
+Dmuisca_ccmmmmmvvaaaacccccccc.xml 
+ 
+cc   : Concepto (Inserción = 01 Reemplazo = 02)  
+mmmmm : Formato ( Impuesto a las Ventas por Pagar (Descontable) = 
+01005)  
+vv   : Versión del formato (Versión = 09). 
+aaaa   : Año de envío. 
+cccccccc  : Consecutivo de envío por año. 
+ 
+ 
+2. Formato del Archivo 
+ 
+El formato de Impuesto a las Ventas por Pagar (Descontable) , contiene un documento XML, que 
+está compuesto por dos elementos complejos: Encabezado y Contenido, los cuales se deben enviar 
+en el orden enunciado. 
+ 
+Encabezado 
+Contenido Información 1 
+Contenido Información 2 
+... 
+Contenido Información N 
+ 
+1. El documento XML debe cumplir con la especificación 1.0 Tercera edición.  
+ 
+2. El conjunto de caracteres utilizado en el documento XML debe ser el alfabeto latino No. 1: 
+“ISO-8859-1”. 
+ 
+3. El archivo debe contener un documento XML bien formado y valido de acuerdo al esquema 
+XSD que incluye en esta especificación técnica. 
+ 
+4. El archivo debe contener un elemento único raíz llamado “mas”, que a su vez contendrá toda 
+la información del archivo, tanto el encabezado como los registros. 
+ 
+2.1. Formato del Encabezado 
+ 
+El encabezado del archivo viene en el elemento “Cab” y contiene los siguientes datos, todos de 
+carácter obligatorio:
+
+--- [Página 38 de 157] ---
+Resolución No. 
+(                          ) 
+Anexo No. T3.21 
+Especificaciones Técnicas 
+ 
+ 
+IMPUESTO A LAS VENTAS POR PAGAR  
+(DESCONTABLE) 
+Formato 1005 – Versión 9 
+ 
+ 
+2 de 6  
+Información Pública Clasificada  
+ETIQUETA DENOMINACIO
+N CASILLA TIPO LONGITU
+D CAMPO VALIDACIONES OBSERVACIONES 
+Ano Año de envío int 4  Formato AAAA 
+CodCpt Concepto int 2   1=inserción  
+ 2=reemplazo 
+Formato Código del 
+formato 
+int 5  Impuesto a las Ventas por 
+Pagar (Descontable) = 1005 
+Versión Versión del 
+formato 
+int 2  Versión = 9 
+NumEnvio Número de 
+envío 
+int 8 Debe corresponder al 
+número consecutivo para 
+este formato. 
+Consecutivo de envío por 
+año. 
+FecEnvio Fecha de envío datetim
+e 
+19 Debe ser la fecha calendario. Formato AAAA-MM-
+DDTHH:MM:SS 
+FecInicial Fecha Inicial date 10 Debe ser la fecha calendario. Los registros corresponden 
+mínimo a esta fecha inicial. 
+Formato AAAA-MM-DD 
+FecFinal Fecha Final date 10 Debe ser la fecha calendario. Los registros corresponden 
+máximo a esta fecha final. 
+Formato AAAA-MM-DD 
+ValorTotal Valor Total double 20 Corresponde a la sumatoria 
+de la casilla “tdoc” (Tipo de 
+Documento) que se 
+encuentra en el atributo 
+“impventas”. 
+ 
+CantReg Cantidad de 
+registros 
+int 4 Se enviarán archivos con 
+máximo 5000 registros; si 
+se deben reportar más de 
+5000 registros se fraccionará 
+la información en archivos 
+de 5000 registros o menos.  
+La cantidad de registros esta 
+medida por el número de 
+elementos “impventas” que 
+contenga el archivo. 
+Cantidad de registros 
+reportados en el contenido. 
+ 
+2.2. Formato del Contenido 
+ 
+En el contenido del archivo se deben incluir tantos registros como se informó en la cabecera en el 
+campo “Cantidad de registros”.  
+ 
+El contenido de l archivo viene en el elemento “ impventas” y se deben incluir los siguientes datos 
+para cada registro de Impuesto a las Ventas por Pagar (Descontable). 
+ 
+ATRIBUTO DENOMINACION 
+CASILLA TIPO LONGITUD CRITERIOS 
+tdoc Tipo de documento int 2 De acuerdo con los definidos por resolución. 
+Siempre debe diligenciarse 
+nid Número identificación string 20 Diligenciar sin guiones, puntos, comas o 
+espacios en blanco. 
+Siempre debe diligenciarse 
+dv Dígito de Verificación int 1 Para el tipo de documento 31 – Nit, si se 
+conoce debe diligenciarse. 
+apl1 Primer apellido del 
+informado 
+string 60 En caso de ser una Persona Natural siempre 
+debe diligenciarse. 
+apl2 Segundo apellido del 
+informado 
+string 60 En caso de ser una Persona Natural y si se 
+conoce debe diligenciarse. 
+nom1 Primer nombre del 
+informado 
+string 60 En caso de ser una Persona Natural siempre 
+debe diligenciarse.
+
+--- [Página 39 de 157] ---
+Resolución No. 
+(                          ) 
+Anexo No. T3.21 
+Especificaciones Técnicas 
+ 
+ 
+IMPUESTO A LAS VENTAS POR PAGAR  
+(DESCONTABLE) 
+Formato 1005 – Versión 9 
+ 
+ 
+3 de 6  
+Información Pública Clasificada  
+nom2 Otros nombres del 
+informado 
+string 60 En caso de ser una Persona Natural y si se 
+conoce debe diligenciarse. 
+raz Razón social informado string 450 En caso de ser una Persona Jurídica siempre 
+debe diligenciarse. 
+vimp Impuesto descontable double 20 El valor debe ser positivo, entero y no debe 
+incluir ni puntos ni comas. 
+Siempre debe diligenciarse. 
+ivade IVA resultante por 
+devoluciones en ventas 
+anuladas, rescindidas o 
+resueltas 
+double 20 El valor debe ser positivo, entero y no debe 
+incluir ni puntos ni comas. 
+Siempre debe diligenciarse. 
+ 
+Los campos Tipo de documento y Número identificación, conforman una llave única para este 
+formato, la cual no debe repetirse para los registros enviados por un mismo año y/o periodo.  
+ 
+ 
+3. Validaciones 
+ 
+3.1. Validaciones Generales 
+ 
+ 
+1. El archivo debe contener todos los campos definidos para el encabezado y estos campos 
+deben estar correctamente diligenciados. 
+ 
+2. La información del contenido del archivo debe corresponder al esquema XSD entregado.  
+ 
+3. Los atributos que registran valores numéricos, se reportan con valores numéricos positivos, 
+sin signos ni puntuaciones, según lo reportado por el informante o en su defecto con cero 
+(0).  
+ 
+4. Los campos que corresponden a fechas, deben contener fechas validas en cuanto a año, 
+mes, y día. 
+ 
+ 
+3.2. Validaciones del Encabezado 
+ 
+1. Los campos concepto, formato y versión , deben venir diligenciados con los valores 
+estipulados en las especificaciones técnicas,  
+ 
+2. Año de envío, debe ser el año calendario. 
+ 
+3. Número de envío, debe corresponder al número consecutivo para este formato. 
+  
+4. Fecha de envío, debe ser la fecha calendario, en formato AAAA-MM-DDTHH:MM:SS. 
+ 
+ 
+4. Esquema XSD  
+ 
+A continuación se incluye el esquema XSD para esta especificación técnica.  
+ 
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" 
+attributeFormDefault="unqualified"> 
+  <xs:element name="impventas"> 
+    <xs:annotation> 
+      <xs:documentation>Impuesto a las Ventas por Pagar (Descontable) - Formato 1005 v9</xs:documentation> 
+    </xs:annotation> 
+    <xs:complexType> 
+      <xs:attribute name="tdoc" use="required"> 
+        <xs:annotation> 
+          <xs:documentation>Tipo de Documento</xs:documentation> 
+        </xs:annotation>
+
+--- [Página 40 de 157] ---
+Resolución No. 
+(                          ) 
+Anexo No. T3.21 
+Especificaciones Técnicas 
+ 
+ 
+IMPUESTO A LAS VENTAS POR PAGAR  
+(DESCONTABLE) 
+Formato 1005 – Versión 9 
+ 
+ 
+4 de 6  
+Información Pública Clasificada  
+        <xs:simpleType> 
+          <xs:restriction base="xs:int"> 
+            <xs:minInclusive value="0"/> 
+            <xs:maxInclusive value="99"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="nid" use="required"> 
+        <xs:annotation> 
+          <xs:documentation>Número de Identificación</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:string"> 
+     <xs:pattern value="[a-zA-Z0-9]+"/> 
+            <xs:minLength value="0"/> 
+            <xs:maxLength value="20"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="dv" use="optional"> 
+        <xs:annotation> 
+          <xs:documentation>Digito de Verificación</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:int"> 
+            <xs:minInclusive value="0"/> 
+            <xs:maxInclusive value="9"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="apl1" use="optional"> 
+        <xs:annotation> 
+          <xs:documentation>Primer Apellido del informado</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:string"> 
+            <xs:minLength value="0"/> 
+            <xs:maxLength value="60"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="apl2" use="optional"> 
+        <xs:annotation> 
+          <xs:documentation>Segundo Apellido del informado</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:string"> 
+            <xs:minLength value="0"/> 
+            <xs:maxLength value="60"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="nom1" use="optional"> 
+        <xs:annotation> 
+          <xs:documentation>Primer Nombre del informado</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:string"> 
+            <xs:minLength value="0"/> 
+            <xs:maxLength value="60"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="nom2" use="optional"> 
+        <xs:annotation> 
+          <xs:documentation>Otros Nombres del informado</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:string"> 
+            <xs:minLength value="0"/> 
+            <xs:maxLength value="60"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="raz" use="optional"> 
+        <xs:annotation>
+
+--- [Página 41 de 157] ---
+Resolución No. 
+(                          ) 
+Anexo No. T3.21 
+Especificaciones Técnicas 
+ 
+ 
+IMPUESTO A LAS VENTAS POR PAGAR  
+(DESCONTABLE) 
+Formato 1005 – Versión 9 
+ 
+ 
+5 de 6  
+Información Pública Clasificada  
+          <xs:documentation>Razón Social del Informado</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:string"> 
+            <xs:minLength value="0"/> 
+            <xs:maxLength value="450"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="vimp" use="required"> 
+        <xs:annotation> 
+          <xs:documentation>Impuesto descontable</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:double"> 
+            <xs:pattern value="[0-9]{1,20}"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+      <xs:attribute name="ivade" use="required"> 
+        <xs:annotation> 
+          <xs:documentation>IVA resultante por devoluciones en ventas anuladas, rescindidas o resueltas</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:double"> 
+            <xs:pattern value="[0-9]{1,20}"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:attribute> 
+    </xs:complexType> 
+  </xs:element> 
+  <xs:element name="mas"> 
+    <xs:annotation> 
+      <xs:documentation>Elemento raiz del xml de carga masiva</xs:documentation> 
+    </xs:annotation> 
+    <xs:complexType> 
+      <xs:sequence> 
+        <xs:element name="Cab" type="CabType"/> 
+        <xs:element ref="impventas" maxOccurs="unbounded"/> 
+      </xs:sequence> 
+    </xs:complexType> 
+  </xs:element> 
+  <xs:complexType name="CabType"> 
+    <xs:sequence> 
+      <xs:element name="Ano" type="xs:gYear" nillable="false"> 
+        <xs:annotation> 
+          <xs:documentation>Año de envio</xs:documentation> 
+        </xs:annotation> 
+      </xs:element> 
+      <xs:element name="CodCpt" nillable="false"> 
+        <xs:annotation> 
+          <xs:documentation>Concepto</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:int"> 
+            <xs:minInclusive value="0"/> 
+            <xs:maxInclusive value="99"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:element> 
+      <xs:element name="Formato" fixed="1005"> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:positiveInteger"> 
+            <xs:totalDigits value="4"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:element> 
+      <xs:element name="Version" type="xs:positiveInteger" fixed="7"/> 
+      <xs:element name="NumEnvio"> 
+        <xs:annotation> 
+          <xs:documentation>Numero de envio</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:positiveInteger"> 
+            <xs:totalDigits value="8"/> 
+            <xs:maxInclusive value="99999999"/>
+
+--- [Página 42 de 157] ---
+Resolución No. 
+(                          ) 
+Anexo No. T3.21 
+Especificaciones Técnicas 
+ 
+ 
+IMPUESTO A LAS VENTAS POR PAGAR  
+(DESCONTABLE) 
+Formato 1005 – Versión 9 
+ 
+ 
+6 de 6  
+Información Pública Clasificada  
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:element> 
+      <xs:element name="FecEnvio" type="xs:dateTime"> 
+        <xs:annotation> 
+          <xs:documentation>Fecha de envio</xs:documentation> 
+        </xs:annotation> 
+      </xs:element> 
+      <xs:element name="FecInicial" type="xs:date"> 
+        <xs:annotation> 
+          <xs:documentation>Fecha inicial</xs:documentation> 
+        </xs:annotation> 
+      </xs:element> 
+      <xs:element name="FecFinal" type="xs:date"> 
+        <xs:annotation> 
+          <xs:documentation>Fecha Final</xs:documentation> 
+        </xs:annotation> 
+      </xs:element> 
+      <xs:element name="ValorTotal" type="xs:double"> 
+        <xs:annotation> 
+          <xs:documentation>Valor Total</xs:documentation> 
+        </xs:annotation> 
+      </xs:element> 
+      <xs:element name="CantReg"> 
+        <xs:annotation> 
+          <xs:documentation>Cantidad de registros</xs:documentation> 
+        </xs:annotation> 
+        <xs:simpleType> 
+          <xs:restriction base="xs:positiveInteger"> 
+            <xs:totalDigits value="4"/> 
+            <xs:maxInclusive value="9999"/> 
+          </xs:restriction> 
+        </xs:simpleType> 
+      </xs:element> 
+    </xs:sequence> 
+  </xs:complexType> 
+</xs:schema>
+
+--- [Página 43 de 157] ---
+Resolución No.         
+(                         ) 
+Anexo No. T3.26 
+Especificaciones Técnicas 
+ 
+ 
+ 
+ 
+INFORMACIÓN DE INGRESOS RECIBIDOS PARA TERCEROS RESIDENTES FISCALES Y 
+SOCIEDADES DOMICILIADAS EN TERRITORIO COLOMBIANO 
+ Formato 1647 – Versión 3 
+ 
+ 
+1 de 9  
+ 
+Información Pública Clasificada  
+OBJETIVO 
+ 
+Definir las características y contenido de los archivos donde se reporta la información de 
+ingresos recibidos para terceros residentes fiscales y sociedades domiciliadas en 
+territorio colombiano 
+ 
+ESPECIFICACIÓN TECNICA 
+ 
+El formato debe enviarse en un archivo XML que cumpla las siguientes especificaciones. 
+ 
+1. Estándar del Nombre de los Archivos 
+ 
+El nombre de cada uno de los archivos, debe especificarse mediante la siguiente 
+secuencia de caracteres: 
+ 
+Dmuisca_ccmmmmmvvaaaacccccccc.xml 
+ 
+cc  : Concepto (Inserción = 01 Reemplazo = 02) 
+mmmmm : Formato (información de ingresos recibidos para terceros residentes 
+fiscales y sociedades domiciliadas en territorio colombiano = 01647) 
+vv   : Versión del formato (Versión = 03). 
+aaaa  : Año de envío.  
+cccccccc  : Consecutivo de envío por año. 
+ 
+ 
+2. Formato del Archivo 
+ 
+El formato contiene un documento XML, que está compuesto por dos elementos 
+complejos: Encabezado y Contenido, las cuales se deben enviar en el orden enunciado. 
+ 
+Encabezado 
+Contenido Información 1 
+Contenido Información 2 
+... 
+Contenido Información N 
+ 
+1. El documento XML debe cumplir con la especificación 1.0 Tercera edición.  
+2. El conjunto de caracteres utilizado en el documento XML debe ser el alfabeto latino 
+No. 1: “ISO-8859-1”. 
+3. El archivo debe contener un documento XML bien formado y válido de acuerdo al 
+esquema XSD que incluye en esta especificación técnica. 
+ 
+4. El archivo debe contener un elemento único elemento raíz llamado “mas”, que a 
+su vez contendrá toda la información del archivo, tanto el encabezado como los 
+registros. 
+ 
+2.1. Formato del Encabezado 
+ 
+El encabezado del archivo viene en el elemento “Cab” y contiene los siguientes datos, 
+todos de carácter obligatorio:
+
+--- [Página 44 de 157] ---
+Resolución No.         
+(                         ) 
+Anexo No. T3.26 
+Especificaciones Técnicas 
+ 
+ 
+ 
+ 
+INFORMACIÓN DE INGRESOS RECIBIDOS PARA TERCEROS RESIDENTES FISCALES Y 
+SOCIEDADES DOMICILIADAS EN TERRITORIO COLOMBIANO 
+ Formato 1647 – Versión 3 
+ 
+ 
+2 de 9  
+ 
+Información Pública Clasificada  
+ 
+ETIQUETA DENOMINACION 
+CASILLA TIPO LONGITUD 
+CAMPO VALIDACIONES OBSERVACIONES 
+Ano Año de envío int 4  Formato AAAA 
+CodCpt Concepto int 2   1=inserción  
+ 2=reemplazo 
+Formato Código del 
+formato 
+int 5  Información de Ingresos 
+Recibidos para Terceros 
+Nacionales = 1647 
+Versión Versión del 
+formato 
+int 2  Versión = 3 
+NumEnvio Número de envío int 8 Debe corresponder al 
+número consecutivo 
+para este formato. 
+Consecutivo de envío por año. 
+FecEnvio Fecha de envío datetime 19 Debe ser la fecha 
+calendario. 
+Formato AAAA-MM-
+DDTHH:MM:SS 
+FecInicial Fecha Inicial date 10 Debe ser la fecha 
+calendario. 
+Los registros corresponden 
+mínimo a esta fecha inicial. 
+Formato AAAA-MM-DD 
+FecFinal Fecha Final date 10 Debe ser la fecha 
+calendario. 
+Los registros  corresponden 
+máximo a esta fecha Final. 
+Formato AAAA-MM-DD 
+ValorTotal Valor Total double 20  Corresponde a la 
+sumatoria del atributo 
+“vtotal” (Valor total de 
+la operación) que se 
+encuentra en el 
+atributo “ingresos”. 
+ 
+CantReg Cantidad de 
+registros 
+int 4 Se enviarán archivos 
+con máximo 5000 
+registros; si se deben 
+reportar más de 5000 
+registros se fraccionará 
+la información en 
+archivos de 5000 
+registros o menos. . La 
+cantidad de registros 
+esta medida por el 
+número de elementos 
+“ingresos” que 
+contenga el archivo 
+Cantidad de registros reportados 
+en el contenido. 
+    
+ 
+ 
+2.2. Formato del Contenido 
+ 
+En el contenido del archivo se deben incluir tantos registros como se informó en la 
+cabecera en el campo “Cantidad de registros”. 
+ 
+El contenido d el archivo viene en el elemento “ingresos” y se deben in cluir los 
+siguientes datos para cada registro de descuentos tributarios solicitados.  
+ 
+ATRIBUTO DENOMINACION CASILLA TIPO LONGITUD CRITERIOS 
+Con Concepto int 4 Siempre debe diligenciarse. 
+De acuerdo con los conceptos definidos en la 
+resolución. 
+Tdoc Tipo de documento de 
+quien se recibe ingreso 
+int 2 Siempre debe diligenciarse. 
+De acuerdo con los tipos de documento definidos 
+en la resolución.
+
+--- [Página 45 de 157] ---
+Resolución No.         
+(                         ) 
+Anexo No. T3.26 
+Especificaciones Técnicas 
+ 
+ 
+ 
+ 
+INFORMACIÓN DE INGRESOS RECIBIDOS PARA TERCEROS RESIDENTES FISCALES Y 
+SOCIEDADES DOMICILIADAS EN TERRITORIO COLOMBIANO 
+ Formato 1647 – Versión 3 
+ 
+ 
+3 de 9  
+ 
+Información Pública Clasificada  
+ATRIBUTO DENOMINACION CASILLA TIPO LONGITUD CRITERIOS 
+Nid Número identificación de 
+quien se recibe ingreso 
+string 20 Siempre debe diligenciarse 
+Diligenciar sin guiones, puntos, comas o espacios 
+en blanco. 
+Dv DV int 1 Para el tipo de documento 31 – Nit, si se conoce 
+debe diligenciarse. 
+apl1 Primer apellido de quien 
+se recibe ingreso 
+string 60 En caso de ser una Persona Natural siempre debe 
+diligenciarse. 
+apl2 Segundo apellido de 
+quien se recibe ingreso 
+string 60 En caso de ser una Persona Natural y si se conoce 
+debe diligenciarse. 
+nom1 Primer nombre de quien 
+se recibe ingreso 
+string 60 En caso de ser una Persona Natural siempre debe 
+diligenciarse. 
+nom2 Otros nombres de quien 
+se recibe ingreso 
+string 60 En caso de ser una Persona Natural y si se conoce 
+debe diligenciarse. 
+Raz Razón social de quien se 
+recibe ingreso 
+string 450 En caso de ser una Persona Jurídica siempre debe 
+diligenciarse. 
+País País de residencia o 
+domicilio de quien se 
+recibe ingreso 
+string 4 Siempre debe diligenciarse. 
+Vtotal Valor total de la operación Long 18 Siempre debe diligenciarse. 
+El valor debe ser positivo, entero y no  
+debe incluir ni puntos ni comas.  
+Ving Valor ingreso reintegrado  
+transferido distribuido al 
+tercero  
+Long 18 Siempre debe diligenciarse. 
+El valor debe ser positivo, entero y no  
+debe incluir ni puntos ni comas. 
+vret Valor Retención 
+reintegrada  transferida 
+distribuida al tercero  
+Long 18 Siempre debe diligenciarse. 
+El valor debe ser positivo, entero y no  
+debe incluir ni puntos ni comas. 
+tdoc2 Tipo de documento del 
+tercero para quien se 
+recibió ingreso 
+int 2 Siempre debe diligenciarse. 
+nid2i Identificación del tercero 
+para quien se recibió 
+ingreso 
+string 20 Siempre debe diligenciarse. 
+De acuerdo a los definidos por resolución 
+apl1i Primer apellido del tercero 
+para quien se recibió 
+ingreso 
+string 60 En caso de ser una Persona Natural siempre debe 
+diligenciarse. 
+apl2i Segundo apellido del 
+tercero para quien se 
+recibió ingreso 
+string 60 En caso de ser una Persona Natural y si se conoce 
+debe diligenciarse. 
+nom1i Primer nombre del tercero 
+para quien se recibió 
+ingreso 
+string 60 En caso de ser una Persona Natural siempre debe 
+diligenciarse. 
+nom2i Otros nombres del tercero 
+para quien se recibió 
+ingreso 
+string 60 En caso de ser una Persona Natural y si se conoce 
+debe diligenciarse. 
+razi Razón social del tercero 
+para quien se recibió 
+ingreso 
+string 450 En caso de ser una Persona Jurídica siempre debe 
+diligenciarse. 
+dir Dirección string 200 En caso que el país sea Colombia siempre debe 
+diligenciarse. 
+cdpt Código departamento string 2 Código DANE Numérico, debe incluir los 
+ceros a la izquierda. 
+En caso que el País sea Colombia siempre debe 
+diligenciarse. 
+cmcp Código municipio string 3 Código DANE Numérico, debe incluir los 
+ceros a la izquierda. 
+En caso que el País sea Colombia siempre debe 
+diligenciarse. 
+paist País de residencia o 
+domicilio 
+string 4 De acuerdo a los definidos por resolución. 
+Siempre debe diligenciarse. 
+ 
+Los campos: “Concepto, Tipo de documento de quien se recibe ingreso , Número 
+identificación de quien se recibe ingreso, Tipo de documento del tercero para quien 
+se recibió ingreso  e Identificación del tercero para quien se recibió ingreso ”
+
+--- [Página 46 de 157] ---
+Resolución No.         
+(                         ) 
+Anexo No. T3.26 
+Especificaciones Técnicas 
+ 
+ 
+ 
+ 
+INFORMACIÓN DE INGRESOS RECIBIDOS PARA TERCEROS RESIDENTES FISCALES Y 
+SOCIEDADES DOMICILIADAS EN TERRITORIO COLOMBIANO 
+ Formato 1647 – Versión 3 
+ 
+ 
+4 de 9  
+ 
+Información Pública Clasificada  
+conforman una llave única para este formato, la cual no debe repetirse para los registros 
+enviados por un mismo año y/o periodo. 
+ 
+ 
+3. Validaciones 
+ 
+3.1. Validaciones Generales 
+ 
+1. El archivo debe contener todos los campos definidos para el encabezado y estos 
+campos deben estar correctamente diligenciados. 
+ 
+2. La información del contenido del archivo debe corresponder al esquema XSD 
+entregado. 
+ 
+3. Los atributos que registran valores numéricos, se reportan con valores numéricos 
+positivos, sin signos ni puntuaciones, según lo reportado por el informante o en su 
+defecto con cero (0).  
+ 
+4. Los campos que corresponden a fechas, deben contener fechas válidas en cuanto 
+a año, mes, y día. 
+ 
+ 
+3.2. Validaciones del Encabezado 
+ 
+1. Los campos concepto, formato y versión , deben venir diligenciados con los 
+valores estipulados en las especificaciones técnicas,  
+ 
+2. Año de envío, debe ser el año calendario. 
+ 
+3. Número de envío, debe corresponder al número consecutivo para este formato. 
+  
+4. Fecha de envío , debe ser la fecha calendario, en formato AAAA -MM-
+DDTHH:MM:SS. 
+ 
+ 
+4. Esquema XSD  
+ 
+A continuación se incluye el esquema XSD para esta especificación técnica.  
+ 
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" 
+attributeFormDefault="unqualified"> 
+ <xs:element name="ingresos"> 
+  <xs:annotation> 
+   <xs:documentation>Elemento que encapsula la información del formulario 1647v1Información de Ingresos 
+Recibidos para Terceros</xs:documentation> 
+  </xs:annotation> 
+  <xs:complexType> 
+   <xs:attribute name="con" use="required"> 
+    <xs:annotation> 
+     <xs:documentation>Concepto</xs:documentation> 
+    </xs:annotation> 
+    <xs:simpleType> 
+     <xs:restriction base="xs:int">
+
+--- [Página 47 de 157] ---
+Resolución No.         
+(                         ) 
+Anexo No. T3.26 
+Especificaciones Técnicas 
+ 
+ 
+ 
+ 
+INFORMACIÓN DE INGRESOS RECIBIDOS PARA TERCEROS RESIDENTES FISCALES Y 
+SOCIEDADES DOMICILIADAS EN TERRITORIO COLOMBIANO 
+ Formato 1647 – Versión 3 
+ 
+ 
+5 de 9  
+ 
+Información Pública Clasificada  
+      <xs:pattern value="[0-9]{1,4}"/> 
+     </xs:restriction> 
+    </xs:simpleType> 
+   </xs:attribute> 
+   <xs:attribute name="tdoc" use="required"> 
+    <xs:annotation> 
+     <xs:documentation>Tipo de Documento</xs:documentation> 
+    </xs:annotation> 
+    <xs:simpleType> 
+     <xs:restriction base="xs:int"> 
+      <xs:pattern value="[0-9]{1,2}"/> 
+     </xs:restriction> 
+    </xs:simpleType> 
+   </xs:attribute> 
+   <xs:attribute name="nid" use="required"> 
+    <xs:annotation> 
+     <xs:documentation>Número de Identificación del informado</xs:documentation> 
+    </xs:annotation> 
+    <xs:simpleType> 
+     <xs:restriction base="xs:string"> 
+       <xs:pattern value="[a-zA-Z0-9]+"/> 
+      <xs:minLength value="1"/> 
+      <xs:maxLength value="20"/> 
+     </xs:restriction> 
+    </xs:simpleType> 
+   </xs:attribute> 
+   <xs:attribute name="dv" use="optional"> 
+    <xs:annotation> 
+     <xs:documentation>Digito de Verificación</xs:documentation> 
+    </xs:annotation> 
+    <xs:simpleType> 
+     <xs:restriction base="xs:int"> 
+      <xs:minInclusive value="0"/> 
+      <xs:maxInclusive value="9"/> 
+     </xs:restriction> 
+    </xs:simpleType> 
+   </xs:attribute> 
+   <xs:attribute name="apl1" use="optional"> 
+    <xs:annotation> 
+     <xs:documentation>Primer Apellido del informado</xs:documentation> 
+    </xs:annotation> 
+    <xs:simpleType> 
+     <xs:restriction base="xs:string"> 
+      <xs:minLength value="0"/> 
+      <xs:maxLength value="60"/> 
+     </xs:restriction> 
+    </xs:simpleType> 
+   </xs:attribute> 
+   <xs:attribute name="apl2" use="optional"> 
+    <xs:annotation> 
+     <xs:documentation>Segundo Apellido del informado</xs:documentation> 
+    </xs:annotation> 
+    <xs:simpleType> 
+     <xs:restriction base="xs:string"> 
+      <xs:minLength value="0"/> 
+      <xs:maxLength value="60"/> 
+     </xs:restriction> 
+    </xs:simpleType> 
+   </xs:attribute> 
+   <xs:attribute name="nom1" use="optional"> 
+    <xs:annotation> 
+     <xs:documentation>Primer nombre del informado</xs:documentation> 
+    </xs:annotation> 
+    <xs:simpleType> 
+     <xs:restriction base="xs:string"> 
+      <xs:minLength value="0"/> 
+      <xs:maxLength value="60"/> 
+     </xs:restriction> 
+    </xs:simpleType> 
+   </xs:attribute>
+
+--- [Página 48 de 157] ---
+Resolución No.         
+(                         ) 
+Anexo No. T3.26 
+Especificaciones Técnicas 
+ 
+ 
+ 
+ 
+INFORMACIÓN DE INGRESOS RECIBIDOS PARA TERCEROS RESIDENTES FISCALES Y 
+SOCIEDADES DOMICILIADAS EN TERRITORIO COLOMBIANO 
+ Formato 1647 – Versión 3 
+ 
+ 
+6 de 9  
+ 
+Información Pública Clasificada  
+   <xs:attribute name="nom2" use="optional"> 
+    <xs:annotation> 
+     <xs:documentation>Otros nombres del informado</xs:documentation> 
+    </xs:annotation> 
+    <xs:simpleType> 
+     <xs:restriction base="xs:string"> 
+      <xs:minLength value="0"/> 
+      <xs:maxLength value="60"/> 
+     </xs:restriction> 
+    </xs:simpleType> 
+   </xs:attribute> 
+   <xs:attribute name="raz" use="optional"> 
+    <xs:annotation> 
+     <xs:documentation>Razón social del informado</xs:documentation> 
+    </xs:annotation> 
+    <xs:simpleType> 
+     <xs:restriction base="xs:string"> 
+      <xs:minLength value="0"/> 
+      <xs:maxLength value="450"/> 
+     </xs:restriction> 
+    </xs:simpleType> 
+   </xs:attribute> 
+   <xs:attribute name="pais" use="required"> 
+    <xs:annotation> 
+     <xs:documentation>País de Residencia o domicilio</xs:documentation> 
+    </xs:annotation> 
+    <xs:simpleType> 
+     <xs:restriction base="xs:string"> 
+      <xs:pattern value="[0-9]{0,4}"/> 
+     </xs:restriction> 
+    </xs:simpleType> 
+   </xs:attribute> 
+   <xs:attribute name="vtotal" use="required"> 
+    <xs:annotation> 
+     <xs:documentation>Valor total de la operación</xs:documentation> 
+    </xs:annotation> 
+    <xs:simpleType> 
+     <xs:restriction base="xs:double"> 
+      <xs:pattern value="[0-9]{1,18}"/> 
+     </xs:restriction> 
+    </xs:simpleType> 
+   </xs:attribute> 
+   <xs:attribute name="ving" use="required"> 
+    <xs:annotation> 
+     <xs:documentation>Valor ingreso reintegrado transferido distribuido al tercero </xs:documentation> 
+    </xs:annotation> 
+    <xs:simpleType> 
+     <xs:restriction base="xs:double"> 
+      <xs:pattern value="[0-9]{1,18}"/> 
+     </xs:restriction> 
+    </xs:simpleType> 
+   </xs:attribute> 
+   <xs:attribute name="vret" use="required"> 
+    <xs:annotation> 
+     <xs:documentation>Valor Retención reintegrada transferida distribuida al tercero </xs:documentation> 
+    </xs:annotation> 
+    <xs:simpleType> 
+     <xs:restriction base="xs:double"> 
+      <xs:pattern value="[0-9]{1,18}"/> 
+     </xs:restriction> 
+    </xs:simpleType> 
+   </xs:attribute> 
+   <xs:attribute name="tdoc2" use="required"> 
+    <xs:annotation> 
+     <xs:documentation>Tipo de documento del  tercero beneficiario ingreso</xs:documentation> 
+    </xs:annotation> 
+    <xs:simpleType> 
+     <xs:restriction base="xs:int"> 
+      <xs:pattern value="[0-9]{1,2}"/> 
+     </xs:restriction>
+
+--- [Página 49 de 157] ---
+Resolución No.         
+(                         ) 
+Anexo No. T3.26 
+Especificaciones Técnicas 
+ 
+ 
+ 
+ 
+INFORMACIÓN DE INGRESOS RECIBIDOS PARA TERCEROS RESIDENTES FISCALES Y 
+SOCIEDADES DOMICILIADAS EN TERRITORIO COLOMBIANO 
+ Formato 1647 – Versión 3 
+ 
+ 
+7 de 9  
+ 
+Información Pública Clasificada  
+    </xs:simpleType> 
+   </xs:attribute> 
+   <xs:attribute name="nid2i" use="required"> 
+    <xs:annotation> 
+     <xs:documentation>Identificación  del tercero beneficiario ingreso</xs:documentation> 
+    </xs:annotation> 
+    <xs:simpleType> 
+     <xs:restriction base="xs:string"> 
+      <xs:pattern value="[a-zA-Z0-9]+"/> 
+      <xs:minLength value="0"/> 
+      <xs:maxLength value="20"/> 
+     </xs:restriction> 
+    </xs:simpleType> 
+   </xs:attribute> 
+   <xs:attribute name="apl1i" use="optional"> 
+    <xs:annotation> 
+     <xs:documentation>Primer apellido del tercero para quien se recibió ingreso </xs:documentation> 
+    </xs:annotation> 
+    <xs:simpleType> 
+     <xs:restriction base="xs:string"> 
+      <xs:minLength value="0"/> 
+      <xs:maxLength value="60"/> 
+     </xs:restriction> 
+    </xs:simpleType> 
+   </xs:attribute> 
+   <xs:attribute name="apl2i" use="optional"> 
+    <xs:annotation> 
+     <xs:documentation>Segundo apellido  del tercero para quien se recibió ingreso </xs:documentation> 
+    </xs:annotation> 
+    <xs:simpleType> 
+     <xs:restriction base="xs:string"> 
+      <xs:minLength value="0"/> 
+      <xs:maxLength value="60"/> 
+     </xs:restriction> 
+    </xs:simpleType> 
+   </xs:attribute> 
+   <xs:attribute name="nom1i" use="optional"> 
+    <xs:annotation> 
+     <xs:documentation>Primer nombre del tercero para quien se recibió ingreso </xs:documentation> 
+    </xs:annotation> 
+    <xs:simpleType> 
+     <xs:restriction base="xs:string"> 
+      <xs:minLength value="0"/> 
+      <xs:maxLength value="60"/> 
+     </xs:restriction> 
+    </xs:simpleType> 
+   </xs:attribute> 
+   <xs:attribute name="nom2i" use="optional"> 
+    <xs:annotation> 
+     <xs:documentation>Otros nombres del tercero para quien se recibió ingreso </xs:documentation> 
+    </xs:annotation> 
+    <xs:simpleType> 
+     <xs:restriction base="xs:string"> 
+      <xs:minLength value="0"/> 
+      <xs:maxLength value="60"/> 
+     </xs:restriction> 
+    </xs:simpleType> 
+   </xs:attribute> 
+   <xs:attribute name="razi" use="optional"> 
+    <xs:annotation> 
+     <xs:documentation>Razón social del tercero para quien se recibió ingreso </xs:documentation> 
+    </xs:annotation> 
+    <xs:simpleType> 
+     <xs:restriction base="xs:string"> 
+      <xs:minLength value="0"/> 
+      <xs:maxLength value="450"/> 
+     </xs:restriction> 
+    </xs:simpleType> 
+   </xs:attribute> 
+   <xs:attribute name="dir" use="optional">
+
+--- [Página 50 de 157] ---
+Resolución No.         
+(                         ) 
+Anexo No. T3.26 
+Especificaciones Técnicas 
+ 
+ 
+ 
+ 
+INFORMACIÓN DE INGRESOS RECIBIDOS PARA TERCEROS RESIDENTES FISCALES Y 
+SOCIEDADES DOMICILIADAS EN TERRITORIO COLOMBIANO 
+ Formato 1647 – Versión 3 
+ 
+ 
+8 de 9  
+ 
+Información Pública Clasificada  
+    <xs:annotation> 
+     <xs:documentation>Dirección</xs:documentation> 
+    </xs:annotation> 
+    <xs:simpleType> 
+     <xs:restriction base="xs:string"> 
+      <xs:minLength value="0"/> 
+      <xs:maxLength value="200"/> 
+     </xs:restriction> 
+    </xs:simpleType> 
+   </xs:attribute> 
+   <xs:attribute name="cdpt" use="optional"> 
+    <xs:annotation> 
+     <xs:documentation>Código del Departamento</xs:documentation> 
+    </xs:annotation> 
+    <xs:simpleType> 
+     <xs:restriction base="xs:string"> 
+      <xs:pattern value="[0-9]{0,2}"/> 
+     </xs:restriction> 
+    </xs:simpleType> 
+   </xs:attribute> 
+   <xs:attribute name="cmcp" use="optional"> 
+    <xs:annotation> 
+     <xs:documentation>Código del Municipio</xs:documentation> 
+    </xs:annotation> 
+    <xs:simpleType> 
+     <xs:restriction base="xs:string"> 
+      <xs:pattern value="[0-9]{0,3}"/> 
+     </xs:restriction> 
+    </xs:simpleType> 
+   </xs:attribute> 
+   <xs:attribute name="paist" use="required"> 
+    <xs:annotation> 
+     <xs:documentation>País de Residencia o domicilio</xs:documentation> 
+    </xs:annotation> 
+    <xs:simpleType> 
+    <xs:restriction base="xs:string"> 
+     <xs:pattern value="[0-9]{0,4}"/> 
+    </xs:restriction> 
+    </xs:simpleType> 
+   </xs:attribute> 
+  </xs:complexType> 
+ </xs:element> 
+ <xs:element name="mas"> 
+  <xs:annotation> 
+   <xs:documentation>Elemento raiz del xml de carga masiva</xs:documentation> 
+  </xs:annotation> 
+  <xs:complexType> 
+   <xs:sequence> 
+    <xs:element name="Cab" type="CabType"/> 
+    <xs:element ref="ingresos" maxOccurs="unbounded"/> 
+   </xs:sequence> 
+  </xs:complexType> 
+ </xs:element> 
+ <xs:complexType name="CabType"> 
+  <xs:sequence> 
+   <xs:element name="Ano" type="xs:gYear" nillable="false"> 
+    <xs:annotation> 
+     <xs:documentation>Año de envio</xs:documentation> 
+    </xs:annotation> 
+   </xs:element> 
+   <xs:element name="CodCpt" nillable="false"> 
+    <xs:annotation> 
+     <xs:documentation>Concepto</xs:documentation> 
+    </xs:annotation> 
+    <xs:simpleType> 
+     <xs:restriction base="xs:int"> 
+      <xs:minInclusive value="0"/> 
+      <xs:maxInclusive value="99"/> 
+     </xs:restriction> 
+    </xs:simpleType>

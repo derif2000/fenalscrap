@@ -1,0 +1,3717 @@
+RESOLUCIÓN NÚMERO DE 2026
+( )
+EL MINISTRO DE SALUD Y PROTECCIÓN SOCIAL
+CONSIDERANDO
+Que, este Ministerio a través de la Resolución 1888 de 2025 adoptó el Resumen Digital 
+de Atención en Salud RDA en el marco de la Interoperabilidad de la Historia Clínica 
+Electrónica IHCE, y estableció el mecanismo para su implementación a nivel nacional, 
+en cumplimiento de la Ley 2015 de 2020 y de la Resolución 866 de 2021, definiendo 
+el modelo de intercambio de información de la historia clínica electrónica, los criterios 
+y componentes técnicos que deben cumplir los actores del sistema de salud, y el plan 
+gradual de adopción atendiendo a las condiciones particulares de cada entidad 
+territorial, cuyos antecedentes y fundamentos normativos fueron consignados en su 
+parte considerativa.
+Que, adicionalmente, a través de su anexo técnico se estableció el modelo de 
+interoperabilidad, en lo relativo a la generación, envío, búsqueda, visualización y uso 
+dei RDA, bajo los principios de finalidad, acceso y circulación restringida, seguridad y 
+confidencialidad previstos en la Ley 1581 de 2012, con el propósito de consolidar un 
+sistema seguro, progresivo y eficiente para el manejo de la información en salud.
+B 5 AGO 20®
+Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con la 
+incorporación del Resumen Digital de Atención —RDA— de dispensación de 
+medicamentos y se dictan otras disposiciones
+En ejercicio de sus facultades legales, en especial las conferidas por los artículos 
+112 de la Ley 1438 de 2011, 19 de la Ley 1751 de 2015, 3 de la Ley 2015 de 2020, y
+MINISTERIO DE SALUD Y PROTECCIÓN SOCIAL
+001799
+REPUBLICA DE COLOMBIA
+Que, las actividades desarrolladas por los operadores logísticos de tecnologías en 
+salud y gestores farmacéuticos se encuentran vinculadas material y funcionalmente a 
+los fines, principios y obligaciones que rigen el Sistema General de Seguridad Social 
+en Salud, particularmente aquellos relacionados con la continuidad, eficiencia, 
+integralidad, accesibilidad y calidad en la prestación de los servicios de salud y en la 
+gestión de tecnologías sanitarias, puesto que al ostentar la calidad de integrantes del 
+Sistema General de Seguridad Social en Salud por disposición expresa del legislador, 
+sus actuaciones se encuentran sometidas al marco de regulación, inspección, 
+vigilancia y control aplicable a los actores del sistema, así como a los deberes de 
+articulación y cumplimiento orientados a garantizar el adecuado funcionamiento del 
+servicio público esencial de salud.
+Que las actividades de los gestores farmacéuticos y de las instituciones prestadoras 
+de servicios de salud habilitadas para el servicio farmacéutico se encuentran 
+vinculadas con los procesos de programación, dispensación y entrega de 
+medicamentos. Los operadores logísticos de tecnologías en salud desarrollan 
+actividades propias de la cadena de abastecimiento y distribución física y, cuando 
+realizan dispensación ambulatoria, adquieren la calidad de gestores farmacéuticos 
+conforme a la normativa vigente.
+
+HOJA No. 2
+Que la disponibilidad de información estructurada, interoperable y en tiempo real sobre 
+el ciclo de las tecnologías en salud constituye un elemento fundamental para el 
+seguimiento a la oportunidad en la atención, la satisfacción de la demanda y la 
+continuidad de los tratamientos, así como para el desarrollo e implementación de 
+herramientas y modelos de seguimiento sectorial orientados al fortalecimiento de la 
+garantía del derecho fundamental a la salud.
+Que, en consecuencia, cualquier proceso de transición, interoperabilidad o adopción 
+de nuevos mecanismos de registro deberá garantizar la continuidad, calidad, 
+completitud, trazabilidad y oportunidad de la información actualmente reportada, 
+incorporando las variables y mecanismos necesarios para asegurar el cumplimiento 
+de los compromisos adquiridos por el Ministerio de Salud y Protección Social ante la 
+Honorable Corte Constitucional.
+Que, la incorporación de mecanismos interoperables para el reporte de suministro y 
+dispensación de tecnologías en salud y servicios complementarios responde a la 
+necesidad de fortalecer la trazabilidad integral del ciclo de atención asociado a la 
+prescripción, direccionamiento, programación, entrega efectiva y cierre de los 
+procesos de suministro de medicamentos y demás tecnologías en salud. Lo anterior 
+resulta necesario para garantizar la continuidad asistencial, la articulación entre los 
+actores del Sistema General de Seguridad Social en Salud y la disponibilidad de 
+información verificable sobre el cumplimiento efectivo de las prescripciones realizadas 
+por los profesionales de salud.
+Que, la implementación de estos mecanismos contribuye igualmente al fortalecimiento 
+de la calidad de la información en salud, la gestión del riesgo, el control sobre la 
+efectiva dispensación de tecnologías prescritas y la disponibilidad de datos para fines 
+de continuidad asistencial, monitoreo, auditoría y supervisión sectorial. Asimismo, 
+permite consolidar un modelo de trazabilidad funcional alineado con los principios de 
+eficiencia, integralidad, continuidad y calidad en la prestación de los servicios de salud.
+Que, en desarrollo de dicha finalidad, se establece un modelo de intercambio de 
+información estructurado en dos fases operativas —planeación de la entrega y 
+ejecución de la entrega—, cada una integrada por momentos funcionales de 
+direccionamiento, programación y entrega, esquema que permite identificar de 
+manera secuencial y trazable las actuaciones desarrolladas por las entidades 
+promotoras de salud, entidades adaptadas , operadores logísticos, gestores 
+farmacéuticos, proveedores y dispensadores, facilitando la interoperabilidad entre los 
+sistemas de información y el seguimiento del ciclo de suministro de tecnologías en 
+salud y servicios complementarios.
+Que, en tal sentido, se determinó que el Resumen Digital de Atención - RDA será el 
+mecanismo a través del cual se realizará el registro integral del ciclo de las tecnologías 
+en salud, iniciando con los medicamentos, desde su prescripción hasta su 
+dispensación o administración, garantizando la interoperabilidad, disponibilidad y 
+continuidad de la información requerida para el seguimiento sectorial.
+Que, en el marco de la implementación de la interoperabilidad de la Historia Clínica 
+Electrónica y del desarrollo del Resumen Digital de Atención - RDA, este Ministerio 
+consideró necesario avanzar en la integración de los procesos de registro asociados a 
+las tecnologías en salud, con el fin de optimizar los sistemas de información, fortalecer 
+la trazabilidad de la atención y mejorar los tiempos de prestación de los servicios de 
+salud.
+RESOLUCIÓN NÚMEROQ Q j 7 9 9 0 5 ACO DE 2026
+Continuación de la resolución “Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones”
+
+RESOLUCIÓN NÚMEfOO 1799 HOJA No. 3
+En mérito de lo expuesto,
+RESUELVE
+Artículo 1. Modificar el artículo 2 de la Resolución 1888 de 2025, el cual quedará así:
+Artículo 2. Modificar el artículo 3 de la Resolución 1888 de 2025, el cual quedará así:
+De manera inicial, deberán implementarse los siguientes tipos de RD A:
+Continuación de la resolución “Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones"
+Que, de conformidad con lo previsto en el numeral 9 del artículo 3, el numeral 8 del 
+artículo 8 de la Ley 1437 de 2011 y el artículo 2.1.2.1.14 del Decreto 1081 de 2015, 
+Único Reglamentario del Sector Presidencia de la República, el proyecto de resolución 
+y su memoria justificativa fueron publicados entre el quince (15) y el veinticinco (25) 
+del mes de mayo y el veintinueve (29) de julio y el tres (3) de agosto del año 2026.
+Que, la Resolución 1888 de 2025 la posibilidad de definir, incorporar y socializar RDA 
+adicionales atendiendo a las necesidades del sistema de salud, a la evolución de los 
+procesos asistenciales y al desarrollo progresivo de la Interoperabilidad de la Historia 
+Clínica Electrónica - IHCE
+Que, de otra parte, la Ley 715 de 2001, en su artículo 43 establece las competencias 
+de los departamentos y distritos en materia de salud, determinando que, respecto de 
+la dirección, coordinación y supervisión de dicho sector, les corresponde, entre otras, 
+la adopción, implementación, administración y coordinación de la operación del 
+sistema integral de información en salud en su ámbito territorial, además de la 
+generación y presentación de la información requerida por el Sistema de General de 
+Seguridad Social en Salud.
+“Artículo 2. Ámbito de aplicación. Las disposiciones contenidas en la 
+presente resolución serán aplicables a los actores descritos en el artículo 2 de 
+la Resolución 866 de 2021, así como a los gestores farmacéuticos y a las 
+instituciones prestadoras de servicios de salud habilitadas para el servicio 
+farmacéutico, en el marco de las actividades relacionadas con el suministro, 
+gestión y dispensación de medicamentos financiados con recursos de la Unidad 
+de Pago por Capitación (UPC)."
+“Artículo 3. Contenido del Resumen Digital de Atención en Salud. El 
+Resumen Digital de Atención en Salud RDA estará conformado por los 
+elementos de datos clínicos relevantes definidos en la Resolución 866 de 2021, 
+o en la norma que la modifique o sustituya, los cuales constituyen la información 
+mínima estandarizada para garantizar la interoperabilidad de la historia clínica 
+electrónica y la continuidad del cuidado.
+c) RDA de consulta externa: Contiene los datos clínicos relevantes 
+generados en las atenciones ambulatorias, orientados a facilitar la
+b) RDA de hospitalización (internación): Integra los datos clínicos 
+relevantes derivados de los procesos de atención intrahospitalaria, con 
+el fin de dar soporte a la continuidad asistencial y a los procesos de 
+referencia y contrarreferencia.
+05 AGO DE 2026
+a) RDA de paciente: Incorpora los datos clínicos relevantes una vez se 
+realice un evento de atención clínica.
+
+HOJA No. 4
+Artículo 3. Modificar el artículo 5 de la Resolución 1888 de 2025, el cual quedará así:
+1. Generación: estructuración y producción del RD A por parte de los 
+prestadores de servicios de salud, conforme a los estándares, técnicos 
+definidos.
+El mecanismo de Interoperabilidad de la Historia Clínica Electrónica IHCE 
+dispondrá de los siguientes servicios de información asociados al RDA:
+Parágrafo 1. El Ministerio de Salud y Protección Social podrá definir, incorporar 
+y socializar RDA adicionales a los previstos en el presente articulo, atendiendo 
+a las necesidades del sistema de salud, a la evolución de los procesos 
+asistenciales y al desarrollo progresivo de la Interoperabilidad de la Historia 
+Clínica Electrónica - IHCE.
+Parágrafo 2. Los sujetos obligados responsables del reporte, intercambio, 
+gestión y actualización de la información asociada al Resumen Digital de 
+Atención —RDA— de dispensación de medicamentos deberán ímplementar y 
+cumplirlos mecanismos técnicos, operativos, funcionales y de interoperabilidad, 
+así como los lineamientos, estándares, estructuras de datos, protocolos y 
+demás disposiciones que defina el Ministerio de Salud y Protección Social. Para 
+tal efecto, deberán interoperar con las plataformas definidas por el Ministerio de 
+Salud y Protección Social, garantizando el adecuado intercambio de 
+información relacionado con la prescripción, direccionamiento, programación, 
+dispensación, entrega efectiva del suministro de medicamentos. ”
+d) RDA de urgencias (atención inmediata): Registra los datos clínicos 
+relevantes de la atención prestada en los servicios de urgencias, 
+asegurando su disponibilidad inmediata para la continuidad, del proceso 
+asistencial.
+gestión integral de la atención y el acceso a información clínica esencial 
+por parte de otros prestadores.
+"Artículo 5. Implementation de la Interoperabilidad de la Historia Clínica 
+Electrónica -IHCE-, Corresponde a los actores definidos en el artículo 2 de esta 
+resolución, Ímplementar la Interoperabilidad de la Historia Clínica Electrónica 
+IHCE, de conformidad con las responsabilidades y obligaciones establecidas en 
+la Resolución 866 de 2021 y la presente resolución. .. j
+e) RDA de dispensación de medicamentos y tecnologías en salud: 
+contiene la información correspondiente al direccionamiento, 
+programación y dispensación de medicamentos y tecnologías en salud, 
+la que deberá encontrarse relacionada con la información derivada de las 
+prescripciones efectuadas en el marco de la atención en salud.
+2. Envío: transmisión del RDA hacia la plataforma de Interoperabilidad, 
+garantizando seguridad, integridad, disponibilidad y confidencialidad de la 
+información,
+RESOLUCIÓN NÚMERC0 01799 Q 5 /IQQDE 2026
+Continuación de la resolución "Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones”
+3. Búsqueda y consulta: mecanismos para la localización, acceso y 
+visualización de los RDA disponibles, en observancia de los principios de 
+finalidad, acceso restringido y protección de la información en salud.
+
+RESOLUCIÓN NÚMER(@ 01799 0 5 ACODE 2026 HOJA No. 5
+PUBLÍQUESt CÚMPLASE
+Dada en Bogotá, D. C.
+0 5 AGO 2026
+Continuación de la resolución "Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones”
+Artículo 4. Transitoriedad. Los gestores farmacéuticos, así como a las instituciones 
+prestadoras de servicios de salud habilitadas para el servicio farmacéutico contarán 
+con un plazo de seis (6) meses contados a partir del 1 de septiembre de 2026, para 
+realizar los ajustes necesarios en sus sistemas de información a fin de adecuarlos a la 
+estructura, formato y requisitos técnicos aquí adoptados, en el marco de la 
+Interoperabilidad de la Historia Clínica Electrónica IHCE.
+Aprobó:
+Claudia Marcela Vargas Pelaez
+Directora de Medicamentos y Tecnologías en Salud 
+Didier Aníbal Beltrán Cadena
+Director Estratégico de Tecnología cj.e la Información
+VoBo: .
+Jaime Hernán Urrego Rodríguez 
+Viceministro de Salud Pública y Pre 
+Dirección Jurídica - Dr. Daniel Felii
+Artículo 5. Vigencia. La presente resolución rige a partir de su publicación, modifica 
+los artículos 2, 3 y 5 de la Resolución 1888 de 2025 y surte efecto en los términos 
+previstos en el artículo anterior.
+Especialmente, las entidades territoriales serán responsables de los siguientes 
+procesos:
+Interoperabilidad de Historia Clínica Electrónica -IHCE- 
+prestadores de servicios de salud que operen en su territorio.
+2. Incluir en la planeación territorial el seguimiento y monitoreo a la 
+implementación de la Interoperabilidad de la Historia Clínica Electrónica 
+-IHCE- en los prestadores de servicios de salud de su jurisdicción.
+3. Articularlas acciones de comunicación, divulgación y acompañamiento 
+relacionadas con la implementación del mecanismo de IHCE con el 
+Ministerio de Salud y Protección Social y los actores de prestadores de 
+servicios de salud que operen en su territorio.
+4. Participar en las actividades que el Ministerio de Salud y Protección 
+Social convoque en el marco de la Interoperabilidad de la Historia 
+Clínica Electrónica - IHCE-,
+5. Ejercer la vigilancia y control como autoridad sanitaria en el 
+departamento o distrito para la adecuada implementación y 
+cumplimiento por parte de las empresas promotoras de salud y su red 
+de prestadores de servicios de salud, frente a las acciones definidas en 
+el cumplimiento estricto del artículo 2.5.3.4.7.3 de! Decreto 780 de 
+2016.”
+Para ello, los actores definidos en el artículo 2 de esta resolución, deberán 
+atender el anexo técnico que hace parte integral del presente acto 
+administrativo, así como el cronograma de implementación, el cual será 
+publicado en el micrositio de la página web del Ministerio de Salud y Protección 
+Social habilitado para el presente mecanismo, disponible en el enlace: 
+www. minsalud. gov. co/IHCE. ”
+1. Supervisar, vigilar y monitorear la incorporación en el mecanismo de 
+a los
+GUILLERMO ALFONS') JARAMILLO MARTÍNEZ 
+Ministro de Salua y Protección Social
+1'1/■astac/n de Servicios - 
+lipe Soto, ■uh»!
+
+HOJA No. 6
+ANEXO TÉCNICO No. 1
+1. OBJETO
+2. DEFINICIONES
+Estos lineamientos permiten asegurar la trazabilidad, disponibilidad, integridad y confidencialidad de los 
+datos de atención en salud de la población, en el marco de lo dispuesto por la normativa vigente.
+Arquitectura de Interoperabilidad: Proporciona una visión de la arquitectura tecnológica necesaria 
+para soportar la interoperabilidad de la Historia Clínica Electrónica IHCE.
+API Gateway: Componente en la arquitectura de software que actúa como intermediario entre las 
+aplicaciones clientes y los servicios backend, permitiendo la gestión centralizada, la seguridad, el 
+enrutamiento y otros aspectos relacionados con las API.
+API Key: Clave de acceso que se le dispone a los prestadores de salud con el fin de autenticarse ante 
+la plataforma tecnológica y el mecanismo de IHCE.
+Asi mismo, el presente anexo técnico establece los lineamientos para la interoperabilidad de la 
+prescripción de medicamentos financiados con recursos de la Unidad de Pago por Capitación - UPC, 
+prescritos través de los Resúmenes Digitales de Atención en Salud - RDA, y define los servicios 
+interoperables y las estructuras de intercambio asociadas a los procesos de consulta de 
+prescripciones, direccionamiento, programación y dispensación de medicamentos, gestionados por 
+los actores responsables mediante el mecanismo de Interoperabilidad de la Historia Clínica 
+Electrónica - IHCE, con el propósito de garantizar la continuidad de la atención, la trazabilidad integral 
+del ciclo de suministro y el intercambio seguro, oportuno y estandarizado de la información.
+RESOLUCIÓN NÚMER(Í) 01799 05 ACOdE 2026
+Arquitectura de Interoperabilidad de la Historia Clínica Electrónica - IHCE: Esquema centralizado 
+diseñado para facilitar el intercambio seguro, eficiente y efectivo de los Resúmenes Digitales de 
+Atención — RDA entre los distintos actores del sistema de salud, a través de estándares y protocolos 
+previamente definidos, cuya integración se realiza con el Ministerio de Salud y Protección Social.
+Resumen Digital de Atención en Salud - RDA: Documento electrónico estandarizado que compila la 
+información mínima esencial generada en una atención en salud, destinada a garantizar la continuidad 
+del cuidado, la seguridad del paciente y el acceso oportuno a datos clínicos relevantes, en el marco de 
+la Interoperabilidad de la Historia Clínica Electrónica - IHCE.
+Además de las definiciones contenidas en el artículo 3 de la Resolución 866 de 2021, para efectos de 
+la presente resolución se tendrán en cuenta las siguientes:
+API: Interfaz de programación de aplicaciones. Conjunto de reglas y protocolos que permite que 
+diferentes componentes de software se comuniquen entre sí.
+Lineamiento para la implementation del Resumen Digital de Atención en Salud - RDA y de los 
+servidos interoperables asociados a la gestión farmacéutica, en el marco de la 
+Interoperabilidad de la Historia Clínica Electrónica -IHC-.
+Continuación de la resolución "Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones”
+Interoperabilidad de la Historia Clínica Electrónica - IHCE: Mecanismo mediante el cual, a partir de 
+los sistemas de información de historias clínicas electrónicas de los prestadores de servicios de salud, 
+se realiza el intercambio de información relativa a las atenciones en salud, incorporando medidas de 
+seguridad y privacidad que garanticen la protección de los datos conforme a la normativa vigente.
+Modelo de Interoperabilidad de la Historia Clínica Electrónica - IHCE: Conjunto de lineamientos, 
+procesos, herramientas y requisitos técnicos que orientan a los actores del sistema de salud, en especial 
+a los prestadores de servicios, para el desarrollo de las capacidades tecnológicas, operativas y logísticas 
+que permitan la comunicación y el intercambio de los Resúmenes Digitales de Atención - RDA de 
+manera segura, eficiente y efectiva.
+El presente anexo técnico tiene por objeto establecer los lineamientos técnicos para la operación de la 
+Interoperabilidad de la Historia Clínica Electrónica - IHCE mediante el uso del Resumen Digital de 
+Atención en Salud - RDA, con el fin de facilitar la integración de los prestadores de sen/icios de salud 
+con el Ministerio de Salud y Protección Social, garantizando el intercambio seguro, eficiente y efectivo 
+de la información clínica.
+
+O 5 ACODE 2026RESOLUCIÓN NÚMEtOíO 1799 HOJA No. 2
+Continuación de la resolución "Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones”
+Arquitectura de Seguridad: Establece los lineamientos técnicos necesarios para garantizar la 
+privacidad y seguridad de la información durante los procesos de la Interoperabilidad de Historia Clínica 
+Electrónica, cumpliendo con las normativas legales y reglamentarias aplicables.
+BCP: Plan de Continuidad del Negocio que establece el Ministerio, en el cual se especifican las acciones 
+que deberán de realizarse para que la entidad siga funcionando en caso de presentarse algún incidente 
+o falla que no sea contemplada y que la afecte.
+DRP: Plan de Recuperación de Desastres que hace parte del BCP, que aplica a los aspectos de una 
+organización que dependen de una infraestructura de TI en funcionamiento. Tiene como objetivo 
+resolver la perdida de datos y recuperación de funcionalidad de sistemas para que puedan ponerse a 
+funcionar después de un incidente.
+Evento de seguridad: Cualquier ocurrencia detectada en un sistema, red o servicio que puede tener 
+relevancia para la seguridad, como un intento de acceso, un cambio de configuración o una alerta de 
+un antivirus. No todos los eventos son maliciosos, pero se registran para analizar si representan algún 
+tipo de riesgo.
+Brecha de seguridad: Es un tipo grave de incidente en el que se logra acceder, filtrar o divulgar 
+información sensible sin autorización. Puede involucrar datos personales, o datos sensibles (como es 
+el caso de los datos sobre el estado de la salud de un individuo), y suele tener consecuencias legales, 
+reputacionales y operativas para la organización.
+Coordinación y Gobernanza: Definición de roles y responsabilidades de los diferentes actores 
+involucrados, así como los mecanismos de coordinación y monitoreo necesarios para asegurar el 
+funcionamiento eficiente y sostenible de la plataforma y el mecanismo de la IHCE.
+Firewall: Herramienta de seguridad informática diseñada para proteger una red de servidores y/o 
+estaciones de trabajo o un sistema de información al controlar y filtrar el tráfico de red entrante y saliente.
+FHIR: Estándar para el intercambio electrónico de información de salud, que tiene como objetivo mejorar 
+la interoperabilidad entre sistemas de salud.
+HTTPS: Es una versión segura del protocolo HTTP que usan los sitios web para que la información que 
+se envía entre el navegador del usuario y la página esté protegida mediante cifrado, lo que impide que 
+otros puedan ver o modificar los datos.
+ISO 27001: Estándar internacional que establece buenas prácticas para gestionar la seguridad de la 
+información en una organización, ayudando a proteger datos sensibles y a reducir riesgos relacionados 
+con ciberataques
+Modelo de Interoperabilidad: Establece los principios y directrices que rigen la interoperabilidad de la 
+Historia Clínica Electrónica IHCE en el territorio nacional.
+Incidente de seguridad: Evento (o conjunto de eventos) que afecta o podría afectar negativamente la 
+seguridad de la información. Por ejemplo, un acceso no autorizado, un virus que altera archivos o una 
+caída inesperada del sistema. Los incidentes requieren una respuesta para investigar y mitigar su 
+impacto.
+RBAC: Control de Acceso Basado en Roles (RBAC, por sus siglas en inglés) es una forma de limitar el 
+acceso a sistemas o datos según el rol que tenga una persona en una organización, lo que mejora la 
+seguridad al dar permisos solo a quien realmente los necesita.
+NIST: Instituto Nacional de Estándares y Tecnología (NIST, por sus siglas en inglés) es una agencia del 
+gobierno de Estados Unidos que emite guías y estándares ampliamente usados para mejorar la 
+ciberseguridad en organizaciones públicas y privadas.
+OWASP: Comunidad global enfocada en mejorar la seguridad del software; es conocida por publicar 
+listas de las vulnerabilidades más comunes en aplicaciones web, como la OWASP Top 10.
+Servicios de Intercambio de Información: Detalla los flujos de información y los mecanismos de 
+intercambio para la Interoperabilidad de la Historia Clínica Electrónica entre los prestadores de servicios 
+de salud, entidades territoriales y el Ministerio de Salud y Protección Social.
+
+HOJA No. 8
+3.2 Transacciones
+1.2.1.
+Las actividades mínimas que deberán ejecutarse en esta fase son:
+1.2.2.
+Las actividades mínimas que deberán realizarse en esta fase son:
+Prescripción: Registro interoperable de los medicamentos prescritos al usuario e incorporados en los 
+Resúmenes Digitales de Atención en Salud - RDA, que permite su intercambio a través del mecanismo 
+de Interoperabilidad de la Historia Clínica Electrónica - IHCE para soportar la continuidad de la 
+atención y los procesos interoperables asociados a la gestión farmacéutica.
+Direccionamiento: Registro interoperable mediante el cual las Entidades Promotoras de Salud - EPS 
+o entidades adaptadas asocian a una prescripción de medicamentos el gestor farmacéutico, 
+proveedor, operador logístico, sede o punto de dispensación responsable del suministro al usuario.
+Programación: Registro interoperable mediante el cual el gestor farmacéutico o proveedor 
+responsable define las condiciones operativas para la entrega o dispensación de los medicamentos 
+direccionados.
+Dispensación: Registro interoperable del suministro efectivo, parcial o no efectivo de medicamentos 
+prescritos, realizado por el gestor farmacéutico, proveedor o prestador responsable.
+a) Establecer la conexión segura con la plataforma de interoperabilidad del Ministerio mediante los 
+protocolos de comunicación autorizados.
+3. ARQUITECTURA DE INTEROPERABILIDAD DE LA HISTORIA CLÍNICA ELECTRÓNICA Y 
+GESTIÓN FARMACEUTICA
+Generación del Resumen Digital de Atención en Salud - RDA. El Resumen Digital de 
+Atención en Salud - RDA será generado por cada prestador de servicios de salud a 
+través de su Sistema de Información de Historia Clínica Electrónica - HIS, conforme a 
+los estándares técnicos y de interoperabilidad definidos por el Ministerio de Salud y 
+Protección Social.
+Envío del Resumen Digital de Atención en Salud - RDA. El prestador de servicios de 
+salud deberá transmitir el RDA mediante su Sistema de Información de Historia Clínica 
+Electrónica - HIS, al finalizar cada atención en salud.
+RESOLUCIÓN NÚMER® Q17 9 9 AG0DE 2026
+a) Capturar y estructurar los datos clínicos relevantes de la atención, conforme al conjunto mínimo 
+definido en la normativa vigente.
+b) Validar la integridad, consistencia y calidad de los datos antes de su consolidación en el RDA.
+c) Generar el RDA en el formato estandarizado de interoperabilidad definido por el Ministerio.
+d) Almacenar una copia interna en el HIS para efectos de trazabilidad y auditoria.
+MITM (Man-in-the-middle): Tipo de ataque cibernético en el cual, un hacker se interpone entre dos 
+partes que creen estar comunicándose directamente, para espiar, modificar o robar la información que 
+intercambian sin que se den cuenta.
+Operador logístico de tecnologías en salud: Actor que realiza, total o parcialmente, procesos de la 
+cadena de abastecimiento y distribución física de tecnologías en salud. No participa como responsable 
+de las transacciones interoperables de programación y dispensación. Cuando realice dispensación 
+ambulatoria, tendrá la calidad de gestor farmacéutico y deberá cumplir las obligaciones 
+correspondientes a este actor.
+Continuación de la resolución "Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones”
+Validador individual de atención - VIDA: Corresponde a una cadena alfanumérica cifrada, que 
+certifica la recepción y validación RDA que se obtiene cuando este registro de la atención cumple con 
+todas las reglas de validación obligatorias establecidas en la guia de implementación 
+https://vulcano.ihcecol.gov.co/guia/. El mecanismo único de interoperabilidad incluirá el VIDA en la 
+respuesta de los RDA de hospitalización, urgencias y consulta ambulatoria aceptados.
+TLS: Protocolo de Seguridad de la Capa de Transporte (TLS, por sus siglas en inglés) se usa para cifrar 
+comunicaciones en internet y garantizar que los datos enviados no sean vistos ni modificados por 
+terceros.
+
+05 AGODE2026RESOLUCIÓN NÚMER@ 01799 HOJA No. 9
+1.2.3.
+Las actividades mínimas que deberán ejecutarse en esta fase son:
+1.2.4.
+Las actividades minimas que deberán ejecutarse en esta transacción son:
+b) Identificar las prescripciones sujetas a direccionamiento, programación o dispensación.
+c) Garantizar la trazabilidad de las consultas realizadas sobre la información interoperada.
+1.2.5.
+Las actividades mínimas que deberán ejecutarse en esta transacción son:
+c) Registrar las novedades o causales de no direccionamiento, cuando aplique.
+d) Garantizar la disponibilidad y trazabilidad de la información interoperada.
+1.2.6.
+a) Definir las condiciones operativas para la entrega o dispensación de los medicamentos.
+Continuación de la resolución "Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones”
+b) Enviar el RDA en el formato estandarizado, garantizando la seguridad, confidencialidad e 
+integridad de la información.
+c) Recibir y registrar el acuse de recibo emitido por el Ministerio, el cual incluirá un número único de 
+atención VIDA o, en su defecto, la notificación de rechazo de la transacción.
+d) En caso de rechazo, implementar las acciones correctivas necesarias y reenviar la información 
+en cumplimiento de los lineamientos técnicos.
+a) Autenticar y autorizar al profesional de la salud mediante los mecanismos de seguridad y control 
+de accesos definidos.
+b) Realizar la búsqueda del historial de RDA en la plataforma de interoperabilidad, de acuerdo con 
+los criterios establecidos (paciente, fecha, tipo de atención, entre otros).
+c) Visualizar los RDA disponibles en un formato estandarizado que asegure la usabilidad clínica y la 
+pertinencia en la atención.
+d) Garantizar que el acceso y uso de la información se limite estrictamente a los fines asistenciales 
+autorizados por la normativa vigente.
+e) Registrar cada acceso para efectos de auditoría, trazabilidad y control.
+Búsqueda y consulta del Resumen Digital de Atención en Salud - RDA. El RDA 
+estará disponible para los profesionales de la salud durante el proceso asistencial, a 
+través de mecanismos de búsqueda en el historial de atenciones integrados con el 
+Sistema de Información de Historia Clínica Electrónica - HIS del prestador.
+Consulta prescripciones. Mediante la cual las Entidades Promotoras de Salud - EPS, 
+entidades adaptadas y demás actores autorizados consultan las prescripciones de 
+medicamentos registradas en los Resúmenes Digitales de Atención en Salud - RDA 
+por parte de prestadores de servicios de salud.
+Transacción de direccionamiento. Mediante la cual las EPS o entidades adaptadas 
+generan y envían la estructura de intercambio que contiene la respuesta asociada al 
+direccionamiento de la prescripción de medicamentos.
+Transacción de programación. Mediante la cual el gestor farmacéutico, proveedor o 
+prestador que efectivamente programe o dispense responsable genera y envía la 
+estructura de intercambio asociada a la programación de la entrega o dispensación de 
+los medicamentos direccionados.
+a) Consultar las prescripciones de medicamentos interoperadas mediante el mecanismo 
+Interoperabilidad de Historia Clínica Electrónica - IHCE.
+a) Asociar de manera oportuna el gestor farmacéutico, proveedor, prestador, sede o punto de 
+dispensación responsable del suministro.
+b) Generar y transmitir la estructura de intercambio asociada al direccionamiento realizado al 
+mecanismo de Interoperabilidad de Historia Clínica Electrónica - IHCE.
+Las actividades mínimas que deberán ejecutarse en esta transacción son:
+
+05 AGO DE 2026RESOLUCIÓN NÚMERO j. 7 9 9 • HOJA No. 10
+1.2.7.
+Las actividades minimas que deberán ejecutarse en esta transacción son:
+a) Registrar la dispensación o entrega efectiva de los medicamentos.
+b) Registrar las novedades, causales de no entrega o entregas parciales, cuando aplique.
+3.3 Componentes de la arquitectura
+Historial de
+Atenciones en Salud
+Servidor 
+Terminológico
+b) Generar y transmitir la estructura de intercambio asociada a la programación realizada al 
+mecanismo de Interoperabilidad de Historia Clínica Electrónica - IHCE.
+Ministerio de Salud y la 
+Protección Social
+Ministerio de Salud y la 
+Protección Social
+Ministerio de Salud y la 
+Protección Social
+de 
+de 
+MPI
+Responsable
+Ministerio de Salud y la 
+Protección Social
+Transacción de dispensación. Mediante la cual el gestor farmacéutico, proveedor o 
+prestador que efectivamente programe o dispense responsable genera y envía la 
+estructura de intercambio asociada ai suministro efectivo, parcial o no efectivo de los 
+medicamentos prescritos.
+__________ Descripción__________
+Componente cuya función principal será la de 
+proporcionar una plataforma para almacenar, 
+gestionar y compartir los recursos HL7 FHIR 
+que conforman la Interoperabilidad de la 
+Historia Clínica Electrónica IHCE de manera 
+estandarizada, según las especificaciones HL7 
+FHIR que facilitará la interoperabilidad entre los 
+diferentes actores._______________________
+Componente diseñado para garantizar la 
+correcta identificación y vinculación de los 
+documentos clínicos, Resumen Digital de 
+Atención (RDA) de los pacientes. Su función 
+principal es mantener una referencia 
+centralizada y confiable de la información de 
+salud de los pacientes y de la población en 
+general.
+Componente
+Servidor FHIR (Fast 
+Healthcare 
+Interoperability 
+Resources)
+c) Generar y transmitir la estructura de intercambio asociada al resultado de la dispensación al 
+mecanismo de Interoperabilidad de Historia Clínica Electrónica - IHCE
+Gestor 
+identificación 
+personas o 
+(Master Patient Index)
+Continuación de la resolución "Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones”
+c) Gestionar y registrar las novedades asociadas al proceso de programación, incluyendo 
+situaciones de disponibilidad parcial o no disponibilidad inmediata.
+Para la gestión de la identificación unívoca de 
+los pacientes y la población, el Ministerio Salud 
+y la Protección Social integrará la identificación 
+de las personas con fuentes de información 
+oficial de manera actualizada, con el fin de 
+referenciar los Resúmenes Digitales de 
+Atención (RDA) de los pacientes y de la 
+población en general.____________________
+Componente, diseñado para registrar y 
+gestionar todos los eventos clínicos 
+relacionados con los pacientes. Su función 
+principal es proporcionar un seguimiento 
+detallado y organizado de cada atención en 
+salud recibida por los pacientes y la población, 
+facilitando un acceso rápido y preciso a su 
+historial de atenciones.___________________
+Este componente actuará como una aplicación 
+o sistema de software encargado de gestionar 
+y proporcionar acceso a un conjunto 
+estandarizado de terminologías y vocabularios 
+en salud, asegurando la coherencia, precisión y 
+comprensión uniforme de los elementos de 
+datos clínicos intercambiados entre diferentes 
+actores.
+
+O 5 ACODE 2026RESOLUCIÓN NÚMEROQ1799 HOJA No. 11
+de
+Visor RDA
+ETL
+Gestor de RDA
+de
+Continuación de la resolución “Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones”
+API Gateway
+API Manager
+Almacenamiento RDA 
+(Repositorio)
+Catálogos 
+Referencia
+Gestor 
+autenticación, 
+seguridad y auditoría
+Ministerio de Salud y la 
+Protección Social
+Prestador de Servicios 
+de Salud
+Ministerio de Salud y la 
+Protección Social
+Ministerio de Salud y la 
+Protección Social
+Ministerio de Salud y la 
+Protección Social
+Este gestor de autenticación, seguridad y 
+auditoria seguirá igualmente los lineamientos 
+de política digital establecidos por el Ministerio 
+de Tecnologías de la información y las 
+Comunicaciones.________________________
+Componente de la arquitectura de software que 
+actúa como intermediario entre las peticiones 
+realizadas por los prestadores de servicios de 
+salud, y la plataforma del mecanismo de IHCE
+Prestadores de
+servicios de Salud -
+Sistema de
+información
+Hospitalaria de cada 
+prestador.
+El visor RDA se comunicará con el servidor 
+FHIR a través de la API FHIR proporcionada 
+por dicho servidor para recuperar los 
+Resúmenes Digitales de Atención (RDA) que 
+conforman el mecanismo de Interoperabilidad 
+de la Historia Clínica Electrónica IHCE de los 
+pacientes en el formato estandarizado._______
+Componente que permite el almacenamiento 
+de los metadatos asociados a los RDA, así 
+como a los documentos que los conforman.
+Este componente de software debe facilitar la 
+extracción de datos clínicos desde los sistemas 
+de información de Historia Clínica Electrónica 
+de los prestadores de servicios de salud. Este 
+componente transforma los datos extraídos de 
+acuerdo con las especificaciones semánticas 
+definidas en el perfil de integración. 
+Posteriormente, creará el Resumen Digital de 
+Atención (RDA) conforme a las 
+especificaciones de sintaxis establecidas en 
+dicho perfil. Finalmente, de enviar el Resumen 
+Digital de Atención (RDA) al Ministerio de Salud 
+a través de la conexión disponible con la 
+entidad territorial.________________________
+Componente que permite verificar con las 
+fuentes nacionales de información, la 
+consistencia de la información enviada dentro 
+de los Resúmenes Digitales de Atención en 
+Salud -RDA, así como también responder a las 
+solicitudes de búsqueda de las atenciones a los 
+pacientes y los diferentes RDA existentes en el 
+repositorio._____________________________
+Componente que comprende los diferentes 
+servicios tendientes a gestionar los procesos de 
+autenticación de usuarios y sistemas, 
+seguridad informática y realizar los procesos de 
+auditoría y trazabilidad de las diferentes 
+transacciones orientados al cumplimiento de 
+las políticas de tratamiento de datos clínicos y 
+privacidad de la información.
+Ministerio de Salud y la 
+Protección Social y 
+MinTic
+Comprende los servicios de información 
+necesarios para la validación de la integridad 
+de los contenidos del Resumen Digital de 
+Atención en Salud (RDA) con respecto a las 
+fuentes de referencia nacional._____________
+Este componente actuará como una aplicación 
+o sistema de software cuya función principal 
+será la de permitir a los profesionales de la 
+salud acceder y visualizar los RDA que se 
+encuentren en el mecanismo de 
+Interoperabilidad de la Historia Clínica 
+Electrónica (IHCE) de los pacientes de manera 
+eficiente y coherente.
+
+HOJA No. 12
+4 PARTICIPANTES
+MODELO DE OPERACIÓN5.
+5.1 Envío del Resumen Digital de Atención en Salud (RDA)
+5.1.1 Por parte de los Prestadores de Servicios de Salud
+Extracción de los elementos de datos:
+Transformación de los elementos de datos:
+Construcción del Resumen Digital de Atención - RDA:
+Monitoreo del Resumen Digital de Atención - RDA:
+El modelo de operación para la Interoperabilidad de la Historia Clínica Electrónica IHCE, describe los 
+procedimientos y actividades que deben desarrollar cada uno de los actores involucrados para el 
+intercambio de los Resúmenes Digitales de Atención en Salud - RDA y de las estructuras de intercambio 
+asociadas a la gestión farmacéutica. Este modelo garantiza una coordinación efectiva y un intercambio 
+seguro de información clínica a través de un modelo de interoperabilidad robusto y eficiente.
+Los elementos de datos extraídos deberán ser transformados para cumplir con los lineamientos 
+establecidos en la guía de implementación publicada por el Ministerio de Salud y Protección Social 
+https://vulcano.ihcecol.gov.co/quia/. Esta transformación abarca formatos, tipos de datos, longitudes, 
+unidades de medida y terminologías estandarizadas, con el objetivo de garantizar una representación 
+uniforme, precisa y coherente de la información.
+Generar el Resumen Digital de Atención - RDA correspondiente a la atención en salud, siguiendo las 
+especificaciones de sintaxis establecidas en la guía de implementación publicada por el Ministerio de 
+Salud y Protección Social https://vulcano.ihcecol.qov.co/quia/. Este proceso implica la consolidación de 
+los elementos de datos clínicos en el formato de intercambio.
+Transmitir el Resumen Digital de Atención - RDA al Ministerio de Salud y Protección Social, cumpliendo 
+con las especificaciones técnicas establecidas en la guía de implementación publicada por el Ministerio 
+https://vulcano.ihcecol.qov.co/quia/. El envío debe realizarse a través de protocolos de comunicación 
+segura, utilizando las credenciales de acceso otorgadas por el Ministerio, garantizando así la seguridad 
+de la información durante todo el proceso de transmisión.
+Intercambio del Resumen Digital de Atención - RDA con el Ministerio de Salud y Protección 
+Social:
+Realizar el monitoreo de la trazabilidad del Resumen Digital de Atención - RDA para garantizar su 
+correcta recepción en el Ministerio de Salud y Protección Social. Este proceso debe incluir, como 
+mínimo, la verificación de la confirmación de recepción. Adicionalmente, se deben registrar y auditar los
+del Ministerio de Salud. Gestiona los API Key y 
+los certificados digitales.
+Una vez finalizado el evento de salud, se deberá extraer los elementos de datos conforme a las 
+especificaciones establecidas en la guía de implementación publicada por el Ministerio de Salud y 
+Protección Social https://vulcano.ihcecol.qov.co/quia/. Esta extracción se realizará desde los sistemas 
+de información de Historias Clínicas Electrónicas (HCE) de los prestadores de servicios de salud, 
+garantizando que el proceso sea sistemático, seguro y controlado, con el fin de evitar la pérdida de 
+información y asegurar su integridad, completitud y calidad.
+RESOLUCIÓN NÚMERO 01799 O 5 ACODE 2026
+Los servicios de intercambio de información para la Interoperabilidad de Historia Clínica Electrónica en 
+adelante IHCE, así como los servicios interoperables asociados a la gestión farmacéutica, deben ser 
+ejecutados por cada una de los sujetos obligados con el propósito de garantizar la calidad, seguridad y 
+disponibilidad de la información en salud, facilitando un flujo de datos confiable y eficiente entre los 
+diferentes actores. Para ello, es esencial contemplar la designación de un responsable y/o grupo en 
+cada institución, asegurando en todo momento la entrega y el funcionamiento correcto de los servicios 
+de intercambio. El responsable y/o grupo debe garantizar el cumplimiento de las políticas, estándares y 
+lineamientos definidos.
+Continuación de la resolución "Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones”
+
+RESOLUCIÓN NÚMÉ&6Í799 0 5 AGOde 2026
+5.1.2 Por parte del Ministerio de Salud y Protección Social
+Recepción y validación del Resumen Digital de Atención - RDA.
+Almacenar el Resumen Digital de Atención (RDA)
+5.2 Búsqueda de los Resúmenes Digitales de Atención - RDA
+5.2.1 Prestadores de Servicios de Salud
+Construcción de la búsqueda:
+Envío de la búsqueda al Ministerio de Salud y Protección Social:
+Monitoreo de la búsqueda
+5.2.2 Ministerio de Salud y Protección Social
+Recepción y validación búsqueda.
+Continuación de la resolución “Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones"
+eventos de transmisión, identificando posibles fallos, retrasos o inconsistencias, con el fin de 
+implementar acciones correctivas que aseguren la completitud del intercambio de datos.
+El código único de atención deberá ser asociado al evento en salud en los sistemas de información HIS 
+de los prestadores de servicios de salud.
+En caso de identificar inconsistencias o errores en la transmisión, el mecanismo de interoperabilidad 
+generará los mensajes de error correspondientes y los remitirá a los prestadores de servicios de salud, 
+a fin de que realicen los ajustes necesarios y se reenvíe la información de manera corregida y conforme 
+a los lineamientos establecidos.
+Una vez validado, el Ministerio de Salud y Protección Social almacenará el Resumen Digital de Atención 
+- RDA en un repositorio de datos seguro, diseñada para garantizar la alta disponibilidad y accesibilidad 
+de la información.
+Transmitir la solicitud de búsqueda de Resúmenes Digitales de Atención (RDA) al Ministerio de Salud y 
+Protección Social a través del mecanismo de comunicación establecido. Este proceso debe ejecutarse 
+bajo estrictas medidas de seguridad, asegurando el uso de credenciales de acceso oficiales otorgadas 
+por el Ministerio y la aplicación de protocolos de comunicación segura.
+Siguiendo los parámetros de búsqueda establecidos en la guía de implementación publicada por el 
+Ministerio de Salud y Protección Social https://vulcano.ihcecol.qov.co/quia/. se debe ejecutar una 
+operación de búsqueda de los Resúmenes Digitales de Atención (RDA).
+Realizar el monitoreo de la búsqueda del Resumen Digital de Atención - RDA para garantizar su correcta 
+recepción en el Ministerio de Salud y Protección Social.
+El Ministerio de Salud y Protección Social será responsable de recibir los Resúmenes Digitales de 
+Atención - RDA enviados por actores involucrados. Una vez recibidos, se llevará a cabo un proceso de 
+validación para garantizar que cumplen con las especificaciones de sintaxis y semántica definidas en la 
+guía de implementación publicada por el Ministerio https://vulcano.ihcecol.qov.co/quia/. Esta validación 
+incluirá la verificación de la integridad y coherencia de los elementos de datos, así como la autenticidad 
+y seguridad de la transmisión. En caso de éxito de la recepción y validación del RDA el Ministerio enviará 
+un mensaje de confirmación junto con un numero único de atención (VIDA).
+En caso de identificar inconsistencias o errores, el Ministerio de Salud y Protección Social generará los 
+mensajes de error correspondientes y los remitirá a los prestadores de servicios de salud, a fin de
+El Ministerio de Salud y Protección Social será responsable de recibir la búsqueda de los Resúmenes 
+Digitales de Atención (RDA) del paciente enviados por los prestadores de servicios de salud. Una vez 
+recibido, el Ministerio de Salud y Protección Social procederá a validar la búsqueda para asegurar que 
+cumple con las especificaciones de la guía de implementación publicada por el Ministerio de Salud y 
+Protección Social https://vulcano.ihcecol.qov.co/quia/. Está validación incluye la verificación, la 
+autenticidad y seguridad de la transmisión.
+HOJA No. 13
+
+RESOLUCIÓN NÚMEFOdO 1799 HOJA No. 14
+Buscar Resúmenes Digitales de Atención - RDA
+Retornar los Resúmenes Digitales de Atención (RDA)
+5.3 Consulta de las prescripciones de medicamentos:
+5.4 Gestión Direccionamiento
+Generación de la estructura de intercambio de direccionamiento5.4.1
+5.4.2 Intercambio de la estructura de direccionamiento
+5.4.3 Monitoreo de la estructura de direccionamiento
+5.5 Gestión Programación
+Generación de la estructura de intercambio de programación5.5.1
+5.5.2 Intercambio de la estructura de programación
+5.5.3 Monitoreo de la estructura de programación
+Una vez interoperado el Resumen Digital de Atención - RDA por parte del prestador de servicios de 
+salud, las Entidades Promotoras de Salud - EPS y entidades adaptadas deberán consultar las 
+prescripciones de medicamentos disponibles a través del mecanismo de Interoperabilidad de la 
+Historia Clínica Electrónica - IHCE, conforme a las especificaciones establecidas en el manual de 
+operación del Ministerio de Salud y Protección Social.
+Las Entidades Promotoras de Salud - EPS y entidades adaptadas deberán generar la estructura de 
+intercambio correspondiente al direccionamiento de los medicamentos prescritos, conforme a las 
+especificaciones técnicas definidas en la guía de implementación publicada por el Ministerio de Salud 
+y Protección Social https://vulcano.ihcecol.gov.co/guia/.
+Las Entidades Promotoras de Salud - EPS y entidades adaptadas deberán transmitir la estructura de 
+intercambio de direccionamiento al mecanismo de Interoperabilidad de la Historia Clínica Electrónica 
+- IHCE, de conformidad con las especificaciones técnicas definidas en el manual de operaciones 
+publicado por el Ministerio de Salud y Protección Social.
+El Ministerio de Salud y Protección Social direccionará al prestador de servicios de salud los Resúmenes 
+Digitales de Atención - RDA a través de la plataforma de interoperabilidad.
+Los gestores farmacéuticos, proveedores o prestadores responsables de la dispensación deberán 
+transmitir la estructura de intercambio de programación mediante el mecanismo de Interoperabilidad 
+de la Historia Clínica Electrónica - IHCE, de conformidad con las especificaciones técnicas definidas 
+en el manual de operaciones publicado por el Ministerio de Salud y Protección Social.
+Los gestores farmacéuticos, proveedores o prestadores responsables de la dispensación deberán 
+generar la estructura de intercambio correspondiente a la programación de la entrega o dispensación 
+de medicamentos, conforme a las especificaciones técnicas definidas en la guia de implementación 
+publicada por el Ministerio de Salud y Protección Social https://vulcano.ihcecol.gov.co/guia/.
+O 5 ACO DE 2026
+Las Entidades Promotoras de Salud - EPS y entidades adaptadas deberán realizar el monitoreo de la 
+trazabilidad de las estructuras de intercambio de direccionamiento transmitidas, verificando su 
+correcta recepción y gestionando las novedades, inconsistencias o fallas identificadas durante el 
+proceso de interoperabilidad.
+realizar los ajustes necesarios y se reenvíe la información de manera corregida y conforme a los 
+lineamientos establecidos.
+El Ministerio de Salud y Protección Social buscará el Historial de Atenciones en Salud para identificar y 
+acceder a los Resúmenes Digitales de Atención - RDA asociados con el paciente. Esta operación 
+devolverá un recurso contenedor el cual incluirá todas las instancias de los documentos clínicos 
+relacionados con el paciente.
+Continuación de la resolución “Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones"
+
+O 5 ACODE 2026RESOLUCIÓN NÚMERO í 7 9 9 HOJA No. 15
+5.6 Gestión Dispensación
+5.6.1 Generación de la estructura de intercambio de dispensación
+Intercambio de la estructura de dispensación5.6.2
+5.6.3 Monitoreo de las estructuras de programación y dispensación
+5.7 Por parte del Ministerio de Salud y Protección Social Gestión Farmacéutica
+5.7.1 Recepción de las estructuras de intercambio interoperables
+5.7.2 Validación de las estructuras de intercambio
+5.7.3 Generación de respuestas de interoperabilidad
+5.7.4 Monitoreo y trazabilidad de las transacciones interoperables:
+6 ARQUITECTURA DE SEGURIDAD
+Continuación de la resolución “Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones”
+Una vez realizada la dispensación o entrega de los medicamentos prescritos, los gestores 
+farmacéuticos, proveedores o prestadores responsables deberán generar la estructura de intercambio 
+correspondiente al resultado del suministro efectuado, conforme a las especificaciones técnicas 
+definidas en la guía de implementación publicada por el Ministerio de Salud y Protección Social 
+https://vulcano.ihcecol.gov.co/guia/.
+A través del mecanismo de Interoperabilidad de la Historia Clínica Electrónica - IHCE se ejecutarán 
+las validaciones de sintaxis, semántica y reglas de negocio definidas en la guía de implementación 
+publicada por el Ministerio de Salud y Protección Social https://vulcano.ihcecol.gov.co/guia/, sobre las 
+estructuras de intercambio recibidas, verificando el cumplimiento de las especificaciones técnicas, 
+consistencia, integridad y coherencia de la información interoperada frente a los procesos -de 
+direccionamiento, programación y dispensación de medicamentos.
+Los gestores farmacéuticos, proveedores o prestadores responsables de la dispensación deberán 
+realizar el monitoreo de la trazabilidad de las estructuras de intercambio de programación transmitidas, 
+verificando su correcta recepción y gestionando las novedades, inconsistencias o fallas identificadas 
+durante el proceso de interoperabilidad.
+El mecanismo de Interoperabilidad de la Historia Clínica Electrónica - IHCE generará las respuestas 
+asociadas al procesamiento de las estructuras de intercambio recibidas, incluyendo confirmaciones 
+de recepción, aceptación, rechazo o notificación de inconsistencias, conforme a los lineamientos 
+técnicos definidos para la interoperabilidad.
+Los gestores farmacéuticos, proveedores o prestadores responsables deberán transmitir la estructura 
+de intercambio de dispensación mediante el mecanismo de Interoperabilidad de la Historia Clínica 
+Electrónica - IHCE, de conformidad con las especificaciones técnicas definidas en el manual de 
+operaciones publicado por el Ministerio de Salud y Protección Social.
+El Ministerio de Salud y Protección Social, a través del mecanismo de Interoperabilidad de la Historia 
+Clínica Electrónica - IHCE, realizará la recepción de las estructuras de intercambio asociadas a los 
+procesos de direccionamiento, programación y dispensación de medicamentos.
+Los gestores farmacéuticos, proveedores o prestadores responsables deberán realizar el monitoreo 
+de la trazabilidad de las estructuras de intercambio de dispensación transmitidas, verificando su 
+correcta recepción y gestionando las novedades, inconsistencias o fallas identificadas durante el 
+proceso de interoperabilidad.
+La presente arquitectura de seguridad establece los lineamientos técnicos obligatorios para garantizar 
+la privacidad, integridad, confidencialidad, autenticidad y disponibilidad de la información durante
+El Ministerio de Salud y Protección Social, a través del mecanismo de Interoperabilidad de la Historia 
+Clínica Electrónica - IHCE, realizará el monitoreo de las transacciones interoperables asociadas a la 
+gestión farmacéutica, garantizando la trazabilidad de las operaciones ejecutadas, la disponibilidad de 
+los servicios interoperables y el seguimiento de novedades o fallas que puedan afectar la continuidad 
+del intercambio de información.
+
+HOJA No. 16
+de datos.
+6.2. Autenticación.
+Los sujetos obligados deberán:
+6.3. Control de acceso.
+Los sujetos obligados deberán:
+6.4. Encriptación de datos.
+Los sujetos obligados deberán:
+6.5. Monitoreo de operaciones o transacciones.
+Los sujetos obligados y el Ministerio deberán:
+6.6. Disponibilidad.
+El Ministerio de Salud y Protección Social deberá:
+a) Implementar un plan de continuidad del negocio y recuperación ante desastres (BCP/DRP) para los 
+componentes tecnológicos habilitados.
+RESOLUCIÓN NÚMERcOOí 799 0 5 AGODE 2026
+6.1. Seguridad en la mensajería y transmisión
+Los sujetos obligados y el Ministerio de Salud y Protección Social deberán:
+los procesos de interoperabilidad de la Historia Clínica Electrónica - IHCE, en cumplimiento de la Ley 
+Estatutaria 1581 de 2012 y demás normas aplicables.
+a) Implementar autenticación a dos niveles: i) autenticación de los sistemas frente a las APIs expuestas, 
+mediante tokens con políticas de expiración y renovación, y ii) autenticación de los usuarios internos de 
+sus sistemas y aplicaciones.
+b) Garantizar la identificación inequívoca y segura de usuarios y sistemas, conforme a estándares 
+internacionales y a los lineamientos definidos por el Ministerio.
+c) Asegurar que los procesos de autenticación incluyan mecanismos como API Key + Subscription Key 
+u otros esquemas de autogestión de certificados y tokens de autenticación.
+d) El Ministerio deberá administrar la emisión, validación y control de los tokens de acceso a las APIs, 
+tanto para los sujetos obligados como para el talento humano en salud.
+a) Proteger los datos en tránsito y en reposo mediante algoritmos reconocidos internacionalmente, como 
+AES-256 o superiores.
+b) Asegurar la confidencialidad de la información almacenada en bases de datos, servidores y 
+repositorios locales.
+c) Implementar prácticas seguras para la gestión de claves criptográficas, incluyendo almacenamiento, 
+rotación periódica y revocación.
+a) Utilizar protocolos HTTPS con cifrado TLS versión 1.3 o superior en todas las comunicaciones.
+b) Implementar algoritmos criptográficos robustos, certificados digitales válidos y cifrado extremo a
+extremo en cada transacción.
+c) Adoptar mecanismos adicionales de seguridad, tales como validación estricta de certificados, 
+protección contra ataques MITM y sistemas automáticos de revocación y renovación de certificados.
+Continuación de la resolución “Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones"
+a) Implementar mecanismos de monitoreo en tiempo real de las transacciones relacionadas con la 
+interoperabilidad.
+b) Mantener registros de auditoría completos de las operaciones, asegurando trazabilidad y 
+disponibilidad para inspección y control.
+c) Reportar al Ministerio y a las autoridades competentes cualquier incidente de seguridad que 
+comprometa la información de salud.
+a) Implementar controles basados en roles y permisos (RBAC) que limiten el acceso únicamente a 
+personas y sistemas autorizados.
+b) Documentar y mantener actualizados dichos controles en sus sistemas de información.
+c) El Ministerio deberá aplicar las validaciones necesarias para autorizar el acceso a las APIs expuestas 
+en el mecanismo de interoperabilidad.
+
+RESOLUCIÓN NÚMEROQ 01799 05 ACODE 2026 HOJA No. 17
+6.7. Componentes de seguridad informática de los sujetos obligados.
+Los sujetos obligados deberán:
+7.1 Resumen Digital de Atención - RDA de Pacientes
+Estructura de RDA de pacientes:
+Continuación de la resolución “Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones"
+a) Garantizar conectividad segura hacia el Ministerio a través de los mecanismos dispuestos.
+b) Disponer de infraestructura de seguridad informática local que proteja la información clínica y su 
+transmisión.
+c) Contar con un sistema de información para la gestión de historias clínicas que integre autenticación, 
+control de accesos, protección de datos personales, generación y transmisión de los RDA, así como su 
+visualización.
+b) Asegurar redundancia, respaldo periódico y alta disponibilidad de los servicios críticos.
+c) Establecer protocolos de contingencia para garantizar la continuidad del acceso a los RDA en 
+situaciones de falla.
+El Ministerio de Salud y Protección Social podrá complementar, adoptar o ajustar los requisitos y 
+medidas de seguridad aquí establecidas, publicando los lineamientos técnicos actualizados en el portal 
+oficial del mecanismo de interoperabilidad.
+7 ESTRUCTURAS DE LOS RESÚMENES DIGITAL DE ATENCIÓN EN SALUD - RDA Y DE LA 
+GESTIÓN FARMACÉUTICA
+Resumen Digital de Atención en Salud - Paciente: Los elementos de dato del anexo técnico de la 
+Resolución 866 de 2021 se han dispuesto en un orden lógico desde el punto de vista asistencial.
+Este RDA se debe generar y transmitir al mecanismo de interoperabilidad por parte de los prestadores 
+de salud una vez se realice un evento de atención clínica, con los contenidos establecidos a 
+continuación y las especificaciones de sintaxis y semántica establecidas en la versión de la Guía de 
+Implementación, publicada por Ministerio de Salud y Protección Social 
+https://vulcano.ihcecol.qov.co/quia/.
+
+HOJA No. _18
+Datos del RDA Fuente del dato: valores permitidos Observaciones
+16
+15.2
+2.1
+2.2
+3.1
+3.2 Segundo apellido
+3.3 Primer Nombre
+3.4 Segundo nombre
+4
+1.1 ISO
+1.2 ISO
+5 Sexo biológico
+6 Identidad de género
+13.1 Etnia
+13.2 Comunidad étnica
+Código del país de 
+la nacionalidad
+Fecha y hora de 
+nacimiento
+Nombre del país de 
+nacionalidad
+de
+de
+Nombre asignado al administrado del plan de 
+beneficios en el SGSSS
+Estándar 
+3166-1
+Registro Especial 
+de Prestadores de 
+Servicios de Salud 
+REPS
+Registro Especial 
+de Prestadores de 
+Servicios de Salud 
+REPS
+Tipo de identificación según fuente Maestro - 
+persona
+Según el número de identificación del paciente 
+atendido
+Tipo de documento 
+de identificación
+Número 
+documento 
+identificación
+Primer apellido Primer apellido que aparece en el documento 
+de identidad____________________________
+Segundo apellido que aparece en el documento 
+de identidad____________________________
+Primer nombre que aparece en el documento 
+de identidad_____
+Segundo nombre que aparece en el documento 
+de identidad____________________________
+Fecha de nacimiento del paciente atendido
+https://web.s¡spro.qov.co/V\/ebPublico/Consulta
+s/ConsultarDetalleReferenc¡aBasica.aspx?Cod 
+e=Pais
+https://web.sispro.qov.co/WebPublico/Consulta
+s/ConsultarDetalleReferenc¡aBasica.aspx?Cod 
+e=Pais
+https://web.sispro.qov.co/WebPublico/Consulta
+s/ConsultarDetalleReferenc¡aBasica.aspx?Cod
+e=Sexo_______________________________
+https://web.sispro.qov.co/WebPublico/Consulta
+s/ConsultarDetalleReferenc¡aBasica.aspx?Cod
+e=MDECIdentidadGenero
+https://web.sispro.qov.co/WebPublico/Consulta 
+s/ConsultarDetalleReferenc¡aBasica.aspx?Cod 
+e=Etnia________________________________
+Texto Alfanumérico
+https://web.sispro.qov.co/WebPublico/Consulta
+s/ConsultarDetalleReferenc¡aBasica.aspx?Cod
+e=IPSCodHab¡litac¡on
+- Paciente
+TsTi https://www.adres.qov.co/entidades- 
+territoriales/bdua/Entidades%20SGSSS/ENTI
+PAPES SGSSS 2022 ADRES.pdf
+Código asignado al 
+administrador del 
+plan de beneficios 
+en el SGSSS______
+Nombre asignado al 
+administrador del 
+plan de beneficios 
+en el SGSSS______
+Identificación del Paciente
+RESOLUCIÓN NÚMERO 01799 O 5 ACO DE 2026
+No.
+elemento 
+dato 
+Resolución
+866 de 2021
+Identificación del Prestador de Servicios de Salud
+https://web.sispro.qov.co/WebPublico/Consulta
+s/ConsultarPetalleReferenciaBasica.aspx?Cod
+e=IPSCodHab¡l¡tacion
+Continuación de la resolución "Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones"
+Fuente Maestro 
+Persona Ministerio 
+de Salud y 
+Protección Social. 
+Estas variables se 
+utilizan para 
+calcula de la edad 
+del paciente.
+Estándar 
+3166-1
+Fuente Maestro 
+Persona Ministerio 
+de Salud y 
+Protección Social
+Código del
+prestador de
+servicios de salud 
+que realiza la 
+atención._________
+Código de la sede 
+del prestador de 
+servicios de salud 
+que realiza la 
+atención.______________
+Entidad responsable por el plan de beneficios en salud Resumen Digital Básico dé Atención en Salud
+
+RESOLUCIÓN NÚMERCQ 01799 05 ACODE 2026 HOJA No. 19
+10 de
+11.1
+11.2 Nombre del país de residencia habitual
+12.1
+12.2
+14
+Datos Resumen Digital Básico de Atención en Salud - Paciente
+17
+43 Fecha y hora de finalización de la atención
+18.1
+18.2 Grupo de servicios
+47.1
+47.2 del
+47.3 Alfanumérico
+Alfanumérico
+47.4
+Listado de Medicamentos como antecedentes farmacológicos
+Continuación de la resolución “Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones”
+Categoría 
+discapacidad
+Fecha y hora de 
+inicio de la atención
+Fecha y hora de inicio de la atención en el 
+servicio
+Valor permitido según Resolución 866 de 2021
+01: Padres
+02: Hermanos
+03: Tíos
+04: Abuelos
+Nombre del
+municipio de
+residencia habitual 
+Zona territorial de 
+residencia
+https://web.sispro.qov.co/WebPublico/Consulta
+s/ConsultarDetalleReferenciaBasica.aspx?Cod
+e=CateqoriaDiscapacidad
+Valores permitidos según Resolución 866 de 
+2021
+01: Intramural
+02: Extramural unidad móvil
+03: Extramural domiciliaria.
+04: Extramural jornada de salud.
+05: Extramural (atención pre hospitalaria o 
+transporte asistencial)
+06: Telemedicina interactiva
+07: Telemedicina no interactiva.
+08: Telemedicina - Telexperticia
+09: Telemedicina - Telemonitoreo__________
+Valor permitido según Resolución 866 de 2021 
+01: Consulta Externa
+02: Apoyo diagnóstico y complementación 
+terapeútica
+03: Internación
+04: Quirúrgico
+05: Atención inmediata
+https://web.sispro.qov.co/WebPublico/Consulta
+s/ConsultarDetalleReferenciaBasica.aspx?Cod 
+e^Pais
+https://web.sispro.qov.coAA/ebPublico/Consulta
+s/ConsultarDetalleReferenciaBasíca.aspx?Cod 
+e=Municipio
+Nombre del municipio de residencia habitual 
+del paciente que recibió la atención en salud 
+durante la atención_______________________
+https://web.sispro.qov.coAA/ebPublico/Consulta 
+s/ConsultarDetalleReferenc¡aBasica.aspx?Cod 
+e=Zona
+Valor permitido según Resolución 866 de 2021 
+01: Medicamento 
+02: Alimento
+03: Sustancia del ambiente
+04: Sustancia que entran en contacto con la 
+piel
+05. Picadura de insectos
+06: Otra_______________________________
+Alfanumérico
+Antecedentes de salud
+Código que indica si 
+la persona tiene 
+alergia
+Nombre 
+alérgeno _
+Condición de salud 
+Familiar CIE-10 
+Condición de salud 
+Familiar CIE-11 
+Parentesco del 
+antecedente familiar
+Nombre País de 
+residencia habitual
+Código del
+municipio de
+residencia habitual
+Código País de 
+residencia habitual
+Fecha y hora de 
+finalización de la 
+atención_________
+Modalidad de 
+realización de la 
+tecnología de salud
+
+O 5 ACODE 2026RESOLUCIÓN númerQ 01799 HOJA No. 20
+26
+37.2 del
+37.3
+Opcional
+https://transicioncie11 .sispro.qov.co/ Opcional
+49.1
+49.2
+NOTAS SOBRE ELEMENTOS DE DATO RDA DE PACIENTES
+Identificación del Paciente
+Antecedentes de salud
+7.2 Resumen Digital de Atención - RDA de hospitalización o internación
+Identidad de género. Elemento de dato 6: La información de identidad de género es un dato opcional 
+que será diligenciado a criterio del profesional de la salud de acuerdo con el escenario de atención.
+Continuación de la resolución “Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones”
+Descripción común 
+del medicamento
+de 
+de 
+del
+Comunidad étnica. Elemento de dato 13.2: Diligenciar con el nombre de la comunidad étnica a la que 
+pertenece el paciente, cuando aplique.
+Al momento de la publicación del presente manual, el plazo para la transición de la codificación de 
+diagnósticos de CIE 10 a CIE 11 ha sido ampliado. Una vez el nuevo período entre en vigor, el Ministerio 
+de Salud informará sobre los ajustes requeridos para el envío adecuado de los elementos de dato que 
+hacen referencia al uso de los códigos mencionados.
+Fecha y hora de nacimiento. Elemento de dato 4: La hora de nacimiento es un dato opcional cuya • 
+relevancia aplica en recién nacidos phmordialmente, siempre que se cuente con este, por lo que no es 
+obligatorio su diligenciamiento
+Diagnósticos
+371
+Valores permitidos según Resolución 866 de 
+2021
+01: Impresión diagnóstica
+02: Confirmado nuevo
+03: Confirmado repetido_________________
+https://trans¡cioncie 11 .sispro.qov.co/
+https://web.sispro.qov.co/WebPublico/Consulta 
+s/ConsultarDetalleReferenc¡aBasica.aspx?Cod 
+e=CIE10_______________________________
+Nombre del diagnostico principal al egreso CIE- 
+10
+https://web.sispro.gov.co/THS/Cliente/Consult 
+asPublicas/ConsultaPublicaDeTHxIdentificacio 
+n.aspx
+https://web.sispro.qov.co/THS/Cliente/Consult 
+asPublicas/ConsultaPublicaDeTHxIdentificacio 
+n.aspx
+Código diagnóstico 
+principal al egreso 
+CIE-10 
+Nombre 
+Diagnóstico 
+principal de egreso 
+CIE-10___________
+Tipo de diagnóstico 
+principal al egreso 
+CIE-10
+https://web.sispro.qov.co/WebPublico/Consulta
+s/ConsultarDetalleReferenciaBasica.aspx?Cod 
+e=DCI
+Este RDA se debe generar y transmitir al mecanismo de interoperabilidad por parte de los prestadores 
+de salud una vez se realice el alta del paciente con los contenidos establecidos a continuación y las 
+especificaciones de sintaxis y semántica establecidas en la Guía de Implementación 
+https://vulcano.ihcecol.gov.co/quia/ publicada por Ministerio de Salud y Protección Social.
+Código del 
+diagnóstico principal 
+_____________de ingreso CIE-11
+Término del 
+diagnóstico principal 
+_____________de ingreso CIE -11 
+Profesional de salud
+Tipo Documento del 
+talento humano en 
+salud que realiza el 
+egreso o la atención 
+en salud 
+Número 
+documento 
+identificación 
+talento humano en 
+salud que realizó el 
+egreso o atención 
+en salud
+Código que indica si la persona tiene alergias. Elemento de Dato 47.1: Cuando el paciente no 
+presente alergias conocidas, este dato debe venir vacío.
+
+HOJA No. 21
+Estructura de RDA de hospitalización:
+RDA Hospitalización / RDA Internación
+Fuente del dato: valores permitidos Observaciones
+16
+15.1
+15.2
+2.2
+3.1 Primer apellido
+3.2 Segundo apellido
+3.3 Primer Nombre
+3.4 Segundo nombre
+4
+1.1
+1.2 Estándar ISO 3166-1
+5 Sexo biológico
+Continuación de la resolución “Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones"
+Datos del RDA 
+Hospitalización
+Código del país de 
+la nacionalidad
+Nombre del país de 
+nacionalidad
+de 
+de
+Nombre asignado al administrado del 
+plan de beneficios en el SGSSS
+Maestro 
+de 
+Social.
+i utiliza 
+edad del
+Tipo de identificación según fuente 
+Maestro - persona________________
+Según el número de identificación del 
+paciente atendido en hospitalización / 
+internación
+https://web.sispro.qov.co/WebPublico/ 
+Consultas/ConsultarDetalleReferenci 
+aBas¡ca.aspx?Code=IPSCodHabilitac 
+ion
+https://web.sispro.qov.co/WebPublico/ 
+Consultas/ConsultarDetalleReferenci 
+aBas¡ca.aspx?Code=Pais
+https://web.sispro.qov.co/WebPublico/ 
+Consultas/ConsultarPetalleReferencí 
+aBasica.aspx?Code=Pais
+https://web.sispro.qov.co/WebPublico/ 
+Consultas/ConsultarPetalleReferenci 
+aBas¡ca.aspx?Code=Sexo
+Valores permitidos según Resolución 
+866 de 2021 - Guía de
+implementación
+RESOLUCIÓN NÚMERCÜ 01799 05 ACO DE 2026
+Fuente 
+Ministerio < 
+Protección 
+variable se 
+calcula de la 
+paciente._____
+Estándar ISO 3166-1
+Tipo de documento 
+de identificación 
+Número 
+documento 
+identificación
+Los elementos de dato del anexo técnico de la Resolución 866 de 2021 se han dispuesto en un orden lógico 
+desde el punto de vista asistencial. Se hacen observaciones para cada uno de ellos de acuerdo con el Grupo 
+de servicio de atención (Internación)___________________
+No. 
+elemento 
+dato 
+Resolución 
+866 de 2021
+Persona
+Salud y
+Esta 
+para
+Primer apellido que aparece en el 
+documento de identidad____________
+Segundo apellido que aparece en el 
+documento de identidad____________
+Primer nombre que aparece en. el 
+documento de identidad____________
+Segundo nombre que aparece en el 
+documento de identidad____________
+Fecha de nacimiento del paciente 
+atendido en hospitalización / 
+internación
+Registro Especial de
+Prestadores de Servicios de 
+Salud REPS
+Código del
+prestador de
+servicios de salud 
+que realiza la 
+atención 
+(Hospitalización/ 
+Internación)_______
+Código de la sede 
+del prestador de 
+servicios de salud 
+que realiza la 
+atención 
+(Hospitalización/ 
+Internación)_______
+Entidad responsable por el plan de beneficios en salud (Hospitalización / Internación)
+Código asignado al 
+administrador del 
+plan de beneficios 
+en el SGSSS______
+Nombre asignado al 
+administrador del 
+plan de beneficios 
+en el SGSSS
+Identificación del Paciente
+27 Fuente Maestro Persona
+Ministerio de Salud y
+Protección Social
+Identificación del Prestador de Servicios de Salud
+https://web.sispro.qov.co/WebPublico/ 
+Consultas/ConsultarDetalleReferenci 
+aBas¡ca.aspx?Code=IPSCodHabilitac 
+ion
+Registro Especial de
+Prestadores de Servicios de 
+Salud REPS
+Fecha y hora de 
+nacimiento
+
+RESOLUCIÓN NÚMERO* 01799 05 ACO DE 2026 HOJA No. 22
+6 Identidad de género
+13.1 Etnia
+13.2
+10 de
+7.1 de la
+7.2 de la
+11.1
+11.2 de residencia
+12.1
+12.2
+14
+17
+43
+Código 
+ocupación
+Nombre 
+ocupación
+Código del
+municipio de
+residencia habitual
+Zona territorial de 
+residencia
+Nombre del
+municipio de
+residencia habitual
+Fecha y 
+finalización 
+atención
+Fecha y hora de 
+inicio de la atención
+Comunidad étnica
+Categoría 
+discapacidad
+https://web.sispro.qov.co/WebPublico/ 
+Consultas/ConsultarDetalleReferenci 
+aBas¡ca.aspx?Code=MDECIdentidad 
+Genero
+https://web.sispro.qov.co/WebPublico/ 
+Consultas/ConsultarDetalleReferenci 
+aBasica.aspx?Code=Etnia
+Texto alfanumérico
+https://web.sispro.qov.co/WebPublico/ 
+Consultas/ConsultarPetalleReferenci 
+aBas¡ca.aspx?Code=CateqoriaPiscap 
+acidad
+https://web.sispro.qov.co/WebPublico/
+Consultas/ConsultarPetalleReferenci
+aBasica.aspx?Code=Munic¡p¡o
+https://clasificaciones.dane.qov.co/cu 
+oc/cuoc descripción
+https://web.sispro.qov.co/WebPublico/
+Consultas/ConsultarPetalleReferenci
+aBas¡ca.aspx?Code=PSRGOCUPACI 
+ON
+https://www.dane.qov.co/in 
+dex.php/sistema- 
+estadistico-nacional- 
+sen/normas-y-
+estandares/nomenclaturas- 
+Yc
+clasificaciones/clasificacion 
+es/clasificacion-unica-de- 
+ocupaciones-para- 
+colombia-cuoc
+https://www.dane.qov.co/fil 
+es/sen/nomenclatura/cuoc/ 
+documento-clasificacion- 
+unica-ocupaciones- 
+colombia-CUOC-2Q24.pdf 
+https://www.dane.qov.co/in 
+dex.php/sistema- 
+estadistico-nacional- 
+sen/normas-v-
+estandares/nomenclaturas- 
+Yz 
+clasificaciones/clasificacion 
+es/clasificacion-unica-de- 
+ocupaciones-para- 
+colombia-cuoc 
+https://www.dane.qov.co/fil 
+es/sen/nomenclatura/cuoc/ 
+documento-clasificacion- 
+unica-ocupaciones-
+colombia-CUOC-2Q24.pdf
+"https://clasificaciones.dane.qov.co/cu 
+oc/cuoc descripción
+https://web.sispro.qov.co/WebPublico/ 
+Consultas/ConsultarDetalleReferenci 
+aBas¡ca.aspx?Code=PSRGOCUPACI 
+ON"
+Datos de la Hospitalización / Internación
+Fecha y hora de inicio de la atención 
+en el servicio de hospitalización / 
+internación______________________
+Fecha y hora de finalización de la 
+atención en el servicio de 
+hospitalización / internación. En caso 
+de muerte fecha y hora del deceso.
+Nombre del municipio de residencia 
+habitual del paciente que recibió la 
+atención en salud durante la 
+hospitalización / internación
+https://web.sispro.qov.co/WebPublico/ 
+Consultas/ConsultarDetalleReferenci 
+aBas¡ca.aspx?Code=Zona
+hora de
+de la
+Nombre País de 
+residencia habitual
+Continuación de la resolución “Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones”
+https://web.sispro.qov.co/WebPublico/
+Consultas/ConsultarPetalleReferenci
+aBasica.aspx?Code=Pais
+Nombre del país 
+habitual
+Código País de 
+residencia habitual
+
+RESOLUCIÓN NÚMER& 01 79 9 05 AGO DE 2026 HOJA No. 23
+18.1
+18.2 Grupo de servicios
+19
+20
+21
+23.1
+23.2
+23.3
+23.1 Opcional
+23.1 https://transicioncie11 .sispro.qov.co/ Opcional
+47.1
+47.2 del
+47.3
+https ://transicioncie 11 .sispro.qov.co/ Opcional
+Continuación de la resolución “Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones”
+Vía de ingreso del 
+usuario al servicio 
+de salud
+Causa que motiva la 
+atención
+Condición de salud 
+Familiar CIE-11
+Entorno donde se 
+realiza la atención
+Valores permitidos según Resolución 
+866 de 2021 
+01: Hogar 
+02: Comunitario 
+03: Escolar 
+04: Laboral 
+05: Institucional"
+Código del
+diagnóstico principal 
+de ingreso CIE-10
+Nombre del 
+diagnóstico principal 
+de ingreso CIE -10
+Tipo de diagnóstico 
+principal de ingreso
+CIE-10
+Código del 
+diagnóstico principal 
+de ingreso CIE-11 
+Término del 
+diagnóstico principal 
+de ingreso CIE -11
+Antecedentes de salud
+Código que indica 
+que si la persona 
+tiene alergia
+Nombre 
+alérgeno ________
+Condición de salud 
+Familiar CIE-10
+Valores permitidos según Resolución 
+866 de 2021 
+01: Medicamento 
+02: Alimento
+03: Sustancia del ambiente
+04: Sustancia que entran en contacto 
+con la piel
+05: Picadura de insectos
+06: Otra________________________
+alfanumérico
+https://web.sispro.qov.co/WebPublico/ 
+Consultas/ConsultarDetalleReferenci 
+aBas¡ca.aspx?Code=V¡alnqresoUsua 
+rio_____________________________
+https://web.sispro.qov.co/WebPublico/ 
+Consultas/ConsultarDetalleReferenci 
+aBasica.aspx?Code=RIPSCausaExte 
+rna____________________________
+https://web.sispro.qov.co/WebPublico/ 
+Consultas/ConsultarPetalleReferenci 
+aBas¡ca.aspx?Code=CIE10
+https://web.sispro.qov.co/WebPublico/
+Consultas/ConsultarOetalleReferenci
+aBas¡ca.aspx?Code=CIE10
+https://web.sispro.qov.co/WebPublico/
+Consultas/ConsultarPetalleReferenci
+aBasica.aspx?Code=CIE10
+https://transicioncie11 .sispro.qov.co/
+https://web.sispro.qov.co/WebPublico/
+Consultas/ConsultarPetalleReferenci
+aBas¡ca.aspx?Code=CIE10
+Valores permitidos según Resolución 
+866 de 2021 
+01: Intramural 
+02: Extramural unidad móvil 
+03: Extramural domiciliaria.
+04: Extramural jornada de salud.
+05: Extramural (atención 
+prehospitalaria o transporte 
+asistencial)
+06: Telemedicina interactiva 
+07: Telemedicina no interactiva.
+08: Telemedicina - Telexperticia
+09: Telemedicina - Telemonitoreo
+Valores permitidos según Resolución 
+866 de 2021
+03: Internación
+Modalidad de 
+realización de la 
+tecnología en salud
+
+RESOLUCIÓN NÚMERO 1799 HOJA No. 24
+47.4
+48.1
+48.2
+01: Procedimiento en salud
+24.2 del
+la
+24.3 del
+la
+25
+33 del
+36.1
+36.2
+39.1
+39.2 alfanumérico
+39.3 alfanumérico
+39.4 alfanumérico
+Continuación de la resolución “Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones”
+Listado de Medicamentos administrados durante la atención en hospitalización / internación 
+(Tecnologías en Salud)
+Parentesco del 
+antecedente familiar
+Tipo de factor de 
+riesgo
+del 
+para
+de 
+del
+Fecha de resultados de la valoración 
+del resultado
+Nombre del procedimiento según 
+CUPS
+Valores permitidos según Resolución 
+866 de 2021 
+01: Padres 
+02: Hermanos 
+03: Tíos 
+04: Abuelos
+Valores permitidos según Resolución 
+866 de 2021 
+01: Químicos 
+02: Físicos
+03: Biomecánicos
+04: Psicosociales
+05: Biológicos
+06: Otro________________________
+alfanumérico
+https://web.sispro.qov.co/THS/Cliente
+/ConsultasPublicas/ConsultaPublicaD
+eTHxIdentificacion.aspx
+https://web.sispro.qov.co/THS/Cliente
+/ConsultasPublicas/ConsultaPublicaD
+eTHxIdentificacion.aspx
+https://web.sispro.qov.co/WebPublico/
+Consultas/ConsultarDetalleReferenci
+aBasica.aspx?Code=CUPS
+Nombre del factor 
+de riesgo________
+Listado de Procedimientos realizados durante la atención en Salud Hospitalización / Internación
+(Tecnologías en Salud)_________________________________________________________
+24.1
+Fecha 
+realización 
+procedimiento 
+(Fecha de entrega 
+de la tecnología) 
+Tipo de
+Identificación de la 
+persona que realizó 
+el procedimiento 
+Identificación de la 
+persona que realizó 
+el procedimiento
+0 5- AGO DE 2026
+Tipo de tecnología 
+en salud 
+Código 
+procedimiento 
+(código de 
+tecnología en salud) 
+Nombre 
+procedimiento 
+(Nombre de 
+tecnología en salud) 
+Finalidad de la 
+tecnología en Salud
+https://web.sispro.qov.co/WebPublico/ 
+Consultas/ConsultarDetalleReferenci 
+aBas¡ca.aspx?Code=RIPSFinalidadC 
+onsultaVersion2___________
+Fecha de realización 
+procedimiento CUPS
+Fecha del resultado 
+de la valoración 
+clínica o del 
+resultado en salud. 
+Fecha del resultado 
+del procedimiento 
+CUPS 
+Identificación 
+instrumento 
+medir el resultado 
+observado.
+Instrumento para la 
+medición del
+resultado del
+procedimiento 
+CUPS___________
+Código del
+parámetro del
+resultado observado 
+Valor del resultado 
+observado
+
+HOJA No. 25
+24.1
+24.2 del
+la
+24.3 del del medicamento según
+26
+27 prescripción del
+en
+28.1 Numérico
+28.2
+29
+31.1
+31.2
+32.1
+32.2
+33 Fecha
+35.1 Numérico
+35.2
+36.1
+Continuación de la resolución “Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones”
+Tipo de tecnología 
+en salud
+dosis 
+del
+de 
+del
+de 
+del
+02. Medicamento con registro 
+sanitario
+03. Medicamento vital no disponible
+04. Preparación magistral
+05. Medicamento UNIRS
+Valores permitidos según Resolución 
+866 de 2021
+1 Minutos
+2 Horas
+3 Día
+4 Semanas
+5 Mes
+6 Año
+7 Según respuesta al tratamiento 
+Numérico
+Nombre 
+código 
+https://web.sispro.qov.co/WebPublico/ 
+Consultas/ConsultarDetalleReferenci 
+aBasica.aspx?Code=DCI
+https://web.sispro.qov.co/THS/Cliente 
+/ConsultasPublicas/ConsultaPublicaD 
+eTHxIdentificacion.aspx
+https://web.sispro.qov.co/WebPublico/
+Consultas/ConsultarDetalleReferenci
+aBasica.aspx?Code=IUM
+https://web.sispro.qov.co/WebPublico/
+Consultas/ConsultarDetalleReferenci
+aBas¡ca.aspx?Code=UMM
+https://web.sispro.qov.co/WebPublico/
+Consultas/ConsultarDetalleReferenci
+aBasica.aspx?Code=VAD
+Numérico
+https://web.sispro.qov.co/WebPublico/
+Consultas/ConsultarDetalleReferenci 
+aBasica.aspx?Code=FormaFarmaceu 
+tica
+https://web.sispro.qov.co/WebPublico/
+Consultas/ConsultarPetalleReferenci
+aBasica.aspx?Code=UMM
+Código de la unidad 
+de medida de la 
+Dosis administrada 
+del medicamento 
+institucionalmente__
+de 
+del
+Dosis administrada 
+del medicamento 
+institucionalmente - 
+Cantidad
+Código 
+medicamento 
+(código de 
+tecnología en salud) 
+Nombre 
+medicamento 
+Descripción común 
+del medicamento
+Fecha 
+prescripción 
+medicamento 
+(Tecnología 
+salud)______
+Dosis prescrita del 
+medicamento 
+Cantidad total del 
+medicamento que 
+se prescribió para 
+una sola dosis_____
+Código de la unidad 
+de medida de la 
+dosis
+Fecha 
+administración 
+medicamento_____
+Número de dosis 
+aplicados del 
+medicamento 
+cantidad 
+Número de 
+aplicados 
+medicamento 
+código de unidad de 
+medida__________
+Tipo de
+Identificación de la 
+persona que
+Vía prescrita 
+administración 
+medicamento 
+Frecuencia prescrita 
+de administración 
+del medicamento - 
+Cantidad
+Frecuencia prescrita 
+de la administración 
+del medicamento - 
+Código de unidad de 
+tiempo
+Fecha de 
+medicamento
+RESOLUCIÓN númerG 01799 05 ACO DE 2026
+
+RESOLUCIÓN NÚMERO 017 9 9 0 5 AG0DE 2026 HOJA No. 26
+el
+36.2
+25
+24.1
+24.2
+24.3
+27
+33 Fecha
+36.1
+36.2
+25
+37.2 del
+37.3
+Continuación de la resolución “Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones”
+Identificación de la 
+persona que aplicó 
+el medicamento
+Tipo de tecnología 
+en salud
+administró 
+medicamento
+de 
+o 
+las
+Nombre del diagnostico principal al 
+egreso CIE-10
+Nombre de las otras tecnologías en 
+salud
+Fecha de prescripción de las otras 
+tecnologías
+Para 06: Dispositivos 
+médicos usar Código único 
+de dispositivos médicos 
+UDI-DI, código de carácter 
+público que corresponde al 
+Identificador del Dispositivo 
+(ID) del UDI (Unique Device 
+Identifier), para las 
+opciones 07 a 13: enviar 
+opción 07 a 13 según 
+corresponda.____________
+Código diagnóstico 
+principal al egreso 
+CIE-10
+Valores permitidos según Resolución 
+866 de 2021
+01: Impresión diagnóstica
+02: Confirmado nuevo
+03: Confirmado repetido
+https://web.sispro.qov.co/THS/Cliente
+/ConsultasPublicas/ConsultaPublicaD
+eTHxIdentificacion.aspx
+https://web.sispro.qov.co/THS/Cliente
+/ConsultasPublicas/ConsultaPublícaD
+eTHxIdentificacion.aspx
+https://web.sispro.qov.co/WebPublico/ 
+Consultas/ConsultarDetalleReferenci 
+aBas¡ca.aspx?Code=RIPSFinalidadC
+onsultaVersion2
+https://web.sispro.qov.co/WebPublico/
+Consultas/ConsultarDetalleReferenci 
+aBasica.aspx?Code=CIE10
+https7/web.s¡spro.qov.co/THS/Cliente
+/ConsultasPublicas/ConsultaPublicaD
+eTHxIdentificacion.aspx
+Diagnósticos 
+37?i
+Nombre
+Diagnóstico 
+principal de egreso 
+CIE-10___________
+Tipo de diagnóstico 
+principal al egreso 
+CIE-10
+Código de las otras 
+tecnologías en salud 
+(código de la 
+tecnología en salud)
+https://web.sispro.gov.co/WebPublico/ 
+Consultas/ConsultarDetalleReferenci 
+aBas¡ca.aspx?Code=RIPSFinalidadC 
+___________________________onsultaVersion2____________________________________
+Listado de Otras tecnologías en salud administrados durante la hospitalización / internación
+06. Dispositivo médico
+07. Componentes sanguíneos
+08. Fluidos orgánicos
+09. Órganos
+10. Tejidos
+11. Células
+12. Producto Soporte Nutricional
+13. Servicio complementario 
+Código de las otras tecnologías en 
+salud
+Finalidad de la 
+tecnología en Salud
+Nombre de las otras 
+tecnologías en salud
+Fecha de
+prescripción de las 
+otras tecnologías 
+(Tecnología en 
+salud)_______
+Fecha 
+administración 
+aplicación de 
+otras tecnologías en 
+salud____________
+Tipo de
+Identificación de la 
+persona que aplicó 
+las otras tecnologías 
+Identificación de la 
+persona que realizó 
+la aplicación de las 
+otras tecnologías 
+Finalidad de la 
+tecnología en Salud
+
+RESOLUCIÓN NÚMERÍoO 1799 HOJA No. 27
+https://transic¡oncie11 .sispro.qov.co/ opcional
+https://transicioncie11 .sispro.gov.co/ opcional
+38.1
+o
+del
+38.2 del
+al
+del https ://transicioncie 11 .sispro.qov.co/
+al
+del
+al
+40.1
+la
+40.2
+41
+42.1 02
+42.2
+de
+https://transicioncie11 .sispro.qov.co/ Opcional
+https://transicioncie11 .sispro.qov.co/ Opcional
+44
+Salud)
+Continuación de la resolución "Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones”
+Solo si condición 
+Paciente muerto
+https://web.sispro.qov.coA/VebPublico/
+Consultas/ConsultarDetalleReferenci
+aBasica.aspxVCode^CIEIQ
+https://web.sispro.gov.coA/VebPublico/
+Consultas/ConsultarDetalleReferenci
+aBasica.aspx?Code=CIE10
+https://web.sispro.qov.co/WebPublico/
+Consultas/ConsultarPetalleReferenci
+aBas¡ca.aspx?Code=CIE10
+https://web.sispro.qov.coA/VebPublico/
+Consultas/ConsultarPetalleReferenci
+aBasica.aspx?Code=CIE10
+https:/Aveb. sispro.gov. co AA/ebPublico/ 
+Consultas/ConsultarPetalleReferenci 
+aBasica.aspx?Code=Cond¡c¡onyPesti 
+noUsuarioEgreso_________________
+https://web.sispro.gov.co/WebPublico/
+Consultas/ConsultarPetalleReferenci 
+aBasica.aspx?Code=CIE10
+https://web.sispro.gov.coAA/ebPublico/
+Consultas/ConsultarPetalleReferenci
+aBas¡ca.aspx?Code=CIE10
+05 AGO DE 2026
+Piagnóstico de la 
+causa básica de 
+muerte CIE-10 - 
+Código de la causa 
+básica de muerte 
+Nombre del 
+Piagnóstico de la 
+causa básica 
+muerte - CIE-10
+Condición y destino 
+del usuario al 
+egreso
+https://web.sispro.qov.co/WebPublico/ 
+Consultas/ConsultarPetalleReferenci 
+aBasica.asox?Code=IPSCodHabilitac 
+ion
+Fórmula de Medicamentos ordenados al egreso de la Hospitalización / internación (Tecnologías en
+Código del
+diagnóstico principal 
+de ingreso CIE-11 
+Término del 
+diagnóstico principal 
+de ingreso CIE -11 
+Piagnósticos 
+relacionados 
+Piagnóstico 
+confirmados 
+presuntivos 
+relacionados con el 
+diagnóstico principal 
+de egreso CIE-10 - 
+Código 
+diagnóstico 
+relacionado 
+Nombre 
+diagnóstico 
+relacionado 
+ingreso CIE -10 
+Código 
+diagnóstico 
+relacionado 
+egreso CIE-11 
+Término 
+diagnóstico 
+relacionado 
+egreso CIE -11 
+Piagnóstico de la 
+complicación CIE- 
+10 - Código del 
+diagnóstico de 
+complicación 
+Nombre del 
+diagnóstico de la 
+complicación CIE - 
+10
+Código del 
+diagnóstico de la 
+causa de la muerte 
+CIE-11___________
+Término del 
+diagnóstico de la 
+causa básica de la 
+muerte al egreso 
+CIE-11__________
+Código del
+prestador a donde 
+se remite
+
+RESOLUCIÓN NÚMeÍ?6 1 ? 9 9 HOJA No. 28
+24.1
+24.2 del
+la
+24.3 del medicamento según
+27 de prescripción del
+en
+28.1 del Numérico
+28.2
+29
+30.1 Numérico
+30.2
+31.1
+31.2
+25
+la
+la
+Vía de 
+administración del 
+medicamento
+Tipo de tecnología 
+en salud
+Identifícador de la 
+prescripción
+de 
+del
+02. Medicamento con registro 
+sanitario
+03. Medicamento vital no disponible
+04. Preparación magistral
+05. Medicamento UNIRS
+Número identifícador de la orden 
+médica (prescripción) asociada
+Frecuencia de 
+administración del 
+medicamento - 
+Cantidad 
+Frecuencia 
+administración 
+medicamento 
+Código de unidad de 
+tiempo
+Nombre 
+código 
+Fecha 
+medicamento
+https://web.sispro.gov.co/WebPublico/ 
+Consultas/ConsultarDetalleReferenci 
+aBasica.aspx?Code=EnfermedadHue 
+rfana___________________________
+https://web.sispro.gov.co/WebPublico/ 
+Consultas/ConsultarDetalleReferenci 
+aBasica.aspx?Code=EnfermedadHue 
+rfana
+Valores permitidos según Resolución 
+866 de 2021
+1 Minutos
+2 Horas
+3 Día
+4 Semanas
+5 Mes
+6 Año
+7 Según respuesta al tratamiento 
+Numérico
+Valores permitidos según Resolución 
+866 de 2021
+1 Minutos
+2 Horas
+3 Día
+4 Semanas
+5 Mes
+6 Año
+7 Según respuesta al tratamiento 
+https://web.sisDro.qov.co/WebPublico/ 
+Consultas/ConsultarDetalleReferenci 
+aBas¡ca.asDx?Code=RIPSFinalidadC 
+onsultaVersion2
+https://web.sispro.qov.co/WebPublico/
+Consultas/ConsultarDetalleReferenci
+aBas¡ca.aspx?Code=UMM
+https://web.sispro.qov.co/WebPublico/
+Consultas/ConsultarDetalleReferenci
+aBas¡ca.aspx?Code=VAD
+O S AGO DE 2026
+IUM Nivel 1 - Según catálogo que 
+establezca Ministerio de Salud y 
+Protección Social.
+Continuación de la resolución "Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones”
+Finalidad de la 
+tecnología en Salud
+Duración prescrita 
+del medicamento -
+Cantidad_________
+Duración prescrita 
+del medicamento - 
+Código de unidad de 
+tiempo
+Nombre de 
+enfermedad 
+huérfana
+de la 
+del
+Código de 
+enfermedad 
+huérfana
+Código 
+medicamento 
+(código de 
+tecnología en salud) 
+Nombre del 
+medicamento 
+Fecha 
+prescripción 
+medicamento 
+(Tecnología 
+salud)_______
+Dosis ordena 
+medicamento 
+Cantidad total del 
+medicamento que 
+se prescribió para 
+una sola dosis 
+Código de la unidad 
+de medida de la 
+dosis
+
+RESOLUCIÓN NÚME^CO 17 9 9 HOJA No. 29
+total
+de
+del
+26
+y
+Complemento medicamentos de control especial
+Número 
+repeticiones
+establezca 
+Protección
+Nombre de la 
+unidad de medida 
+de la concentración
+Identificador de la 
+prescripción control 
+especial
+Código de la forma 
+farmacéutica
+Nombre de la forma 
+farmacéutica
+Código de la unidad 
+de medida de la 
+concentración
+Cantidad 
+formulada
+Concentración 
+cantidad
+Indicaciones 
+especiales
+de 
+de
+la 
+la 
+total
+de 
+de 
+del
+Número de repeticiones en las que se 
+espera entregar el medicamento.
+Cantidad de la concentración del 
+principio activo o componente en la 
+fórmula magistral.
+establezca 
+Protección
+establezca 
+Protección
+establezca
+Protección
+establezca 
+Protección
+https://web.sispro.gov.co/THS/Cliente
+/ConsultasPublicas/ConsultaPublicaD
+eTHxIdentificacion.aspx
+Fecha máxima en que se direcciona 
+para que se realice la entrega al 
+usuario o receptor.
+https://web.sispro.qov.co/WebPublico/ 
+Consultas/ConsultarDetalleReferenci 
+aBas¡ca.aspx?Code=UPR
+https://web.sispro.qov.co/WebPublico/
+Consultas/ConsultarDetalleReferenci
+aBas¡ca.aspx?Code=UPR
+https://web.sispro.qov.co/WebPublico/
+Consultas/ConsultarPetalleReferenci
+aBas¡ca.aspx?Code=PCI
+Continuación de la resolución "Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones"
+Código de la unidad 
+de la cantidad total 
+formulada
+Tipo Pocumento del 
+talento humano en 
+salud que realizó la 
+_____________prescripción.
+Número 
+documento 
+identificación 
+talento humano en 
+salud que realizó la 
+_____________prescripción_______
+Fórmulas magistrales
+Pescripción común 
+del medicamento
+Fecha máxima de 
+entrega 
+medicamento
+Número identificador de la orden 
+médica (prescripción) asociada a 
+control especial
+Instrucciones o recomendaciones que 
+el profesional de salud prescriptor 
+dirige al paciente para orientar el uso 
+adecuado, la administración, el 
+almacenamiento o los cuidados 
+relacionados con el medicamento o 
+tecnología en salud prescrita._______
+https://web.sispro.qov.co/THS/Cliente 
+/ConsultasPublicas/ConsultaPublicaD 
+eTHxIdentificacion.aspx
+O 5 ACO DE 2026
+Según catálogo que 
+Ministerio de Salud 
+Social.
+Según catálogo que 
+Ministerio de Salud y 
+Social.
+Número total de unidades del 
+medicamento que el profesional de 
+salud prescribe para cubrir la duración 
+completa del tratamiento indicado.
+Según catálogo que 
+Ministerio de Salud y 
+Social.
+Según catálogo que 
+Ministerio de Salud y 
+Social.
+Nombre 
+unidad 
+cantidad 
+formulada 
+Indicaciones y/o 
+recomendaciones 
+para el paciente
+Según catálogo que 
+Ministerio de Salud y 
+Social.
+
+HOJA No. 30
+del
+24.1 01. Procedimiento en salud
+24.2 del
+la
+24.3
+25
+27 de prescripción del
+en
+24.1
+Continuación de la resolución "Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones"
+Tipo de tecnología 
+en salud
+del
+del
+del
+del 
+de 
+del
+del
+del
+del
+el 
+de
+el 
+de
+Dirección del paciente al que se 
+prescribe el medicamento de control 
+especial.
+Número telefónico del prescriptor del 
+medicamento control especial
+Nombre del procedimiento según 
+CUPS
+Código 
+municipio 
+prescriptor 
+medicamento 
+control especial 
+Nombre 
+municipio 
+prescriptor 
+medicamento 
+control especial 
+Dirección del 
+prescriptor del 
+medicamento 
+control especial
+https://web.sispro.qov.co/WebPublico/
+Consultas/ConsultarDetalleReferenci
+aBasica.aspx?Code=CUPS
+https://web.sispro.qov.co/WebPublico/
+Consultas/ConsultarDetalleReferenci
+aBasica.aspx?Code=Mun¡cipio
+https://web.sispro.qov.co/WebPublico/
+Consulta s/ConsultarDetalleReferenc¡
+aBasica.aspx?Code=Mun¡cipio
+https://web.sispro.qov.co/WebPublico/
+Consultas/ConsultarDetalleReferenci
+aBasica.aspx?Code=Mun¡cipio
+https://web.sispro.qov.co/WebPublico/
+Consultas/ConsultarDetalleReferenci
+aBasica.aspx?Code=IVIunicipio
+Número telefónico 
+del prescriptor del 
+medicamento 
+control especial
+https://web.sispro.qov.coA/VebPublico/ 
+Consultas/ConsultarPetalleReferenci 
+aBasica.aspx?Code=RIPSF¡nalidadC 
+onsultaVersion2 
+Fecha de 
+procedimiento
+Fecha
+prescripción
+procedimiento
+(Tecnología
+salud)______
+Ordenes médicas - Otras tecnologías en salud ordenadas al egreso de la Hospitalización / internación
+06. Pispositivo médico ~
+07. Componentes sanguíneos
+08. Fluidos orgánicos
+09. Órganos
+10. Tejidos
+11. Células
+12. Producto Soporte Nutricional
+13. Servicio complementario
+RESOLUCIÓN NÚMER0 01799 O 5 AGO DE 2026
+Pirección del prescriptor 
+medicamento control especial
+Ordenes médicas - Procedimientos ordenados al egreso de la Hospitalización / internación
+Tipo de tecnología 
+en salud 
+Código 
+procedimiento 
+(código de 
+tecnología en salud) 
+Nombre del 
+procedimiento 
+(Nombre de la
+tecnología en salud)
+Finalidad de la 
+tecnología en Salud
+Código 
+municipio 
+residencia 
+paciente al que se 
+prescribe 
+medicamento 
+control especial. 
+Nombre del
+municipio de
+residencia del
+paciente al que se 
+prescribe 
+medicamento 
+control especial. 
+Pirección del 
+paciente al que se 
+prescribe el 
+medicamento de 
+control especial.
+
+HOJA No. 31
+24.2
+24.3
+27
+25
+45.1
+la
+49.1
+49.2
+7.3 Resumen Digital de Atención - RDA de urgencias o atención inmediata
+Estructura de RDA de urgencias o atención inmediata:
+RDA Urgencias / RDA Atención Inmediata
+Continuación de la resolución “Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones"
+de 
+de 
+del
+Código de las otras tecnologías en 
+salud
+Para 06: Dispositivos 
+médicos usar Código único 
+de dispositivos médicos 
+UDI-DI, código de carácter 
+público que corresponde al 
+Identificador del Dispositivo 
+(ID) del UDI (Unique Device 
+Identifier), para las 
+opciones 07 a 13: enviar 
+opción 07 a 13 según 
+corresponda.
+Incluir documento PDF legible (capa 
+de texto) sin clave del documento pdf 
+de la epicrisis de la hospitalización. 
+La epicrisis debe cumplir con los 
+contenidos establecidos en el Decreto 
+780 de 2016 Artículo 2.6.1.4.3.5
+de
+/
+Valores permitidos según Resolución 
+866 de 2021 
+01: Nueva 
+02: Prórroga
+Numérico
+Numérico
+45.2 
+46~
+Nombre de las otras tecnologías en 
+salud
+Fecha de prescripción de las otras 
+tecnologías
+Profesional de salud que dio el alta de Hospitalización I internación
+https://web.sispro.qov.co/THS/Cliente 
+/ConsultasPublicas/ConsultaPublicaD 
+eTHxIdentificacion.aspx
+https://web.sispro.qov.co/WebPublico/ 
+Consultas/ConsultarDetalleReferenci 
+aBasica.aspx?Code=RIPSF¡nalidadC
+onsultaVersion2
+https://web.sispro.aov.co/THS/Cliente 
+/ConsultasPublicas/ConsultaPublicaD 
+eTHxIdentificacion.aspx
+Este RDA se debe generar y transmitir al mecanismo de interoperabilidad por parte de los prestadores 
+de salud una vez se realice el alta del paciente del servicio de urgencias, con los contenidos establecidos 
+a continuación y las especificaciones de sintaxis y semántica establecidas en la Guia de 
+Implementación, publicada por Ministerio de Salud y Protección Social 
+https://vulcano.ihcecol.qov.co/quia/.
+Código de las otras 
+tecnologías en salud 
+(código de la 
+tecnología en salud)
+Datos incapacidad
+Incapacidad 
+Alcance de 
+incapacidad
+Días de incapacidad
+Días de licencia de 
+maternidad
+Tipo Documento del 
+talento humano en 
+salud que realiza el 
+egreso_____
+Número 
+documento 
+identificación 
+talento humano en 
+salud que realizó el 
+egreso 
+Hospitalización 
+internación
+Documento de soporte de la hospitalización / internación
+Nombre Documento 
+PDF
+RESOLUCIÓN NÚMERO 01799 0 5 AGO DE 2Ü26
+Nombre de las otras 
+tecnologías en salud 
+Fecha de
+prescripción de las 
+otras tecnologías 
+(Tecnología en 
+salud)____________
+Finalidad de la 
+tecnología en Salud
+
+RESOLUCIÓN NÚMERO 1799 HOJA No. 32
+Observaciones
+16
+15.1
+15.2
+2.1
+2.2
+3.1 Primer apellido
+3.2 Segundo apellido
+3.3 Primer Nombre
+3.4 Segundo nombre
+4 de
+1.1
+1.2 Estándar ISO 3166-1
+5 Sexo biológico
+6 Identidad de género
+Número 
+documento 
+identificación
+Código del pais de la 
+nacionalidad
+Nombre del país de 
+nacionalidad
+Datos del RDA 
+Urgencias / 
+Atención inmediata
+de 
+de
+Tipo de identificación según 
+fuente Maestro - persona
+Fuente del dato: valores 
+permitidos
+al 
+de
+Código asignado al 
+administrador del plan 
+de beneficios en el 
+SGSSS
+Nombre asignado al 
+administrador del plan 
+de beneficios en el 
+SGSSS____________
+Identificación del Paciente
+Tipo de documento de 
+identificación
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenciaBasica.aspx?Code= 
+País ____________________
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenciaBasica.aspx?Code= 
+Pais_______________________
+https://web.sispro.qov.coAA/ebP 
+ublico/Consultas/ConsultarDetall 
+eReferenciaBasica.aspx?Code= 
+Sexo______________________
+https://web.sisDro.oov.co/WebP 
+ublico/Consultas/ConsultarPetall 
+eReferenc¡aBasica.aspx?Code= 
+MPECIdentidadGenero
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenc¡aBasica.aspx?Code= 
+IPSCodHabilitacion
+de servicio de atención (Atención inmediata)
+Número 
+elemento dato 
+Resolución 866 
+de 2021
+Código del prestador 
+de servicios de salud 
+que realiza la atención 
+(Urgencias / Atención 
+inmediata) 
+Código de la sede del 
+prestador de servicios 
+de salud que realiza la 
+atención (Urgencias / 
+_____Átención inmediata)____________________________
+Entidad responsable por el plan de beneficios en salud (Urgencias / Atención inmediata)
+https://www.adres.qov.co/entida 
+des-
+terr¡tor¡ales/bdua/Entidades%20 
+SGSSS/ENTIPAPES SGSSS 
+2022 APRES.pdf_______
+Nombre asignado 
+administrado del plan 
+beneficios en el SGSSS
+Los elementos de dato del anexo técnico de la Resolución 866 de 2021 se han dispuesto en un orden lógico 
+desde el punto de vista asistencial. Se hacen observaciones para cada uno de ellos de acuerdo con el Grupo
+Continuación de la resolución "Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones”
+Fuente 
+Ministerio < 
+Protección 
+variable se 
+calcula de 
+paciente. ______
+Estándar ISO 3166-1
+O 5 ACO DE 2026
+Fecha y hora 
+nacimiento
+Registro Especial de 
+Prestadores de Servicios de 
+Salud REPS
+Registro Especial de
+Prestadores de Servicios de 
+Salud REPS
+Fuente Maestro Persona 
+Ministerio de Salud y 
+Protección Social
+Identificación del Prestador de Servicios de Salud
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenc¡aBasica.aspx?Code= 
+IPSCodHabilitacion
+Maestro Persona 
+de Salud y 
+Social. Esta 
+i utiliza para 
+la edad del
+Según el número de 
+identificación del paciente 
+atendido en Urgencias / Atención 
+inmediata ______________
+Primer apellido que aparece en 
+el documento de identidad_____
+Segundo apellido que aparece 
+en el documento de identidad 
+Primer nombre que aparece en 
+el documento de identidad_____
+Segundo nombre que aparece 
+en el documento de identidad 
+Fecha de nacimiento del 
+paciente atendido en Urgencias / 
+Atención inmediata
+
+HOJA No. 33
+13.1 Etnia
+13.2 Comunidad étnica
+10 de
+7.1 de la
+7.2 de la
+11.1
+11.2
+12.1
+12.2
+14 de
+17
+43
+Categoría 
+discapacidad
+Código 
+ocupación
+Nombre 
+ocupación
+Código del municipio 
+de residencia habitual
+Nombre del municipio 
+de residencia habitual
+hora
+de
+de 
+la
+https.//web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenc¡aBasica.aspx?Code= 
+CateqoriaDiscapacidad_______
+https://clasificaciones.dane.gov. 
+co/cuoc/cuoc descripción 
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarPetall 
+eReferenciaBasica.aspx?Code= 
+PSRGOCUPACION
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarPetall 
+eReferenciaBasica.aspx?Code= 
+Etnia______________________
+Texto Alfanumérico
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarPetall 
+eReferenciaBasica.aspx?Code= 
+País_______________________
+Nombre del país de residencia 
+habitual
+"https://clasificaciones.dane.qov.
+co/cuoc/cuoc descripción
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarPetall 
+eReferenc¡aBas¡ca.aspx'>Code=
+PSRGOCUPACION "
+https://www.dane.qov.co/in 
+dex.php/sistema- 
+estadistico-nacional- 
+sen/normas-y- 
+estandares/nomenclaturas- 
+Yc
+clasificaciones/clasificacion 
+es/clasificacion-unica-de- 
+ocupaciones-para- 
+colombia-cuoc
+https://www.dane.qov.co/file 
+s/sen/nomenclatura/cuoc/d 
+ocumento-clasificacion- 
+unica-ocupaciones- 
+colombia-CUOC-2Q24.pdf 
+https://www.dane.qov.co/in 
+dex.php/sistema- 
+estadistico-nacional- 
+sen/normas-v-
+estandares/nomenclaturas-
+clasificaciones/clasificacion 
+es/clasificacion-unica-de- 
+ocupaciones-para- 
+colombia-cuoc
+https://www.dane.qov.co/file 
+s/sen/nomenclatura/cuoc/d 
+ocumento-clasificacion- 
+unica-ocupaciones- 
+colombia-CUOC-2Q24.pdf
+Continuación de la resolución “Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones"
+Fecha y hora de inicio de la 
+atención en el servicio de 
+Urgencias / Atención inmediata 
+Fecha y hora de finalización de la 
+atención en el servicio de 
+Urgencias / Atención inmediata. 
+En caso de muerte fecha y hora 
+del deceso.
+Fecha y 
+finalización 
+atención
+RESOLUCIÓN NUMERÓ) 01799 05 AGO DE 2026
+Zona territorial 
+residencia
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenciaBasica.aspx?Code= 
+Municipio___________________
+Nombre del municipio de 
+residencia habitual del paciente 
+que recibió la atención en salud 
+durante la Urgencias / Atención 
+inmediata___________________
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenc¡aBasica.aspx?Code= 
+Zona______________________
+Datos de la Urgencias / Atención inmediata
+Fecha y hora de inicio 
+de la atención
+Nombre País de 
+residencia habitual
+Código País de 
+residencia habitual
+
+resolución númerQ 01799 05 AGO DE 2026 HOJA No. 34
+18.1
+18.2 Grupo de servicios
+19
+20
+21
+22 Triage - Fecha y hora
+22 Triage - Clasificación
+23.1
+23.2
+23.3
+Opcional
+Opcional
+47.1
+Vía de ingreso del 
+usuario al servicio de 
+salud
+Código del
+diagnóstico principal 
+de ingreso CIE-10
+Nombre del
+diagnóstico principal 
+de ingreso CIE -10
+Causa que motiva la 
+atención
+de 
+la
+Valores permitidos según 
+Resolución 866 de 2021 
+01: Medicamento 
+02: Alimento
+03: Sustancia del ambiente 
+04: Sustancia que entran en 
+contacto con la piel
+05: Picadura de insectos 
+06: Otra
+Valores permitidos según 
+Resolución 866 de 2021 
+01: Intramural
+02: Extramural unidad móvil
+03: Extramural domiciliaria.
+04: Extramural jornada de salud.
+05: Extramural (atención pre 
+hospitalaria o transporte 
+asistencial)
+06: Telemedicina interactiva 
+07: Telemedicina no interactiva. 
+08: Telemedicina - Telexperticia
+09: Telemedicina - 
+Telemonitoreo
+Indicador para determinar la 
+prioridad de la atención de 
+los pacientes en un servicio 
+de Urgencias
+Tipo de diagnóstico 
+principal de ingreso 
+CIE-10
+Valores permitidos según 
+Resolución 866 de 2021 
+05: Atención inmediata
+Valores permitidos según 
+Resolución 866 de 2021
+https://trans¡c¡oncie11 .sispro.qo 
+v.co/
+05: Institucional
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenciaBasica.aspx?Code= 
+VialnqresoUsuario___________
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenciaBasica.aspx?Code= 
+RIPSCausaExterna__________
+Fecha y hora del Triage
+Valores permitidos según la 
+Resolución 866 de 2021 
+01: Triage I 
+02: Triage II 
+03: Triage III 
+04: Triage IV 
+05: Triage V________________
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarPetall
+eReferenciaBasica.aspx?Code= 
+CIE 10_____________________
+https.7/web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarPetall 
+eReferenciaBasica.aspx?Code=
+CIE10_____________________
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarPetall 
+eReferenciaBasica.aspx?Code=
+CIE10_____________________
+https://transicioncie11 .sispro.qo 
+v.co/
+Código del
+diagnóstico principal 
+________________de ingreso CIE-11
+Término del
+diagnóstico principal 
+________________de ingreso CIE -11
+Antecedentes de salud
+Código que indica que 
+si la persona tiene 
+alergia
+Continuación de la resolución “Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones”
+Entorno donde se 
+realiza la atención
+Modalidad i 
+realización de 
+tecnología de salud
+
+HOJA No. 35
+47.2 Nombre del alérgeno Alfanumérico
+47.3
+Opcional
+47.4
+48.1
+48.2 Alfanumérico
+24.1 01: Procedimiento en salud
+24.2
+24.3 del procedimiento
+la
+25
+33
+36.1
+36.2
+39.1 de la
+39.2 Alfanumérico
+Continuación de la resolución “Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones"
+Tipo de factor de 
+riesgo
+Condición de salud 
+Familiar CIE-10
+) del
+para 
+resultado
+para la 
+del 
+del
+Nombre del factor de 
+___riesgo ______________________________________________________
+Listado de Procedimientos realizados durante la atención en Salud Urgencias / Atención inmediata 
+(Tecnologías en Salud)
+Tipo de tecnología en
+salud
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenciaBasica.aspx?Code= 
+CIE10_____________________
+https://trans¡cioncie11 .sispro.qo 
+v.co/_______________________
+Valores permitidos según 
+Resolución 866 de 2021 
+01: Padres 
+02: Hermanos 
+03: Tíos
+04: Abuelos_________________
+Valores permitidos según 
+Resolución 866 de 2021 
+01: Químicos
+02: Físicos 
+03: Biomecánicos 
+04: Psicosociales 
+05: Biológicos 
+06: Otro
+Fecha del resultado 
+de la valoración 
+clínica o del resultado 
+en salud. Fecha del 
+resultado del 
+procedimiento CUPS 
+Identificación 
+instrumento 
+medir el r 
+observado. 
+Instrumento 
+medición 
+resultado 
+procedimiento CUPS
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenc¡aBas¡ca.aspx?Code= 
+RIPSF¡nalidadConsultaVersion2
+Fecha de realización del 
+procedimiento CUPS
+https:/Aveb.sispro.gov.co/THS/CI 
+iente/ConsultasPublicas/Consult 
+aPublicaPeTHxIdentificacion.as 
+px_________________________
+https://web.sispro.qov.co/THS/CI 
+iente/ConsultasPublicas/Consult 
+aPublicaPeTHxIdentificacion.as 
+px_________________
+Fecha de resultados 
+valoración del resultado
+Fecha de realización 
+del procedimiento 
+(Fecha de entrega de 
+la tecnología)_______
+Tipo de Identificación 
+de la persona que 
+realizó el
+procedimiento______
+Identificación de la 
+persona que realizó el 
+procedimiento
+Código del
+procedimiento (código 
+de la tecnología en 
+salud)________
+Nombre 
+procedimiento 
+(Nombre de 
+tecnología en salud)
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarPetall 
+eReferenc¡aBasica.aspx?Code= 
+CUPS_______
+Nombre del 
+según CUPS
+Finalidad de la 
+tecnología en Salud
+Condición de salud
+Familiar CIE-11_____
+Parentesco del 
+antecedente familiar
+RESOLUCIÓN NÚMEFÍóO 1799 05 AGO DE 2026
+
+HOJA No. 36
+39.3 Alfanumérico
+39.4 resultado Alfanumérico
+24.2
+24.3 del
+26
+27 de del
+28.1 del Numérico
+28.2
+29
+31.1
+31.2
+32.1
+32.2
+del
+Dosis 
+del 
+institucionalmente 
+Cantidad
+Fecha de prescripción 
+del medicamento 
+(Tecnología en salud)
+Valor del 
+observado
+Tipo de tecnología en 
+salud
+administrada 
+medicamento
+de 
+del
+02. Medicamento con registro 
+sanitario
+03. Medicamento vital no 
+disponible
+04. Preparación magistral
+05. Medicamento UNIRS
+Código del
+medicamento (código 
+de la tecnología en 
+salud)______
+Nombre 
+medicamento
+Valores permitidos según 
+Resolución 866 de 2021
+1 Minutos
+2 Horas
+3 Día
+4 Semanas
+5 Mes
+6 Año
+7 Según respuesta al
+tratamiento___________
+Numérico
+https://web.sisDro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenc¡aBasica.aspx?Code= 
+UMM
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenciaBasica.aspx?Code=
+IUM_______________________
+Nombre del medicamento según 
+código
+https://web.sispro.qov.coAA/ebP 
+ublico/Consultas/ConsultarDetall 
+eReferenc¡aBas¡ca.aspx?Code= 
+UMM______________________
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenc¡aBasica.aspx?Code= 
+VAD______________________
+Numérico
+Código de la unidad 
+de medida de la Dosis 
+administrada 
+medicamento 
+institucionalmente
+Frecuencia prescrita 
+de administración del 
+medicamento
+Cantidad___________
+Frecuencia prescrita 
+de la administración 
+del medicamento - 
+Código de unidad de 
+tiempo
+RESOLUCIÓN NÚMER(P 01799 05 ACO DE 2026
+Código del parámetro 
+del resultado 
+observado
+Dosis prescrita 
+medicamento 
+Cantidad total del 
+medicamento que se 
+prescribió para una 
+sola dosis__________
+Código de la unidad 
+de medida de la dosis
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenciaBasica.aspx?Code= 
+PCI__________________
+Fecha de prescripción 
+medicamento
+Continuación de la resolución “Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones"
+Listado de Medicamentos administrados durante la Urgencias / Atención inmediata (Tecnologías en 
+Salud)
+24.1
+Vía prescrita 
+administración 
+medicamento
+Descripción común 
+del medicamento
+
+RESOLUCIÓN NÚMER^O 1799 HOJA No. 37
+33 Fecha
+35.1 Numérico
+35.2 de
+36.1
+36.2
+25
+24.1
+24.2
+24.3
+27
+33 Fecha
+36.1
+otras
+36.2
+25
+Diagnósticos
+Continuación de la resolución “Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones”
+Nombre de las otras 
+tecnologías en salud
+dosis
+del
+de 
+del
+Nombre de las otras tecnologías 
+en salud
+Fecha de prescripción de las 
+otras tecnologías
+Para 06: Dispositivos 
+médicos usar Código único 
+de dispositivos médicos 
+UDI-DI, código de carácter 
+público que corresponde al 
+Identificadordel Dispositivo 
+(ID) del UDI (Unique Device 
+Identifier), para las 
+opciones 07 a 13: enviar 
+opción 07 a 13 según 
+corresponda.
+06. Dispositivo médico
+07. Componentes sanguíneos
+08. Fluidos orgánicos
+09. Órganos
+10. Tejidos
+11. Células
+12. Producto Soporte Nutricional
+13. Servicio complementario 
+Código de las otras tecnologías 
+en salud
+httDs://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenc¡aBasica.aspx?Code=
+FormaFarmaceutica_______________________________
+https://web.sispro.qov.co/THS/CI 
+iente/ConsultasPublicas/Consult 
+aPublica DeTHxIdentíficacion.as 
+px_____________________________________________
+https://web.sispro.qov.co/THS/CI 
+iente/ConsultasPublicas/Consult 
+aPublica DeTHxIdentificacion.as
+px_____________________________________________
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenc¡aBasica.aspx?Code=
+_____________RIPSF¡nalidadConsulta\/ers¡on2_____________________
+Listado de otras tecnologías en salud administrados durante la Urgencias / Atención inmediata
+Tipo de tecnología en 
+salud
+https://web.sispro.qov.co/THS/CI 
+iente/ConsultasPublicas/Consult 
+aPublicaDeTHxIdentificacion.as 
+px_________________________
+https://web.sispro.qov.co/THS/CI 
+iente/ConsultasPublicas/Consult 
+aPublicaDeTHxIdentificacion.as 
+px_________________________
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenciaBas¡ca.aspx?Code= 
+RIPSF¡nal¡dadConsultaVersion2
+05 AGO DE 2026
+Código de las otras 
+tecnologías en salud 
+(código de la 
+tecnología en salud)
+Fecha 
+administración 
+medicamento 
+Número de 
+aplicados 
+medicamento 
+cantidad_____
+Número de dosis 
+aplicados del 
+medicamento - código 
+de unidad de medida 
+Tipo de Identificación 
+de la persona que 
+administró el 
+medicamento_______
+Identificación de la 
+persona que aplicó el 
+medicamento
+Finalidad de la 
+tecnología en Salud
+Fecha de prescripción 
+de las otras 
+tecnologías 
+(Tecnología en salud)
+Fecha de
+administración o 
+aplicación de las otras 
+tecnologías en salud 
+Tipo de Identificación 
+de la persona que 
+aplicó las 
+tecnologías 
+Identificación de la 
+persona que realizó la 
+aplicación de las otras 
+tecnologías_________
+Finalidad de la 
+tecnología en Salud
+
+HOJA No. 38
+37.1
+37.2
+37.3
+Opcional
+Opcional
+38.1
+o
+38.2 del
+del Opcional
+del Opcional
+40.1
+de
+40.2
+de
+41
+42.1 02
+Nombre del
+Diagnóstico principal 
+de egreso CIE-10
+del 
+la 
+al
+la 
+de
+Valores permitidos según 
+Resolución 866 de 2021 
+01: Impresión diagnóstica 
+02: Confirmado nuevo 
+03: Confirmado repetido
+https://transicioncie11 .sispro.qo 
+v.co/
+https://transicioncie11 .sispro.qo 
+v.co/
+https://trans¡cioncie11 .sispro.qo 
+v.co/
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenc¡aBasica.aspx?Code= 
+CIE10
+https://transicioncie11 .sispro.qo 
+v.co/
+https://web.sispro.qov.coAA/ebP 
+ublico/Consultas/ConsultarDetall 
+eReferenciaBasica.aspx?Code= 
+CondicionvDestinoUsuarioEqres 
+p_________________________
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenc¡aBasica.aspx?Code= 
+CIE10
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenciaBasica.aspx?Code= 
+CIE10_____________________
+Nombre del diagnóstico principal 
+al egreso CIE-10
+https://web.sispro.qov.coAA/ebP 
+ublico/Consultas/ConsultarDetall 
+eReferenc¡aBasica.aspx?Code= 
+CIE10
+https://web.sispro.qov.coAA/ebP 
+ublico/Consultas/ConsultarDetall 
+eReferenc¡aBasica.aspx?Code= 
+CIE10_____________________
+https ://trans¡cioncie 11 .sispro.qo 
+v.co/
+https:/Aweb.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenciaBasica.aspx?Code= 
+CIE 10_____________________
+https://trans¡cioncie11 .sispro.qo 
+v.co/
+Continuación de la resolución Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones”
+Solo si condición 
+Paciente muerto
+Tipo de diagnóstico 
+principal al egreso 
+CIE-10
+RESOLUCIÓN NÚMErS 01799 05 AGO DE 2026
+Código del
+diagnóstico de la 
+complicación CIE-11 
+Término 
+diagnóstico 
+complicación 
+egreso CIE -11_____
+Condición y destino 
+del usuario al egreso
+Código diagnóstico 
+principal al egreso 
+CIE-10
+Código del
+diagnóstico principal 
+de ingreso CIE-11 
+Término del
+diagnóstico principal 
+de ingreso CIE -11 
+Diagnósticos 
+relacionados 
+Diagnóstico 
+confirmados 
+presuntivos 
+relacionados con el 
+diagnóstico principal 
+de egreso CIE-10 - 
+Código del
+diagnóstico 
+relacionado 
+Nombre 
+diagnóstico 
+relacionado al ingreso 
+CIE-10 
+Código 
+diagnóstico 
+relacionado al egreso 
+CIE-11 
+Término 
+diagnóstico 
+relacionado al egreso 
+CIE-11___________
+Diagnóstico de la 
+complicación CIE-10 - 
+Código del
+diagnóstico de la 
+complicación_______
+Nombre del
+diagnóstico de la 
+complicación CIE -10
+Diagnóstico de 
+causa básica 
+muerte CIE-10 
+Código de la causa 
+básica de muerte
+
+RESOLUCIÓN NÚMEF^Q £ 7 9 9 HOJA No. 39
+42.2
+44
+24.2
+24.3 del
+27 del
+28.1 Numérico
+28.2
+29
+30.1
+30.2
+31.1
+Tipo de tecnología.en 
+salud
+Vía de administración 
+del medicamento
+Frecuencia 
+administración 
+medicamento 
+Cantidad
+del 
+la 
+de
+de 
+del
+Nombre del medicamento según 
+código
+Código del
+medicamento (código 
+de la tecnología en 
+salud)______
+Nombre 
+medicamento
+Duración prescrita del 
+medicamento
+Cantidad___________
+Duración prescrita del 
+medicamento
+Código de unidad de 
+tiempo
+Valores permitidos según 
+Resolución 866 de 2021
+1 Minutos
+2 Horas
+3 Día
+4 Semanas
+5 Mes
+6 Año
+7 Según respuesta al
+tratamiento____________
+Numérico
+https://transicioncie11 .sispro.qo 
+v.co/
+https://trans¡cioncie11 .sispro.qo 
+v.co/
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenciaBasica.aspx?Code= 
+IPSCodHabilitacion
+02. Medicamento con registro 
+sanitario
+03. Medicamento vital no 
+disponible
+04. Preparación magistral
+05. Medicamento UNIRS______
+IUM Nivel 1 - Según catálogo 
+que establezca Ministerio de 
+Salud y Protección Social.
+Fórmula de Medicamentos ordenados al egreso de la Urgencias / Atención inmediata (Tecnologías en 
+Salud)
+24J
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenciaBas¡ca.aspx?Code= 
+UMM______________________
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenc¡aBas¡ca.aspx?Code= 
+VAD_______________________
+Numérico
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenciaBasica.aspx?Code= 
+CIE10
+Continuación de la resolución “Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones"
+Fecha de prescripción 
+del medicamento 
+(Tecnología en salud) 
+Dosis ordena del 
+medicamento 
+Cantidad total del 
+medicamento que se 
+prescribió para una 
+sola dosis__________
+Código de la unidad 
+de medida de la dosis
+Nombre
+Diagnóstico de 
+causa básica 
+muerte - CIE-10
+Código del
+diagnóstico de la 
+causa de la muerte 
+CIE-11_____________
+Término del
+diagnóstico de la 
+causa básica de la 
+muerte al egreso CIE - 
+11________________
+Código del prestador 
+a donde se remite
+0 5 AGO DE 2026
+Fecha de prescripción 
+medicamento
+
+RESOLUCIÓN NÚMEf^dO 17 99 0 5 AGO DE 2026 HOJA No. _40
+31.2
+25
+de la
+total
+de
+Código de la unidad 
+de la cantidad total 
+formulada
+Nombre de la unidad 
+de la cantidad total 
+formulada
+Cantidad 
+formulada
+Indicaciones 
+especiales
+Identificador 
+prescripción
+Número 
+repeticiones
+de 
+del
+la 
+del
+Número identificador de la orden 
+médica (prescripción) asociada
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsuitarDetall 
+eReferenciaBasica.aspx?Code= 
+UPR
+Valores permitidos según 
+Resolución 866 de 2021
+1 Minutos
+2 Horas
+3 Día
+4 Semanas
+5 Mes
+6 Año
+7 Según respuesta al
+tratamiento_________________
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenc¡aBasica.aspx?Code= 
+RIPSF¡nalidadConsultaVersion2
+de 
+de 
+del 
+en 
+salud que realizó la 
+________________prescripción________  
+Fórmulas magistrales
+Fecha máxima en que se 
+direcciona para que se realice la 
+entrega al usuario o receptor. 
+https://web.sispro.qov.co/WebP 
+ublico/Consultas/ConsultarDetall
+eReferenc¡aBasica.aspx?Code= 
+UPR
+https://web.sispro.gov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenciaBasica.aspx?Code= 
+EnfermedadHuerfana_________
+https://web.sispro.gov.co/WebP 
+ublico/Consultas/ConsultarDetall 
+eReferenciaBasica.aspx?Code= 
+EnfermedadHuerfana_________
+Según catálogo que establezca 
+Ministerio de Salud y Protección 
+Social.
+Número total de unidades del 
+medicamento que el profesional 
+de salud prescribe para cubrir la 
+duración completa del 
+tratamiento indicado.__________
+Número de repeticiones en las 
+que se espera entregar el 
+medicamento.
+Tipo Documento del 
+talento humano en 
+salud que realizó la 
+prescripción. 
+Número 
+documento 
+identificación 
+talento humano
+Continuación de la resolución “Por medio de la cual se modifica la Resolución 1888 de 2025 en relación con 
+la incorporación del Resumen Digital de Atención —RDA— de dispensación de medicamentos y se dictan 
+otras disposiciones”
+Finalidad de la 
+tecnología en Salud
+Indicaciones y/o 
+recomendaciones 
+para el paciente
+Nombre de la 
+enfermedad huérfana
+Frecuencia de 
+administración 
+medicamento 
+Código de unidad de 
+tiempo
+Instrucciones o
+recomendaciones que el 
+profesional de salud prescriptor 
+dirige al paciente para orientar el 
+uso adecuado, la administración, 
+el almacenamiento o los 
+cuidados relacionados con el 
+medicamento o tecnología en 
+salud prescrita.______________
+https://web.sispro.qov.co/THS/CI 
+iente/ConsultasPublicas/Consult 
+aPublicaDeTHxIdentificacion.as 
+Bx_________________________
+https://web.sispro.qov.co/THS/CI 
+iente/ConsultasPublicas/Consult 
+aPublicaDeTHxIdentificacion.as 
+gx
+Código de la 
+enfermedad huérfana
+Fecha máxima 
+entrega 
+medicamento
