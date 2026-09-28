@@ -31,7 +31,7 @@ _load_env()
 
 GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "")
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
-GEMINI_TIMEOUT = float(os.environ.get("GEMINI_TIMEOUT", "120"))
+GEMINI_TIMEOUT = float(os.environ.get("GEMINI_TIMEOUT", "90"))  # 90s deja 30s de margen antes del timeout de Gunicorn (120s)
 
 # Lista de modelos en orden de preferencia con fallback automático si hay 503 o cuota agotada
 _cand_models = [
@@ -235,6 +235,53 @@ _FOLLOWUP_CALC_WORDS = {
     "totalizar", "total", "diferencia", "resta", "restar", "compara", "comparar",
     "mayor", "menor", "pico", "minimo", "maximo", "tendencia",
 }
+
+# Palabras que indican que la consulta busca texto/párrafos del documento,
+# NO datos numéricos de gráficas. Evitan la activación innecesaria de OCR.
+_TEXT_ONLY_WORDS = {
+    "parrafo", "parrafos", "texto", "literal", "transcribe", "transcripcion",
+    "cita", "citas", "textual", "literalmente", "dice", "escribe", "escrito",
+    "lee", "leer", "leeme", "muestra", "muestrame", "copia", "copiame",
+    "extracto", "fragmento", "fragmentos", "conclusion", "conclusiones",
+    "introduccion", "resumen", "resume", "explica", "explicame", "menciona",
+    "ultimo", "primero", "segundo", "tercero", "primer", "segundo", "tercer",
+    "siguiente", "anterior", "inicio", "final", "principio",
+}
+
+
+def _is_text_only_query(question: str) -> bool:
+    """True si la consulta claramente pide texto/párrafos del documento y NO datos numéricos.
+
+    Permite desactivar OCR en follow-ups de texto puro para evitar timeout en Render.
+    Solo se activa cuando la pregunta no contiene ninguna señal de datos cuantitativos.
+    """
+    if not question:
+        return False
+    tokens = set(_tokenize(question))
+    # Tiene señales de datos → no es solo texto
+    if tokens & set(_DATA_SIGNAL_WORDS):
+        return False
+    # Tiene señales de texto → es consulta textual
+    if tokens & _TEXT_ONLY_WORDS:
+        return True
+    # Patrones de frase comunes para pedir texto literal
+    q = _norm_token(question)
+    text_phrase_patterns = [
+        r"\bultimo\s+parrafo\b",
+        r"\bultimos\s+parrafo\b",
+        r"\bprimer\s+parrafo\b",
+        r"\bdame\s+el\s+texto\b",
+        r"\bel\s+texto\s+(exacto|completo|literal)\b",
+        r"\bque\s+dice\b",
+        r"\bque\s+menciona\b",
+        r"\bpasame\s+el\s+texto\b",
+        r"\btranscribe\b",
+        r"\bcita\s+textual\b",
+    ]
+    for pat in text_phrase_patterns:
+        if re.search(pat, q):
+            return True
+    return False
 
 
 def _is_followup(question: str) -> bool:
@@ -816,8 +863,11 @@ class Assistant:
         active_title, active_source = self._get_active_source(history)
         search_query = self._resolve_query(question, history)
 
-        # En seguimientos o consultas cuantitativas se habilita la lectura profunda de documentos
-        needs_ocr_call = is_followup_q or search_query != question or _needs_ocr(question)
+        # En seguimientos o consultas cuantitativas se habilita la lectura profunda de documentos.
+        # EXCEPCIÓN: si la consulta solo pide texto/párrafos (no datos numéricos), se omite el OCR
+        # para evitar timeout en Render (Gunicorn killer a los 120s).
+        _text_only = _is_text_only_query(question)
+        needs_ocr_call = (not _text_only) and (is_followup_q or search_query != question or _needs_ocr(question))
         results = self.search(search_query, top_n=top_n, enable_ocr=needs_ocr_call)
 
         # ANCLAJE DE DOCUMENTO ACTIVO:
