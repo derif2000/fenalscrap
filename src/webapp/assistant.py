@@ -857,6 +857,12 @@ class Assistant:
 
     def answer(self, question: str, top_n: int = 5, history: list = None) -> dict:
         """Responde a la pregunta devolviendo {respuesta, fuentes, used_ai} manteniendo el ancla documental."""
+        import time as _time
+        # Deadline global de seguridad: 150s desde el inicio de answer()
+        # (Gunicorn timeout = 180s; 30s de margen para overhead de red y respuesta HTTP)
+        _GLOBAL_DEADLINE_S = 150.0
+        _t_start = _time.monotonic()
+
         is_replica = _is_replica_or_correction(question)
         is_followup_q = is_replica or _is_followup(question)
 
@@ -885,6 +891,21 @@ class Assistant:
         local = self._local_answer(question, results)
         prompt = self._build_prompt(question, results, history=history)
 
+        # Calcular tiempo restante para Gemini respetando el deadline global
+        _elapsed = _time.monotonic() - _t_start
+        _remaining_s = _GLOBAL_DEADLINE_S - _elapsed
+        if _remaining_s < 10:
+            # Tiempo insuficiente para llamar a Gemini — responder local directamente
+            import logging as _log
+            _log.getLogger("fenalco.assistant").warning(
+                f"answer(): tiempo agotado antes de llamar a Gemini ({_elapsed:.1f}s elapsed). "
+                "Respondiendo con resultado local."
+            )
+            return {"answer": local, "sources": results, "used_ai": False, "provider": "local (deadline)"}
+
+        # Usar el menor entre el timeout configurado y el tiempo restante (con 5s de buffer)
+        _gemini_timeout_s = min(GEMINI_TIMEOUT, max(10.0, _remaining_s - 5.0))
+
         order = [self.provider] if self.provider else []
         last_error = ""
         self._init_gemini()
@@ -899,7 +920,7 @@ class Assistant:
                             temperature=0.2,
                             max_output_tokens=4500,
                             thinking_config=genai_types.ThinkingConfig(thinking_budget=0),
-                            http_options=genai_types.HttpOptions(timeout=int(GEMINI_TIMEOUT * 1000)),
+                            http_options=genai_types.HttpOptions(timeout=int(_gemini_timeout_s * 1000)),
                         ),
                     )
                     text = (resp.text or "").strip()
