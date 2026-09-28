@@ -553,11 +553,9 @@ class Assistant:
             scored.sort(key=lambda x: -x[0])
             matched_records = scored
 
-        # Si top_n es numérico se corta; si es None, se devuelven TODAS las fuentes que coincidan (con tope de seguridad de 100)
-        if top_n is not None and top_n > 0:
-            results_records = [r for _, r in matched_records[:top_n]]
-        else:
-            results_records = [r for _, r in matched_records[:100]]
+        # Limitar a máximo 5 fuentes (o top_n si se especifica) para no saturar memoria RAM ni cuota de IA
+        effective_top = top_n if (top_n is not None and top_n > 0) else 5
+        results_records = [r for _, r in matched_records[:effective_top]]
 
         # Extraer texto de documentos adjuntos de Google Drive
         from .drive_reader import drive_reader, clean_spaced_name
@@ -654,7 +652,7 @@ class Assistant:
     # --------------------------------------------------------------- RAG
     def _build_prompt(self, question: str, results: list, history: list = None) -> str:
         ctx_lines = []
-        char_budget = 70000
+        char_budget = 24000
         current_chars = 0
 
         for i, r in enumerate(results, 1):
@@ -810,7 +808,7 @@ class Assistant:
 
         return f"{doc_title} {question.strip()}".strip()
 
-    def answer(self, question: str, top_n: int = None, history: list = None) -> dict:
+    def answer(self, question: str, top_n: int = 5, history: list = None) -> dict:
         """Responde a la pregunta devolviendo {respuesta, fuentes, used_ai} manteniendo el ancla documental."""
         is_replica = _is_replica_or_correction(question)
         is_followup_q = is_replica or _is_followup(question)

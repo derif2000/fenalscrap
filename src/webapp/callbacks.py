@@ -362,10 +362,24 @@ def register_callbacks(app, data: FenalcoData):
         try:
             # Pasar historial reciente para que la IA entienda el contexto de la conversación
             result = _assistant.answer(question, history=history[:-1])
+            # Guardar solo la metadata requerida por los botones de la interfaz,
+            # evitando saturar la memoria del servidor y el Store del cliente con textos crudos de PDFs.
+            clean_sources = []
+            for s in (result.get("sources") or []):
+                clean_sources.append({
+                    "url": s.get("url", ""),
+                    "title": s.get("title") or "",
+                    "category": s.get("category") or "",
+                    "publish_date": s.get("publish_date") or "",
+                    "docs_read": s.get("docs_read", 0),
+                    "documents": s.get("documents", [])[:3],
+                    "images": s.get("images", [])[:2],
+                })
+
             history.append({
                 "role": "assistant",
                 "content": result["answer"],
-                "sources": result.get("sources") or [],
+                "sources": clean_sources,
                 "used_ai": bool(result.get("used_ai")),
             })
         except Exception as exc:

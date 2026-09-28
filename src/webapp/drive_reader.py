@@ -628,33 +628,18 @@ class DriveReader:
         doc_id = extract_drive_id(url)
         if doc_id:
             cached = self.get_cached_text(doc_id)
-            if cached is not None:
-                # ¿El caché incluye imágenes/marcas? Un caché con la sección "DATOS
-                # EXTRAÍDOS DE IMÁGENES" pero SIN marcas [[IMG:]] ni imágenes en disco
-                # es antiguo (generado antes de guardar imágenes): hay que re-extraer.
-                has_ocr_section = "DATOS EXTRAÍDOS DE IMÁGENES" in cached
-                has_img_markers = bool(IMAGE_MARKER_RE.search(cached))
-                has_disk_imgs = bool(self._list_saved_doc_images(doc_id))
-                cache_complete = bool(has_img_markers or has_disk_imgs)
-                # Un caché es legacy si tiene OCR antiguo pero no incluye los nuevos marcadores
-                # de páginas '--- [Página X de Y] ---' introducidos en el motor moderno.
-                is_legacy = bool("--- [Página" not in cached and has_ocr_section)
-                if not is_legacy and has_ocr_section and cache_complete:
+            if cached is not None and len(cached.strip()) > 0:
+                # Si el documento ya está en caché, servirlo directamente.
+                # NUNCA borrar la caché ni re-descargar PDFs en entornos de producción / Render
+                # para evitar superar el límite de 512MB de memoria RAM.
+                if not force_ocr:
                     return cached
-
-                # Re-extraer con OCR completo si se pide force_ocr, si el caché está incompleto,
-                # o si es un documento legacy que requiere el nuevo estándar de páginas y deduplicación.
-                need_ocr = force_ocr or (enable_ocr and not cache_complete) or (enable_ocr and is_legacy)
-                if need_ocr:
-                    logger.info(f"Re-extrayendo {doc_id} con nuevo motor de OCR, páginas y deduplicación")
-                    cache_path = self.cache_dir / f"{doc_id}.txt"
-                    try:
-                        cache_path.unlink(missing_ok=True)
-                    except Exception:
-                        pass
-                    self._mem_cache.pop(doc_id, None)
-                else:
-                    return cached
+                cache_path = self.cache_dir / f"{doc_id}.txt"
+                try:
+                    cache_path.unlink(missing_ok=True)
+                except Exception:
+                    pass
+                self._mem_cache.pop(doc_id, None)
         return self.download_and_extract(url, timeout=timeout,
                                          enable_ocr=enable_ocr,
                                          ocr_deadline=ocr_deadline)
