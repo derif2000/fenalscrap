@@ -141,6 +141,7 @@ class IDs:
     CIFRAS_KEYWORDS = "cifras-keywords-input"
     CIFRAS_CRAWL_BTN = "cifras-crawl-btn"
     CIFRAS_CRAWL_STATUS = "cifras-crawl-status"
+    CIFRAS_OCR_TOGGLE = "cifras-ocr-toggle"  # checkbox: incluir análisis OCR de imágenes/gráficas
 
 
 def _metric_row(stats: dict):
@@ -776,6 +777,36 @@ def build_layout(categories: list, stats: dict, ai_status: dict = None):
                         ], id=IDs.CIFRAS_SEARCH_BTN, color="primary", className="w-100 fw-semibold", n_clicks=0),
                     ], xs=12, md=2),
                 ], className="g-2 mb-2 align-items-end"),
+                # Checkbox OCR: desactivado por defecto para proteger la RAM/tiempo en Render.
+                # El usuario lo activa explicitamente cuando quiere buscar en graficas/imagenes.
+                dbc.Row([
+                    dbc.Col([
+                        dbc.Checklist(
+                            id=IDs.CIFRAS_OCR_TOGGLE,
+                            options=[{
+                                "label": html.Span([
+                                    html.I(className="bi bi-image me-1 text-warning"),
+                                    "Incluir análisis de gráficas e imágenes (OCR) ",
+                                    dbc.Badge("más lento", color="warning", text_color="dark",
+                                              className="ms-1 small"),
+                                ]),
+                                "value": "ocr",
+                            }],
+                            value=[],  # desactivado por defecto
+                            switch=True,
+                            className="small",
+                            inputStyle={"cursor": "pointer"},
+                        ),
+                        html.Div(
+                            html.Small([
+                                html.I(className="bi bi-info-circle me-1 text-muted"),
+                                "El OCR analiza imágenes dentro de PDFs con Gemini Vision. "
+                                "Activa solo si buscas datos en tablas o gráficas escaneadas."
+                            ], className="text-muted"),
+                            id="cifras-ocr-info",
+                        ),
+                    ]),
+                ], className="g-2 mb-2"),
                 dbc.Row([
                     dbc.Col([
                         html.Div([

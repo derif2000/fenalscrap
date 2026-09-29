@@ -1045,8 +1045,9 @@ def register_callbacks(app, data: FenalcoData):
         Input(IDs.CIFRAS_PREV, "n_clicks"),
         Input(IDs.CIFRAS_NEXT, "n_clicks"),
         State(IDs.CIFRAS_PAGE, "data"),
+        State(IDs.CIFRAS_OCR_TOGGLE, "value"),
     )
-    def render_cifras_search(is_open, query, keywords_str, search_clicks, origin_filter, prev_clicks, next_clicks, current_page):
+    def render_cifras_search(is_open, query, keywords_str, search_clicks, origin_filter, prev_clicks, next_clicks, current_page, ocr_toggle):
         if not is_open:
             raise dash.exceptions.PreventUpdate
 
@@ -1078,30 +1079,28 @@ def register_callbacks(app, data: FenalcoData):
 
         # Si el usuario especificó palabras clave, ejecutar automáticamente el rastreo inteligente sobre Drive
         kws = [k.strip() for k in (keywords_str or "").split(",") if k.strip()]
+        # OCR: solo si el usuario lo habilitó explicitamente con el toggle
+        _use_ocr = bool(ocr_toggle and "ocr" in ocr_toggle)
         crawl_stats = None
         if kws:
             try:
                 from .smart_cifras_crawler import SmartCifrasCrawler
                 import concurrent.futures as _cf
                 crawler = SmartCifrasCrawler(data)
-                # El crawl se ejecuta en un hilo aparte con timeout de 60s para no bloquear
-                # el worker de Gunicorn y evitar el 502 en Render.
-                # OCR desactivado en el crawl interactivo: los PDFs ya tienen texto digital
-                # en doc_cache; el OCR se aplica solo desde pre_cache_attachments.
                 def _run_crawl():
                     return crawler.crawl_and_inspect(
                         cifra_query=q,
                         keywords=kws,
-                        max_downloads=4,   # máx 4 descargas efímeras (era 8)
-                        enable_ocr=False,  # sin OCR en tiempo real → evita timeout
+                        max_downloads=4,
+                        enable_ocr=_use_ocr,  # OCR solo si el toggle está activo
                     )
                 with _cf.ThreadPoolExecutor(max_workers=1) as _pool:
                     _fut = _pool.submit(_run_crawl)
                     try:
                         crawl_stats = _fut.result(timeout=60)
                     except _cf.TimeoutError:
-                        pass  # Si supera 60s, continúa sin el crawl (no 502)
-            except Exception as e:
+                        pass
+            except Exception:
                 pass
 
         data_res = search_cifras(

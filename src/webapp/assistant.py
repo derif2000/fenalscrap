@@ -869,12 +869,11 @@ class Assistant:
         active_title, active_source = self._get_active_source(history)
         search_query = self._resolve_query(question, history)
 
-        # En seguimientos o consultas cuantitativas se habilita la lectura profunda de documentos.
-        # EXCEPCIÓN: si la consulta solo pide texto/párrafos (no datos numéricos), se omite el OCR
-        # para evitar timeout en Render (Gunicorn killer a los 120s).
-        _text_only = _is_text_only_query(question)
-        needs_ocr_call = (not _text_only) and (is_followup_q or search_query != question or _needs_ocr(question))
-        results = self.search(search_query, top_n=top_n, enable_ocr=needs_ocr_call)
+        # OCR desactivado globalmente para proteger la RAM en Render (512 MB).
+        # El análisis de imágenes/gráficas se activa solo desde el buscador de
+        # cifras con el toggle explícito de la UI.
+        needs_ocr_call = False
+        results = self.search(search_query, top_n=top_n, enable_ocr=False)
 
         # ANCLAJE DE DOCUMENTO ACTIVO:
         # Si venimos de un turno previo y la consulta es un seguimiento o réplica,
