@@ -623,22 +623,29 @@ class DriveReader:
                         text = self.extract_text_from_pdf_bytes(
                             raw_bytes, enable_ocr=enable_ocr, ocr_deadline=ocr_deadline,
                             doc_id=doc_id)
+                        # Liberar bytes del PDF inmediatamente: extract_text_from_pdf_bytes
+                        # ya hizo sus propias copias internas (BytesIO + fitz stream).
+                        # Sin este del, tenemos 3 copias del PDF en RAM = hasta 60 MB.
+                        import gc as _gc2; del raw_bytes; _gc2.collect()
                     elif "text/" in content_type or is_gdoc or is_gsheet:
                         try:
                             text = raw_bytes.decode("utf-8")
                         except UnicodeDecodeError:
                             text = raw_bytes.decode("latin-1", errors="ignore")
+                        del raw_bytes
                     else:
                         # Si parece binario, intentar como PDF
                         if b"%PDF" in raw_bytes[:1024]:
                             text = self.extract_text_from_pdf_bytes(
                                 raw_bytes, enable_ocr=enable_ocr, ocr_deadline=ocr_deadline,
                                 doc_id=doc_id)
+                            import gc as _gc2; del raw_bytes; _gc2.collect()
                         else:
                             try:
                                 text = raw_bytes.decode("utf-8")
                             except Exception:
                                 text = ""
+                            del raw_bytes
 
                     if text and len(text.strip()) > 30:
                         clean = text.strip()
