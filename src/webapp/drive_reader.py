@@ -119,9 +119,9 @@ USER_AGENT = (
 
 import hashlib
 import os
-OCR_TIMEOUT = float(os.environ.get("GEMINI_TIMEOUT", 120))     # segundos máximos por llamada OCR a la API de visión
-MAX_OCR_PAGES = 40    # páginas máximas de un PDF en las que se busca texto/imágenes
-MAX_OCR_IMAGES = 15   # imágenes máximas con OCR por cada PDF (seguro para 512MB RAM)
+OCR_TIMEOUT = float(os.environ.get("GEMINI_TIMEOUT", 120))  # segundos máximos por llamada OCR
+MAX_OCR_PAGES = 20   # páginas máximas: 40 → 20 (reduce RAM pico en Render)
+MAX_OCR_IMAGES = 5   # imágenes máximas con OCR: 15 → 5 (cada PNG ~3-5 MB; 15 = hasta 75 MB de pico)
 
 
 def clean_spaced_name(name: str) -> str:
@@ -418,16 +418,22 @@ class DriveReader:
         if pypdf is None:
             logger.warning("pypdf no está disponible")
             return ""
+
+        # Cap de tamaño: PDFs > 10 MB son demasiado grandes para rasterizar en Render (512 MB RAM).
+        # Se extrae solo el texto digital y se omite el rendering fitz de páginas vectoriales.
+        _pdf_too_large = len(data) > 10_000_000  # 10 MB
+
         try:
+            import gc as _gc
             reader = pypdf.PdfReader(io.BytesIO(data))
             total_pages = len(reader.pages)
             text_parts = []
             ocr_sections = []
 
-            # fitz (PyMuPDF) para gráficos vectoriales si aplica
-            fitz_doc = self._open_fitz(data)
+            # fitz (PyMuPDF) para gráficos vectoriales — solo si el PDF no es demasiado grande
+            fitz_doc = None if _pdf_too_large else self._open_fitz(data)
 
-            # 1. Extraer texto digital página por página (preferir fitz para texto continuo)
+            # 1. Extraer texto digital página por página
             for i, page in enumerate(reader.pages):
                 if i >= MAX_OCR_PAGES:
                     break
@@ -443,6 +449,10 @@ class DriveReader:
                 txt = normalize_vertical_words(txt)
                 if txt:
                     text_parts.append(f"--- [Página {i+1} de {total_pages}] ---\n{txt}")
+
+            # Liberar el reader de pypdf una vez extraído el texto (puede pesar varios MB)
+            del reader
+            _gc.collect()
 
             # 2. Recolectar imágenes candidatas deduplicadas por hash MD5
             raw_candidates = []
@@ -503,7 +513,7 @@ class DriveReader:
                     if len(raw_candidates) >= MAX_OCR_IMAGES:
                         break
 
-            # 3. Procesar OCR en paralelo (hasta 4 hilos) para no superar timeouts
+            # 3. Procesar OCR en paralelo (máx 2 hilos para no duplicar RAM)
             if raw_candidates and (ocr_deadline is None or time.monotonic() <= ocr_deadline):
                 def _do_ocr_task(cand):
                     if ocr_deadline is not None and time.monotonic() > ocr_deadline:
@@ -511,6 +521,8 @@ class DriveReader:
                     src = self._save_doc_image(
                         doc_id or "doc", cand["page_no"], cand["name"], cand["data"], cand["mime"])
                     txt = self._ocr_image(cand["data"], mime=cand["mime"], ocr_deadline=ocr_deadline)
+                    # Liberar bytes de imagen inmediatamente tras OCR
+                    cand["data"] = b""
                     if txt and txt.strip() and "[DECORATIVO]" not in txt.upper():
                         return {
                             "page_no": cand["page_no"],
@@ -532,6 +544,10 @@ class DriveReader:
                                 )
                         except Exception as fut_err:
                             logger.debug(f"Error procesando OCR individual: {fut_err}")
+
+                # Liberar lista de candidatos (bytes de imagen ya vaciados arriba)
+                del raw_candidates
+                _gc.collect()
 
             # Ordenar secciones OCR por número de página
             def _get_page(sec):
