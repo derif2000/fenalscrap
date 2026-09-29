@@ -181,13 +181,18 @@ def extract_drive_id(url: str) -> str:
 class DriveReader:
     """Gestiona la lectura, descarga y almacenamiento en caché de documentos."""
 
+    # Máximo de documentos que se guardan en memoria (LRU simple).
+    # Limita el uso de RAM en Render (512 MB) cuando muchos documentos se consultan.
+    _MEM_CACHE_MAX = 35
+
     def __init__(self, cache_dir: Path = _CACHE_DIR):
         self.cache_dir = cache_dir
         self.cache_dir.mkdir(parents=True, exist_ok=True)
         self.index_file = self.cache_dir / "index.json"
         self._index = self._load_index()
-        # Caché en memoria para evitar accesos repetidos a disco
-        self._mem_cache = {}
+        # Caché en memoria para evitar accesos repetidos a disco.
+        # Usa dict ordenado (Python 3.7+) como LRU simple: el primero insertado es el más antiguo.
+        self._mem_cache: dict = {}
 
     def _load_index(self) -> dict:
         if self.index_file.exists():
@@ -212,6 +217,21 @@ class DriveReader:
         cache_path = self.cache_dir / f"{doc_id}.txt"
         return cache_path.exists() and cache_path.stat().st_size > 0
 
+    def _mem_cache_put(self, doc_id: str, text: str):
+        """Inserta en mem_cache respetando el límite LRU. No almacena textos > 100 KB
+        para no saturar la RAM de Render con PDFs grandes."""
+        if len(text) > 100_000:
+            # Texto demasiado grande: no guardar en RAM, leer siempre de disco
+            return
+        if doc_id in self._mem_cache:
+            # Refrescar posición (mover al final)
+            self._mem_cache.pop(doc_id)
+        elif len(self._mem_cache) >= self._MEM_CACHE_MAX:
+            # Expulsar el más antiguo (el primero)
+            oldest = next(iter(self._mem_cache))
+            del self._mem_cache[oldest]
+        self._mem_cache[doc_id] = text
+
     def get_cached_text(self, doc_id: str) -> str | None:
         """Devuelve el texto en caché si existe."""
         if not doc_id:
@@ -222,7 +242,7 @@ class DriveReader:
         if cache_path.exists():
             try:
                 text = cache_path.read_text(encoding="utf-8")
-                self._mem_cache[doc_id] = text
+                self._mem_cache_put(doc_id, text)
                 return text
             except Exception:
                 pass
@@ -238,7 +258,7 @@ class DriveReader:
         cache_path = self.cache_dir / f"{doc_id}.txt"
         try:
             cache_path.write_text(text, encoding="utf-8")
-            self._mem_cache[doc_id] = text
+            self._mem_cache_put(doc_id, text)  # LRU con límite de tamaño
             meta_entry = {
                 "chars": len(text),
                 "title": (meta or {}).get("filename", ""),
@@ -753,12 +773,19 @@ class DriveReader:
         return len(list(self.cache_dir.glob("*.txt")))
 
     def get_all_cached_texts(self) -> dict:
-        """Devuelve un mapa {doc_id: text} con todos los textos cacheados."""
+        """Devuelve un mapa {doc_id: text} con todos los textos cacheados.
+
+        Lee solo los primeros 150 KB de cada archivo para no saturar la RAM
+        de Render (512 MB) cuando hay muchos documentos grandes.
+        """
         res = {}
+        _MAX_BYTES = 150_000  # 150 KB por documento
         for txt_file in self.cache_dir.glob("*.txt"):
             doc_id = txt_file.stem
             try:
-                res[doc_id] = txt_file.read_text(encoding="utf-8")
+                # Leer solo los primeros 150 KB (los porcentajes suelen estar al inicio)
+                with open(txt_file, "r", encoding="utf-8", errors="ignore") as fh:
+                    res[doc_id] = fh.read(_MAX_BYTES)
             except Exception:
                 pass
         return res

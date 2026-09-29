@@ -925,6 +925,7 @@ class Assistant:
                     )
                     text = (resp.text or "").strip()
                     if text:
+                        import gc as _gc; _gc.collect()  # liberar resp, prompt y bytes PDF
                         return {"answer": text, "sources": results,
                                 "used_ai": True, "provider": f"gemini ({model_name})"}
                 except Exception as e:
@@ -958,6 +959,7 @@ class Assistant:
                         "provider": "local (timeout)", "error": last_error}
 
         # Si no hubo respuesta del endpoint, responder con el análisis de documentos
+        import gc as _gc; _gc.collect()  # liberar prompt, bytes PDF y objetos Gemini
         return {"answer": local, "sources": results, "used_ai": False,
                 "provider": "local"}
 
