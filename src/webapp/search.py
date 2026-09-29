@@ -59,7 +59,8 @@ class FenalcoSearchEngine:
             raw_title = r.get("title", "") or ""
             raw_sub = r.get("subtitle", "") or ""
             raw_cat = r.get("category", "") or ""
-            raw_txt = (r.get("content_text", "") or "")[:15000]
+            # Limitado a 3.000 chars (era 15.000): reduce txt_words sets de ~120MB a ~20MB
+            raw_txt = (r.get("content_text", "") or "")[:3000]
 
             nt = normalize_search_text(raw_title)
             ns = normalize_search_text(raw_sub)
@@ -86,9 +87,9 @@ class FenalcoSearchEngine:
             c_tokens = nc.split()
             cat_words = set(c_tokens)
 
-            txt_tokens = ntxt.split()
-            txt_words = set(txt_tokens)
-            txt_stems = {stem_word(w) for w in txt_tokens}
+            # txt_words y txt_stems se eliminan del índice permanente:
+            # eran sets de ~3.000 palabras x 4.000 registros = ~120MB cada uno.
+            # El scoring de texto de cuerpo usa búsqueda directa en ntxt (substring).
 
             # Nombres de documentos adjuntos / embebidos (Google Drive)
             doc_words = set()
@@ -108,13 +109,13 @@ class FenalcoSearchEngine:
                 if did:
                     doc_ids.append(did)
 
-            # Texto en caché de documentos asociados
+            # Texto en caché de documentos asociados (limitado a 3.000 chars, era 8.000)
             cached_doc_words = set()
             cached_doc_stems = set()
             for did in doc_ids:
                 cd_text = cached_texts.get(did)
                 if cd_text:
-                    ncdt = normalize_search_text(cd_text[:8000])
+                    ncdt = normalize_search_text(cd_text[:3000])
                     for cdw in ncdt.split():
                         cached_doc_words.add(cdw)
                         cached_doc_stems.add(stem_word(cdw))
@@ -127,15 +128,13 @@ class FenalcoSearchEngine:
                 "ns": f" {ns} ",
                 "nc": f" {nc} ",
                 "nu": nu,
-                "ntxt": ntxt,
+                "ntxt": ntxt,  # solo para búsqueda de substring; no se guardan sets
                 "title_words": title_words,
                 "title_stems": title_stems,
                 "title_numbers": title_numbers,
                 "sub_words": sub_words,
                 "sub_stems": sub_stems,
                 "cat_words": cat_words,
-                "txt_words": txt_words,
-                "txt_stems": txt_stems,
                 "doc_words": doc_words,
                 "doc_stems": doc_stems,
                 "doc_ids": doc_ids,
@@ -267,15 +266,16 @@ class FenalcoSearchEngine:
                         content_hits += 1
                         continue
 
-                    # Texto
-                    if t in item["txt_words"]:
+                    # Texto del cuerpo del artículo: búsqueda directa en ntxt (sin sets)
+                    t_in_ntxt = f" {t} " in item["ntxt"] or t in item["ntxt"]
+                    st_in_ntxt = f" {stem_word(t)} " in item["ntxt"]
+                    if t_in_ntxt:
                         score += 6.0
                         content_hits += 1
-                    elif st in item["txt_stems"]:
+                    elif st_in_ntxt:
                         score += 5.0
                         content_hits += 1
-                    elif is_num and (stripped_num in item["txt_words"]
-                                     or zfilled_num in item["txt_words"]):
+                    elif is_num and (stripped_num in item["ntxt"] or zfilled_num in item["ntxt"]):
                         score += 6.0
                         content_hits += 1
 
