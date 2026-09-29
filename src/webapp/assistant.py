@@ -31,7 +31,7 @@ _load_env()
 
 GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "")
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
-GEMINI_TIMEOUT = float(os.environ.get("GEMINI_TIMEOUT", "90"))  # 90s deja 30s de margen antes del timeout de Gunicorn (120s)
+GEMINI_TIMEOUT = float(os.environ.get("GEMINI_TIMEOUT", "120"))  # 120s; gunicorn.conf.py tiene timeout=300s → margen amplio
 
 # Lista de modelos en orden de preferencia con fallback automático si hay 503 o cuota agotada
 _cand_models = [
@@ -858,9 +858,9 @@ class Assistant:
     def answer(self, question: str, top_n: int = 5, history: list = None) -> dict:
         """Responde a la pregunta devolviendo {respuesta, fuentes, used_ai} manteniendo el ancla documental."""
         import time as _time
-        # Deadline global de seguridad: 150s desde el inicio de answer()
-        # (Gunicorn timeout = 180s; 30s de margen para overhead de red y respuesta HTTP)
-        _GLOBAL_DEADLINE_S = 150.0
+        # Deadline global de seguridad: 240s desde el inicio de answer()
+        # (gunicorn.conf.py timeout = 300s; 60s de margen para overhead de red y respuesta HTTP)
+        _GLOBAL_DEADLINE_S = 240.0
         _t_start = _time.monotonic()
 
         is_replica = _is_replica_or_correction(question)
